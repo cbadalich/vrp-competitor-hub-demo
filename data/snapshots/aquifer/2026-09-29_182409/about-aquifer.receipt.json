@@ -1,0 +1,15 @@
+{
+  "competitor": "Aquifer",
+  "requested_url": "https://aquifer.org/about-aquifer/",
+  "fetched_at": "2026-09-29T18:32:16-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://aquifer.org/about-aquifer",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "About Aquifer",
+  "meta_description": "Aquifer is the leading AI-powered learning platform that helps students in the health professions master clinical reasoning through realistic virtual patient cases.",
+  "html_bytes": 158820,
+  "text_characters": 4043
+}

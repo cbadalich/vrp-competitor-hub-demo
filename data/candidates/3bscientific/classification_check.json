@@ -1,0 +1,28 @@
+{
+  "checked_at": "2026-10-14T11:24:43-06:00",
+  "proposed": "Unclear",
+  "problems": [],
+  "results": [
+    {
+      "page": "home",
+      "quote": "Hyper-realistic, culturally diverse simulation manikins that elevate fidelity and inclusivity in clinical education and scenario-based training.",
+      "source_url": "https://www.3bscientific.com/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "home",
+      "quote": "Immersive VR-based healthcare simulation environments for advanced, scenario-driven clinical training at scale.",
+      "source_url": "https://www.3bscientific.com/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "us_immersive-interactive,imm.html",
+      "quote": "Using high-quality projection, responsive software, and multi-sensory integration, these rooms allow users to experience everything from medical emergencies to early childhood adventures in fully interactive, 360° environments.",
+      "source_url": "https://www.3bscientific.com/us/immersive-interactive,imm.html",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "competitor": "Nasco Healthcare",
+  "requested_url": "https://nascohealthcare.com/products/our-leading-products/",
+  "fetched_at": "2026-09-29T18:55:01-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://shop.nascohealthcare.com/#section-template--15234389901367__collection_list_TMafzB",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "Nasco Healthcare",
+  "meta_description": "Nasco Healthcare is home of over 4000 products from in-hospital care to casualty and rescue/extrication scenarios, our products prepare frontline healthcare workers to Be READY to deliver the care required to improve patient outcomes and save lives.",
+  "html_bytes": 272969,
+  "text_characters": 4627
+}

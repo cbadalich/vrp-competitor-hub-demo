@@ -1,0 +1,15 @@
+{
+  "competitor": "Oxford Medical Simulation",
+  "requested_url": "https://oxfordmedicalsimulation.com/company/",
+  "fetched_at": "2026-09-29T18:44:04-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://oxfordmedicalsimulation.com/company/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "Company - Oxford Medical Simulation",
+  "meta_description": "Explore how OMS empowers clinicians to gain confidence and competence for real-world practice and meet the team that makes it happen.",
+  "html_bytes": 404456,
+  "text_characters": 5580
+}

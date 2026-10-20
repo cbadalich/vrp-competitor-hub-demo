@@ -1,0 +1,15 @@
+{
+  "competitor": "Labster",
+  "requested_url": "https://www.labster.com/",
+  "fetched_at": "2026-10-14T10:12:29-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.labster.com/",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "Labster | Virtual Labs That Improve STEM Outcomes",
+  "meta_description": "Higher education STEM programs use Labster to replace passive learning with hands-on virtual labs that improve retention, scale online courses, and prove outcomes. Request a demo.",
+  "html_bytes": 232697,
+  "text_characters": 8764
+}

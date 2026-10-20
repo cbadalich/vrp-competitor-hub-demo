@@ -1,0 +1,28 @@
+{
+  "checked_at": "2026-10-14T11:24:43-06:00",
+  "proposed": "Unclear",
+  "problems": [],
+  "results": [
+    {
+      "page": "xvr_sectors_ambulance",
+      "quote": "We work with Ambulance Services & Health Academies to support continuous learning.",
+      "source_url": "https://learnprogroup.com/xvr/sectors/ambulance/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "xvr_sectors_ambulance",
+      "quote": "Mass casualty incidents and triage exercises",
+      "source_url": "https://learnprogroup.com/xvr/sectors/ambulance/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "xvr_what-is-vr-training",
+      "quote": "Uses VR head‑mounted displays for team‑based reconnaissance and hazard assessment",
+      "source_url": "https://learnprogroup.com/xvr/what-is-vr-training/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    }
+  ]
+}

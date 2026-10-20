@@ -1,0 +1,237 @@
+{
+  "record": "data/records/oramavr/2026-10-14_094745.json",
+  "checked_at": "2026-10-15T18:59:31-06:00",
+  "results": {
+    "product_category": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "platform",
+          "source_url": "https://oramavr.com/platform",
+          "quote": "ORamaVR Platform is the end-to-end platform for computational medical XR, covering simulation authoring, AI proctoring, VR training delivery, and performance analytics.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://oramavr.com/",
+          "quote": "The leading Medical XR Training Platform",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "about",
+          "source_url": "https://oramavr.com/about",
+          "quote": "ORamaVR is a medical XR company headquartered in Geneva, Switzerland.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "platforms": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://oramavr.com/",
+          "quote": "Deploy to any headset, anywhere",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "platform",
+          "source_url": "https://oramavr.com/platform",
+          "quote": "covering simulation authoring, AI proctoring, VR training delivery, and performance analytics.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "key_capabilities": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "platform",
+          "source_url": "https://oramavr.com/platform",
+          "quote": "Professional authoring toolkit for teams that want full creative control and 100% IP ownership.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://oramavr.com/",
+          "quote": "Our clinical engineers deliver a validated, regulation-ready simulation from your training documents.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://oramavr.com/",
+          "quote": "Clinically validated medical XR simulations, ready to deploy on day 1. License only the titles you need.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://oramavr.com/",
+          "quote": "The cloud runtime for every simulation. Multiplayer, JARIA, recordings, analytics, in one dashboard.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "platform",
+          "source_url": "https://oramavr.com/platform",
+          "quote": "Upload your protocol, JARIA learns your procedure, not a generic one.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "platform",
+          "source_url": "https://oramavr.com/platform",
+          "quote": "Procedural feedback at every step. No human proctor needed in the room.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://oramavr.com/",
+          "quote": "AI-guided sessions, real-time competency logging, full analytics delivered automatically.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://oramavr.com/",
+          "quote": "Multi-site tracking and competency certification from one dashboard",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://oramavr.com/",
+          "quote": "Deploy to any headset, anywhere",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "target_customer": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://oramavr.com/",
+          "quote": "training possible, for device companies, simulation centers, and hospitals worldwide.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://oramavr.com/",
+          "quote": "For medical device & MedTech companies\nScale surgeon training.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://oramavr.com/",
+          "quote": "For simulation centers & hospitals\nRun training 24/7.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "value_proposition": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://oramavr.com/",
+          "quote": "Build, host, and scale clinically validated medical XR simulations.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://oramavr.com/",
+          "quote": "Run training 24/7.\nWithout a proctor in the room.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://oramavr.com/",
+          "quote": "Scale surgeon training.\nWithout adding headcount.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://oramavr.com/",
+          "quote": "43%\nError reduction",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "tagline": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://oramavr.com/",
+          "quote": "No patient should be\nanyone's first.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "about",
+          "source_url": "https://oramavr.com/about",
+          "quote": "no patient should be anyone\u2019s first.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "pricing": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://oramavr.com/",
+          "quote": "Self-serve plans from \u20ac159/month.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://oramavr.com/",
+          "quote": "registered users per CCU plan",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://oramavr.com/",
+          "quote": "License only the titles you need.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    }
+  }
+}

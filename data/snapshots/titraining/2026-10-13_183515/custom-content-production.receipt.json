@@ -1,0 +1,15 @@
+{
+  "competitor": "TI Training",
+  "requested_url": "https://titraining.com/custom-content-production/",
+  "fetched_at": "2026-10-13T18:38:13-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://titraining.com/custom-content-production/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "Custom Video Training Scenarios | Ti Training Productions",
+  "meta_description": "Create immersive, custom video training scenarios for law enforcement and military simulation. Boost preparedness with Ti Training's production crew.",
+  "html_bytes": 429695,
+  "text_characters": 6350
+}

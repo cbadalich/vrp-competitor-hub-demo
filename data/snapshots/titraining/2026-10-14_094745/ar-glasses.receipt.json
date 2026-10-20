@@ -1,0 +1,15 @@
+{
+  "competitor": "TI Training",
+  "requested_url": "https://titraining.com/ar-glasses/",
+  "fetched_at": "2026-10-14T09:50:34-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://titraining.com/ar-glasses/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "Tactical AR Glasses for Law Enforcement & Combat Training",
+  "meta_description": "Enhance situational awareness with Ti Training\u2019s AR glasses. Overlay 3D digital scenarios onto the real world for immersive, wire-free simulation training.",
+  "html_bytes": 259294,
+  "text_characters": 5558
+}

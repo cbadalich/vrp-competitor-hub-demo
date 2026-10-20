@@ -1,0 +1,166 @@
+/*
+  GENERATED FILE. DO NOT EDIT.
+  Source: final/brand-tokens.json
+  Regenerate: node system/build-brand-tokens.js
+  Brand guide: Figma "VRp Brand Guide" file fnrOyCuNJgQjpNE816Ccs9 node 149:6721
+  Tokens version 1.6.0, updated 2026-09-28
+*/
+
+:root {
+  /* Primary palette */
+  --onset: #060D24;       /* Primary Dark */
+  --onset-rgb: 6, 13, 36;
+  --onset-10: #E6E7E9;
+  --onset-20: #CDCFD3;
+  --onset-30: #B4B6BD;
+  --onset-40: #9B9EA7;
+  --onset-50: #838692;
+  --onset-60: #6A6E7C;
+  --onset-70: #515666;
+  --onset-80: #383D50;
+  --onset-90: #1F253A;
+  --intervene: #0052CC;   /* Primary Blue */
+  --intervene-rgb: 0, 82, 204;
+  --intervene-10: #E6EEFA;
+  --intervene-20: #CCDCF5;
+  --intervene-30: #B3CBF0;
+  --intervene-40: #99BAEB;
+  --intervene-50: #80A9E6;
+  --intervene-60: #6697E0;
+  --intervene-70: #4D86DB;
+  --intervene-80: #3375D6;
+  --intervene-90: #1A63D1;
+  --stable: #76B900;      /* Primary Green */
+  --stable-rgb: 118, 185, 0;
+  --stable-10: #F1F8E6;
+  --stable-20: #E4F1CC;
+  --stable-30: #D6EAB3;
+  --stable-40: #C8E399;
+  --stable-50: #BBDC80;
+  --stable-60: #ADD566;
+  --stable-70: #9FCE4D;
+  --stable-80: #91C733;
+  --stable-90: #84C01A;
+  --stable-deep: #4F7D0D;
+  --drape: #A8CDDF;       /* Secondary Blue */
+  --drape-rgb: 168, 205, 223;
+  --drape-10: #F6FAFC;
+  --drape-20: #EEF5F9;
+  --drape-30: #E5F0F5;
+  --drape-40: #DCEBF2;
+  --drape-50: #D4E6EF;
+  --drape-60: #CBE1EC;
+  --drape-70: #C2DCE9;
+  --drape-80: #B9D7E5;
+  --drape-90: #B1D2E2;
+  --sterile: #E4EEF6;     /* Secondary Light */
+  --sterile-rgb: 228, 238, 246;
+  --sterile-10: #FCFDFE;
+  --sterile-20: #FAFCFD;
+  --sterile-30: #F7FAFC;
+  --sterile-40: #F4F8FB;
+  --sterile-50: #F2F7FB;
+  --sterile-60: #EFF5FA;
+  --sterile-70: #ECF3F9;
+  --sterile-80: #E9F1F8;
+  --sterile-90: #E7F0F7;
+  --bay: #FFFFFF;         /* Primary Light */
+  --bay-rgb: 255, 255, 255;
+
+  /* Status */
+  --status-success: #76B900;
+  --status-warning: #F5A623;
+  --status-error: #FA4D56;
+
+  /* Tertiary, scenario logic builder */
+  --logic-action: #4589FF;
+  --logic-check: #8A3FFC;
+  --logic-effect: #08BDBA;
+  --logic-timer: #6F6F6F;
+  --logic-group: #495068;
+  --logic-comment: #FBEFA5;
+
+  /* Type */
+  --font-primary: "IBM Plex Sans", "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font-accent: "Covered By Your Grace", cursive;
+  --size-h1: 44px;
+  --weight-h1: 700;
+  --leading-h1: 1.2;
+  --size-h2: 36px;
+  --weight-h2: 700;
+  --leading-h2: 1.25;
+  --size-h3: 28px;
+  --weight-h3: 600;
+  --leading-h3: 1.28572;
+  --size-subhead: 22px;
+  --weight-subhead: 500;
+  --leading-subhead: 1.4;
+  --size-body: 16px;
+  --weight-body: 400;
+  --leading-body: 1.5;
+  --size-bodySmall: 14px;
+  --weight-bodySmall: 400;
+  --leading-bodySmall: 1.42857;
+  --tracking-bodySmall: 0.16px;
+  --size-caption: 12px;
+  --weight-caption: 400;
+  --leading-caption: 1.33333;
+  --tracking-caption: 0.32px;
+  --size-accent: 22px;
+  --weight-accent: 400;
+  --leading-accent: 1.4;
+
+  /* Spacing (IBM Carbon @carbon/layout) */
+  --space-10: 4rem;       /* 64px */
+  --space-11: 5rem;       /* 80px */
+  --space-12: 6rem;       /* 96px */
+  --space-13: 10rem;      /* 160px */
+  --space-01: 0.125rem;   /* 2px */
+  --space-02: 0.25rem;    /* 4px */
+  --space-03: 0.5rem;     /* 8px */
+  --space-04: 0.75rem;    /* 12px */
+  --space-05: 1rem;       /* 16px */
+  --space-06: 1.5rem;     /* 24px */
+  --space-07: 2rem;       /* 32px */
+  --space-08: 2.5rem;     /* 40px */
+  --space-09: 3rem;       /* 48px */
+
+  /* Corner radius. Adopted 2026-08-23; --radius is the default. */
+  --radius-xs: 4px;     /* code chips, tags */
+  --radius-sm: 8px;     /* small elements, inputs, callouts. The default. */
+  --radius-md: 12px;    /* cards, panels. The most-used step in the corpus. */
+  --radius-lg: 16px;    /* hero blocks */
+  --radius-pill: 999px;   /* pills, badges. The single most frequent value in the corpus. */
+  --radius-circle: 50%;     /* avatars, dots */
+  --radius: var(--radius-sm);   /* the default */
+
+  /* Grid */
+  --grid-gutter: 32px;
+  --bp-sm: 320px;
+  --bp-md: 672px;
+  --bp-lg: 1056px;
+  --bp-xlg: 1312px;
+  --bp-max: 1584px;
+
+  /* Mesh veils: one colour (Onset), several alphas. See color.gradient.veils. */
+  --veil-horizontal: linear-gradient(90deg, rgba(6, 13, 36, 1) 0%, rgba(6, 13, 36, 1) 40%, rgba(6, 13, 36, 0.5) 70%, rgba(6, 13, 36, 0) 100%);
+  --veil-vertical: linear-gradient(180deg, rgba(6, 13, 36, 1) 0%, rgba(6, 13, 36, 0.5) 62%, rgba(6, 13, 36, 1) 100%);
+  --veil-still: linear-gradient(90deg, rgba(6, 13, 36, 1) 0%, rgba(6, 13, 36, 1) 30%, rgba(6, 13, 36, 0.8) 45%, rgba(6, 13, 36, 0.5) 60%, rgba(6, 13, 36, 0.22) 78%, rgba(6, 13, 36, 0) 100%);
+}
+
+/* Custom properties do not work inside @media. Use these literals. */
+/* @media (min-width: 320px) { }   sm: 4 columns, 0px margin */
+/* @media (min-width: 672px) { }   md: 8 columns, 16px margin */
+/* @media (min-width: 1056px) { }   lg: 16 columns, 16px margin */
+/* @media (min-width: 1312px) { }   xlg: 16 columns, 16px margin */
+/* @media (min-width: 1584px) { }   max: 16 columns, 24px margin */
+
+/* Onset base 60%, Intervene accent 30%, Stable pop 10%. No other colors, no freehand gradients. */
+/* The mesh gradient cannot be expressed in CSS. Living surfaces: use the
+   gradient module (brand/visual-direction/gradient-module/). Static surfaces:
+   embed a frozen frame rendered by the module. .vrp-mesh below is only the
+   sanctioned no-WebGL fallback (flat Onset), and the correct ground for any
+   surface that carries text. Do not hand-build gradients from the stops. */
+.vrp-mesh {
+  background-color: #060D24;
+}

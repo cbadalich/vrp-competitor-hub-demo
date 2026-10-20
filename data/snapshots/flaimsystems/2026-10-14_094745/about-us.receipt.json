@@ -1,0 +1,15 @@
+{
+  "competitor": "FLAIM Systems",
+  "requested_url": "https://www.flaimsystems.com/about-us/",
+  "fetched_at": "2026-10-14T09:49:19-06:00",
+  "ok": true,
+  "robots": "no robots.txt (HTTP 500); allowed by default",
+  "http_status": 200,
+  "final_url": "https://www.flaimsystems.com/about-us",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "About us | Flaim",
+  "meta_description": "",
+  "html_bytes": 61612,
+  "text_characters": 7174
+}

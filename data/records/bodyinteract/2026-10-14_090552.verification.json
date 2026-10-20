@@ -1,0 +1,159 @@
+{
+  "record": "data/records/bodyinteract/2026-10-14_090552.json",
+  "checked_at": "2026-10-14T09:09:57-06:00",
+  "results": {
+    "product_category": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://bodyinteract.com/",
+          "quote": "SCREEN-BASED SIMULATION\nBody Interact Virtual Patients",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://bodyinteract.com/",
+          "quote": "Body Interact is the world\u2019s leading virtual virtual patient simulator for teaching and assessing clinical reasoning and decision-making.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "platforms": {
+      "status": "unclear",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://bodyinteract.com/",
+          "quote": "Log in\nWeb App\nApp Store\nGoogle Play\nWindows App",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "key_capabilities": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://bodyinteract.com/",
+          "quote": "Engage with virtual patients that breathe, speak, and react in real time.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://bodyinteract.com/",
+          "quote": "New: AI-Driven Conversations\nAsk naturally. Think clinically.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://bodyinteract.com/",
+          "quote": "brings clinical decisions, natural patient communication, and adaptive physiology together in one immersive virtual patient experience",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://bodyinteract.com/",
+          "quote": "Our virtual patients range from 6 months to 99 years old and respond dynamically to students\u2019 decisions.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://bodyinteract.com/",
+          "quote": "Scenarios provide in-depth student feedback and competency data across communication, assessment, and patient management.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://bodyinteract.com/",
+          "quote": "Designed for Educators\nMeasure competence. Debrief with clarity.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://bodyinteract.com/",
+          "quote": "Curriculum-aligned Scenarios",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "target_customer": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://bodyinteract.com/",
+          "quote": "Medicine\nMD, DO\nPhysician Assistant / Associate (PA)\nNursingLPN, LVN, RN, NP\nHigh School and CTEHealth Science and Health CTE programs\nEMSEMT, Param\u00e9dicos",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://bodyinteract.com/",
+          "quote": "From Nursing and Medicine to High School Health Science, explore how universities and schools integrate Body Interact",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "value_proposition": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://bodyinteract.com/",
+          "quote": "Body Interact - Virtual Patient Simulator fosters current and future healthcare professionals to improve critical thinking and decision-making skills.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://bodyinteract.com/",
+          "quote": "Virtual Patient Simulation\nAs close to real life as it gets.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "tagline": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://bodyinteract.com/",
+          "quote": "Real Programs. Real Results.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "pricing": {
+      "status": "not_found",
+      "result": "not_found",
+      "problems": [],
+      "evidence": []
+    }
+  }
+}

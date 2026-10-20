@@ -1,0 +1,15 @@
+{
+  "competitor": "MedVision",
+  "requested_url": "https://www.medvisionsim.com/simulators/female-medical-manikin-lisa/",
+  "fetched_at": "2026-09-29T18:40:37-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://medvisionsim.com/simulators/female-medical-manikin-lisa",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "Female Medical Manikin and Patient Simulator for Training \u2014 Lisa",
+  "meta_description": "Explore female medical manikins and patient simulators designed for training and simulation. Perfect for medical professionals to enhance skills and improve patient care practices.",
+  "html_bytes": 182512,
+  "text_characters": 9897
+}

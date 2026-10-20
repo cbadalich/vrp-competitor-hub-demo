@@ -1,0 +1,15 @@
+{
+  "competitor": "Laerdal Medical",
+  "requested_url": "https://laerdal.com/",
+  "fetched_at": "2026-09-29T18:53:05-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.laerdal.com/us/",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "Welcome to Laerdal Medical \u2013 Helping Save Lives | Laerdal Medical",
+  "meta_description": "Laerdal Medical is a world leading provider of training, educational and therapy products for lifesaving and emergency medical care.",
+  "html_bytes": 520485,
+  "text_characters": 7176
+}

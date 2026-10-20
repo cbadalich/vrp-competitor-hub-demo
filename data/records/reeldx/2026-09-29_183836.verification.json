@@ -1,0 +1,209 @@
+{
+  "record": "data/records/reeldx/2026-09-29_183836.json",
+  "checked_at": "2026-10-13T18:27:47-06:00",
+  "results": {
+    "product_category": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "about",
+          "source_url": "https://www.reeldx.com/about",
+          "quote": "Leading clinical education platform with real patient video cases for nursing, PA, and EMS programs.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "about",
+          "source_url": "https://www.reeldx.com/about",
+          "quote": "Over the past decade, ReelDx has evolved from being the Netflix of patient-provider interactions - with over 700 cases - to a robust learning platform.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "platforms": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.reeldx.com/",
+          "quote": "Our 700+ real patient cases can be used in-person or online, synchronously or asynchronously.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.reeldx.com/",
+          "quote": "ReelDx brings the clinic right to your device.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "key_capabilities": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.reeldx.com/",
+          "quote": "Our cases cover 1,000+ symptoms and conditions and include vitals & demographics, differential diagnosis patient workup, and more.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.reeldx.com/",
+          "quote": "Our library of 700+ real patient cases are HIPAA-compliant, peer-reviewed, and searchable by symptoms, specialty, location, demographics, and more.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.reeldx.com/",
+          "quote": "Every patient - or their parent/guardian - has given full consent.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.reeldx.com/",
+          "quote": "Faculty can assign - and grade - student assignments, including SOAP Notes, SBAR, Vital Sign Interpretation, and Differential Diagnosis.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "skills",
+          "source_url": "https://www.reeldx.com/skills",
+          "quote": "Design your own question or assessment for your students",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "skills",
+          "source_url": "https://www.reeldx.com/skills",
+          "quote": "Faculty can even grade the submissions right in the platform to allow students to make progress asynchronously.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.reeldx.com/",
+          "quote": "Assign individual cases or add them to a custom course to help our cases fit into your curriculum.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.reeldx.com/",
+          "quote": "Our courses are aligned to prominent curricula in the nursing, PA, EMS, and medical worlds.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "about",
+          "source_url": "https://www.reeldx.com/about",
+          "quote": "The ReelDx platform introduces LMS integration with Canvas and Blackboard.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "target_customer": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "about",
+          "source_url": "https://www.reeldx.com/about",
+          "quote": "ReelDx has partnered with organizations in the fields of nursing education, physician assistant program, and EMS training to create a more robust learning experience for students.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.reeldx.com/",
+          "quote": "Institutions Use ReelDx",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.reeldx.com/",
+          "quote": "Students learn from real patients to better prepare them for their exams, clinical rotations, and health care careers.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "value_proposition": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.reeldx.com/",
+          "quote": "With access to real patient video cases on-demand, students can start clinical training immediately.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.reeldx.com/",
+          "quote": "Real Patients. Real Skills. No Clinic Necessary.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.reeldx.com/",
+          "quote": "Students learn from real patients to better prepare them for their exams, clinical rotations, and health care careers.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "tagline": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.reeldx.com/",
+          "quote": "Improve Clinical Training with Real Patient Cases. Anytime, Anywhere.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "pricing": {
+      "status": "unclear",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.reeldx.com/",
+          "quote": "30-day access to our full case library, including InSitu.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.reeldx.com/",
+          "quote": "For EducatorsFor StudentsPublic CasesPricing",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    }
+  }
+}

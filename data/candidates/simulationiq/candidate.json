@@ -1,0 +1,64 @@
+{
+  "slug": "simulationiq",
+  "name": "SIMULATIONiQ",
+  "website": "https://www.simulationiq.com/",
+  "domain": "simulationiq.com",
+  "aliases": [],
+  "status": "rejected",
+  "first_seen": "2026-09-29T17:38:48-06:00",
+  "last_seen": "2026-09-29T17:38:48-06:00",
+  "sightings": [
+    {
+      "source": "earlier research list",
+      "query": "\"Simulation IQ\" official website",
+      "url": "https://cepp.simulationiq.com/",
+      "snippet": "As a pioneer of simulation-based solutions for healthcare training environments,",
+      "website_from": "search summary",
+      "found_at": "2026-09-29T17:38:48-06:00"
+    }
+  ],
+  "possible_duplicate_of": [
+    "XVR Simulation"
+  ],
+  "snapshot": "data/candidates/simulationiq/snapshots/2026-09-29_173848",
+  "extra_pages": [],
+  "signals": {
+    "healthcare_training": [
+      "nursing",
+      "EMS",
+      "healthcare simulation",
+      "healthcare training",
+      "simulation center"
+    ],
+    "simulation": [
+      "simulation"
+    ],
+    "public_safety": [
+      "public safety"
+    ]
+  },
+  "suggested_pages": [],
+  "classification": {
+    "proposed": "Not Relevant",
+    "by": "Claude Code session, model claude-opus-5-5",
+    "at": "2026-09-29T17:48:00-06:00",
+    "snapshot": "data/candidates/simulationiq/snapshots/2026-09-29_173848",
+    "reason": "SIMULATIONiQ (Education Management Solutions) sells audio-video capture, debrief and management software for healthcare simulation programs; the saved page shows no training content or simulator of its own.",
+    "evidence": [
+      {
+        "page": "home",
+        "quote": "All-in-one AV capture & debrief solution (iOS & Android) for running simulation anytime & anywhere."
+      },
+      {
+        "page": "home",
+        "quote": "suite of simulation training solutions are purposely built to help you enhance your student’s learning outcomes through advanced audio/video capture, management, and progression tracking technologies."
+      }
+    ]
+  },
+  "review": {
+    "decision": "rejected",
+    "at": "2026-09-29T18:19:20-06:00",
+    "reason": "management software not competitor"
+  },
+  "name_on_site": true
+}

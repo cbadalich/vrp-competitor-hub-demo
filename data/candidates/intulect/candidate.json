@@ -1,0 +1,82 @@
+{
+  "slug": "intulect",
+  "name": "Intulect",
+  "website": "https://intulect.com/",
+  "domain": "intulect.com",
+  "aliases": [],
+  "status": "approved",
+  "first_seen": "2026-10-13T18:13:35-06:00",
+  "last_seen": "2026-10-13T18:13:35-06:00",
+  "sightings": [
+    {
+      "source": "earlier research list",
+      "query": "",
+      "url": "",
+      "snippet": "",
+      "website_from": "earlier research list",
+      "found_at": "2026-10-13T18:13:35-06:00"
+    }
+  ],
+  "possible_duplicate_of": [],
+  "snapshot": "data/candidates/intulect/snapshots/2026-10-13_181403",
+  "extra_pages": [
+    "https://intulect.com/pages/simulations/",
+    "https://intulect.com/pages/about/"
+  ],
+  "signals": {
+    "healthcare_training": [
+      "nursing",
+      "nurse",
+      "nurses"
+    ],
+    "headset": [
+      "virtual reality",
+      "VR",
+      "headset"
+    ],
+    "simulation": [
+      "simulation",
+      "simulations",
+      "manikin",
+      "training platform"
+    ]
+  },
+  "suggested_pages": [
+    "https://intulect.com/pages/simulations/",
+    "https://intulect.com/pages/about/"
+  ],
+  "classification": {
+    "proposed": "1st Degree",
+    "by": "Claude Code session, model claude-opus-5-5",
+    "at": "2026-10-13T18:30:00-06:00",
+    "snapshot": "data/candidates/intulect/snapshots/2026-10-13_181403",
+    "reason": "Intulect's Facilitator-Free Simulation trains nursing students and nurses, and its VR mode is hands-on practice with AI patients (also available on PC), so it is interactive headset training of healthcare workers.",
+    "evidence": [
+      {
+        "page": "home",
+        "quote": "Intulect helps nursing schools & healthcare systems deliver education & clinical practice at scale."
+      },
+      {
+        "page": "pages_simulations",
+        "quote": "Intulect can be used in either VR where you do everything hands-on"
+      },
+      {
+        "page": "pages_simulations",
+        "quote": "Whether you are in a VR headset or a computer, you get the same realism, making real clinical decisions without being directed by a menu."
+      }
+    ]
+  },
+  "review": {
+    "decision": "approved",
+    "type": "1st Degree",
+    "at": "2026-10-13T18:19:02-06:00",
+    "reason": "",
+    "tracked_slug": "intulect",
+    "pages": [
+      "https://intulect.com/",
+      "https://intulect.com/pages/simulations/",
+      "https://intulect.com/pages/about/"
+    ]
+  },
+  "name_on_site": true
+}

@@ -1,0 +1,15 @@
+{
+  "competitor": "SimX",
+  "requested_url": "https://www.simxvr.com/",
+  "fetched_at": "2026-09-22T16:08:33-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.simxvr.com/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "Virtual Reality Medical Simulation | SimX",
+  "meta_description": "SimX is the world's leading VR medical simulation training platform of patient simulators for nurses, physicians, first responders, and more.",
+  "html_bytes": 109730,
+  "text_characters": 8954
+}

@@ -1,0 +1,21 @@
+{
+  "checked_at": "2026-10-14T11:24:43-06:00",
+  "proposed": "3rd Degree",
+  "problems": [],
+  "results": [
+    {
+      "page": "home",
+      "quote": "InVeris is the leading supplier of integrated live fire and virtual reality weapons training for public safety, military and shooting ranges.",
+      "source_url": "https://www.inveristraining.com/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "virtual-training_military-virtual-tactical-small-arms-training-marksmanship_fats-vr-2",
+      "quote": "Today, InVeris is the world’s leading provider of technology-driven VR and AR training solutions for the military.",
+      "source_url": "https://www.inveristraining.com/virtual-training/military-virtual-tactical-small-arms-training-marksmanship/fats-vr-2/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+# Saved copies of other companies' web pages: large (130+ MB) and not ours to
+# publish. Re-create them any time with fetch.py and discover.py snapshot.
+# The small .receipt.json files (address, time, status, page title) are kept,
+# so the hosted demo can show when each page was fetched and whether it worked.
+data/snapshots/**/*.html
+data/snapshots/**/*.txt
+data/candidates/*/snapshots/**/*.html
+data/candidates/*/snapshots/**/*.txt
+
+# Secrets. The project uses no API keys or passwords; these lines make sure a
+# key file added later can never be committed by accident.
+.env
+.env.*
+*.key
+*.pem
+secrets.*
+.streamlit/secrets.toml
+
+# Python and macOS clutter
+__pycache__/
+*.pyc
+.venv/
+.DS_Store

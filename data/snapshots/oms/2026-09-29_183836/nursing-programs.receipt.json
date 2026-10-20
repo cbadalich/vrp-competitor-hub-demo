@@ -1,0 +1,15 @@
+{
+  "competitor": "Oxford Medical Simulation",
+  "requested_url": "https://oxfordmedicalsimulation.com/nursing-programs/",
+  "fetched_at": "2026-09-29T18:43:23-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://oxfordmedicalsimulation.com/nursing-programs/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "Nursing Programs - Oxford Medical Simulation",
+  "meta_description": "Prepare nursing students for real-world practice with immersive VR simulation that expands clinical experience, strengthens readiness, and supports faculty.",
+  "html_bytes": 561131,
+  "text_characters": 10779
+}

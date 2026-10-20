@@ -1,0 +1,15 @@
+{
+  "competitor": "InVeris Training Solutions",
+  "requested_url": "https://www.inveristraining.com/about/trade-shows/",
+  "fetched_at": "2026-09-29T18:38:42-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.inveristraining.com/about/trade-shows/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "InVeris Trade Shows | Meet Us at Global Defense Events",
+  "meta_description": "Find out where InVeris is attending shows so you can speak to our experts about your solution requirements.",
+  "html_bytes": 227925,
+  "text_characters": 3956
+}

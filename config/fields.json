@@ -1,0 +1,45 @@
+{
+  "_about": "The comparison fields and their definitions.",
+  "entered_by_you": {
+    "name": "Company name (from config/competitors.csv)",
+    "website": "Main website (from config/competitors.csv)",
+    "type": "Self, 1st Degree, 2nd Degree or 3rd Degree (definitions in config/discovery.json), plus an optional note (from config/competitors.csv)"
+  },
+  "extracted_from_page": [
+    {
+      "key": "product_category",
+      "definition": "What kind of product this is and the discipline it serves, in the company's own words."
+    },
+    {
+      "key": "platforms",
+      "definition": "Which delivery platforms the page says the product runs on. Allowed values: Web, VR, AR, MR, Mobile, Desktop, Physical hardware, Projection or immersive room."
+    },
+    {
+      "key": "key_capabilities",
+      "definition": "Specific product features the page claims (for example case authoring, reporting, case library, multiplayer). A list of short phrases."
+    },
+    {
+      "key": "target_customer",
+      "display": "bullets",
+      "definition": "Who the page says the product is for (for example nursing schools, hospitals, EMS)."
+    },
+    {
+      "key": "value_proposition",
+      "definition": "The main benefit or outcome the company promises, summarized in one or two sentences."
+    },
+    {
+      "key": "tagline",
+      "definition": "The headline or slogan, copied exactly as written."
+    },
+    {
+      "key": "pricing",
+      "display": "bullets",
+      "definition": "Any published price, plan, or pricing model. Expected to be not_found on most sites."
+    }
+  ],
+  "filled_automatically": {
+    "source_url": "The page the evidence came from",
+    "checked_at": "Date and time the page was downloaded",
+    "status": "Per field: found, unclear, not_found, or unverified (quote not present in the saved page)"
+  }
+}

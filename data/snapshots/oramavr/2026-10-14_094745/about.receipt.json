@@ -1,0 +1,15 @@
+{
+  "competitor": "ORamaVR",
+  "requested_url": "https://oramavr.com/about/",
+  "fetched_at": "2026-10-14T09:51:06-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://oramavr.com/about",
+  "content_type": "text/html",
+  "error": null,
+  "title": "About, ORamaVR",
+  "meta_description": "ORamaVR is a medical XR company headquartered in Geneva, Switzerland. Built on 25 years of research in computational science, XR, and clinical education.",
+  "html_bytes": 76811,
+  "text_characters": 6743
+}

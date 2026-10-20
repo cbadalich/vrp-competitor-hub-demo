@@ -1,0 +1,237 @@
+{
+  "record": "data/records/virtra/2026-09-29_183836.json",
+  "checked_at": "2026-10-13T18:27:47-06:00",
+  "results": {
+    "product_category": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.virtra.com/",
+          "quote": "VirTra delivers immersive simulation training that prepares law enforcement, military, and public-safety professionals to make better decisions under pressure.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.virtra.com/",
+          "quote": "Discover the simulators, training programs, and supporting tools that work together to create a complete, scalable training solution.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "platforms": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "simulator_vxr",
+          "source_url": "https://www.virtra.com/simulator/vxr/",
+          "quote": "a portable, all-in-one virtual reality training platform delivering immersive, scalable, and scenario-based training anywhere, anytime.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "healthcare",
+          "source_url": "https://www.virtra.com/healthcare/",
+          "quote": "Portable headset-based VR training, ideal for rotating shift schedules and limited space.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "key_capabilities": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "healthcare",
+          "source_url": "https://www.virtra.com/healthcare/",
+          "quote": "Our flagship 5-screen immersive system enables multi-officer responses to complex, fast-evolving hospital security threats.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "healthcare",
+          "source_url": "https://www.virtra.com/healthcare/",
+          "quote": "A single-screen solution perfect for foundational training",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "simulator_vxr",
+          "source_url": "https://www.virtra.com/simulator/vxr/",
+          "quote": "Fully wireless XR training system with no external sensors or wires",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "simulator_vxr",
+          "source_url": "https://www.virtra.com/simulator/vxr/",
+          "quote": "Setup in under 10 minutes\u2014train anywhere, even in the field",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.virtra.com/",
+          "quote": "1000+ Realistic Training Scenarios Delivered",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "healthcare",
+          "source_url": "https://www.virtra.com/healthcare/",
+          "quote": "All scenarios are structured with multiple branching outcomes to reflect real-world unpredictability and reinforce procedural consistency.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "healthcare",
+          "source_url": "https://www.virtra.com/healthcare/",
+          "quote": "Customize training scenarios specific to your facility\u2019s layout, visitor protocol, or security policies. Add recognizable hospital environments and actors.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.virtra.com/",
+          "quote": "Drop-in service weapon recoil kits, less lethal devices, and more.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "training",
+          "source_url": "https://www.virtra.com/training/",
+          "quote": "Every VirTra simulator includes V-VICTA\u00ae curriculum, delivering over 95 hours of POST-certified training.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "training",
+          "source_url": "https://www.virtra.com/training/",
+          "quote": "Instructor guides, lesson plans, and performance rubrics included",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "healthcare",
+          "source_url": "https://www.virtra.com/healthcare/",
+          "quote": "Instructor tools, assessments, and reporting dashboards",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "simulator_vxr",
+          "source_url": "https://www.virtra.com/simulator/vxr/",
+          "quote": "Expandable to multiple users with coordinated roleplay",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "training",
+          "source_url": "https://www.virtra.com/training/",
+          "quote": "ATCC is a 40-hour high-demand course that teaches best practices and concepts on how to train effectively and maximize training time in VirTra simulators.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "target_customer": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.virtra.com/",
+          "quote": "We Are Proud to Serve These Customers\nLaw Enforcement",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.virtra.com/",
+          "quote": "VirTra supports training for healthcare workers and security officers to assist with de-escalating tense situations.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.virtra.com/",
+          "quote": "From Criminal Justice majors to conducting human performance studies, simulators are a high-tech addition to any classroom.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "healthcare",
+          "source_url": "https://www.virtra.com/healthcare/",
+          "quote": "Role-based training for security, reception, and clinical staff",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "simulator_vxr",
+          "source_url": "https://www.virtra.com/simulator/vxr/",
+          "quote": "Used by police departments, military units, universities, healthcare facilities, and school security programs",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "value_proposition": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.virtra.com/",
+          "quote": "Our scalable training solutions strengthen judgment, communication, de-escalation, and use-of-force skills through realistic, repeatable scenarios.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "training",
+          "source_url": "https://www.virtra.com/training/",
+          "quote": "Start training on Day 1 with ready-to-use courses covering de-escalation, judgmental use of force, marksmanship, and more.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "tagline": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.virtra.com/",
+          "quote": "Real-World Training Solutions That Save Lives",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "pricing": {
+      "status": "unclear",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "training",
+          "source_url": "https://www.virtra.com/training/",
+          "quote": "Taking a 4 day course will save $200 per student vs signing up for two 2-day courses.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    }
+  }
+}

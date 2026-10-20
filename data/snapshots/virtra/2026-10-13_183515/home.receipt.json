@@ -1,0 +1,15 @@
+{
+  "competitor": "VirTra",
+  "requested_url": "https://www.virtra.com/",
+  "fetched_at": "2026-10-13T18:37:40-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.virtra.com/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "VirTra Simulated Training | Law Enforcement Simulators",
+  "meta_description": "Explore VirTra's scenario simulation training for law enforcement and the military, designed to improve decision-making and operational readiness with realistic scenarios.",
+  "html_bytes": 370278,
+  "text_characters": 6196
+}

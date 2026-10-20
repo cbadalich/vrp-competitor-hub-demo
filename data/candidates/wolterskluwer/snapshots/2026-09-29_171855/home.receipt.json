@@ -1,0 +1,8 @@
+{
+  "competitor": "Wolters Kluwer",
+  "requested_url": "https://www.wolterskluwer.com/",
+  "fetched_at": "2026-09-29T17:18:55-06:00",
+  "ok": false,
+  "robots": "robots.txt returned HTTP 403; treated as not allowed",
+  "error": "skipped: robots.txt returned HTTP 403; treated as not allowed"
+}

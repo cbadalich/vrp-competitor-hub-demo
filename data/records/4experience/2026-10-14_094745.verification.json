@@ -1,0 +1,272 @@
+{
+  "record": "data/records/4experience/2026-10-14_094745.json",
+  "checked_at": "2026-10-15T18:59:31-06:00",
+  "results": {
+    "product_category": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://4experience.co/",
+          "quote": "We deliver extraordinary VR, AR, 3D and AI apps for businesses & institutions.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "vr-solutions",
+          "source_url": "https://4experience.co/vr-solutions/",
+          "quote": "We create custom, fully tailored to your goals, AR and VR solutions for various sectors to help businesses & institutions grow.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "vr-technology-in-medicine",
+          "source_url": "https://4experience.co/vr-technology-in-medicine/",
+          "quote": "Custom-made XR innovative healthcare solutions for researchers and the medical industry.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "firefighting-vr-simulator",
+          "source_url": "https://4experience.co/firefighting-vr-simulator/",
+          "quote": "VR Simulator for Firefighters",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "platforms": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://4experience.co/",
+          "quote": "Virtual Reality Augmented Reality Web & Desktop 3D Artificial Intelligence",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "vr-projects_inspiring-ar-vr-projects",
+          "source_url": "https://4experience.co/inspiring-ar-vr-projects/",
+          "quote": "Technical Support \u2013 Mixed Reality\nMixed Reality, AR, Training, Industrial",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "vr-projects_inspiring-ar-vr-projects",
+          "source_url": "https://4experience.co/inspiring-ar-vr-projects/",
+          "quote": "CruiserMaxx \u2013 AR Web App\nAR, Marketing, Web",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "firefighting-vr-simulator",
+          "source_url": "https://4experience.co/firefighting-vr-simulator/",
+          "quote": "Hardware\n(VR headset + desktop)",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "key_capabilities": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "vr-technology-in-medicine",
+          "source_url": "https://4experience.co/vr-technology-in-medicine/",
+          "quote": "With XR & 3D technologies and our amazing Research&Development team in-house, we can provide you with custom-made software for treating patients, rehabilitating them, and providing them with a better experience during the healing process.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "vr-technology-in-medicine",
+          "source_url": "https://4experience.co/vr-technology-in-medicine/",
+          "quote": "Despite traditional medical devices like pulse oximeters, blood pressure monitors, scales or glucometers, we can also integrate other hardware like stationary bikes or treadmills",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "vr-projects_inspiring-ar-vr-projects",
+          "source_url": "https://4experience.co/inspiring-ar-vr-projects/",
+          "quote": "From augmented and virtual reality through 3D web solutions and product configurators to 3D AI chatbots.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://4experience.co/",
+          "quote": "A shooting multiplayer game including full-body tracking and haptic equipment.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "firefighting-vr-simulator",
+          "source_url": "https://4experience.co/firefighting-vr-simulator/",
+          "quote": "3 scenarios for varied training.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "firefighting-vr-simulator",
+          "source_url": "https://4experience.co/firefighting-vr-simulator/",
+          "quote": "Training and exam mode.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "firefighting-vr-simulator",
+          "source_url": "https://4experience.co/firefighting-vr-simulator/",
+          "quote": "Possibility to adjust the time of day, weather conditions and duration of the scenario.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "firefighting-vr-simulator",
+          "source_url": "https://4experience.co/firefighting-vr-simulator/",
+          "quote": "Possibility of cooperation within the fire brigade.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://4experience.co/",
+          "quote": "Teamwork, communication and decision-making training.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://4experience.co/",
+          "quote": "That\u2019s why we offer a free 60-minutes consultation.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "target_customer": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://4experience.co/",
+          "quote": "What We Have to Offer For Your Sector",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "vr-solutions",
+          "source_url": "https://4experience.co/vr-solutions/",
+          "quote": "Everyone can join the change, from firefighters and law enforcement to medical first responders.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "vr-solutions",
+          "source_url": "https://4experience.co/vr-solutions/",
+          "quote": "VR simulations & training help improve doctors\u2019 and nurses\u2019 medical skills.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "vr-technology-in-medicine",
+          "source_url": "https://4experience.co/vr-technology-in-medicine/",
+          "quote": "Custom-made XR innovative healthcare solutions for researchers and the medical industry.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "firefighting-vr-simulator",
+          "source_url": "https://4experience.co/firefighting-vr-simulator/",
+          "quote": "We recommend the VR simulator to single institutions, Fire Departments units and schools to conduct internal training and to municipalities and units that want to train other entities as part of commercial training.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "value_proposition": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://4experience.co/",
+          "quote": "Powering your success with solutions that bring measurable value.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://4experience.co/",
+          "quote": "allowing emergency personnel\nto practice critical skills in a safe and controlled environment.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "vr-technology-in-medicine",
+          "source_url": "https://4experience.co/vr-technology-in-medicine/",
+          "quote": "The VR applications are designed precisely to let trainees make mistakes while training.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "tagline": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://4experience.co/",
+          "quote": "Power your success with solutions\nthat bring measurable value.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "pricing": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "firefighting-vr-simulator",
+          "source_url": "https://4experience.co/firefighting-vr-simulator/",
+          "quote": "Standard Version\nIncludes:\nHardware\n(VR headset + desktop)\n1-year license",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "firefighting-vr-simulator",
+          "source_url": "https://4experience.co/firefighting-vr-simulator/",
+          "quote": "Extended Version\nIncludes\nOmni treadmill Cyberith Virtualizer Elite 2",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "firefighting-vr-simulator",
+          "source_url": "https://4experience.co/firefighting-vr-simulator/",
+          "quote": "Explore the possiblities of our firefighting VR simulator. Buy your license today.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "vr-solutions",
+          "source_url": "https://4experience.co/vr-solutions/",
+          "quote": "estimate a project",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    }
+  }
+}

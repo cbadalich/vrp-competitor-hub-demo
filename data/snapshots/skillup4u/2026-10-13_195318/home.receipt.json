@@ -1,0 +1,15 @@
+{
+  "competitor": "Skillup VR",
+  "requested_url": "https://skillupvr.com/",
+  "fetched_at": "2026-10-13T19:53:18-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://skillupvr.com/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "SKILLUP VR Simulation Centre",
+  "meta_description": "Skillup VR offers an immersive virtual medical simulation platform designed to enhance critical thinking, clinical diagnosis, and collaborative team training. With customizable scenarios, real-time tracking, and performance analysis, it improves patient safety, reduces errors, and cuts training costs.",
+  "html_bytes": 208777,
+  "text_characters": 4268
+}

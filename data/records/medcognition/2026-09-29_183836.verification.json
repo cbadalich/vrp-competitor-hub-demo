@@ -1,0 +1,188 @@
+{
+  "record": "data/records/medcognition/2026-09-29_183836.json",
+  "checked_at": "2026-10-13T18:27:47-06:00",
+  "results": {
+    "product_category": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://medcognition.com/",
+          "quote": "PerSim\u00ae\nHolographic Patient Simulation",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "about-us",
+          "source_url": "https://medcognition.com/about-us/",
+          "quote": "The PerSim\u00ae was specifically designed with pre-hospital and hospital training in mind.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "platforms": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://medcognition.com/",
+          "quote": "PerSim\u00ae leverages Microsoft HoloLens\u00ae mixed reality to project life-like patient simulations into your actual real-time work environment.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "about-us",
+          "source_url": "https://medcognition.com/about-us/",
+          "quote": "He is chiefly responsible for integrating the latest augmented reality and computing technology into the PerSim\u00ae.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "key_capabilities": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://medcognition.com/",
+          "quote": "project life-like patient simulations into your actual real-time work environment.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://medcognition.com/",
+          "quote": "Adult, pediatric, obstetric, and geriatric patients",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://medcognition.com/",
+          "quote": "Team Training Capability",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://medcognition.com/",
+          "quote": "Multi-Patient Training\nOver 10,000 Case Combinations\nAccess to expanding content",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://medcognition.com/",
+          "quote": "Medical, Trauma, & HazMat Training",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://medcognition.com/",
+          "quote": "Use PerSim\u00ae in the classroom or In-Situ in the clinical workspace.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://medcognition.com/",
+          "quote": "Intuitive depictions of clinical conditions\nAdult, pediatric, obstetric, and geriatric patients\nHighly portable",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "target_customer": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "about-us",
+          "source_url": "https://medcognition.com/about-us/",
+          "quote": "Professionals on healthcare\u2019s frontline, be they EMTs, paramedics, nurses, or rapid response teams are tasked with treating and caring for the sick and injured.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://medcognition.com/",
+          "quote": "Pre-Hospital/EMS\nLearn More\nNursing\nLearn More\nPhysicians\nLearn More\nAllied Health",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://medcognition.com/",
+          "quote": "Contracted by the DOD, trusted by frontline healthcare personnel.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "value_proposition": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "about-us",
+          "source_url": "https://medcognition.com/about-us/",
+          "quote": "Our focus on affordable, portable and realistic simulation is specifically intended to provide all people who can benefit access to this valuable training modality.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "about-us",
+          "source_url": "https://medcognition.com/about-us/",
+          "quote": "Current simulators are bulky, heavy, and expensive.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://medcognition.com/",
+          "quote": "With PerSim\u00ae, you can provide medical simulation training in the location where you need it.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "tagline": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://medcognition.com/",
+          "quote": "Holographic Patient Simulation\nDiscover the Augmented Future of Medical Simulation.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "pricing": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://medcognition.com/",
+          "quote": "Contact Us\nGet A Quote",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    }
+  }
+}

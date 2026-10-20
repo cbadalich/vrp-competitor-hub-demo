@@ -1,0 +1,15 @@
+{
+  "competitor": "UbiSim",
+  "requested_url": "https://www.ubisimvr.com/pricing/",
+  "fetched_at": "2026-09-23T11:14:27-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.ubisimvr.com/pricing",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "UbiSim Pricing for Schools & Health Systems | Get a Quote",
+  "meta_description": "Custom UbiSim pricing built around your program's size, term, and implementation needs. Volume discounts available. Get a quote for VR nursing simulation.",
+  "html_bytes": 198769,
+  "text_characters": 6714
+}

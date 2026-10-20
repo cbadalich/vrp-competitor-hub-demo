@@ -1,0 +1,28 @@
+{
+  "checked_at": "2026-10-14T11:24:43-06:00",
+  "proposed": "Unclear",
+  "problems": [],
+  "results": [
+    {
+      "page": "home",
+      "quote": "Expert en simulation numérique pour la formation initiale et continue des professionnels de santé",
+      "source_url": "https://www.simforhealth.com/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "produits_vr-transfu",
+      "quote": "Ce simulateur fonctionne exclusivement avec un casque de réalité virtuelle (non fourni).",
+      "source_url": "https://www.simforhealth.com/produits/vr-transfu/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "produits_vr-transfu",
+      "quote": "Non commercialisé actuellement",
+      "source_url": "https://www.simforhealth.com/produits/vr-transfu/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    }
+  ]
+}

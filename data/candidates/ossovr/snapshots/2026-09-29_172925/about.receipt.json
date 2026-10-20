@@ -1,0 +1,15 @@
+{
+  "competitor": "Osso VR",
+  "requested_url": "https://www.ossovr.com/about/",
+  "fetched_at": "2026-09-29T17:29:46-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.ossovr.com/about",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "About | Osso VR is transforming training and assessment for healthcare professionals everywhere.",
+  "meta_description": "Learn more about our mission to improve patient outcomes by increasing the adoption of medical technologies and democratizing access to the latest surgical techniques.",
+  "html_bytes": 49516,
+  "text_characters": 8891
+}

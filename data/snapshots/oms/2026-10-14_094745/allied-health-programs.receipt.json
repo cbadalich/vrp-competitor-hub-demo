@@ -1,0 +1,15 @@
+{
+  "competitor": "Oxford Medical Simulation",
+  "requested_url": "https://oxfordmedicalsimulation.com/allied-health-programs/",
+  "fetched_at": "2026-10-14T09:48:37-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://oxfordmedicalsimulation.com/allied-health-programs/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "Allied Health Programs - Oxford Medical Simulation",
+  "meta_description": "Improve practice readiness in allied health education with immersive VR simulations. OMS provides consistent, high-quality clinical experiences that strengthen decision-making, confidence, and performance.",
+  "html_bytes": 574255,
+  "text_characters": 10982
+}

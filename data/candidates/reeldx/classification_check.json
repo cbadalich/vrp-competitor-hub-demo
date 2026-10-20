@@ -1,0 +1,21 @@
+{
+  "checked_at": "2026-10-14T11:24:43-06:00",
+  "proposed": "2nd Degree",
+  "problems": [],
+  "results": [
+    {
+      "page": "home",
+      "quote": "Our courses are aligned to prominent curricula in the nursing, PA, EMS, and medical worlds.",
+      "source_url": "https://www.reeldx.com/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "skills",
+      "quote": "Get your students ready for the clinic by letting them practice on real patient video cases.",
+      "source_url": "https://www.reeldx.com/skills",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    }
+  ]
+}

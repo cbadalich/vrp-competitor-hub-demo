@@ -1,0 +1,28 @@
+{
+  "checked_at": "2026-10-14T11:24:43-06:00",
+  "proposed": "1st Degree",
+  "problems": [],
+  "results": [
+    {
+      "page": "home",
+      "quote": "PerSim® leverages Microsoft HoloLens® mixed reality to project life-like patient simulations into your actual real-time work environment.",
+      "source_url": "https://medcognition.com/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "home",
+      "quote": "helping struggling graduate nurses visualize patient conditions with confidence",
+      "source_url": "https://medcognition.com/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "home",
+      "quote": "Contracted by the DOD, trusted by frontline healthcare personnel.",
+      "source_url": "https://medcognition.com/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    }
+  ]
+}

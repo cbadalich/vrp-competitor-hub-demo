@@ -1,0 +1,15 @@
+{
+  "competitor": "Medcognition",
+  "requested_url": "https://medcognition.com/about-us/",
+  "fetched_at": "2026-10-14T09:49:31-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://medcognition.com/about-us/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "About Us - MedCognition",
+  "meta_description": "About Us MedCognition You live to save lives. We live to help you train for it. Professionals on healthcare\u2019s frontline, be they EMTs, paramedics, nurses, or rapid response teams are tasked with treating and caring for the sick and injured. However, despite this critical role, they do not have good access to patient simulation. Current [\u2026]",
+  "html_bytes": 94567,
+  "text_characters": 3837
+}

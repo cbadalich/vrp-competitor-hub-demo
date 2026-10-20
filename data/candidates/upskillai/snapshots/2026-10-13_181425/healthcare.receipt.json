@@ -1,0 +1,15 @@
+{
+  "competitor": "UpSkillAI",
+  "requested_url": "https://upskillai.com/healthcare/",
+  "fetched_at": "2026-10-13T18:15:13-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://upskillai.com/healthcare/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "Healthcare \u2013 UpSkillAI",
+  "meta_description": "Ai-powered Immersive Training Done Right",
+  "html_bytes": 148433,
+  "text_characters": 6484
+}

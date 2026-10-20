@@ -1,0 +1,199 @@
+{
+  "competitor": "VirTra",
+  "slug": "virtra",
+  "snapshot": "data/snapshots/virtra/2026-10-14_094745",
+  "extracted_at": "2026-09-29T19:22:00-06:00",
+  "extracted_by": "Claude Code session, model claude-opus-5-5",
+  "note": "One of the five pages is a blog post on recoil kit maintenance (a-little-maintenance-can-prevent-lost-training-time); it adds little beyond the recoil kit and customer portal details. The healthcare page is about hospital security staff, not clinical care. The V-XR name is written 'V-XR®' in menus and on its own page but 'V-XR™' on the healthcare page.",
+  "pages_read": [
+    "home",
+    "healthcare",
+    "simulator_vxr",
+    "training",
+    "a-little-maintenance-can-prevent-lost-training-time"
+  ],
+  "pages_failed": [],
+  "fields": {
+    "product_category": {
+      "status": "found",
+      "value": "Immersive scenario simulation training (screen-based and headset simulators, weapon recoil kits, curriculum) for law enforcement, military and public-safety professionals, focused on judgment, de-escalation and use of force",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "VirTra delivers immersive simulation training that prepares law enforcement, military, and public-safety professionals to make better decisions under pressure."
+        },
+        {
+          "page": "home",
+          "quote": "Discover the simulators, training programs, and supporting tools that work together to create a complete, scalable training solution."
+        }
+      ],
+      "note": "Menus list simulators V-300, V-180, V-ST PRO, V-100, V-XR and V-One, tools (recoil kits, less lethal tools, V-Threat-Fire, V-Author) and the V-VICTA curriculum."
+    },
+    "platforms": {
+      "status": "found",
+      "value": [
+        "VR",
+        "Projection or immersive room"
+      ],
+      "evidence": [
+        {
+          "page": "simulator_vxr",
+          "quote": "a portable, all-in-one virtual reality training platform delivering immersive, scalable, and scenario-based training anywhere, anytime."
+        },
+        {
+          "page": "healthcare",
+          "quote": "Portable headset-based VR training, ideal for rotating shift schedules and limited space."
+        },
+        {
+          "page": "home",
+          "quote": "Single-screen, multi-screen, and headset simulators with extensive branching options."
+        }
+      ],
+      "note": "VR applies to the V-XR headset product. Projection or immersive room covers the single-screen and multi-screen simulators (the healthcare page describes a 5-screen immersive system). V-Author (scenario authoring) is an instructor tool."
+    },
+    "key_capabilities": {
+      "status": "found",
+      "value": [
+        "Screen simulators from single-screen to 5-screen (V-100, V-180, V-300)",
+        "Portable wireless VR headset system (V-XR), setup in under 10 minutes",
+        "Library of 1000+ scenarios with branching outcomes",
+        "V-Author: customize scenarios with local environments and actors",
+        "Drop-in service weapon recoil kits and less lethal tools",
+        "V-VICTA POST-certified curriculum (95+ hours) included with every simulator",
+        "Instructor guides, lesson plans and performance rubrics",
+        "Instructor tools, assessments and reporting dashboards",
+        "Multi-user coordinated roleplay on V-XR",
+        "Instructor courses (ATCC, Master Class, V-Author training)"
+      ],
+      "evidence": [
+        {
+          "page": "healthcare",
+          "quote": "Our flagship 5-screen immersive system enables multi-officer responses to complex, fast-evolving hospital security threats."
+        },
+        {
+          "page": "healthcare",
+          "quote": "A single-screen solution perfect for foundational training"
+        },
+        {
+          "page": "simulator_vxr",
+          "quote": "Fully wireless XR training system with no external sensors or wires"
+        },
+        {
+          "page": "simulator_vxr",
+          "quote": "Setup in under 10 minutes—train anywhere, even in the field"
+        },
+        {
+          "page": "home",
+          "quote": "1000+ Realistic Training Scenarios Delivered"
+        },
+        {
+          "page": "healthcare",
+          "quote": "All scenarios are structured with multiple branching outcomes to reflect real-world unpredictability and reinforce procedural consistency."
+        },
+        {
+          "page": "healthcare",
+          "quote": "Customize training scenarios specific to your facility’s layout, visitor protocol, or security policies. Add recognizable hospital environments and actors."
+        },
+        {
+          "page": "home",
+          "quote": "Drop-in service weapon recoil kits, less lethal devices, and more."
+        },
+        {
+          "page": "training",
+          "quote": "Every VirTra simulator includes V-VICTA® curriculum, delivering over 95 hours of POST-certified training."
+        },
+        {
+          "page": "training",
+          "quote": "Instructor guides, lesson plans, and performance rubrics included"
+        },
+        {
+          "page": "healthcare",
+          "quote": "Instructor tools, assessments, and reporting dashboards"
+        },
+        {
+          "page": "simulator_vxr",
+          "quote": "Expandable to multiple users with coordinated roleplay"
+        },
+        {
+          "page": "training",
+          "quote": "ATCC is a 40-hour high-demand course that teaches best practices and concepts on how to train effectively and maximize training time in VirTra simulators."
+        }
+      ],
+      "note": "Scenario counts differ: home says '1000+ Realistic Training Scenarios Delivered' and law enforcement has 'hundreds of scenarios'. V-XR content is described as 'Interactive 360° scenarios developed from real-world encounters'. The V-XR page has a feature line that ends mid-phrase ('Realistic instructor driven')."
+    },
+    "target_customer": {
+      "status": "found",
+      "value": "Law enforcement, military, corrections, healthcare (hospital security, reception and clinical staff), education (criminal justice programs, research), and community security groups; V-XR also lists school resource officers, campus safety and federal agencies.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "We Are Proud to Serve These Customers\nLaw Enforcement"
+        },
+        {
+          "page": "home",
+          "quote": "VirTra supports training for healthcare workers and security officers to assist with de-escalating tense situations."
+        },
+        {
+          "page": "home",
+          "quote": "From Criminal Justice majors to conducting human performance studies, simulators are a high-tech addition to any classroom."
+        },
+        {
+          "page": "healthcare",
+          "quote": "Role-based training for security, reception, and clinical staff"
+        },
+        {
+          "page": "simulator_vxr",
+          "quote": "Used by police departments, military units, universities, healthcare facilities, and school security programs"
+        }
+      ],
+      "note": "Home lists six customer groups: Law Enforcement, Military, Corrections, Healthcare, Education, Community. Home also says 'Simulators in Over 500 Agencies Nationwide' and 'Global Reach in 40+ Countries'."
+    },
+    "value_proposition": {
+      "status": "found",
+      "value": "Realistic, repeatable immersive scenarios that strengthen judgment, communication, de-escalation and use-of-force skills so professionals make better decisions under pressure, with certified curriculum included so agencies can start training on day one.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Our scalable training solutions strengthen judgment, communication, de-escalation, and use-of-force skills through realistic, repeatable scenarios."
+        },
+        {
+          "page": "training",
+          "quote": "Start training on Day 1 with ready-to-use courses covering de-escalation, judgmental use of force, marksmanship, and more."
+        }
+      ],
+      "note": "The healthcare page frames the outcome as 'Better muscle memory, faster reactions, and improved real-world outcomes.'"
+    },
+    "tagline": {
+      "status": "found",
+      "value": "Real-World Readiness",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Realistic Scenarios. Real-World Readiness"
+        },
+        {
+          "page": "simulator_vxr",
+          "quote": "Extended Reality. Real-World Readiness."
+        }
+      ],
+      "note": "The phrase repeats on two pages (home and the V-XR page, also in the V-XR META DESCRIPTION), each time after a different first half. Other candidates: homepage headline 'Real-World Training Solutions That Save Lives' (once); training page 'Real-World Training. Real Results.'"
+    },
+    "pricing": {
+      "status": "unclear",
+      "value": "No product prices published; one course discount is stated",
+      "evidence": [
+        {
+          "page": "training",
+          "quote": "Taking a 4 day course will save $200 per student vs signing up for two 2-day courses."
+        }
+      ],
+      "note": "No simulator prices and no price, pricing or quote button on the pages read; calls to action are 'Schedule a Demo', 'CONTACT SALES' and 'Request a Demo'. Menus include 'Purchasing Options' and a 'VirTra Store' link, and home has 'Need Funding?' with grant opportunities; none of those pages were saved. Home says curriculum worth 'Thousands of dollars’' is 'Free with every simulator', and the V-XR page says 'Cost-effective for agencies of all sizes'."
+    }
+  },
+  "carried_forward": {
+    "from_record": "data/records/virtra/2026-10-13_183515_r3.json",
+    "at": "2026-10-14T09:52:04-06:00",
+    "reason": "identical page text",
+    "pages_changed": []
+  }
+}

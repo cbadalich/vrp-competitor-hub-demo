@@ -1,0 +1,21 @@
+{
+  "checked_at": "2026-10-14T11:24:43-06:00",
+  "proposed": "1st Degree",
+  "problems": [],
+  "results": [
+    {
+      "page": "home",
+      "quote": "Mixed-reality training for medical and nursing education",
+      "source_url": "https://www.gigxr.com/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "home",
+      "quote": "Run the same session on a mixed-reality headset, on a device already in students' hands, or with no headset at all",
+      "source_url": "https://www.gigxr.com/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "checked_at": "2026-10-14T11:24:43-06:00",
+  "proposed": "3rd Degree",
+  "problems": [],
+  "results": [
+    {
+      "page": "home",
+      "quote": "VirTra delivers immersive simulation training that prepares law enforcement, military, and public-safety professionals",
+      "source_url": "https://www.virtra.com/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "simulator_vxr",
+      "quote": "With a lightweight headset and a library of fully interactive scenarios, agencies can provide judgmental use-of-force, de-escalation, and mental health training",
+      "source_url": "https://www.virtra.com/simulator/vxr/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "healthcare",
+      "quote": "VirTra equips hospital and healthcare security personnel with immersive, scenario-based training to safely de-escalate volatile situations",
+      "source_url": "https://www.virtra.com/healthcare/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    }
+  ]
+}

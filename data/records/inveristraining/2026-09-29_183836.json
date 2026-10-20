@@ -1,0 +1,176 @@
+{
+  "competitor": "InVeris Training Solutions",
+  "slug": "inveristraining",
+  "snapshot": "data/snapshots/inveristraining/2026-09-29_183836",
+  "extracted_at": "2026-09-29T19:15:00-06:00",
+  "extracted_by": "Claude Code session, model claude-opus-5-5",
+  "note": "All pages describe weapons, use-of-force and small-arms training for military, public safety and commercial ranges; none describes healthcare or medical training. The 'hospital' and 'University Emergency Room' mentions are VR environments for weapons scenarios. The earlier snapshot 2026-09-29_182409 has the same pages (receipts differ only in fetch time).",
+  "pages_read": [
+    "home",
+    "virtual-training",
+    "virtual-training_military-virtual-tactical-small-arms-training-marksmanship",
+    "virtual-training_military-virtual-tactical-small-arms-training-marksmanship_fats-vr-2",
+    "about_trade-shows"
+  ],
+  "pages_failed": [],
+  "fields": {
+    "product_category": {
+      "status": "found",
+      "value": "Integrated live-fire and virtual (VR, AR, projection) weapons and scenario training systems for public safety and defense",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "InVeris is the leading supplier of integrated live fire and virtual reality weapons training for public safety, military and shooting ranges."
+        },
+        {
+          "page": "virtual-training",
+          "quote": "InVeris develops, manufactures, installs, and supports small-arms training systems and corresponding weapon simulators for our global military, paramilitary and security agency customers."
+        }
+      ],
+      "note": "The first quote is the homepage META DESCRIPTION line. The site menu also reads 'Virtual weapons and scenario training for Public Safety and Defense' and 'Live fire training for Defense, Public Safety and Commercial'. Not a healthcare product."
+    },
+    "platforms": {
+      "status": "found",
+      "value": [
+        "VR",
+        "AR"
+      ],
+      "evidence": [
+        {
+          "page": "virtual-training_military-virtual-tactical-small-arms-training-marksmanship",
+          "quote": "fats® VR – Military Virtual Reality Training: A fully immersive VR training solution designed for combat readiness."
+        },
+        {
+          "page": "virtual-training_military-virtual-tactical-small-arms-training-marksmanship",
+          "quote": "fats® AR – Military Augmented Reality Training: Blends real and virtual worlds to create immersive mission rehearsal environments."
+        }
+      ],
+      "note": "Projection systems ('Fixed installations with 180- or 300-degree wraparound screens', fats 100P/100MIL/100LE/180LE/300LE) do not map to an allowed label, so they are not listed. The 'Reconfigurable Desktop Trainer (RDT)' is called 'A cost-effective desktop solution' for classroom or office use, but the pages do not say it is an installed computer app, so Desktop is not listed. 'Mobile VR/AR setups deployable in minutes' means portable hardware, not phones, so Mobile is not listed. The 'Intuitive instructor UI' is an instructor tool."
+    },
+    "key_capabilities": {
+      "status": "found",
+      "value": [
+        "Real-time feedback and After-Action Review with multi-angle replay",
+        "Create, edit and save custom scenarios",
+        "BlueFire wireless weapon simulators; recoiling pistol and rifle simulators",
+        "De-escalation, use-of-force and non-lethal options",
+        "Collective (squad- and platoon-level) training; two trainees per fats VR system now",
+        "Portable fats VR with no external tracking infrastructure",
+        "Expanding libraries of environments, avatars, suspect verbiage and props",
+        "Nuisance generator for background noises and visuals",
+        "Remote multi-user training with instructor interaction",
+        "Integration of virtual training with live-fire range systems"
+      ],
+      "evidence": [
+        {
+          "page": "virtual-training_military-virtual-tactical-small-arms-training-marksmanship",
+          "quote": "Real-time feedback and After-Action Review (AAR) with multi-angle replay to reinforce skills and decision-making."
+        },
+        {
+          "page": "virtual-training_military-virtual-tactical-small-arms-training-marksmanship_fats-vr-2",
+          "quote": "Easily create, edit, and save custom scenarios."
+        },
+        {
+          "page": "virtual-training",
+          "quote": "Weapon handling with our BlueFire® wireless weapon simulators, which maintain the form, fit and function of the officer’s own weapon."
+        },
+        {
+          "page": "virtual-training_military-virtual-tactical-small-arms-training-marksmanship_fats-vr-2",
+          "quote": "Recoiling weapons – we provide realistic recoiling Pistol and Rifle simulators."
+        },
+        {
+          "page": "virtual-training_military-virtual-tactical-small-arms-training-marksmanship",
+          "quote": "De-escalation, use-of-force, and non-lethal options aligned with modern rules of engagement"
+        },
+        {
+          "page": "virtual-training_military-virtual-tactical-small-arms-training-marksmanship",
+          "quote": "Mission-critical collective training for squad- and platoon-level operations"
+        },
+        {
+          "page": "virtual-training_military-virtual-tactical-small-arms-training-marksmanship_fats-vr-2",
+          "quote": "Can support two trainees now and will expand to four or more trainees soon."
+        },
+        {
+          "page": "virtual-training_military-virtual-tactical-small-arms-training-marksmanship_fats-vr-2",
+          "quote": "Easy setup – the system uses no external tracking infrastructure."
+        },
+        {
+          "page": "virtual-training_military-virtual-tactical-small-arms-training-marksmanship_fats-vr-2",
+          "quote": "An Expanding library of high-quality environments with adjustable weather, time of day, lighting conditions and trainee/suspect/bystander starting locations."
+        },
+        {
+          "page": "virtual-training_military-virtual-tactical-small-arms-training-marksmanship_fats-vr-2",
+          "quote": "An Expanding library of suspect and bystander avatars, with variations in gender, ethnicity, and clothing."
+        },
+        {
+          "page": "virtual-training_military-virtual-tactical-small-arms-training-marksmanship_fats-vr-2",
+          "quote": "Nuisance generator to create realistic background noises and visuals (e.g. barking dog, shots fired, yelling)."
+        },
+        {
+          "page": "virtual-training_military-virtual-tactical-small-arms-training-marksmanship",
+          "quote": "Remote multi-user training with liver instructor and trainee interaction"
+        },
+        {
+          "page": "virtual-training",
+          "quote": "Only InVeris integrates virtual with live-fire system to give officers realistic, total training solutions"
+        }
+      ],
+      "note": "The remote multi-user quote reads 'liver instructor' on the saved page (copied as written). Other features stated but not listed: optional 'Haptic feedback vest*' (sold separately), practice shooting range inside fats VR, weapon simulators for M72A7, M320, M136 AT4, M3A1 MAAWS and mortars, and 'Real environment replication using advanced AR scanning'. Fielded-base figures: 'more than 5,100' systems and '40,000 laser-based' simulators in '130 countries'."
+    },
+    "target_customer": {
+      "status": "found",
+      "value": "Military (US Army and US Marine Corps named; also paramilitary and security agencies), federal, state, local and international public safety and law enforcement agencies, and shooting ranges / commercial customers.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "integrated live fire and virtual reality weapons training for public safety, military and shooting ranges."
+        },
+        {
+          "page": "virtual-training",
+          "quote": "InVeris is the simulation system of record for the US Army and US Marine Corps."
+        },
+        {
+          "page": "virtual-training",
+          "quote": "Federal, state, local and international public safety agencies around the world turn to our simulation systems to complement live-fire training."
+        }
+      ],
+      "note": "Contact form segments: Law Enforcement, Military, Commercial, Private. No healthcare or education customers are named."
+    },
+    "value_proposition": {
+      "status": "found",
+      "value": "Realistic, immersive weapons and scenario simulation, combined with live fire, that advances human performance, improves combat readiness and safety, and lowers the cost and logistics of training compared with live exercises.",
+      "evidence": [
+        {
+          "page": "virtual-training_military-virtual-tactical-small-arms-training-marksmanship",
+          "quote": "Our mission is to advance human performance, improve combat readiness, and enhance safety for soldiers, sailors, airmen, and marines worldwide."
+        },
+        {
+          "page": "virtual-training_military-virtual-tactical-small-arms-training-marksmanship_fats-vr-2",
+          "quote": "Bringing the power of proven experience, immersive scenarios, and realistic weapons to a 360° virtual training environment."
+        },
+        {
+          "page": "virtual-training_military-virtual-tactical-small-arms-training-marksmanship",
+          "quote": "This flexible infrastructure dramatically reduces the logistics and cost of delivering high-impact training while enabling units to train where and when they need to."
+        }
+      ],
+      "note": "The public safety section frames the return as 'a ROI measured in lives saved and community controversies avoided.'"
+    },
+    "tagline": {
+      "status": "unclear",
+      "value": "Need to fund your new training facility?",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Need to fund your new training facility?\nPolice Grant Help."
+        }
+      ],
+      "note": "No trademark slogan and no line repeated as a slogan across pages. The saved homepage text is thin: after the menu it shows tab labels ('Defense', 'Public Safety', 'Commercial') and then this grant-help promo, which reads as a banner more than a slogan, hence unclear. Other candidates: fats VR page 'fats®VR – THE WORLD’S MOST RELIABLE, ROBUST AND IMMERSIVE VR DEFENSE TRAINING SYSTEM.'; military page 'The World’s Most Advanced Military Simulation Training System'; homepage '98 years of technical evolution...'."
+    },
+    "pricing": {
+      "status": "not_found",
+      "value": null,
+      "evidence": [],
+      "note": "No prices, plans or quote/pricing buttons on the 5 pages read. Only contact forms, 'Request a demo', 'Request a meeting' and a 'Police Grant Help' link, which are not pricing under EXTRACTION.md."
+    }
+  }
+}

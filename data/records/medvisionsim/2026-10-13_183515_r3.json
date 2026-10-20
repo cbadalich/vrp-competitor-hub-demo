@@ -1,0 +1,206 @@
+{
+  "competitor": "MedVision",
+  "slug": "medvisionsim",
+  "snapshot": "data/snapshots/medvisionsim/2026-10-13_183515",
+  "extracted_at": "2026-10-13T19:05:00-06:00",
+  "extracted_by": "Claude Code session, model claude-opus-5-5",
+  "note": "All 4 pages downloaded; no two saved pages are identical. The medical-manikins-simulators page repeats its FAQ block twice. Two pages contain leftover template text ('This is some text inside of a div block.'), which was ignored.",
+  "pages_read": [
+    "home",
+    "medical-manikins-simulators",
+    "medical-simulation-technologies",
+    "simulators_female-medical-manikin-lisa"
+  ],
+  "pages_failed": [],
+  "fields": {
+    "product_category": {
+      "status": "found",
+      "value": "Physical medical simulators: patient simulators (manikins), task trainers and anatomy tables, plus ultrasound and surgical simulators, for healthcare and nursing education",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Patient simulators, task trainers and anatomy tables for nursing schools, hospitals and EMS programs. Remote setup and online training included."
+        },
+        {
+          "page": "home",
+          "quote": "Medical Simulators for Advanced Healthcare Training and Education"
+        }
+      ],
+      "note": "Product menu lists adult patient simulators (Leonardo, Lisa), auscultation task trainers (MATT, Pediatric MATT), a pediatric patient simulator (Arthur), an ultrasound simulator (SonoVision), anatomy solutions (S Vision Anatomy table, S Vision Animal Anatomy, AIBODY) and surgical simulators (LapVision, HystVision, AngioVision). The home page also lists 'Dental Simulators'."
+    },
+    "platforms": {
+      "status": "unclear",
+      "value": [
+        "VR",
+        "AR",
+        "Physical hardware"
+      ],
+      "evidence": [
+        {
+          "page": "medical-simulation-technologies",
+          "quote": "Some of our simulators incorporate AR and VR to simulate environments like operating rooms or emergency response situations, elevating the immersive experience."
+        },
+        {
+          "page": "medical-simulation-technologies",
+          "quote": "VR and AR Enhancements: Some models incorporate virtual and augmented reality to simulate environments like operating rooms or ambulances."
+        },
+        {
+          "page": "home",
+          "quote": "Patient simulators, task trainers and anatomy tables for nursing schools, hospitals and EMS programs."
+        }
+      ],
+      "note": "Physical hardware covers the manikins, task trainers, anatomy table and procedure simulators. Still marked unclear because AR and VR are claimed only for unnamed 'some' simulators; no product page read names a VR or AR headset."
+    },
+    "key_capabilities": {
+      "status": "found",
+      "value": [
+        "High-fidelity adult, pediatric and neonatal patient simulators",
+        "Wireless manikin with 8-hour battery (Lisa)",
+        "Real medical device compatibility (Lisa)",
+        "Instructor software: scenario builder, instructor controls, debriefing, CPR assessment, drug administration, patient monitor",
+        "Pre-built scenarios from MedVision specialists",
+        "Embedded sensors for real-time feedback such as CPR compressions",
+        "Auscultation task trainers with a library of real clinical sounds",
+        "Haptic surgical simulators (laparoscopy, hysteroscopy/urology, angiography)",
+        "Interactive 3D anatomy table",
+        "Remote setup, online training, software and lifetime software updates included"
+      ],
+      "evidence": [
+        {
+          "page": "medical-simulation-technologies",
+          "quote": "Our simulators, like Leonardo, Mia, and Arthur, set the standard in realism. Designed for adult, neonatal, and pediatric care, they feature responsive vital signs, dynamic physiological reactions, and anatomical accuracy to replicate critical medical scenarios."
+        },
+        {
+          "page": "simulators_female-medical-manikin-lisa",
+          "quote": "Wireless operation\nFull articulation\nLifelike skin\n8h battery"
+        },
+        {
+          "page": "simulators_female-medical-manikin-lisa",
+          "quote": "Extensive functionality and the ability to use real medical devices on this lifelike manikin"
+        },
+        {
+          "page": "simulators_female-medical-manikin-lisa",
+          "quote": "Create, customize, and deliver realistic emergency care and nursing scenarios through intuitive instructor controls, integrated debriefing tools, CPR assessment, drug administration, and comprehensive patient monitoring."
+        },
+        {
+          "page": "simulators_female-medical-manikin-lisa",
+          "quote": "Craft your own scenarios using our intuitive software or choose from many others, carefully created by our own manikin simulation specialists."
+        },
+        {
+          "page": "medical-simulation-technologies",
+          "quote": "Embedded sensors allow for real-time feedback, such as detecting improper CPR compressions or medication errors, ensuring precision and safety during training"
+        },
+        {
+          "page": "medical-manikins-simulators",
+          "quote": "Comprehensive library of normal, adventitious and pathologic sounds from real clinical cases"
+        },
+        {
+          "page": "medical-manikins-simulators",
+          "quote": "Proprietary magnetic haptic system allows for unprecedented immersion"
+        },
+        {
+          "page": "medical-manikins-simulators",
+          "quote": "Simulated physics, haptic feedback, and radiocontrast agent spreading"
+        },
+        {
+          "page": "medical-manikins-simulators",
+          "quote": "Interactive 3D Anatomy Table"
+        },
+        {
+          "page": "medical-simulation-technologies",
+          "quote": "Comprehensive Packages: Every simulator includes free installation, training, a one-year warranty, and lifetime software updates."
+        },
+        {
+          "page": "home",
+          "quote": "We set the system up remotely and train your team online."
+        }
+      ],
+      "note": "The manikins page lists LapVision with the same two bullets as SonoVision ('Designed for developing and improving diagnostic medical sonographer skills'), which looks like a copy error on the page; the haptic claim for LapVision comes from the same page's buyer's guide ('provides haptic feedback and 3D visualization'). The home FAQ says no Wi-Fi is required for the patient simulators or the anatomy table. Lisa is also offered as 'Lisa Emergency Care Trauma'."
+    },
+    "target_customer": {
+      "status": "found",
+      "value": "Nursing schools, hospitals and clinics, EMS programs, medical universities and colleges, simulation centers, training labs and research centers, military and tactical medicine, and K-12 schools, in the United States, Canada and Latin America.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Patient simulators, task trainers and anatomy tables for nursing schools, hospitals and EMS programs."
+        },
+        {
+          "page": "home",
+          "quote": "Medical universities & colleges"
+        },
+        {
+          "page": "home",
+          "quote": "Military & tactical medicine"
+        },
+        {
+          "page": "home",
+          "quote": "To support early healthcare and simulation education."
+        },
+        {
+          "page": "home",
+          "quote": "One mission. Three key markets. Advanced medical simulation across the Americas."
+        }
+      ],
+      "note": "The home section 'Our simulators and training solutions are designed for' lists six groups: medical universities and colleges, simulation centers, training laboratories and research centers, military and tactical medicine, hospitals and clinics, and K-12 schools. The Lisa page names emergency medicine, critical care nursing, respiratory therapy, nurse anesthesia and advanced life support."
+    },
+    "value_proposition": {
+      "status": "found",
+      "value": "Realistic, hands-on, risk-free simulation that bridges the gap between theory and practice, sold as a ready-to-run package with hardware, software, remote setup, online training and warranty in one quote.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "We strive to bridge the gap between theory and practice, equipping healthcare professionals with the confidence and skills they need to provide exceptional patient care."
+        },
+        {
+          "page": "home",
+          "quote": "Ready-to-run solutions\nAll hardware and software included. We keep it simple and easy."
+        }
+      ],
+      "note": "Home stats: '370' institutions worldwide, '5000' healthcare professionals trained, '98' percent customer satisfaction, '10' years."
+    },
+    "tagline": {
+      "status": "found",
+      "value": "Elevate Practice with MedVision",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Elevate Practice with MedVision"
+        },
+        {
+          "page": "simulators_female-medical-manikin-lisa",
+          "quote": "Elevate Practice with MedVision"
+        }
+      ],
+      "note": "Repeats on the home and Lisa pages. Other candidates: homepage headline 'Medical Simulators for Advanced Healthcare Training and Education' (once); footer line on all 4 pages 'Patient simulators, task trainers and anatomy tables for nursing schools, hospitals and EMS programs.' (reads as a description)."
+    },
+    "pricing": {
+      "status": "found",
+      "value": "Not published; quote on request. One quote lists hardware, software, remote setup, online training and 1-year warranty; no annual subscription.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Price transparency\nOne quote that lists hardware, software, setup and training."
+        },
+        {
+          "page": "home",
+          "quote": "Elevate Practice with MedVision\nGet a quote"
+        },
+        {
+          "page": "home",
+          "quote": "No, we do not offer an annual subscription. All updates are included as long as your product is under warranty."
+        }
+      ],
+      "note": "No prices on any page read. The manikins FAQ says only 'Pricing varies depending on complexity and features.' Warranty length conflicts: the product blocks say '1-year warranty', while a home FAQ asks 'What happens after the 5-year warranty expires?'. The menu also has a 'Shop Now' link, with no prices on the pages read."
+    }
+  },
+  "revision": {
+    "from_record": "data/records/medvisionsim/2026-10-13_183515_r2.json",
+    "at": "2026-10-14T09:18:24-06:00",
+    "reason": "Tagline rule approved by the owner on 2026-10-14 (DECISIONS.md)",
+    "changed": [
+      "tagline now 'Elevate Practice with MedVision'"
+    ]
+  },
+  "changes_since_previous": "No substantive website change. Revised from the same saved pages under the tagline rule approved on 2026-10-14 (see DECISIONS.md): tagline now 'Elevate Practice with MedVision'."
+}

@@ -1,0 +1,123 @@
+{
+  "competitor": "Elsevier",
+  "slug": "evolve-elsevier",
+  "snapshot": "data/snapshots/evolve-elsevier/2026-10-14_094745",
+  "extracted_at": "2026-09-29T19:09:51-06:00",
+  "extracted_by": "Claude Code session, model claude-opus-5-5",
+  "note": "home.txt holds only 20 characters of text ('Skip to main content'); fetch.py flagged it as possibly built by JavaScript. All evidence comes from the SLS with VR page, whose request on evolve.elsevier.com redirected to elsevierresources.com/nhe-faculty-training/simulation-learning-system-with-virtual-reality/ (see its receipt final_url).",
+  "pages_read": [
+    "home",
+    "education_training_simulation-learning-system-with-virtual-reality-sls-vr"
+  ],
+  "pages_failed": [],
+  "fields": {
+    "product_category": {
+      "status": "found",
+      "value": "Nursing virtual reality simulation (Simulation Learning System with Virtual Reality, SLS with VR), built in partnership with SimX and paired with the SimChart for Nursing electronic health record",
+      "evidence": [
+        {
+          "page": "education_training_simulation-learning-system-with-virtual-reality-sls-vr",
+          "quote": "Enhance student clinical judgment with the first hands-on nursing virtual reality simulation of its kind."
+        },
+        {
+          "page": "education_training_simulation-learning-system-with-virtual-reality-sls-vr",
+          "quote": "By partnering with SimX, an industry-leading virtual reality company, Elsevier’s new nursing solution will change the way students learn, and ensure they are ready for practice."
+        }
+      ],
+      "note": "Only one product page was usable (the home page saved just 20 characters). The page is a faculty training resource page on elsevierresources.com, not a marketing page. Its menu lists many other Elsevier nursing products (HESI, Sherpath, Shadow Health, SimChart, Osmosis), which were not extracted."
+    },
+    "platforms": {
+      "status": "found",
+      "value": [
+        "VR"
+      ],
+      "evidence": [
+        {
+          "page": "education_training_simulation-learning-system-with-virtual-reality-sls-vr",
+          "quote": "This video provides information on installing the SimX Virtual Reality (VR) app on your Meta Quest headset, for using Simulation Learning Systems simulations in a VR environment."
+        },
+        {
+          "page": "education_training_simulation-learning-system-with-virtual-reality-sls-vr",
+          "quote": "allows you to step into a completely immersive virtual reality environment and experience clinical nursing in a whole new way."
+        }
+      ],
+      "note": "Learners use Meta Quest headsets (one passage also says 'Oculus virtual reality (VR) headset'). The SimX Moderator is a program that is downloaded and installed for 'using and moderating' simulations; it reads as a facilitator tool, so Desktop is not listed. A resource titled 'SLS VR Computer and VR Hardware Specs' is mentioned but its contents are not on the page."
+    },
+    "key_capabilities": {
+      "status": "found",
+      "value": [
+        "VR nursing simulations run through the SimX VR app on Meta Quest",
+        "SimX Moderator program for running and moderating simulations",
+        "Group sessions: start or join a SimX Sim Group",
+        "SimChart for Nursing EHR holding patient records for scenarios and skills drills"
+      ],
+      "evidence": [
+        {
+          "page": "education_training_simulation-learning-system-with-virtual-reality-sls-vr",
+          "quote": "Installing the SimX VR App On Meta Quest Headsets"
+        },
+        {
+          "page": "education_training_simulation-learning-system-with-virtual-reality-sls-vr",
+          "quote": "the SimX Moderator, your program for using and moderating Simulation Learning Systems simulations in a virtual reality (VR) environment."
+        },
+        {
+          "page": "education_training_simulation-learning-system-with-virtual-reality-sls-vr",
+          "quote": "This video provides information on starting or joining a Simulation Learning System virtual reality SimX simulation session on the SimX Moderator, for use with Meta Quest headsets."
+        },
+        {
+          "page": "education_training_simulation-learning-system-with-virtual-reality-sls-vr",
+          "quote": "Students also use SimChart® for Nursing, a robust Electronic Health Record system that houses the patient records for scenarios and skills drills."
+        }
+      ],
+      "note": "The page is about faculty training, so it describes setup steps more than features. The on-demand training videos and tutorials on the page are faculty support resources and are not listed as product features."
+    },
+    "target_customer": {
+      "status": "found",
+      "value": "Nursing students, through nursing programs and their faculty (the page is a faculty training resource).",
+      "evidence": [
+        {
+          "page": "education_training_simulation-learning-system-with-virtual-reality-sls-vr",
+          "quote": "Enhance student clinical judgment with the first hands-on nursing virtual reality simulation of its kind."
+        },
+        {
+          "page": "education_training_simulation-learning-system-with-virtual-reality-sls-vr",
+          "quote": "This page features online tutorials, guides, and training sessions developed by product trainers and nurse educators, allowing you to learn this product at your own pace."
+        }
+      ],
+      "note": "No school type or level (for example pre-licensure) is named."
+    },
+    "value_proposition": {
+      "status": "found",
+      "value": "Builds student clinical judgment through immersive, hands-on nursing VR simulation so students are ready for practice.",
+      "evidence": [
+        {
+          "page": "education_training_simulation-learning-system-with-virtual-reality-sls-vr",
+          "quote": "Enhance student clinical judgment with the first hands-on nursing virtual reality simulation of its kind."
+        },
+        {
+          "page": "education_training_simulation-learning-system-with-virtual-reality-sls-vr",
+          "quote": "will change the way students learn, and ensure they are ready for practice."
+        }
+      ],
+      "note": ""
+    },
+    "tagline": {
+      "status": "not_found",
+      "value": null,
+      "evidence": [],
+      "note": "No official tagline found: no line is marked ™, ® or ℠, and no slogan repeats on the pages read. The home page saved only 'Skip to main content' (built by JavaScript). 'HESI® Compass™' is a product name."
+    },
+    "pricing": {
+      "status": "not_found",
+      "value": null,
+      "evidence": [],
+      "note": "No prices, plans, or quote requests on the 2 pages read."
+    }
+  },
+  "carried_forward": {
+    "from_record": "data/records/evolve-elsevier/2026-10-13_183515_r2.json",
+    "at": "2026-10-14T09:52:03-06:00",
+    "reason": "identical page text",
+    "pages_changed": []
+  }
+}

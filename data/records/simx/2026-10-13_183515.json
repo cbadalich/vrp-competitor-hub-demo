@@ -1,0 +1,222 @@
+{
+  "competitor": "SimX",
+  "slug": "simx",
+  "snapshot": "data/snapshots/simx/2026-10-13_183515",
+  "extracted_at": "2026-09-23T10:12:52-0600",
+  "extracted_by": "Claude Code session, model claude-opus-5-5",
+  "note": "features.txt is a byte-for-byte duplicate of platform.txt: the /features/ URL redirects to /platform/ (see features.receipt.json final_url). It was read, but all evidence cites 'platform'. Also, the platform_ai-assistant page carries the title and meta description of the Hospital Systems page ('VR Medical Simulation for Hospital Systems | SimX'), although its body text is about the AI Assistant.",
+  "pages_read": [
+    "home",
+    "platform",
+    "features",
+    "platform_virtual-manikin",
+    "platform_scenario-editor",
+    "platform_ai-assistant",
+    "platform_autonomous-simulation",
+    "platform_offline-mode",
+    "virtual-reality-simulation-for-nurses",
+    "about"
+  ],
+  "pages_failed": [],
+  "fields": {
+    "product_category": {
+      "status": "found",
+      "value": "VR medical simulation training platform for multiple healthcare disciplines (nurses, physicians, first responders and others), positioned as built for teams",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "SimX is the world's leading VR medical simulation training platform of patient simulators for nurses, physicians, first responders, and more."
+        },
+        {
+          "page": "platform",
+          "quote": "The VR medical simulation platform built for teams."
+        },
+        {
+          "page": "platform",
+          "quote": "With SimX you don’t have to buy a different platform for your Nursing and EMS trainees."
+        }
+      ],
+      "note": "Multidisciplinary, not nursing-only. The first quote is the homepage META DESCRIPTION line."
+    },
+    "platforms": {
+      "status": "found",
+      "value": [
+        "VR"
+      ],
+      "evidence": [
+        {
+          "page": "platform",
+          "quote": "SimX is built from the ground up to be compatible with all major Virtual Reality headsets."
+        },
+        {
+          "page": "platform",
+          "quote": "SimX is the only VR medical training system compatible with the newest cutting-edge all-in-one headsets"
+        },
+        {
+          "page": "platform_scenario-editor",
+          "quote": "lets educators adapt existing professional VR scenarios themselves, in a web browser, without waiting on a development team."
+        }
+      ],
+      "note": "Learners use VR headsets; no specific headset brand or model is named on the pages read. The web-browser quote describes the Scenario Editor authoring tool for educators, not a learner mode, so Web is not listed. The About page mentions AR and MR only as company history ('early versions of SimX as an AR program'), before the switch to VR, so AR and MR are not listed. The About page also says 'inventors of XR technology', which counts as VR."
+    },
+    "key_capabilities": {
+      "status": "found",
+      "value": [
+        "Patented multiplayer, co-located and remote (4+ learners per patient)",
+        "SimX Marketplace library of pre-built patient encounters",
+        "Virtual Manikin: real-time control of patient, vitals, labs, dialogue, diagnosis",
+        "No-code, browser-based Scenario Editor",
+        "AI Assistant that automates character dialogue, actions and scenario flow",
+        "Autonomous Simulation: self-directed, no facilitator, voice-driven",
+        "Assessment and reporting: critical-action timestamps, record/playback, export",
+        "Automated after-action reports sent by email",
+        "Moderator tools to control dialogue, animations and vitals",
+        "Offline Mode (no internet connection needed)"
+      ],
+      "evidence": [
+        {
+          "page": "platform",
+          "quote": "Each simulated patient encounter has multiplayer functionality for both co-located and non-co-located training groups."
+        },
+        {
+          "page": "platform",
+          "quote": "4+ learners around one virtual patient"
+        },
+        {
+          "page": "home",
+          "quote": "Choose scenarios from the SimX marketplace, which hosts the largest library of simulated patient encounters in the world, or build custom scenarios to fit your simulation needs."
+        },
+        {
+          "page": "platform_virtual-manikin",
+          "quote": "In real time, simulation moderators adjust the scenario to meet learner needs."
+        },
+        {
+          "page": "platform_scenario-editor",
+          "quote": "It’s the no-code customization layer built into SimX that lets educators adapt existing professional VR scenarios themselves, in a web browser, without waiting on a development team."
+        },
+        {
+          "page": "platform_ai-assistant",
+          "quote": "By automating character management, dialogue, actions, and scenario flow, educators can shift their focus from operational control to instruction, coaching, and evaluation."
+        },
+        {
+          "page": "platform_autonomous-simulation",
+          "quote": "Eliminate the need for in-room staff entirely."
+        },
+        {
+          "page": "platform_autonomous-simulation",
+          "quote": "Learners control every character using their voice."
+        },
+        {
+          "page": "platform",
+          "quote": "View timestamps for critical actions"
+        },
+        {
+          "page": "platform",
+          "quote": "Record and playback completed encounters"
+        },
+        {
+          "page": "platform",
+          "quote": "Export assessments and performance report"
+        },
+        {
+          "page": "platform_autonomous-simulation",
+          "quote": "Track critical objectives automatically and deliver instant after-action reports via email"
+        },
+        {
+          "page": "platform",
+          "quote": "Proprietary tools designed to control dialogue, animations, and patient vitals"
+        },
+        {
+          "page": "platform_offline-mode",
+          "quote": "Run fully immersive VR medical simulations without a live internet connection"
+        }
+      ],
+      "note": "Library size is stated differently on different pages: home says 'over 150 simulations in up to 97 environments'; the nurses page says 'Our marketplace of 300+ high-fidelity simulated patient encounters' and, lower down, 'We offer over 220 Simulated Patient Encounters'; platform says 'hundreds of pre-built patient encounters' and '474 +' 'Unique Settings'. The Virtual Manikin page says only 'Two Virtual Manikin™ scenarios are currently available in the U.S. and Europe' with more 'in development', while the nurses page says Virtual Manikin can 'create thousands of simulated patient encounters'. The AI Assistant page says it 'is not open-ended generative AI' and that dialogue is expert-authored; the Scenario Editor page separately lists 'AI-generated audio' for new responses. Other features stated but not listed: 'Upload custom EMR slides', 'Add medications to Pyxis', and custom scenario builds by the SimX in-house team."
+    },
+    "target_customer": {
+      "status": "found",
+      "value": "Hospitals and health systems, universities and nursing schools (pre- and post-licensure nurses), EMS programs, and military/government organizations. Learner populations listed include nurses, medical students, residents, paramedics/EMTs, advanced practice providers, allied health, chiropractors and pharmacists.",
+      "evidence": [
+        {
+          "page": "about",
+          "quote": "empowering hospitals, universities, and military teams to train with realistic, high-fidelity scenarios anytime, anywhere."
+        },
+        {
+          "page": "virtual-reality-simulation-for-nurses",
+          "quote": "Virtual Reality Simulation Training Solutions for Pre- and Post-Licensure Nurses"
+        },
+        {
+          "page": "platform",
+          "quote": "Targeted Learner Populations Include:"
+        },
+        {
+          "page": "platform",
+          "quote": "Paramedics & EMTs"
+        },
+        {
+          "page": "platform_offline-mode",
+          "quote": "For healthcare institutions, government programs, and global training organizations operating in environments with unreliable or no connectivity"
+        }
+      ],
+      "note": "Menus list five segments: VR for Nurses; Physicians, Clinicians, and Students; Hospital Systems; EMS and Pre-Hospital; Military and DoD. The site-wide footer also names 'hospitals, nursing schools, EMS programs,' and 'military organizations' (split across a line break). The nurses page covers levels from CNA/NA through advanced practice nurses."
+    },
+    "value_proposition": {
+      "status": "found",
+      "value": "Immersive, multiplayer VR simulation of hard-to-simulate clinical encounters that builds critical thinking and clinical judgment, and lets programs scale team-based training without scaling staff or lab space.",
+      "evidence": [
+        {
+          "page": "platform",
+          "quote": "High-fidelity, multiplayer scenarios that let programs scale team-based training without scaling staff or lab space."
+        },
+        {
+          "page": "home",
+          "quote": "SimX leverages VR to enable the kind of difficult-to-simulate clinical encounters that are crucial for enhancing critical thinking and clinical judgment."
+        }
+      ],
+      "note": "Cost claims also appear: the nurses page says 'Lower cost per learner than traditional manikin-based simulation' and the Virtual Manikin page says VR 'requires less maintenance, equipment, and manpower than traditional simulation training.'"
+    },
+    "tagline": {
+      "status": "found",
+      "value": "LOAD, LEARN, REPEAT TM",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "LOAD, LEARN, REPEAT TM"
+        },
+        {
+          "page": "platform",
+          "quote": "LOAD, LEARN, REPEAT TM"
+        }
+      ],
+      "note": "Repeated in the footer of every page read, followed by 'TM' as plain letters in the saved text (likely a trademark mark on the live page; not checked, since .html files are off limits). Other candidates: homepage first headline after the menu 'VR Medical Training Your Students Need from The Top-Tier Institutions that You Trust.'; platform headline 'The VR medical simulation platform built for teams.'; footer 'SimX is the VR medical simulation platform built for teams, not just individuals.'"
+    },
+    "pricing": {
+      "status": "found",
+      "value": "Not published; quote on request",
+      "evidence": [
+        {
+          "page": "platform_virtual-manikin",
+          "quote": "controlled with the click of a button.\nGet Pricing"
+        }
+      ],
+      "note": "No prices on any page read. The Virtual Manikin page has a 'Get Pricing' button; under the pricing rule in EXTRACTION.md that counts as quote on request. (Changed from 'unclear' on review, 2026-09-23.)"
+    }
+  },
+  "carried_forward": {
+    "from_record": "data/records/simx/2026-09-23_094850.json",
+    "at": "2026-10-13T18:39:59-06:00",
+    "reason": "page text changed, every quote still present",
+    "pages_changed": [
+      "home",
+      "platform",
+      "features",
+      "platform_virtual-manikin",
+      "platform_scenario-editor",
+      "platform_ai-assistant",
+      "platform_autonomous-simulation",
+      "platform_offline-mode",
+      "virtual-reality-simulation-for-nurses",
+      "about"
+    ]
+  }
+}

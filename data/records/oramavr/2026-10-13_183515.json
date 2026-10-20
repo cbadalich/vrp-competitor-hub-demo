@@ -1,0 +1,188 @@
+{
+  "competitor": "ORamaVR",
+  "slug": "oramavr",
+  "snapshot": "data/snapshots/oramavr/2026-10-13_183515",
+  "extracted_at": "2026-10-13T18:25:00-06:00",
+  "extracted_by": "Claude Code session, model claude-opus-5-5",
+  "note": "The home page's animated counters were saved as zeros ('0%' reduction in medical errors, '0+' sessions, publications and clients), so those figures are not usable from home; the About page gives figures instead. Counts differ between pages: simulations '100+ peer-reviewed simulations' (home) vs '84+ validated titles, growing' (home, SIM Library); publications 'Nine peer-reviewed studies' and '11+ peer-reviewed publications' (home) vs '65+' (About).",
+  "pages_read": [
+    "home",
+    "platform",
+    "about"
+  ],
+  "pages_failed": [],
+  "fields": {
+    "product_category": {
+      "status": "found",
+      "value": "End-to-end computational medical XR training platform (simulation authoring, AI proctoring, VR training delivery, analytics) for procedural and surgical training",
+      "evidence": [
+        {
+          "page": "platform",
+          "quote": "ORamaVR Platform is the end-to-end platform for computational medical XR, covering simulation authoring, AI proctoring, VR training delivery, and performance analytics."
+        },
+        {
+          "page": "home",
+          "quote": "The leading Medical XR Training Platform"
+        },
+        {
+          "page": "about",
+          "quote": "ORamaVR is a medical XR company headquartered in Geneva, Switzerland."
+        }
+      ],
+      "note": "The first quote is the platform page META DESCRIPTION. The site names its discipline 'Computational Medical Extended Reality (CMXR)'. Examples on the pages are surgical (knee replacement/TKA)."
+    },
+    "platforms": {
+      "status": "found",
+      "value": [
+        "VR"
+      ],
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Deploy to any headset, anywhere"
+        },
+        {
+          "page": "platform",
+          "quote": "covering simulation authoring, AI proctoring, VR training delivery, and performance analytics."
+        }
+      ],
+      "note": "The pages say 'XR' throughout, which counts as VR; training delivery is described as VR on headsets. No headset brand or model is named. AR appears only in a team member's biography ('20+ years in AR'), so AR is not listed. Creator (authoring toolkit) and the Virtual Training Center dashboard are tools for builders and administrators; the pages do not say learners use a browser, so Web is not listed."
+    },
+    "key_capabilities": {
+      "status": "found",
+      "value": [
+        "Creator: authoring toolkit for building XR simulations in-house, 100% IP ownership",
+        "Custom SIM Service: simulations built by ORamaVR clinical engineers from customer documents",
+        "SIM Library: licensable, clinically validated ready-made simulations",
+        "Virtual Training Center: cloud runtime with multiplayer, recordings and analytics",
+        "JARIA AI proctor trained on the customer's IFU/protocols, real-time step guidance",
+        "Real-time competency logging and automatic analytics",
+        "Multi-site tracking and competency certification from one dashboard",
+        "Deploy to any headset, anywhere"
+      ],
+      "evidence": [
+        {
+          "page": "platform",
+          "quote": "Professional authoring toolkit for teams that want full creative control and 100% IP ownership."
+        },
+        {
+          "page": "home",
+          "quote": "Our clinical engineers deliver a validated, regulation-ready simulation from your training documents."
+        },
+        {
+          "page": "home",
+          "quote": "Clinically validated medical XR simulations, ready to deploy on day 1. License only the titles you need."
+        },
+        {
+          "page": "home",
+          "quote": "The cloud runtime for every simulation. Multiplayer, JARIA, recordings, analytics, in one dashboard."
+        },
+        {
+          "page": "platform",
+          "quote": "Upload your protocol, JARIA learns your procedure, not a generic one."
+        },
+        {
+          "page": "platform",
+          "quote": "Procedural feedback at every step. No human proctor needed in the room."
+        },
+        {
+          "page": "home",
+          "quote": "AI-guided sessions, real-time competency logging, full analytics delivered automatically."
+        },
+        {
+          "page": "home",
+          "quote": "Multi-site tracking and competency certification from one dashboard"
+        },
+        {
+          "page": "home",
+          "quote": "Deploy to any headset, anywhere"
+        }
+      ],
+      "note": "The home page says Creator is '10×' 'faster than building from scratch', and describes JARIA as 'Hallucination-free'. The About page names 'Creator OMEN' in its 2026 milestone without describing it, and says GenAI-assisted authoring is among the CMXR use cases (platform page)."
+    },
+    "target_customer": {
+      "status": "found",
+      "value": "Medical device and MedTech companies (surgeon training), and simulation centers and hospitals, worldwide.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "training possible, for device companies, simulation centers, and hospitals worldwide."
+        },
+        {
+          "page": "home",
+          "quote": "For medical device & MedTech companies\nScale surgeon training."
+        },
+        {
+          "page": "home",
+          "quote": "For simulation centers & hospitals\nRun training 24/7."
+        }
+      ],
+      "note": "The contact form's Industry list also offers Medical Education, Pharmaceutical / Biotech, Military & Defense, Research & Academia and Government. The About page names deployments at Zimmer Biomet, Roche, Sofmedica/Isle-Academy, Inselspital Bern and Geneva University Hospitals, and '30+ institutions across 10 countries'."
+    },
+    "value_proposition": {
+      "status": "found",
+      "value": "Build, host and scale clinically validated medical XR simulations, running training 24/7 without a proctor in the room or added headcount; cites 43% error reduction, 32% skill improvement and 40% faster proficiency from peer-reviewed research.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Build, host, and scale clinically validated medical XR simulations."
+        },
+        {
+          "page": "home",
+          "quote": "Run training 24/7.\nWithout a proctor in the room."
+        },
+        {
+          "page": "home",
+          "quote": "Scale surgeon training.\nWithout adding headcount."
+        },
+        {
+          "page": "home",
+          "quote": "43%\nError reduction"
+        }
+      ],
+      "note": "The first quote is the home META DESCRIPTION. The home page also lists '32%' 'Skill improvement' and '40%' 'Faster proficiency'."
+    },
+    "tagline": {
+      "status": "found",
+      "value": "No patient should be anyone's first.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "No patient should be\nanyone's first."
+        },
+        {
+          "page": "about",
+          "quote": "no patient should be anyone’s first."
+        }
+      ],
+      "note": "Repeated on the home and About pages (About writes it in lower case after 'Built on one conviction:'). It is also the homepage's first headline after the line 'The leading Medical XR Training Platform'. Other candidates: 'The expert who never leaves the room.' (JARIA, home and platform); 'One platform. Every training need.'"
+    },
+    "pricing": {
+      "status": "found",
+      "value": "Self-serve plans from €159/month; Virtual Training Center sold on CCU plans with unlimited registered users; SIM Library titles licensed individually",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Self-serve plans from €159/month."
+        },
+        {
+          "page": "home",
+          "quote": "registered users per CCU plan"
+        },
+        {
+          "page": "home",
+          "quote": "License only the titles you need."
+        }
+      ],
+      "note": "The €159/month figure appears only in the home META DESCRIPTION; no page body shows prices or plan details. The CCU line follows an '∞' symbol ('∞ registered users per CCU plan'). 'CCU' is not defined on the pages read."
+    }
+  },
+  "carried_forward": {
+    "from_record": "data/records/oramavr/2026-10-13_182012.json",
+    "at": "2026-10-13T18:39:59-06:00",
+    "reason": "page text changed, every quote still present",
+    "pages_changed": [
+      "home"
+    ]
+  }
+}

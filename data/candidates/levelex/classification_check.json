@@ -1,0 +1,21 @@
+{
+  "checked_at": "2026-10-14T11:24:43-06:00",
+  "proposed": "Unclear",
+  "problems": [],
+  "results": [
+    {
+      "page": "home",
+      "quote": "In 2024, Level Ex's Life Sciences division was acquired by Relevate Health and has been rebranded as Relevate Health Games.",
+      "source_url": "https://www.levelex.com/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "home",
+      "quote": "Level Ex's Surgical and Medical Device division remains part of Brainlab's SNKE Group.",
+      "source_url": "https://www.levelex.com/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    }
+  ]
+}

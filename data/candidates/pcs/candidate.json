@@ -1,0 +1,75 @@
+{
+  "slug": "pcs",
+  "name": "PCS",
+  "website": "https://www.pcs.ai/",
+  "domain": "pcs.ai",
+  "aliases": [],
+  "status": "approved",
+  "first_seen": "2026-10-14T10:12:31-06:00",
+  "last_seen": "2026-10-14T11:23:28-06:00",
+  "sightings": [
+    {
+      "source": "web search",
+      "query": "AI virtual patient simulation launches",
+      "url": "https://www.healthysimulation.com/vendors/pcs/",
+      "snippet": "PCS Spark AI-driven virtual patient encounters",
+      "website_from": "result link",
+      "origin": "topic-search",
+      "found_in": "https://www.healthysimulation.com/vendors/pcs/",
+      "run": "2026-10-14-test",
+      "found_at": "2026-10-14T10:12:31-06:00"
+    }
+  ],
+  "known_from": null,
+  "possible_duplicate_of": [],
+  "snapshot": "data/candidates/pcs/snapshots/2026-10-14_101231",
+  "extra_pages": [],
+  "signals": {
+    "healthcare_training": [
+      "nursing",
+      "medical education",
+      "healthcare training",
+      "virtual patients",
+      "allied health"
+    ],
+    "headset": [
+      "VR",
+      "headset"
+    ],
+    "simulation": [
+      "simulation",
+      "simulations",
+      "simulator",
+      "manikins"
+    ]
+  },
+  "suggested_pages": [],
+  "classification": {
+    "proposed": "1st Degree",
+    "by": "Claude Code session, model claude-opus-5-5",
+    "at": "2026-10-14T10:14:56-06:00",
+    "snapshot": "data/candidates/pcs/snapshots/2026-10-14_101231",
+    "reason": "AI virtual patients for healthcare education (medical, nursing, EMS, allied health), used on a screen or in a VR headset (Spark).",
+    "evidence": [
+      {
+        "page": "home",
+        "quote": "Spark is a virtual AI-driven simulated patient platform designed to enhance healthcare education by providing immersive and interactive learning opportunities through either a screen-based interface or a VR headset."
+      },
+      {
+        "page": "home",
+        "quote": "Solutions for Nursing Education"
+      }
+    ]
+  },
+  "review": {
+    "decision": "approved",
+    "type": "1st Degree",
+    "at": "2026-10-14T11:31:01-06:00",
+    "reason": "Approved in the review queue",
+    "tracked_slug": "pcs",
+    "pages": [
+      "https://www.pcs.ai/"
+    ]
+  },
+  "name_on_site": true
+}

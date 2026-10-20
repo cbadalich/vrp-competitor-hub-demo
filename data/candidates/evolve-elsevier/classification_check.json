@@ -1,0 +1,21 @@
+{
+  "checked_at": "2026-10-14T11:24:43-06:00",
+  "proposed": "1st Degree",
+  "problems": [],
+  "results": [
+    {
+      "page": "education_training_simulation-learning-system-with-virtual-reality-sls-vr",
+      "quote": "Enhance student clinical judgment with the first hands-on nursing virtual reality simulation of its kind.",
+      "source_url": "https://elsevierresources.com/nhe-faculty-training/simulation-learning-system-with-virtual-reality/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "education_training_simulation-learning-system-with-virtual-reality-sls-vr",
+      "quote": "Installing the SimX VR App On Meta Quest Headsets",
+      "source_url": "https://elsevierresources.com/nhe-faculty-training/simulation-learning-system-with-virtual-reality/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    }
+  ]
+}

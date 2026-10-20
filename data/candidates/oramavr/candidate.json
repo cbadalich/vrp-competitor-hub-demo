@@ -1,0 +1,91 @@
+{
+  "slug": "oramavr",
+  "name": "ORamaVR",
+  "website": "https://oramavr.com/",
+  "domain": "oramavr.com",
+  "aliases": [],
+  "status": "approved",
+  "first_seen": "2026-10-13T18:13:40-06:00",
+  "last_seen": "2026-10-13T18:13:40-06:00",
+  "sightings": [
+    {
+      "source": "earlier research list",
+      "query": "",
+      "url": "",
+      "snippet": "",
+      "website_from": "earlier research list",
+      "found_at": "2026-10-13T18:13:40-06:00"
+    }
+  ],
+  "possible_duplicate_of": [],
+  "snapshot": "data/candidates/oramavr/snapshots/2026-10-13_181635",
+  "extra_pages": [
+    "https://oramavr.com/platform/",
+    "https://oramavr.com/about/"
+  ],
+  "signals": {
+    "healthcare_training": [
+      "medical education",
+      "clinical training",
+      "simulation center"
+    ],
+    "headset": [
+      "VR",
+      "XR",
+      "headset"
+    ],
+    "simulation": [
+      "simulation",
+      "simulations",
+      "simulator",
+      "simulators",
+      "training platform"
+    ],
+    "public_safety": [
+      "military",
+      "defense"
+    ],
+    "patient_facing": [
+      "therapeutic",
+      "rehabilitation"
+    ]
+  },
+  "suggested_pages": [
+    "https://oramavr.com/platform/",
+    "https://oramavr.com/about/"
+  ],
+  "classification": {
+    "proposed": "1st Degree",
+    "by": "Claude Code session, model claude-opus-5-5",
+    "at": "2026-10-13T18:30:00-06:00",
+    "snapshot": "data/candidates/oramavr/snapshots/2026-10-13_181635",
+    "reason": "The ORamaVR Platform (SIM Library, Virtual Training Center) delivers medical XR simulations to any headset for clinicians and surgeons at simulation centers and hospitals, with immersive VR practice and AI-proctored assessment.",
+    "evidence": [
+      {
+        "page": "home",
+        "quote": "From zero to trained clinicians at scale."
+      },
+      {
+        "page": "home",
+        "quote": "Deploy to any headset, anywhere"
+      },
+      {
+        "page": "home",
+        "quote": "Time to demonstrated competency reduced through immersive VR practice and AI-guided assessment."
+      }
+    ]
+  },
+  "review": {
+    "decision": "approved",
+    "type": "1st Degree",
+    "at": "2026-10-13T18:19:11-06:00",
+    "reason": "",
+    "tracked_slug": "oramavr",
+    "pages": [
+      "https://oramavr.com/",
+      "https://oramavr.com/platform/",
+      "https://oramavr.com/about/"
+    ]
+  },
+  "name_on_site": true
+}

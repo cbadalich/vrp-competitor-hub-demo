@@ -1,0 +1,15 @@
+{
+  "competitor": "Mentone Educational",
+  "requested_url": "https://www.mentone-educational.com.au/",
+  "fetched_at": "2026-10-14T10:12:22-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.mentone-educational.com.au/",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "Mentone Educational - Anatomical Models + Educational Supplies Australia",
+  "meta_description": "Mentone Educational has the largest range of medical simulations, stethoscopes + educational supplies Australia. Visit our showroom today to learn more!",
+  "html_bytes": 93171,
+  "text_characters": 4735
+}

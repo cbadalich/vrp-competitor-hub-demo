@@ -1,0 +1,15 @@
+{
+  "competitor": "SimX",
+  "requested_url": "https://www.simxvr.com/platform/virtual-manikin/",
+  "fetched_at": "2026-09-29T18:40:14-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.simxvr.com/platform/virtual-manikin/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "SimX Virtual Manikin\u2122 | Customizable VR Patient Scenarios",
+  "meta_description": "Build custom VR patient encounters with the SimX Virtual Manikin\u2122. Adjust patient vitals, diagnosis, and environment in real time. See how it works.",
+  "html_bytes": 96648,
+  "text_characters": 9123
+}

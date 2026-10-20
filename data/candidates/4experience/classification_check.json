@@ -1,0 +1,28 @@
+{
+  "checked_at": "2026-10-14T11:24:43-06:00",
+  "proposed": "3rd Degree",
+  "problems": [],
+  "results": [
+    {
+      "page": "firefighting-vr-simulator",
+      "quote": "virtual reality (VR) simulation created especially for firefighters and firefighting, safety and rescue enthusiasts",
+      "source_url": "https://4experience.co/firefighting-vr-simulator/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "firefighting-vr-simulator",
+      "quote": "(VR headset + desktop)",
+      "source_url": "https://4experience.co/firefighting-vr-simulator/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "vr-technology-in-medicine",
+      "quote": "Custom-made XR innovative healthcare solutions for researchers and the medical industry.",
+      "source_url": "https://4experience.co/vr-technology-in-medicine/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    }
+  ]
+}

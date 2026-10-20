@@ -1,0 +1,229 @@
+{
+  "competitor": "VRpatients",
+  "slug": "vrpatients",
+  "snapshot": "data/snapshots/vrpatients/2026-10-13_183515",
+  "extracted_at": "2026-09-23T10:12:34-06:00",
+  "extracted_by": "Claude Code session, model claude-opus-5-5",
+  "pages_read": [
+    "home",
+    "authoring-tool",
+    "nursing",
+    "emergency-responders",
+    "military",
+    "faqs",
+    "about-us"
+  ],
+  "pages_failed": [],
+  "fields": {
+    "product_category": {
+      "status": "found",
+      "value": "No-code platform for creating immersive, AI-driven VR, MR and web-based patient simulations, for EMS and nursing education (plus military medical training)",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "VRpatients® is a no-code platform for creating immersive, AI-driven VR, MR, and web-based patient simulations"
+        },
+        {
+          "page": "home",
+          "quote": "VRpatients is Virtual Reality EMS & Nursing Simulation Software"
+        },
+        {
+          "page": "military",
+          "quote": "VRpatients for Military is a virtual medical simulation training software program"
+        }
+      ],
+      "note": "The second quote is the homepage TITLE line. Nursing, EMS and military each have their own industry page."
+    },
+    "platforms": {
+      "status": "found",
+      "value": [
+        "Web",
+        "VR",
+        "MR"
+      ],
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Web, VR, or MR—train on any device, in any setting, at any time."
+        },
+        {
+          "page": "home",
+          "quote": "Note: Mixed Reality works best on the Meta Quest 3, 3s, and HTC VIVE XR Elite."
+        },
+        {
+          "page": "emergency-responders",
+          "quote": "Accessible on:\nVR headsets\nDesktop browsers"
+        },
+        {
+          "page": "faqs",
+          "quote": "VRpatients is available online using a PC/monitor, and can be casted to a TV screen for classroom viewing."
+        }
+      ],
+      "note": "The nursing page says 'VRpatients works on desktop and browser', but the EMS page names 'Desktop browsers' and the FAQ describes online use on a PC, so Desktop is not listed as a separate platform. No page names a specific VR headset for full VR mode; headsets are named only for Mixed Reality. 'Any device' is claimed but no page mentions phones or tablets, so Mobile is not listed."
+    },
+    "key_capabilities": {
+      "status": "found",
+      "value": [
+        "No-code case authoring tool (connect the boxes)",
+        "Included case library of 50+ modifiable cases",
+        "Living environments and patient avatars to choose from",
+        "AI-powered patient conversations",
+        "Speak with the patient in any language",
+        "AI grading and feedback with customizable rubrics and critical actions",
+        "Asynchronous, 24/7 access without a facilitator",
+        "Mixed Reality use with physical task trainers and equipment",
+        "Custom physiologic responses to medication administration",
+        "Administrative management tool and LMS integration"
+      ],
+      "evidence": [
+        {
+          "page": "authoring-tool",
+          "quote": "Simply connect the boxes. No programming required."
+        },
+        {
+          "page": "faqs",
+          "quote": "Yes, the application includes more than 50+ cases and is always growing."
+        },
+        {
+          "page": "faqs",
+          "quote": "VRpatients currently has over 25 living environments and 8 patient avatars from which to choose."
+        },
+        {
+          "page": "home",
+          "quote": "run simulations anywhere, on any device, with AI-powered conversations."
+        },
+        {
+          "page": "nursing",
+          "quote": "Speak with your patient in any language"
+        },
+        {
+          "page": "nursing",
+          "quote": "Evaluate student performance automatically using customizable grading rubrics and critical actions."
+        },
+        {
+          "page": "home",
+          "quote": "AI grading is here to empower your debriefing sessions"
+        },
+        {
+          "page": "home",
+          "quote": "Asynchronous access means no scheduling conflicts—students train on their terms."
+        },
+        {
+          "page": "home",
+          "quote": "Online, In-Class or Async\nNo Facilitator"
+        },
+        {
+          "page": "home",
+          "quote": "Users can interact with existing task trainers and equipment without leaving the virtual sim."
+        },
+        {
+          "page": "authoring-tool",
+          "quote": "Create custom physiologic responses to medication administration in minutes!"
+        },
+        {
+          "page": "nursing",
+          "quote": "Secure Administrative Management Tool + LMS Integration"
+        }
+      ],
+      "note": "CONFLICT on team training: the FAQ says 'At the current time, a single student interacts inside the assigned case', while the EMS page lists 'Train individuals or entire teams' and the military page lists 'Conduct individual or team-based training' and 'Team-Based Tactical Medical Decision Making'. Multiplayer is therefore not listed. CONFLICT on content counts: the authoring-tool meta description says 'more than 20 realistic living environments and a multitude of patient avatars'; the FAQ says 'over 25 living environments and 8 patient avatars'. The FAQ also lists AI dialogue and AI Debriefing/Feedback as authoring variables. Case sharing is limited to the authoring institution (FAQ). The 'No Facilitator' evidence is a short homepage hero label."
+    },
+    "target_customer": {
+      "status": "found",
+      "value": "Nursing programs, EMS programs and agencies (EMTs and paramedics), and military medical personnel; the homepage also names schools, hospitals and healthcare workforce learners. Sold by subscription seats per organization.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "let schools, hospitals, and healthcare workforce learners seamlessly integrate realistic, on-demand training"
+        },
+        {
+          "page": "home",
+          "quote": "Join leading nursing programs, EMS agencies, and clinical educators already using VRpatients"
+        },
+        {
+          "page": "emergency-responders",
+          "quote": "Train EMTs and paramedics with realistic scenarios anytime using VRpatients platform."
+        },
+        {
+          "page": "military",
+          "quote": "enabling personnel to train, assess, and maintain critical skills wherever they are deployed."
+        },
+        {
+          "page": "faqs",
+          "quote": "The only limit is how many seats/users are in your subscription."
+        }
+      ],
+      "note": "Menus list three industries: EMS Education, Nursing Education, Military Training. The FAQ refers to 'accredited educational institutions'. No page names specific customers in body text; the menu links an 'Ohio University Case Study'."
+    },
+    "value_proposition": {
+      "status": "found",
+      "value": "Educators build and assign their own customizable patient simulations without coding, and learners practice clinical decisions safely on web, VR or MR at any time, without lab or scheduling limits.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Its flexible authoring tool and 24/7 access let schools, hospitals, and healthcare workforce learners seamlessly integrate realistic, on-demand training that elevates clinical education and professional development."
+        },
+        {
+          "page": "nursing",
+          "quote": "With VRpatients®, you create and own your scenarios—tailored to your curriculum."
+        },
+        {
+          "page": "nursing",
+          "quote": "Students can practice high-risk scenarios without putting real patients in danger."
+        },
+        {
+          "page": "nursing",
+          "quote": "Traditional labs are expensive, limited, and require scheduling. VR removes these barriers."
+        }
+      ],
+      "note": "Cost is also part of the pitch: nursing and EMS pages both carry a 'Lower Cost Than Traditional' section. The homepage cites unnamed research ('one of the top medical schools in Europe')."
+    },
+    "tagline": {
+      "status": "found",
+      "value": "Real life training without real life consequences.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "VRpatients®, Real life training without real life consequences."
+        },
+        {
+          "page": "about-us",
+          "quote": "It’s real life training without real life consequences."
+        }
+      ],
+      "note": "Repeated in the footer of all 7 pages read and in the About Us body text. The line itself carries no trademark mark (the ® belongs to 'VRpatients'). Other candidates: homepage hero 'What will you learn today?' (first headline after the menu, split over three lines) and 'One Platform. Every Format.' (homepage heading and meta description). Military page closes with 'Train. Assess. Repeat.'"
+    },
+    "pricing": {
+      "status": "found",
+      "value": "Not published; quote on request. Described as a known yearly cost, sized to the organization, with subscription seats. SAVVIK members can buy at pre-negotiated pricing.",
+      "evidence": [
+        {
+          "page": "faqs",
+          "quote": "VRpatients is priced to meet the needs of any sized organization with a known yearly cost, no surprises. Click to request your personalized quote."
+        },
+        {
+          "page": "faqs",
+          "quote": "The only limit is how many seats/users are in your subscription."
+        },
+        {
+          "page": "emergency-responders",
+          "quote": "SAVVIK members can access pre-negotiated pricing and purchase through SAVVIK, eliminating the need for a separate bid process."
+        }
+      ],
+      "note": "No dollar amounts on the 7 pages read. The SAVVIK note appears only on the EMS page."
+    }
+  },
+  "carried_forward": {
+    "from_record": "data/records/vrpatients/2026-09-23_094850.json",
+    "at": "2026-10-13T18:39:59-06:00",
+    "reason": "page text changed, every quote still present",
+    "pages_changed": [
+      "home",
+      "authoring-tool",
+      "nursing",
+      "emergency-responders",
+      "military",
+      "faqs",
+      "about-us"
+    ]
+  }
+}

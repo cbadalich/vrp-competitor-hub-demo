@@ -1,0 +1,21 @@
+{
+  "checked_at": "2026-10-14T11:24:43-06:00",
+  "proposed": "3rd Degree",
+  "problems": [],
+  "results": [
+    {
+      "page": "home",
+      "quote": "Ti Training is a trusted provider of highly interactive and immersive training solutions for law enforcement, military professionals, and retail/commercial industries.",
+      "source_url": "https://titraining.com/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "ar-glasses",
+      "quote": "Our Immersive Reality headsets create a 3D training environment. Used in conjunction with our RECON simulation system",
+      "source_url": "https://titraining.com/ar-glasses/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    }
+  ]
+}

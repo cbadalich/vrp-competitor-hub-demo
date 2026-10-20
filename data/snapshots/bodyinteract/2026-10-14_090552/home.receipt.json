@@ -1,0 +1,15 @@
+{
+  "competitor": "Body Interact",
+  "requested_url": "https://bodyinteract.com/",
+  "fetched_at": "2026-10-14T09:05:52-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://bodyinteract.com/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "Body Interact - Virtual Patients Simulator | Body Interact",
+  "meta_description": "Body Interact - Virtual Patient Simulator fosters current and future healthcare professionals to improve critical thinking and decision-making skills.",
+  "html_bytes": 474594,
+  "text_characters": 5821
+}

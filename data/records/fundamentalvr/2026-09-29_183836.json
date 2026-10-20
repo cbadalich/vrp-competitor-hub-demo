@@ -1,0 +1,184 @@
+{
+  "competitor": "FundamentalVR",
+  "slug": "fundamentalvr",
+  "snapshot": "data/snapshots/fundamentalvr/2026-09-29_183836",
+  "extracted_at": "2026-09-29T19:11:04-06:00",
+  "extracted_by": "Claude Code session, model claude-opus-5-5",
+  "note": "The site redirects from fundamentalvr.com to fundamentalxr.com; the pages call the company 'Fundamental XR'. The competitor name is kept as listed in config/competitors.csv. clinical-areas.txt and case-studies.txt are short (about 1,200 and 1,800 characters).",
+  "pages_read": [
+    "home",
+    "clinical-areas",
+    "case-studies"
+  ],
+  "pages_failed": [],
+  "fields": {
+    "product_category": {
+      "status": "found",
+      "value": "Immersive (XR) training solutions and platform for knowledge acquisition and skills development in the medical sector, focused on MedTech clinical, manufacturing and growth teams, with haptic VR procedural simulation in areas such as ophthalmology and robotics",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "We create immersive solutions for knowledge acquisition and skills development in the medical sector for any interactive medium."
+        },
+        {
+          "page": "home",
+          "quote": "We are the complete training solution for clinical, manufacturing, and growth teams in MedTech, with an advanced platform to deliver it."
+        },
+        {
+          "page": "clinical-areas",
+          "quote": "Haptic VR for cataract, retina and gene therapy training."
+        }
+      ],
+      "note": "The company now presents itself as Fundamental XR; all three URLs resolved to fundamentalxr.com (see receipts). Pages describe custom-built solutions ('custom XR solutions') as well as a platform. Clinical areas: ophthalmology and robotics live; interventional cardiology, orthopedics, and pharma and drug delivery marked 'Coming soon'."
+    },
+    "platforms": {
+      "status": "found",
+      "value": [
+        "VR",
+        "MR",
+        "AR",
+        "Web",
+        "Mobile"
+      ],
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Immersive experiences that place you in real world medical environments."
+        },
+        {
+          "page": "home",
+          "quote": "MR uses a headset to mix virtual content with real-world settings."
+        },
+        {
+          "page": "home",
+          "quote": "A digital training layer over the real world."
+        },
+        {
+          "page": "home",
+          "quote": "Experiences for browsers or native mobile or tablet applications."
+        },
+        {
+          "page": "home",
+          "quote": "Our technology enables simple conversion across immersive, app, and web based platforms."
+        }
+      ],
+      "note": "These are listed as the media the company builds for ('Virtual Reality', 'Mixed Reality', 'Augmented Reality', 'Web & Apps'), not as the platforms of one specific product. The 'Advanced Insights Platform' for tracking usage reads as an administrator tool and is not counted."
+    },
+    "key_capabilities": {
+      "status": "found",
+      "value": [
+        "Haptic VR procedural training (cataract, retina, gene therapy)",
+        "Advanced Insights Platform to track usage, training and assessment",
+        "Ready-made or custom imaging that simulates a client's imaging device",
+        "Deploy to any interactive medium (immersive, app, web)",
+        "Realistic anatomy recreations",
+        "Collaborative training: tutoring, teamwork, role-based",
+        "Generative AI",
+        "Enterprise security with single sign-on integration",
+        "Digital twins and virtual OR environments"
+      ],
+      "evidence": [
+        {
+          "page": "clinical-areas",
+          "quote": "Haptic VR for cataract, retina and gene therapy training."
+        },
+        {
+          "page": "home",
+          "quote": "Track usage and measure learning. Monitor training and assessment on our learning platform."
+        },
+        {
+          "page": "home",
+          "quote": "Our suite of imaging technologies supports any procedure, and accurately simulates your own imaging device."
+        },
+        {
+          "page": "home",
+          "quote": "Our technology enables simple conversion across immersive, app, and web based platforms."
+        },
+        {
+          "page": "home",
+          "quote": "Stunning recreations of any patient or treatment mechanism, large or small, inside and out."
+        },
+        {
+          "page": "home",
+          "quote": "Easy collaboration enables tutoring, teamwork or role-based training anywhere, anytime."
+        },
+        {
+          "page": "home",
+          "quote": "Deeper learning with generative AI"
+        },
+        {
+          "page": "home",
+          "quote": "Dependable, secure, and ready to use or integrate with any single-sign on system."
+        },
+        {
+          "page": "home",
+          "quote": "How a digital twin and virtual ORs transformed urology training at scale."
+        }
+      ],
+      "note": "The home page lists 'Haptics' as 'Physical feedback through touch or motion.' Digital twins appear only in a case-study teaser. Stated results (not features): '500K+ Training hours delivered', '95% Skill retention rate', '40% Faster learning', '200+ Healthcare institutions'."
+    },
+    "target_customer": {
+      "status": "found",
+      "value": "MedTech companies (clinical, manufacturing, and growth or commercial teams) and healthcare institutions; also pharma teams and medical education. Specialties named: ophthalmology, robotics, interventional cardiology, orthopedics, urology, gene therapy, injection training.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "We are the complete training solution for clinical, manufacturing, and growth teams in MedTech"
+        },
+        {
+          "page": "home",
+          "quote": "200+\nHealthcare institutions"
+        },
+        {
+          "page": "clinical-areas",
+          "quote": "Injection technique and therapy administration for pharma teams."
+        },
+        {
+          "page": "case-studies",
+          "quote": "Evidence from immersive training programmes in ophthalmology and medical education"
+        }
+      ],
+      "note": "The pharma line is marked 'Coming soon'. The 200+ institutions figure is a results statistic, not a stated segment. No nursing programs are mentioned."
+    },
+    "value_proposition": {
+      "status": "found",
+      "value": "Immersive technology that builds competency faster, gives real-time actionable feedback, and reduces operational friction and cost; the company says it partners with clients to define, measure and deliver value.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Build competency faster and boost commercial traction"
+        },
+        {
+          "page": "home",
+          "quote": "Unlock deeper insights with real-time, actionable feedback"
+        },
+        {
+          "page": "home",
+          "quote": "Reduce operational friction and cut costs for greater efficiency"
+        },
+        {
+          "page": "home",
+          "quote": "Value creation is fundamental to our approach, we partner to define, measure and deliver value to every client in every project."
+        }
+      ],
+      "note": ""
+    },
+    "tagline": {
+      "status": "found",
+      "value": "Immersive technology to accelerate human excellence",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Immersive technology to accelerate\nhuman excellence"
+        }
+      ],
+      "note": "Homepage first headline after the menu, repeated twice on the home page and matching the page TITLE ('Fundamental XR - Immersive Technology to Accelerate Human Excellence'). No trademarked slogan found. Other candidate: 'Let's build your XR solution!'"
+    },
+    "pricing": {
+      "status": "not_found",
+      "value": null,
+      "evidence": [],
+      "note": "No prices, plans, or quote requests on the 3 pages read. Calls to action are 'Let's Talk', 'Talk to our team' and a contact form."
+    }
+  }
+}

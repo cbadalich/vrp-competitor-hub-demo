@@ -1,0 +1,15 @@
+{
+  "competitor": "FundamentalVR",
+  "requested_url": "https://www.fundamentalvr.com/case-studies",
+  "fetched_at": "2026-09-29T17:39:41-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.fundamentalxr.com/case-studies",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "Case studies and white papers | Fundamental XR",
+  "meta_description": "Evidence from Fundamental XR's immersive training programmes in ophthalmology, interventional cardiology and radiology, robotics and orthopaedics \u2014 and the implementation research behind them.",
+  "html_bytes": 52676,
+  "text_characters": 1499
+}

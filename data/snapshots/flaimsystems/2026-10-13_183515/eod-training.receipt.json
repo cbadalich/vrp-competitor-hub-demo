@@ -1,0 +1,15 @@
+{
+  "competitor": "FLAIM Systems",
+  "requested_url": "https://flaimsystems.com/eod-training/",
+  "fetched_at": "2026-10-13T18:36:56-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://flaimsystems.com/eod-training",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "EOD Training | Flaim",
+  "meta_description": "",
+  "html_bytes": 46352,
+  "text_characters": 2994
+}

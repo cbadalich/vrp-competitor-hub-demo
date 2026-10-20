@@ -1,0 +1,81 @@
+{
+  "slug": "360immersive",
+  "name": "360 Immersive",
+  "website": "https://360immersive.com/",
+  "domain": "360immersive.com",
+  "aliases": [],
+  "status": "approved",
+  "first_seen": "2026-09-29T17:38:37-06:00",
+  "last_seen": "2026-09-29T17:38:37-06:00",
+  "sightings": [
+    {
+      "source": "earlier research list",
+      "query": "\"360Immersive\" official website",
+      "url": "https://www.zoominfo.com/financial/360-immersive-llc/405675380",
+      "snippet": "How Much Did 360 Immersive Raise?",
+      "website_from": "search summary",
+      "found_at": "2026-09-29T17:38:37-06:00"
+    }
+  ],
+  "possible_duplicate_of": [],
+  "snapshot": "data/candidates/360immersive/snapshots/2026-09-29_173837",
+  "extra_pages": [],
+  "signals": {
+    "headset": [
+      "virtual reality",
+      "VR",
+      "headsets",
+      "Meta Quest"
+    ],
+    "simulation": [
+      "simulation",
+      "simulations"
+    ]
+  },
+  "suggested_pages": [
+    "https://www.360immersive.com/about-us/"
+  ],
+  "classification": {
+    "proposed": "Not Relevant",
+    "by": "Claude Code session, model claude-opus-5-5",
+    "at": "2026-09-29T17:48:00-06:00",
+    "snapshot": "data/candidates/360immersive/snapshots/2026-09-29_173837",
+    "reason": "360 Immersive's MVST courses are VR safety training for construction and general industry (industrial VR training), with Meta Quest support; no healthcare-worker training shown.",
+    "evidence": [
+      {
+        "page": "home",
+        "quote": "Affordable VR Training for Construction and General Industry"
+      },
+      {
+        "page": "home",
+        "quote": "support is offered for the Meta Quest 2 & 3 VR Headsets"
+      }
+    ]
+  },
+  "review": {
+    "decision": "approved",
+    "type": "3rd Degree",
+    "at": "2026-09-29T18:05:05-06:00",
+    "reason": "",
+    "tracked_slug": "360immersive",
+    "pages": [
+      "https://360immersive.com/",
+      "https://www.360immersive.com/about-us/"
+    ]
+  },
+  "name_on_site": true,
+  "review_history": [
+    {
+      "decision": "approved",
+      "type": "1st Degree",
+      "at": "2026-09-29T17:59:16-06:00",
+      "reason": "",
+      "tracked_slug": "360immersive",
+      "pages": [
+        "https://360immersive.com/",
+        "https://www.360immersive.com/about-us/"
+      ],
+      "undone_at": "2026-09-29T18:03:14-06:00"
+    }
+  ]
+}

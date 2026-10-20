@@ -1,0 +1,15 @@
+{
+  "competitor": "i-Human Patients",
+  "requested_url": "https://www.kaptest.com/blogs/nursing-educators/post/virtual-simulation-nursing-education",
+  "fetched_at": "2026-10-15T18:14:47-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.kaptest.com/blogs/nursing-educators/post/virtual-simulation-nursing-education",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "How Virtual Simulation Builds Practice-Ready Nursing Students | Kaplan Test Prep",
+  "meta_description": "Discover how Kaplan\u2019s i-Human Patients virtual simulation builds student clinical confidence, cuts lab costs, and fosters split-second clinical judgment.",
+  "html_bytes": 157230,
+  "text_characters": 3272
+}

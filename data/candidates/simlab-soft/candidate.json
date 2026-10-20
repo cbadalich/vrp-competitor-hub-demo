@@ -1,0 +1,83 @@
+{
+  "slug": "simlab-soft",
+  "name": "SimLab Soft",
+  "website": "https://www.simlab-soft.com/",
+  "domain": "simlab-soft.com",
+  "aliases": [],
+  "status": "approved",
+  "first_seen": "2026-09-29T17:18:56-06:00",
+  "last_seen": "2026-09-29T17:18:56-06:00",
+  "sightings": [
+    {
+      "source": "web search",
+      "query": "VR firefighter training simulation",
+      "url": "https://www.simlab-soft.com/use_cases/simlab-vr-fire-fighting.aspx",
+      "snippet": "VR Firefighter Training Simulator",
+      "found_at": "2026-09-29T17:18:56-06:00"
+    }
+  ],
+  "possible_duplicate_of": [],
+  "snapshot": "data/candidates/simlab-soft/snapshots/2026-09-29_171936",
+  "extra_pages": [
+    "https://www.simlab-soft.com/use_cases/simlab-vr-fire-fighting.aspx"
+  ],
+  "signals": {
+    "headset": [
+      "VR",
+      "headset",
+      "headsets",
+      "Meta Quest",
+      "Pico"
+    ],
+    "public_safety": [
+      "firefighter",
+      "firefighters"
+    ]
+  },
+  "suggested_pages": [
+    "https://www.simlab-soft.com/3d-products/simlab-composer-15-whats-new.aspx/",
+    "https://www.simlab-soft.com/3d-products/vr-studio-15-whats-new.aspx/",
+    "https://www.simlab-soft.com/3d-products/simlab-composer-main.aspx/",
+    "https://www.simlab-soft.com/3d-products/vr-studio.aspx/",
+    "https://www.simlab-soft.com/cadvrter-application.aspx/",
+    "https://www.simlab-soft.com/3d-products/simlab-composer-trial.aspx/",
+    "https://www.simlab-soft.com/3d-products/vr-studio-trial.aspx/",
+    "https://www.simlab-soft.com/3d-products/Integration/simlab-composer-zbrush.aspx/"
+  ],
+  "classification": {
+    "proposed": "3rd Degree",
+    "by": "Claude Code session, model claude-opus-5-5",
+    "at": "2026-09-29T17:24:32-06:00",
+    "snapshot": "data/candidates/simlab-soft/snapshots/2026-09-29_171936",
+    "reason": "Best-matching product is SimLab Composer, marketed on the saved use-case page as firefighter VR training software for fire departments, running on Meta Quest and Pico headsets. The homepage presents it as general no-code VR creation software, and the fire page also names industrial HSE teams, so the owner may prefer Not Relevant.",
+    "evidence": [
+      {
+        "page": "use_cases_simlab-vr-fire-fighting.aspx",
+        "quote": "SimLab Composer is firefighter VR training software that fire departments, training academies and industrial HSE teams use to build their own VR fire training in-house"
+      },
+      {
+        "page": "use_cases_simlab-vr-fire-fighting.aspx",
+        "quote": "Meta Quest, Pico, PC VR, desktop and mobile"
+      },
+      {
+        "page": "home",
+        "quote": "#1 Code FREE VR Creation Software"
+      }
+    ]
+  },
+  "review": {
+    "decision": "approved",
+    "type": "3rd Degree",
+    "at": "2026-09-29T18:17:24-06:00",
+    "reason": "",
+    "tracked_slug": "simlab-soft",
+    "pages": [
+      "https://www.simlab-soft.com/",
+      "https://www.simlab-soft.com/use_cases/simlab-vr-fire-fighting.aspx",
+      "https://www.simlab-soft.com/3d-products/simlab-composer-15-whats-new.aspx/",
+      "https://www.simlab-soft.com/3d-products/vr-studio-15-whats-new.aspx/",
+      "https://www.simlab-soft.com/3d-products/simlab-composer-main.aspx/"
+    ]
+  },
+  "name_on_site": true
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "apexofficer",
+  "name": "Apex Officer",
+  "website": "https://www.apexofficer.com/",
+  "domain": "apexofficer.com",
+  "aliases": [],
+  "status": "deferred",
+  "first_seen": "2026-10-14T10:12:27-06:00",
+  "last_seen": "2026-10-14T11:23:28-06:00",
+  "sightings": [
+    {
+      "source": "web search",
+      "query": "VR police training simulator",
+      "url": "https://cbsnews.com/texas/news/white-settlement-police-use-latest-vr-training-for-de-escalation-tactics",
+      "snippet": "uses a system called \"Apex Officer\" to practice de-escalation",
+      "website_from": "search summary",
+      "origin": "topic-search",
+      "found_in": "https://cbsnews.com/texas/news/white-settlement-police-use-latest-vr-training-for-de-escalation-tactics",
+      "run": "2026-10-14-test",
+      "found_at": "2026-10-14T10:12:27-06:00"
+    }
+  ],
+  "known_from": "earlier research list",
+  "possible_duplicate_of": [],
+  "snapshot": "data/candidates/apexofficer/snapshots/2026-10-14_101227",
+  "extra_pages": [],
+  "signals": {},
+  "suggested_pages": [],
+  "classification": {
+    "proposed": "Unclear",
+    "by": "Claude Code session, model claude-opus-5-5",
+    "at": "2026-10-14T10:14:56-06:00",
+    "snapshot": "data/candidates/apexofficer/snapshots/2026-10-14_101227",
+    "reason": "The homepage could not be saved: the security certificate does not match www.apexofficer.com. Search results describe VR police training (which would be 3rd Degree). Check it by hand.",
+    "evidence": []
+  },
+  "review": {
+    "decision": "deferred",
+    "at": "2026-10-14T11:31:01-06:00",
+    "reason": ""
+  },
+  "name_on_site": null
+}

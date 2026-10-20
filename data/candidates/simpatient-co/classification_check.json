@@ -1,0 +1,28 @@
+{
+  "checked_at": "2026-10-14T11:24:43-06:00",
+  "proposed": "2nd Degree",
+  "problems": [],
+  "results": [
+    {
+      "page": "home",
+      "quote": "For Universities, Medical Schools & Training Bodies",
+      "source_url": "https://simpatient.co.uk/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "home",
+      "quote": "AI-simulated communication training, at scale.",
+      "source_url": "https://simpatient.co.uk/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "pricing",
+      "quote": "Text, voice & video modes",
+      "source_url": "https://simpatient.co.uk/pricing",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "competitor": "Virti",
+  "requested_url": "https://www.virti.com/ai-role-play-platform/",
+  "fetched_at": "2026-10-13T18:15:29-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://virti.com/ai-role-play-platform",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "AI Role-Play Platform for Training & Coaching | Virti",
+  "meta_description": "One no-code AI roleplay platform to build training scenarios, practice with AI Virtual Humans, get automatic AI coaching feedback, and roll out sales, service and clinical training to every corner of your organisation.",
+  "html_bytes": 102417,
+  "text_characters": 8521
+}

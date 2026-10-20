@@ -1,0 +1,15 @@
+{
+  "competitor": "SimForHealth",
+  "requested_url": "https://www.simforhealth.com/notre-expertise/",
+  "fetched_at": "2026-10-14T09:50:23-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.simforhealth.com/notre-expertise/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "Notre expertise - SimforHealth",
+  "meta_description": "L'expert en simulation num\u00e9rique pour la formation en sant\u00e9 Reconnue dans le secteur de la e-sant\u00e9, Simforhealth associe une triple expertise pour garantir des solutions innovantes et pertinentes. Expertise m\u00e9dicale Expertise p\u00e9dagogique Expertise technologique La simulation num\u00e9rique dans la simulation en sant\u00e9 Simulation proc\u00e9durale Entra\u00eenement aux gestes techniques m\u00e9dicaux pour ma\u00eetriser des proc\u00e9dures en toute",
+  "html_bytes": 126557,
+  "text_characters": 4437
+}

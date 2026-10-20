@@ -1,0 +1,15 @@
+{
+  "competitor": "UbiSim",
+  "requested_url": "https://www.ubisimvr.com/ai-supported-capabilities/",
+  "fetched_at": "2026-09-23T09:52:16-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.ubisimvr.com/ai-supported-capabilities",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "AI-Supported Capabilities",
+  "meta_description": "Coming November 2025: AI-supported digital facilitator and other AI enhancements that prioritize safety, improve realism, and reduce faculty burdens.",
+  "html_bytes": 182624,
+  "text_characters": 3862
+}

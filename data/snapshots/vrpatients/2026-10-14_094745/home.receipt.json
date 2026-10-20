@@ -1,0 +1,15 @@
+{
+  "competitor": "VRpatients",
+  "requested_url": "https://vrpatients.com/",
+  "fetched_at": "2026-10-14T09:47:45-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://vrpatients.com/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "VRpatients is Virtual Reality EMS & Nursing Simulation Software",
+  "meta_description": "One Platform. Every Format. Web, VR/XR, and Mixed Reality. Create and run simulations anywhere, on any device, with AI-powered conversations for EMS and Nursing",
+  "html_bytes": 253799,
+  "text_characters": 2772
+}

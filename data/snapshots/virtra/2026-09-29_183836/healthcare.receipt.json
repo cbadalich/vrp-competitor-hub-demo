@@ -1,0 +1,15 @@
+{
+  "competitor": "VirTra",
+  "requested_url": "https://www.virtra.com/healthcare/",
+  "fetched_at": "2026-09-29T19:01:46-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.virtra.com/healthcare/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "Healthcare - VirTra Simulated Training",
+  "meta_description": "Healthcare Security Training Solutions Immersive Training for Healthcare Security Teams VirTra equips hospital and healthcare security personnel with immersive, scenario-based training to safely de-escalate volatile situations, protect staff and patients, and comply with use-of-force and healthcare safety protocols. REQUEST A DEMO DOWNLOAD HEALTHCARE BROCHURE Why Simulation Matters in Healthcare Security Healthcare Environments Require Calm, Controlled [\u2026]",
+  "html_bytes": 248230,
+  "text_characters": 5361
+}

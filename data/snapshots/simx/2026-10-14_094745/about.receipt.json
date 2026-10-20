@@ -1,0 +1,15 @@
+{
+  "competitor": "SimX",
+  "requested_url": "https://www.simxvr.com/about/",
+  "fetched_at": "2026-10-14T09:49:07-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.simxvr.com/about/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "About SimX | VR Medical Simulation Built for Teams",
+  "meta_description": "SimX invented VR medical simulation training. Founded and led by clinicians, we're the longest-running VR simulation company in healthcare.",
+  "html_bytes": 98305,
+  "text_characters": 7792
+}

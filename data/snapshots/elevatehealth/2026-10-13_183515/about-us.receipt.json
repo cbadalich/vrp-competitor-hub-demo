@@ -1,0 +1,15 @@
+{
+  "competitor": "Elevate Healthcare",
+  "requested_url": "https://elevatehealth.net/about-us/",
+  "fetched_at": "2026-10-13T18:36:32-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://elevatehealth.net/about-us/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "About Us - Elevate Healthcare",
+  "meta_description": "Discover More",
+  "html_bytes": 210063,
+  "text_characters": 7316
+}

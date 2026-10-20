@@ -1,0 +1,15 @@
+{
+  "competitor": "GigXR",
+  "requested_url": "https://www.gigxr.com/products/ai-conversations/",
+  "fetched_at": "2026-10-13T18:36:47-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.gigxr.com/products/ai-conversations",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "AI Conversations \u2014 AI patient conversations for history-taking | GigXR",
+  "meta_description": "Browser-based AI patient conversations: 65+ cases across 17 specialties for history-taking, clinical reasoning, and difficult conversations. No headset, no app \u2014 runs in any modern browser.",
+  "html_bytes": 44494,
+  "text_characters": 4351
+}

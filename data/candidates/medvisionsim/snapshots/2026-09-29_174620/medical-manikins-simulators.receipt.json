@@ -1,0 +1,15 @@
+{
+  "competitor": "MedVision",
+  "requested_url": "https://www.medvisionsim.com/medical-manikins-simulators/",
+  "fetched_at": "2026-09-29T17:46:31-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://medvisionsim.com/medical-manikins-simulators",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "Medical Manikins for Training and Realistic Patient Dummies for Simulation | Full Body Mannequins for Practice",
+  "meta_description": "Discover medical manikins and medical simulation dummies. Realistic patient manikins are ideal for medical students and healthcare professionals to enhance their skills and prepare for real-life scenarios.",
+  "html_bytes": 159360,
+  "text_characters": 8512
+}

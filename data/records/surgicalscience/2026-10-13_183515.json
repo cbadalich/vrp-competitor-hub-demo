@@ -1,0 +1,178 @@
+{
+  "competitor": "Surgical Science",
+  "slug": "surgicalscience",
+  "snapshot": "data/snapshots/surgicalscience/2026-10-13_183515",
+  "extracted_at": "2026-09-29T19:12:00-06:00",
+  "extracted_by": "Claude Code session, model claude-opus-5-5",
+  "note": "Three of the five pages are about the MedTech Solutions business (custom simulation for device and robot companies); the other two are the homepage and the product gallery for healthcare professionals. The gallery page has an empty META DESCRIPTION.",
+  "pages_read": [
+    "home",
+    "medtech-solutions",
+    "medtech-solutions_our-technologies",
+    "medtech-solutions_training",
+    "simulators_all-products-gallery"
+  ],
+  "pages_failed": [],
+  "fields": {
+    "product_category": {
+      "status": "found",
+      "value": "Medical simulation training and software: evidence-based simulators for surgical, endovascular, endoscopic and ultrasound procedures (including robotic surgery simulation), plus custom simulation solutions for MedTech companies",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Surgical Science is a leading provider of medical simulation training and software solutions."
+        },
+        {
+          "page": "home",
+          "quote": "Today, all leading robotic surgery companies power their hardware with Surgical Science’s software."
+        },
+        {
+          "page": "medtech-solutions",
+          "quote": "Surgical Science offers a variety of custom-made simulation solutions for different types of medical devices and robot consoles."
+        },
+        {
+          "page": "simulators_all-products-gallery",
+          "quote": "A comprehensive simulator for essential laparoscopic skills and advanced complete clinical procedures, for learners at all levels."
+        }
+      ],
+      "note": "The gallery lists 23 simulators across laparoscopy (LAP Mentor, LapSim), robotic surgery (RobotiX Mentor, RobotiX Express), endovascular (ANGIO Mentor), ultrasound (Aeris, BodyWorks Eve, HeartWorks, ScanTrainer and others), endoscopy (GI, BRONCH, HYST, URO Mentor), pelvic exam and arthroscopy."
+    },
+    "platforms": {
+      "status": "not_found",
+      "value": null,
+      "evidence": [],
+      "note": "Learners train on dedicated hardware simulators (stand-alone, portable, and full suites with original instruments, haptics and physical models). None of the pages describe learner use as Web, VR, AR, MR, Mobile or Desktop, so no allowed label applies. MentorLearn Cloud ('provides an intelligent vision on user performance and usage data anywhere, anytime') is a data management platform for course building and reporting, not a learner mode."
+    },
+    "key_capabilities": {
+      "status": "found",
+      "value": [
+        "Library of 150+ medical procedures",
+        "Haptic / force feedback with soft-body tissue physics",
+        "Integration of original instruments, device handles and robot consoles",
+        "Stand-alone, portable and full-suite simulator hardware",
+        "Robotic surgery simulation",
+        "MentorLearn: build courses, assign classes, see proficiency remotely",
+        "Pre-set curricula library that can be customized",
+        "Proficiency scoring, usage data and objective debriefing metrics",
+        "Custom benchmarks, reports and simulator branding",
+        "Localized into more than 18 languages"
+      ],
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "150+\nMedical procedures"
+        },
+        {
+          "page": "medtech-solutions_our-technologies",
+          "quote": "With the integration of cutting-edge soft body physics and force feedback technology, we bring pliable, lifelike tissue to life."
+        },
+        {
+          "page": "medtech-solutions_training",
+          "quote": "We integrate your handles or grips into our hardware, software and learning management system, including branding and your choice of procedures and curricula."
+        },
+        {
+          "page": "medtech-solutions_training",
+          "quote": "Choose the platform, we have full suites and portable versions – integrated with your devices and grips"
+        },
+        {
+          "page": "medtech-solutions_our-technologies",
+          "quote": "Our team developed the very first commercial surgical robotic simulator in 2007, and we have been setting the industry standards ever since."
+        },
+        {
+          "page": "medtech-solutions_training",
+          "quote": "Build courses, see proficiency remotely: create your training classes, and assign courses"
+        },
+        {
+          "page": "medtech-solutions_training",
+          "quote": "Design your curricula: pick from a pre-set library and customize to your specific training needs"
+        },
+        {
+          "page": "medtech-solutions_our-technologies",
+          "quote": "When the simulator is being used, all movements are tracked and data is collected."
+        },
+        {
+          "page": "medtech-solutions_training",
+          "quote": "Objective debriefing: document participant progress with comprehensive objective metrics"
+        },
+        {
+          "page": "medtech-solutions_training",
+          "quote": "Create your own benchmarks and reports"
+        },
+        {
+          "page": "medtech-solutions",
+          "quote": "our simulation platforms and support documentation have been localized into more than 18 different languages."
+        }
+      ],
+      "note": "Other features stated but not listed: physically based rendering and volumetric meshes; data science and AI research using synthetic data and simulator telemetry; physical models for ultrasound; Aeris, which puts 'simulated pathology wherever you place the probe'. The home page also claims '11000+' simulators in '90+ countries' and '400+' validation studies."
+    },
+    "target_customer": {
+      "status": "found",
+      "value": "Healthcare professionals and teams (surgeons, clinicians, residents, surgical technologists and assistants, learners at all levels) and MedTech companies, including robotic surgery companies, for professional education, sales and product development.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Trusted by surgeons, clinicians, and healthcare teams worldwide"
+        },
+        {
+          "page": "simulators_all-products-gallery",
+          "quote": "Exclusively developed for surgical technologist and surgical assistant training"
+        },
+        {
+          "page": "simulators_all-products-gallery",
+          "quote": "it provides residents with an essential path to technical skills proficiency."
+        },
+        {
+          "page": "medtech-solutions",
+          "quote": "Medical Simulation for MedTech Companies"
+        }
+      ],
+      "note": "The menu splits the site into 'Healthcare Professionals' and 'MedTech Solutions' (Professional Education, Sales and Marketing, Product Development). Nursing is not named on the pages read."
+    },
+    "value_proposition": {
+      "status": "found",
+      "value": "Evidence-based, customized simulation that lets clinicians safely advance skills without putting patients at risk, to improve clinical proficiency and performance and enhance patient safety and outcomes.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "we enhance patient safety and healthcare outcomes using evidence-based customized simulation to improve clinical proficiency and performance."
+        },
+        {
+          "page": "home",
+          "quote": "With our high-fidelity simulation, you can safely advance skills—from essential techniques to managing complex cases—without putting patients at risk."
+        }
+      ],
+      "note": "For MedTech customers the pages promise to shorten the adoption curve, reduce product usage errors, launch products faster and support sales demonstrations. The home page cites a Karolinska study headline 'A 60% Decline in Errors in the OR'."
+    },
+    "tagline": {
+      "status": "found",
+      "value": "Improve Clinical Proficiency and Performance",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Improve Clinical Proficiency and Performance"
+        },
+        {
+          "page": "medtech-solutions_training",
+          "quote": "to improve clinical proficiency and performance."
+        }
+      ],
+      "note": "Homepage first headline after the menu. The same phrase ends the company description in the footer of every page read ('...customized simulation to improve clinical proficiency and performance.'). No trademarked slogan found. Other candidates: 'On a mission to enhance patient safety and healthcare outcomes with ever-advancing simulation' and 'Validated Customized Medical Simulation Training' (home)."
+    },
+    "pricing": {
+      "status": "not_found",
+      "value": null,
+      "evidence": [],
+      "note": "No prices, plans or quote/pricing buttons on the pages read. Menus include 'Simulation Financing Solution', which is not a price or quote under EXTRACTION.md. Some product blurbs use cost words ('cost-effective' for TEE Express, 'Affordable' for BRONCH Express) without figures."
+    }
+  },
+  "carried_forward": {
+    "from_record": "data/records/surgicalscience/2026-09-29_183836.json",
+    "at": "2026-10-13T18:39:59-06:00",
+    "reason": "page text changed, every quote still present",
+    "pages_changed": [
+      "medtech-solutions",
+      "medtech-solutions_our-technologies",
+      "medtech-solutions_training"
+    ]
+  }
+}

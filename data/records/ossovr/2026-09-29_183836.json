@@ -1,0 +1,201 @@
+{
+  "competitor": "Osso VR",
+  "slug": "ossovr",
+  "snapshot": "data/snapshots/ossovr/2026-09-29_183836",
+  "extracted_at": "2026-09-29T19:10:00-06:00",
+  "extracted_by": "Claude Code session, model claude-opus-5-5",
+  "note": "The page saved as 'how-it-works' was redirected: its receipt final_url is https://www.ossovr.com/osso-enterprise, and its content is the Osso Enterprise page (custom VR modules for healthcare companies), not a nurse-training how-it-works page. Several sections on about and health-systems appear twice in the saved text (repeated blocks from the page layout); each is cited once. An older snapshot folder (2026-09-29_182409) also exists with the same page sizes; this record uses the newest one.",
+  "pages_read": [
+    "home",
+    "about",
+    "health-systems",
+    "how-it-works",
+    "vr-surgical-training-research"
+  ],
+  "pages_failed": [],
+  "fields": {
+    "product_category": {
+      "status": "found",
+      "value": "Immersive VR procedural-skills training and assessment platform for healthcare; current lead product is Osso Nurse Training for health systems, alongside Osso Enterprise (custom VR modules for healthcare companies) and Osso Academy (early-career HCP VR training)",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Osso VR is the leading immersive procedural-skills training platform in healthcare."
+        },
+        {
+          "page": "health-systems",
+          "quote": "The VR procedural skills platform that develops confident, independent nurses faster"
+        },
+        {
+          "page": "home",
+          "quote": "Custom-developed VR modules for healthcare companies"
+        },
+        {
+          "page": "home",
+          "quote": "Early-career HCP VR training"
+        }
+      ],
+      "note": "The company started in surgical training (orthopedic research studies, 'VR surgical training' in the about timeline) and the about page says it expanded 'into Nurse Training' in 2024-2025."
+    },
+    "platforms": {
+      "status": "found",
+      "value": [
+        "VR",
+        "Web"
+      ],
+      "evidence": [
+        {
+          "page": "health-systems",
+          "quote": "no training equipment beyond a headset, and no need for an educator to stand by"
+        },
+        {
+          "page": "home",
+          "quote": "Web-based platform that guides users in and out of VR"
+        },
+        {
+          "page": "health-systems",
+          "quote": "Osso Loop is a centralized hub that allows both the learners and the educators to not only access the VR scenarios, but also provides important prebriefing and post-training dashboards to maximize the learning outcome."
+        }
+      ],
+      "note": "The procedural scenarios themselves run in VR headsets; no headset brand or model is named for current products (the about timeline mentions 'Oculus headsets' in 2019). Web is listed because the Osso Loop companion platform is described as web-based and used by learners for prebriefing, access to scenarios and dashboards; the procedures are not said to run in a browser. The Enterprise page's 'XR experiences' counts as VR. The about timeline says 'Osso Health launches for Apple Vision Pro, a mixed-reality simulated surgical environment medical app' (2024); MR is not listed because the pages do not say Osso Health is a learner training product, and it is not described elsewhere."
+    },
+    "key_capabilities": {
+      "status": "found",
+      "value": [
+        "Clinically accurate VR procedural skills scenarios (Osso VR Nursing Series)",
+        "Test Mode: unguided, scored independent assessment",
+        "Practice Mode: guided mode with a virtual preceptor",
+        "Multiuser Mode for cohort training, with educators able to join and lead sessions",
+        "Osso Loop web-based hub with prebriefings, structured debriefing and learner and supervisor dashboards",
+        "Scored performance data and analytics mapped to clinical domains",
+        "6 Domains of Excellence methodology aligning training to quality and accreditation standards",
+        "Enterprise deployment: fleet management, integration with select LMS platforms, central access management",
+        "Custom-developed VR modules for any product, procedure or specialty (Osso Enterprise), with multiple-language localization",
+        "Osso Analytics for real-time proficiency benchmarking and performance tracking"
+      ],
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Clinically accurate VR procedural skills scenarios"
+        },
+        {
+          "page": "health-systems",
+          "quote": "With all workflow guidance removed, this mode evaluates independent performance in real time."
+        },
+        {
+          "page": "health-systems",
+          "quote": "This guided mode simulates a virtual preceptor, offering consistent support and educational insight through each critical step."
+        },
+        {
+          "page": "health-systems",
+          "quote": "This mode brings learners together virtually to support cohort-based training and gives educators the ability to join and lead group training sessions."
+        },
+        {
+          "page": "home",
+          "quote": "Digital-first prebriefings and structured debriefing assessments"
+        },
+        {
+          "page": "home",
+          "quote": "Comprehensive learner and supervisor dashboards"
+        },
+        {
+          "page": "health-systems",
+          "quote": "Every session generates scored performance data, mapped to key clinical domains."
+        },
+        {
+          "page": "home",
+          "quote": "Our 6 Domains of Excellence™ methodology organizes critical quality and accreditation standards into an easy-to-use framework"
+        },
+        {
+          "page": "health-systems",
+          "quote": "whether deploying through fleet management tools, integrating with select existing LMS platforms, or managing access centrally"
+        },
+        {
+          "page": "how-it-works",
+          "quote": "Osso can create custom training experiences for any product, procedure or specialty."
+        },
+        {
+          "page": "how-it-works",
+          "quote": "Customize your surgical and procedural modules to include multiple languages"
+        },
+        {
+          "page": "how-it-works",
+          "quote": "Benchmark proficiency and track performance with Osso Analytics, the single global solution for managing real-time data."
+        }
+      ],
+      "note": "Also stated: 'Immediate performance-based feedback' and 'real-time, comprehensive debrief insights' for learners; Collaborative Training in a 'virtual OR' on the Enterprise page; 'Osso Care' white-glove implementation support. Example skills named: 'IV insertion or dressing changes'. The about page says Osso Nurse Training scenarios are aligned with EBSCO Dynamic Health skills libraries through a 2025 partnership. Home lists research figures (92% procedural step accuracy, 67% fewer errors, 25% faster completion) with a footnote that they come from orthopedic studies."
+    },
+    "target_customer": {
+      "status": "found",
+      "value": "Hospitals and health systems onboarding new-graduate nurses (primary focus of Osso Nurse Training); also pharma, nursing programs and sales teams; medical device and other healthcare companies (Osso Enterprise); academic medical centers and residency programs (Osso Academy).",
+      "evidence": [
+        {
+          "page": "health-systems",
+          "quote": "Break onboarding bottlenecks with Osso Nurse Training, the VR training solution for health systems"
+        },
+        {
+          "page": "home",
+          "quote": "The VR healthcare training and assessment platform that gives new grad nurses and healthcare systems radically better ways to scale onboarding"
+        },
+        {
+          "page": "about",
+          "quote": "Today, the platform serves pharma, hospital systems, nursing programs, and sales teams in over 50 countries"
+        },
+        {
+          "page": "how-it-works",
+          "quote": "Osso Enterprise empowers medical device companies with a scalable collaboration platform"
+        },
+        {
+          "page": "about",
+          "quote": "Osso Academy is officially introduced as a VR training offering for academic medical centers and residency programs."
+        }
+      ],
+      "note": "The home quote is the META DESCRIPTION line. The about timeline mentions a 2025 partnership with America's Essential Hospitals 'to support nurse readiness in safety-net hospitals'. Footer: 'used by more than 100,000 healthcare professionals worldwide'."
+    },
+    "value_proposition": {
+      "status": "found",
+      "value": "Helps hospitals and health systems develop confident, independent nurses faster by scaling new-nurse onboarding in procedural skills through VR practice and assessment, giving supervisors objective performance data while reducing educator time and supply costs.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Develop confident, independent nurses faster"
+        },
+        {
+          "page": "home",
+          "quote": "Rapidly scale new-nurse onboarding in the procedural skills that matter most across your hospitals and health systems"
+        },
+        {
+          "page": "health-systems",
+          "quote": "Give your new nurses a safe and cost-effective way to practice their skills and give supervisors actionable performance data."
+        }
+      ],
+      "note": "The health-systems page also claims practice 'with no disposable supplies' and that Osso 'is designed to reduce time to independent practice'. Research claims: 'procedural competence scores up to 300% higher than those trained with traditional methods alone', footnoted as based on orthopedic training studies."
+    },
+    "tagline": {
+      "status": "found",
+      "value": "Purposeful Practice. Confident Care.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Purposeful Practice.\nConfident Care."
+        },
+        {
+          "page": "health-systems",
+          "quote": "Purposeful Practice.\nConfident Care."
+        }
+      ],
+      "note": "Two-line closing banner repeated above the footer on home, health-systems, how-it-works and vr-surgical-training-research (not on about). Not marked as a trademark. Other candidates: homepage first headline after the menu 'VR procedural skills training built for healthcare systems'; home line 'Stronger teams. Safer patients.'; footer boilerplate 'Osso VR is the leading immersive procedural-skills training platform in healthcare.'"
+    },
+    "pricing": {
+      "status": "found",
+      "value": "Not published; quote on request",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Contact UsRequest pricing"
+        }
+      ],
+      "note": "No prices on any page read. A 'Request pricing' button appears in the site header on every page (saved text runs it together with 'Contact Us'). Under the pricing rule in EXTRACTION.md this counts as quote on request."
+    }
+  }
+}

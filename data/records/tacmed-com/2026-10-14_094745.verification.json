@@ -1,0 +1,223 @@
+{
+  "record": "data/records/tacmed-com/2026-10-14_094745.json",
+  "checked_at": "2026-10-15T18:59:31-06:00",
+  "results": {
+    "product_category": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://tacmedaustralia.com.au/",
+          "quote": "Australia's trauma and tactical medical specialist. Tourniquets, IFAKs, trauma kits and chest seals.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pages_simulation",
+          "source_url": "https://tacmedaustralia.com.au/pages/simulation",
+          "quote": "Tactical and clinical medical simulation equipment for defence, emergency services and healthcare training. Human simulators, K9 trainers, trauma task trainers and program support",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "training-tacmed-com-au_home",
+          "source_url": "https://training.tacmed.com.au/",
+          "quote": "TacMed Training delivers scenario-driven, nationally accredited medical courses for military, mining, law enforcement, and first responders across Australia.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "platforms": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "pages_simulation",
+          "source_url": "https://tacmedaustralia.com.au/pages/simulation",
+          "quote": "Human simulators, K9 trainers, trauma task trainers and program support",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "key_capabilities": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "pages_simulation",
+          "source_url": "https://tacmedaustralia.com.au/pages/simulation",
+          "quote": "TOMManikin\u00ae Series Tacmed Solutions Simulators K9 Simulators",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pages_simulation",
+          "source_url": "https://tacmedaustralia.com.au/pages/simulation",
+          "quote": "Ruggedised construction, weather-resistant materials, and untethered operation mean training doesn't stop when the environment gets difficult.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pages_simulation",
+          "source_url": "https://tacmedaustralia.com.au/pages/simulation",
+          "quote": "Realistic anatomical presentations. Vital signs that shift. Interventions that either stabilise or accelerate deterioration.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pages_simulation",
+          "source_url": "https://tacmedaustralia.com.au/pages/simulation",
+          "quote": "Trauma Task Trainers\nAirway Trainers\nProcedural Skills Trainers",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pages_simulation",
+          "source_url": "https://tacmedaustralia.com.au/pages/simulation",
+          "quote": "Wearable wound systems that bring trauma onto live training participants.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pages_simulation",
+          "source_url": "https://tacmedaustralia.com.au/pages/simulation",
+          "quote": "Simulated Evacuation Platforms (UH-60 / MH-6)",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pages_simulation",
+          "source_url": "https://tacmedaustralia.com.au/pages/simulation",
+          "quote": "Operator & Train-The-Trainer Programs\nSimulation as a service",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pages_simulation",
+          "source_url": "https://tacmedaustralia.com.au/pages/simulation",
+          "quote": "We help you select the right platforms for your training outcomes, team size, and operational context",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pages_simulation",
+          "source_url": "https://tacmedaustralia.com.au/pages/simulation",
+          "quote": "we can connect you with our supplier network to scope, design, and deliver purpose-built training environments.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pages_simulation",
+          "source_url": "https://tacmedaustralia.com.au/pages/simulation",
+          "quote": "We provide ongoing technical guidance, consumables replenishment, servicing pathways, and access to replacement components",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "target_customer": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "pages_simulation",
+          "source_url": "https://tacmedaustralia.com.au/pages/simulation",
+          "quote": "Trusted by\nDefence Forces\nEmergency Services\nHospital Simulation Programs\nLaw Enforcement\nIndustrial & Mining",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pages_simulation",
+          "source_url": "https://tacmedaustralia.com.au/pages/simulation",
+          "quote": "TacMed Australia works with military, emergency services and hospital training teams to understand their operational requirements",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://tacmedaustralia.com.au/",
+          "quote": "Trusted First Aid Supplier to Emergency Services Across Australia",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "value_proposition": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "pages_simulation",
+          "source_url": "https://tacmedaustralia.com.au/pages/simulation",
+          "quote": "High-fidelity simulators that replicate the pressure, chaos, and consequences of real emergencies \u2014 exposing gaps and building the skills and confidence to close them before it counts.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pages_simulation",
+          "source_url": "https://tacmedaustralia.com.au/pages/simulation",
+          "quote": "Most simulation equipment is built for controlled environments, we specialise in products that aren't.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "tagline": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://tacmedaustralia.com.au/",
+          "quote": "Mission:Zero Preventable Deaths",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pages_simulation",
+          "source_url": "https://tacmedaustralia.com.au/pages/simulation",
+          "quote": "Mission:Zero Preventable Deaths",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "pricing": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "pages_simulation",
+          "source_url": "https://tacmedaustralia.com.au/pages/simulation",
+          "quote": "Procurement Support\nAssistance with quotations, specifications and tender documentation.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://tacmedaustralia.com.au/",
+          "quote": "SOF\u00ae Tourniquet\n231 reviews\n$66.95",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://tacmedaustralia.com.au/",
+          "quote": "Shop Now, Pay Later\nwith Afterpay or Zip Pay",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    }
+  }
+}

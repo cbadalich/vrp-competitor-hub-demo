@@ -1,0 +1,78 @@
+﻿section,entry,competitors_claiming,competitors_in_set,market,vrpatients_claims,vrpatients_vs_market,companies
+Capability,"Debrief, analytics or performance tracking",12,20,Common,yes,"Common, VRpatients claims it",Intulect; MedVR Education; MedisimVR; ORamaVR; Osso VR; Oxford Medical Simulation; SimX; Skillup VR; UbiSim; UpSkillAI; Vantari VR; Virti
+Capability,Multiplayer or team training,9,20,In between,no,"Competitors claim it, VRpatients does not",Arch Virtual; Intulect; Medcognition; ORamaVR; Oxford Medical Simulation; SimX; Skillup VR; UbiSim; XVR Simulation
+Capability,AI patient conversations,8,20,In between,yes,"In between, VRpatients claims it",GigXR; Intulect; MedVR Education; Nasco Healthcare; Oxford Medical Simulation; PCS; UbiSim; Virti
+Capability,Scenario authoring or editing,8,20,In between,yes,"In between, VRpatients claims it",Intulect; ORamaVR; Oxford Medical Simulation; PCS; SimX; Skillup VR; UbiSim; Virti
+Capability,Ready-made scenario or case library,7,20,In between,yes,"In between, VRpatients claims it",Arch Virtual; Intulect; MedVR Education; MedisimVR; Oxford Medical Simulation; SimX; UbiSim
+Capability,"AI grading, feedback or coaching",6,20,In between,yes,"In between, VRpatients claims it",MedVR Education; MedisimVR; ORamaVR; PCS; UbiSim; Virti
+Capability,Research or validation claims,6,20,In between,no,"Competitors claim it, VRpatients does not",Arch Virtual; FundamentalVR; GigXR; MedVR Education; ORamaVR; UbiSim
+Capability,Haptics or hand interaction,5,20,In between,no,"Competitors claim it, VRpatients does not",FundamentalVR; Oxford Medical Simulation; Skillup VR; UbiSim; Vantari VR
+Capability,LMS integration,5,20,In between,yes,"In between, VRpatients claims it",MedVR Education; Osso VR; Oxford Medical Simulation; PCS; Virti
+Capability,Self-directed or on-demand practice,5,20,In between,yes,"In between, VRpatients claims it",Intulect; MedisimVR; ORamaVR; Oxford Medical Simulation; UpSkillAI
+Capability,Aligned to named standards,4,20,In between,no,"Competitors claim it, VRpatients does not",Intulect; Nasco Healthcare; Osso VR; UbiSim
+Capability,Custom content development,3,20,In between,no,"Competitors claim it, VRpatients does not",Osso VR; PCS; UpSkillAI
+Capability,Dynamic patient physiology,3,20,In between,yes,"In between, VRpatients claims it",GigXR; Intulect; MedisimVR
+Capability,Remote or distributed training,3,20,In between,no,"Competitors claim it, VRpatients does not",PCS; Skillup VR; XVR Simulation
+Capability,Multiple languages,2,20,Uncommon,yes,"Uncommon, VRpatients claims it",Osso VR; Virti
+Capability,Mixed reality with physical equipment,0,20,None in this set,yes,Only VRpatients,
+Messaging theme,Readiness and confidence,10,20,Common,no,"Competitors claim it, VRpatients does not",Elsevier; FundamentalVR; MedisimVR; Nasco Healthcare; Osso VR; Oxford Medical Simulation; PCS; UbiSim; Virti; XVR Simulation
+Messaging theme,Scale and access,10,20,Common,yes,"Common, VRpatients claims it",GigXR; Intulect; MedVR Education; Medcognition; Nasco Healthcare; ORamaVR; Osso VR; Oxford Medical Simulation; SimX; Skillup VR
+Messaging theme,Cost,7,20,In between,yes,"In between, VRpatients claims it",FundamentalVR; GigXR; Intulect; Medcognition; Osso VR; Skillup VR; UpSkillAI
+Messaging theme,Time,7,20,In between,no,"Competitors claim it, VRpatients does not",Arch Virtual; GigXR; Osso VR; Skillup VR; UbiSim; UpSkillAI; Virti
+Messaging theme,Realism,6,20,In between,yes,"In between, VRpatients claims it",Intulect; Medcognition; Nasco Healthcare; PCS; UbiSim; XVR Simulation
+Messaging theme,Safety and risk-free practice,6,20,In between,yes,"In between, VRpatients claims it",GigXR; Nasco Healthcare; Osso VR; Skillup VR; Virti; XVR Simulation
+Messaging theme,Clinical judgment and decision-making,5,20,In between,no,"Competitors claim it, VRpatients does not",Elsevier; GigXR; MedVR Education; PCS; SimX
+Messaging theme,Evidence and outcomes,5,20,In between,no,"Competitors claim it, VRpatients does not",Arch Virtual; GigXR; Intulect; MedisimVR; ORamaVR
+Messaging theme,Faculty and staff workload,5,20,In between,no,"Competitors claim it, VRpatients does not",GigXR; Intulect; Oxford Medical Simulation; SimX; UbiSim
+Messaging theme,AI as a selling point,4,20,In between,no,"Competitors claim it, VRpatients does not",Oxford Medical Simulation; UpSkillAI; Vantari VR; Virti
+Messaging theme,Workforce and staffing,1,20,Uncommon,no,"Competitors claim it, VRpatients does not",Osso VR
+Messaging theme,Engagement,0,20,None in this set,no,Nobody in this set claims it,
+Terminology: What they call the simulated patient,AI patient,5,20,,no,,GigXR; Intulect; MedVR Education; Nasco Healthcare; Oxford Medical Simulation
+Terminology: What they call the simulated patient,manikin,5,20,,no,,GigXR; Intulect; Nasco Healthcare; PCS; Skillup VR
+Terminology: What they call the simulated patient,virtual patient,3,20,,no,,PCS; SimX; UpSkillAI
+Terminology: What they call the simulated patient,holographic patient,2,20,,no,,GigXR; Medcognition
+Terminology: What they call the simulated patient,patient simulator,2,20,,no,,Nasco Healthcare; SimX
+Terminology: What they call the simulated patient,virtual human,2,20,,no,,MedVR Education; Virti
+Terminology: What they call the simulated patient,avatar,1,20,,yes,,Virti
+Terminology: What they call the simulated patient,standardized patient,1,20,,no,,PCS
+Terminology: What they call the simulated patient,virtual manikin,0,20,,no,,
+Terminology: What they call a unit of content,simulation,18,20,,yes,,Arch Virtual; Elsevier; FundamentalVR; GigXR; Intulect; MedVR Education; Medcognition; MedisimVR; Nasco Healthcare; ORamaVR; Oxford Medical Simulation; PCS; SimX; Skillup VR; UbiSim; UpSkillAI; Virti; XVR Simulation
+Terminology: What they call a unit of content,scenario,14,20,,yes,,Elsevier; Intulect; MedVR Education; MedisimVR; Nasco Healthcare; Osso VR; Oxford Medical Simulation; PCS; SimX; Skillup VR; UbiSim; UpSkillAI; Virti; XVR Simulation
+Terminology: What they call a unit of content,experience,11,20,,no,,Arch Virtual; Elsevier; FundamentalVR; Intulect; MedVR Education; Osso VR; Oxford Medical Simulation; PCS; Skillup VR; UpSkillAI; XVR Simulation
+Terminology: What they call a unit of content,encounter,3,20,,no,,GigXR; PCS; SimX
+Terminology: What they call a unit of content,module,3,20,,no,,MedVR Education; MedisimVR; Osso VR
+Terminology: What they call a unit of content,case,2,20,,yes,,GigXR; Medcognition
+Terminology: What they call a unit of content,course,2,20,,no,,Intulect; PCS
+Terminology: What they call a unit of content,virtual clinical,0,20,,no,,
+Terminology: How they describe the technology,VR / virtual reality,18,20,,yes,,Arch Virtual; Elsevier; FundamentalVR; Intulect; MedVR Education; MedisimVR; Nasco Healthcare; ORamaVR; Osso VR; Oxford Medical Simulation; PCS; SimX; Skillup VR; UbiSim; UpSkillAI; Vantari VR; Virti; XVR Simulation
+Terminology: How they describe the technology,immersive,12,20,,yes,,Arch Virtual; Elsevier; FundamentalVR; MedVR Education; MedisimVR; Osso VR; Oxford Medical Simulation; SimX; UbiSim; UpSkillAI; Virti; XVR Simulation
+Terminology: How they describe the technology,MR / mixed reality,5,20,,yes,,FundamentalVR; GigXR; MedVR Education; Medcognition; UpSkillAI
+Terminology: How they describe the technology,XR / extended reality,5,20,,yes,,FundamentalVR; MedVR Education; Nasco Healthcare; ORamaVR; UpSkillAI
+Terminology: How they describe the technology,3D,3,20,,no,,Arch Virtual; Virti; XVR Simulation
+Terminology: How they describe the technology,AR / augmented reality,3,20,,no,,Arch Virtual; MedVR Education; Medcognition
+Terminology: How they describe the technology,screen-based,1,20,,no,,PCS
+Terminology: How they describe the technology,metaverse,0,20,,no,,
+Terminology: How they describe the technology,spatial computing,0,20,,no,,
+Terminology: How they describe AI,AI-powered,4,20,,yes,,MedisimVR; Oxford Medical Simulation; UpSkillAI; Vantari VR
+Terminology: How they describe AI,AI-driven,3,20,,yes,,MedVR Education; Oxford Medical Simulation; PCS
+Terminology: How they describe AI,generative AI,2,20,,no,,FundamentalVR; Nasco Healthcare
+Terminology: How they describe AI,AI-enhanced,1,20,,no,,UbiSim
+Terminology: How they describe AI,artificial intelligence,1,20,,no,,UpSkillAI
+Terminology: How they describe AI,conversational AI,0,20,,no,,
+Terminology: How they describe AI,machine learning,0,20,,no,,
+Terminology: How they describe the learning outcome,competence / competency,9,20,,no,,FundamentalVR; Intulect; MedisimVR; ORamaVR; Oxford Medical Simulation; PCS; UbiSim; UpSkillAI; XVR Simulation
+Terminology: How they describe the learning outcome,confidence,5,20,,no,,MedisimVR; Osso VR; Oxford Medical Simulation; PCS; Virti
+Terminology: How they describe the learning outcome,critical thinking,4,20,,no,,MedVR Education; PCS; SimX; Skillup VR
+Terminology: How they describe the learning outcome,decision-making,4,20,,no,,MedVR Education; MedisimVR; UpSkillAI; XVR Simulation
+Terminology: How they describe the learning outcome,clinical judgment,3,20,,no,,Elsevier; Intulect; SimX
+Terminology: How they describe the learning outcome,clinical reasoning,1,20,,no,,GigXR
+Terminology: How they describe the learning outcome,proficiency,1,20,,no,,Osso VR
+Terminology: How they describe the learning outcome,readiness / practice-ready,1,20,,no,,Oxford Medical Simulation
+Terminology: Who they say they train,nurses / nursing students,15,20,,yes,,Arch Virtual; Elsevier; GigXR; Intulect; MedVR Education; Medcognition; MedisimVR; Nasco Healthcare; Osso VR; Oxford Medical Simulation; PCS; SimX; Skillup VR; UbiSim; Vantari VR
+Terminology: Who they say they train,learners,11,20,,yes,,Arch Virtual; GigXR; Intulect; MedVR Education; Osso VR; Oxford Medical Simulation; PCS; SimX; UbiSim; UpSkillAI; Virti
+Terminology: Who they say they train,students,10,20,,yes,,Arch Virtual; Elsevier; GigXR; Intulect; MedisimVR; Oxford Medical Simulation; PCS; UbiSim; UpSkillAI; Vantari VR
+Terminology: Who they say they train,EMS / first responders,6,20,,yes,,Arch Virtual; Medcognition; Nasco Healthcare; SimX; UpSkillAI; XVR Simulation
+Terminology: Who they say they train,healthcare professionals / providers,4,20,,no,,Intulect; MedVR Education; MedisimVR; Skillup VR
+Terminology: Who they say they train,physicians / residents,4,20,,no,,Medcognition; ORamaVR; SimX; UbiSim
+Terminology: Who they say they train,trainees,3,20,,no,,MedVR Education; SimX; Skillup VR
+Terminology: Who they say they train,clinicians,1,20,,no,,Vantari VR

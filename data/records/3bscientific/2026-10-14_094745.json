@@ -1,0 +1,227 @@
+{
+  "competitor": "3B Scientific",
+  "slug": "3bscientific",
+  "snapshot": "data/snapshots/3bscientific/2026-10-14_094745",
+  "extracted_at": "2026-09-29T19:18:00-06:00",
+  "extracted_by": "Claude Code session, model claude-opus-5-5",
+  "note": "3B Scientific is a broad manufacturer and online shop for anatomy models, physical medical simulators, science education, therapy and veterinary products. Most of each page is the shared shop menu. Its immersive and VR offering is described mainly on the pages for group companies (Immersive Interactive, acquired 2024; Lifecast, acquired 2023). Three pages (home is the exception) carry the same generic shop META DESCRIPTION; the immersive-interactive-spaces META DESCRIPTION is cut off mid-sentence, and the medical-simulation META DESCRIPTION ends with a broken HTML fragment ('<a href=\"https').",
+  "pages_read": [
+    "home",
+    "us_immersive-interactive,imm.html",
+    "us_immersive-interactive-spaces,pg_1799.html",
+    "us_lifecast,li.html",
+    "us_medical-simulation,pg_1181.html"
+  ],
+  "pages_failed": [],
+  "fields": {
+    "product_category": {
+      "status": "found",
+      "value": "Medical simulators and task trainers for clinical education (manikins, skills trainers, simulated medications, ultrasound and patient-monitor simulation, immersive interactive rooms), alongside anatomy models, science education, therapy and veterinary simulation products",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Advance clinical skills with 3B Scientific’s high-quality medical simulators and task trainers. Explore solutions for nursing education, obstetrics simulation, anatomy learning, physiotherapy, and science education."
+        },
+        {
+          "page": "home",
+          "quote": "3B Scientific has grown into a global group of specialized companies, each a leader in their respective segment of medical and science education."
+        },
+        {
+          "page": "us_medical-simulation,pg_1181.html",
+          "quote": "3B Scientific® offers an extensive range of high-quality medical simulators, such as advanced life support manikins, airway management trainers, and emergency rescue simulators."
+        },
+        {
+          "page": "home",
+          "quote": "Immersive VR-based healthcare simulation environments for advanced, scenario-driven clinical training at scale."
+        }
+      ],
+      "note": "The first quote is the homepage META DESCRIPTION. The last quote is the homepage summary of the Immersive Interactive group company."
+    },
+    "platforms": {
+      "status": "unclear",
+      "value": [
+        "VR",
+        "MR",
+        "Web",
+        "Physical hardware",
+        "Projection or immersive room"
+      ],
+      "evidence": [
+        {
+          "page": "us_immersive-interactive,imm.html",
+          "quote": "2D/3D scenarios, VR and MR capabilities"
+        },
+        {
+          "page": "us_medical-simulation,pg_1181.html",
+          "quote": "Additionally, our virtual reality simulators and TCCC training manikins prepare trainees for tactical combat scenarios."
+        },
+        {
+          "page": "home",
+          "quote": "Cloud-based ultrasound simulation platform — e Sono — enabling learners at every level to practice image acquisition on any device, from anywhere."
+        },
+        {
+          "page": "home",
+          "quote": "Hyper-realistic, culturally diverse simulation manikins that elevate fidelity and inclusivity in clinical education and scenario-based training."
+        },
+        {
+          "page": "us_immersive-interactive,imm.html",
+          "quote": "Using high-quality projection, responsive software, and multi-sensory integration"
+        }
+      ],
+      "note": "Physical hardware covers the manikins, task trainers and models that make up most of the catalog. Projection or immersive room covers the Immersive Interactive Rooms ('high-quality projection'). Still marked unclear because VR and MR rest on a one-line feature bullet for those rooms, and the virtual reality simulators are mentioned once with no detail. Web rests on the Innoging group company's 'Cloud-based' platform used 'on any device, from anywhere'; no browser is named. Immersive Interactive's 'Cloud-based content management and scenario design' is an authoring tool and is not counted."
+    },
+    "key_capabilities": {
+      "status": "found",
+      "value": [
+        "Immersive Interactive Rooms: projection-based 360° rooms (two- to six-wall configurations)",
+        "Touchscreen and motion-tracked interaction with spatial sound and tactile elements",
+        "Cloud-based content management and scenario design",
+        "Hyper-realistic Lifecast manikins (preterm, neonatal, pediatric, adult, senior)",
+        "Simulated medications (Practi- product line)",
+        "Simulated patient monitors and defibrillators (iSimulate REALITi 360)",
+        "Auscultation simulation (Cardionics SAM manikins, SimScope stethoscope)",
+        "Cloud-based ultrasound simulation (Innoging e Sono)",
+        "Respiratory and mechanical ventilation training equipment (IngMar Medical)",
+        "IV arm and airway task trainers (P51 IV Injection Arm Trainer, SimOccluder)"
+      ],
+      "evidence": [
+        {
+          "page": "us_immersive-interactive,imm.html",
+          "quote": "Using high-quality projection, responsive software, and multi-sensory integration, these rooms allow users to experience everything from medical emergencies to early childhood adventures in fully interactive, 360° environments."
+        },
+        {
+          "page": "us_immersive-interactive-spaces,pg_1799.html",
+          "quote": "Immersive Interactive Room Double Wide Fronts- Six Wall"
+        },
+        {
+          "page": "us_immersive-interactive,imm.html",
+          "quote": "Touchscreen and motion-tracked content engagement"
+        },
+        {
+          "page": "us_immersive-interactive,imm.html",
+          "quote": "Cloud-based content management and scenario design"
+        },
+        {
+          "page": "home",
+          "quote": "Hyper-realistic, culturally diverse simulation manikins that elevate fidelity and inclusivity in clinical education and scenario-based training."
+        },
+        {
+          "page": "us_lifecast,li.html",
+          "quote": "Lifecast has developed the most realistic range of Preterm Manikins and Neonatal Simulators available today."
+        },
+        {
+          "page": "home",
+          "quote": "Simulated medications and IV training solutions for realistic, risk-free pharmacology and drug administration practice."
+        },
+        {
+          "page": "home",
+          "quote": "Simulated patient monitors and defibrillators for advanced clinical and emergency training, powered by the award-winning REALITi 360 ecosystem."
+        },
+        {
+          "page": "home",
+          "quote": "Auscultation simulation solutions — from the SAM series manikins to the SimScope stethoscope — for heart, lung, bowel, and vascular sound training."
+        },
+        {
+          "page": "home",
+          "quote": "Cloud-based ultrasound simulation platform — e Sono — enabling learners at every level to practice image acquisition on any device, from anywhere."
+        },
+        {
+          "page": "home",
+          "quote": "Respiratory and mechanical ventilation training equipment, trusted by respiratory therapists and simulation educators worldwide."
+        },
+        {
+          "page": "home",
+          "quote": "Introducing the new P51 IV Injection Arm Trainer designed to bring realistic vascular access training to every skills lab."
+        },
+        {
+          "page": "home",
+          "quote": "New : SimOccluder\nBuild Core Airway Skills Faster."
+        }
+      ],
+      "note": "Capabilities span group companies; each list item names the brand where the page does. The medical-simulation page lists '1744 products in Medical Simulation'. The Immersive Interactive Spaces category shows 5 products, including an 'Immersive Wonderwall'. Other group companies named: Stops Medical (tactical and combat casualty care) and VSI (veterinary simulation)."
+    },
+    "target_customer": {
+      "status": "found",
+      "value": "Medical and nursing education (students, doctors, nurses, rescue teams, midwives), skills labs, hospitals, universities, schools (including special needs and primary education), emergency services and public safety, military and law enforcement, corporate training, respiratory therapists, and veterinary education programs.",
+      "evidence": [
+        {
+          "page": "us_medical-simulation,pg_1181.html",
+          "quote": "equipping students, doctors, nurses, rescue teams, and midwives with practical skills before they encounter real patients."
+        },
+        {
+          "page": "us_immersive-interactive,imm.html",
+          "quote": "used in schools, universities, hospitals, and public services around the world."
+        },
+        {
+          "page": "us_immersive-interactive,imm.html",
+          "quote": "Immersive Interactive enables learners to step into realistic, scenario-based simulations across healthcare, education, emergency services, and beyond."
+        },
+        {
+          "page": "home",
+          "quote": "Tactical emergency response and combat casualty care training solutions for military, law enforcement, and first responder preparedness."
+        },
+        {
+          "page": "home",
+          "quote": "Veterinary simulation and surgical training models designed to improve clinical competency in veterinary education programs."
+        }
+      ],
+      "note": "The Immersive Interactive page also names 'Education & Special Needs' and 'Corporate Training & Collaboration' as segments, and describes the company as 'the UK’s leading provider of immersive classrooms'."
+    },
+    "value_proposition": {
+      "status": "found",
+      "value": "Realistic, anatomically precise simulators that close the gap between theory and patient care, now combined with immersive learning environments so educators can build more engaging, hands-on and experiential training.",
+      "evidence": [
+        {
+          "page": "us_medical-simulation,pg_1181.html",
+          "quote": "Medical simulation closes the gap between theory and work on the patient"
+        },
+        {
+          "page": "us_immersive-interactive,imm.html",
+          "quote": "3B Scientific now offers an unparalleled combination of hands-on simulation products and immersive learning environments."
+        },
+        {
+          "page": "us_immersive-interactive,imm.html",
+          "quote": "create learning spaces where people don’t just observe—they experience."
+        }
+      ],
+      "note": "The medical-simulation page lists seven benefits of simulation in general, for example 'Simulators and trainers can be used to assess the skills and knowledge of the trainee'."
+    },
+    "tagline": {
+      "status": "not_found",
+      "value": null,
+      "evidence": [],
+      "note": "No official tagline found: no line is marked ™, ® or ℠, and no slogan repeats on the pages read. Candidates: homepage section heading 'Latest Released Products Spotlight'; 'Where Learning Meets Experience' (title and headline of the Immersive Interactive page, a group company's line)."
+    },
+    "pricing": {
+      "status": "found",
+      "value": "Per-product list prices published in the online shop (for example ultrasound models at $762.00 and $863.00, simulated medications from $2.95); some items, such as Lifecast manikins and Immersive Interactive Rooms, are listed without a price.",
+      "evidence": [
+        {
+          "page": "us_medical-simulation,pg_1181.html",
+          "quote": "SONOtrain Ultrasound Vein Model, Light Skin\n$ 762.00"
+        },
+        {
+          "page": "us_medical-simulation,pg_1181.html",
+          "quote": "SONOtrain Foreign Body Model, Dark Skin\n$ 863.00"
+        },
+        {
+          "page": "us_medical-simulation,pg_1181.html",
+          "quote": "Practi-Oral Med Pack\n$ 255.95"
+        },
+        {
+          "page": "us_medical-simulation,pg_1181.html",
+          "quote": "Practi-Dextrose Normal Saline 250mL I.V. Solution Bag (1 Bag) - English Specification\n$ 2.95"
+        }
+      ],
+      "note": "The price filter on the medical-simulation page shows ranges up to '$ 16,600'. Lifecast and Immersive Interactive items show 'Show Details' instead of a price and 'Add to cart'. No subscription or software pricing is shown."
+    }
+  },
+  "carried_forward": {
+    "from_record": "data/records/3bscientific/2026-10-13_183515_r3.json",
+    "at": "2026-10-14T09:52:03-06:00",
+    "reason": "page text changed, every quote still present",
+    "pages_changed": [
+      "us_medical-simulation,pg_1181.html"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "competitor": "VirTra",
+  "requested_url": "https://www.virtra.com/a-little-maintenance-can-prevent-lost-training-time/",
+  "fetched_at": "2026-10-14T09:51:03-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.virtra.com/a-little-maintenance-can-prevent-lost-training-time/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "A Little Maintenance Can Prevent Lost Training Time - VirTra Simulated Training",
+  "meta_description": "Learn how routine VirTra recoil kit maintenance can help instructors identify common issues before they interrupt scheduled training.",
+  "html_bytes": 247861,
+  "text_characters": 9053
+}

@@ -1,0 +1,35 @@
+{
+  "checked_at": "2026-10-14T11:24:43-06:00",
+  "proposed": "1st Degree",
+  "problems": [],
+  "results": [
+    {
+      "page": "clinical-areas",
+      "quote": "Haptic VR for cataract, retina and gene therapy training.",
+      "source_url": "https://www.fundamentalxr.com/clinical-areas",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "home",
+      "quote": "We are the complete training solution for clinical, manufacturing, and growth teams in MedTech",
+      "source_url": "https://www.fundamentalxr.com/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "home",
+      "quote": "MR uses a headset to mix virtual content with real-world settings.",
+      "source_url": "https://www.fundamentalxr.com/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "case-studies",
+      "quote": "Evidence from immersive training programmes in ophthalmology and medical education",
+      "source_url": "https://www.fundamentalxr.com/case-studies",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    }
+  ]
+}

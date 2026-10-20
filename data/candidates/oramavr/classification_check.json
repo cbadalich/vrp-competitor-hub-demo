@@ -1,0 +1,28 @@
+{
+  "checked_at": "2026-10-14T11:24:43-06:00",
+  "proposed": "1st Degree",
+  "problems": [],
+  "results": [
+    {
+      "page": "home",
+      "quote": "From zero to trained clinicians at scale.",
+      "source_url": "https://oramavr.com/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "home",
+      "quote": "Deploy to any headset, anywhere",
+      "source_url": "https://oramavr.com/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "home",
+      "quote": "Time to demonstrated competency reduced through immersive VR practice and AI-guided assessment.",
+      "source_url": "https://oramavr.com/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    }
+  ]
+}

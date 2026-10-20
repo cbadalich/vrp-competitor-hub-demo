@@ -1,0 +1,138 @@
+{
+  "competitor": "Body Interact",
+  "slug": "bodyinteract",
+  "snapshot": "data/snapshots/bodyinteract/2026-10-14_090552",
+  "extracted_at": "2026-10-14T09:09:47-06:00",
+  "extracted_by": "Claude Code session, model claude-opus-5-5",
+  "note": "Only the homepage could be saved: the site's bot check (Cloudflare) blocks automated downloads most of the time. It let the homepage through on 2026-10-14 at 09:05; a later attempt the same morning to save 4 more pages was blocked (403 on every page). The homepage says Body Interact is a registered trademark of Take The Wind. The research count ('50+ Research Studies') and the '15+ Years' line are the company's own claims.",
+  "pages_read": [
+    "home"
+  ],
+  "pages_failed": [],
+  "fields": {
+    "product_category": {
+      "status": "found",
+      "value": "Screen-based virtual patient simulator for teaching and assessing clinical reasoning and decision-making.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "SCREEN-BASED SIMULATION\nBody Interact Virtual Patients"
+        },
+        {
+          "page": "home",
+          "quote": "Body Interact is the world’s leading virtual virtual patient simulator for teaching and assessing clinical reasoning and decision-making."
+        }
+      ],
+      "note": "The page repeats 'virtual' ('virtual virtual patient simulator'); copied as written."
+    },
+    "platforms": {
+      "status": "unclear",
+      "value": [
+        "Web",
+        "Mobile",
+        "Desktop"
+      ],
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Log in\nWeb App\nApp Store\nGoogle Play\nWindows App"
+        }
+      ],
+      "note": "Based only on the menu's log-in options (Web App, App Store, Google Play, Windows App), which is weak evidence, so marked unclear. The homepage calls it 'SCREEN-BASED SIMULATION'; no VR, AR or MR is mentioned. 'BI Studio' in the same menu appears to be an educator tool and is not counted."
+    },
+    "key_capabilities": {
+      "status": "found",
+      "value": [
+        "Virtual patients that breathe, speak and react in real time",
+        "AI-driven conversations with virtual patients (new)",
+        "Adaptive physiology",
+        "Virtual patients aged 6 months to 99 years",
+        "Student feedback and competency data across communication, assessment and patient management",
+        "Educator tools to measure competence and debrief",
+        "Curriculum-aligned scenarios for medicine, nursing, high school and CTE, and EMS"
+      ],
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Engage with virtual patients that breathe, speak, and react in real time."
+        },
+        {
+          "page": "home",
+          "quote": "New: AI-Driven Conversations\nAsk naturally. Think clinically."
+        },
+        {
+          "page": "home",
+          "quote": "brings clinical decisions, natural patient communication, and adaptive physiology together in one immersive virtual patient experience"
+        },
+        {
+          "page": "home",
+          "quote": "Our virtual patients range from 6 months to 99 years old and respond dynamically to students’ decisions."
+        },
+        {
+          "page": "home",
+          "quote": "Scenarios provide in-depth student feedback and competency data across communication, assessment, and patient management."
+        },
+        {
+          "page": "home",
+          "quote": "Designed for Educators\nMeasure competence. Debrief with clarity."
+        },
+        {
+          "page": "home",
+          "quote": "Curriculum-aligned Scenarios"
+        }
+      ],
+      "note": "The footer lists 'OSCE Scenarios' as a solution, but the homepage gives no detail, so it is not listed."
+    },
+    "target_customer": {
+      "status": "found",
+      "value": "Current and future healthcare professionals in education: medicine (MD, DO), physician assistants, nursing (LPN, LVN, RN, NP), high school health science and CTE programs, and EMS (EMT, paramedics); universities and schools.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Medicine\nMD, DO\nPhysician Assistant / Associate (PA)\nNursingLPN, LVN, RN, NP\nHigh School and CTEHealth Science and Health CTE programs\nEMSEMT, Paramédicos"
+        },
+        {
+          "page": "home",
+          "quote": "From Nursing and Medicine to High School Health Science, explore how universities and schools integrate Body Interact"
+        }
+      ],
+      "note": "The first quote is the Education menu; menu text runs words together as saved."
+    },
+    "value_proposition": {
+      "status": "found",
+      "value": "Help current and future healthcare professionals improve critical thinking, clinical reasoning and decision-making with virtual patients that respond like real ones.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Body Interact - Virtual Patient Simulator fosters current and future healthcare professionals to improve critical thinking and decision-making skills."
+        },
+        {
+          "page": "home",
+          "quote": "Virtual Patient Simulation\nAs close to real life as it gets."
+        }
+      ],
+      "note": "The first quote is the homepage META DESCRIPTION."
+    },
+    "tagline": {
+      "status": "not_found",
+      "value": null,
+      "evidence": [],
+      "note": "No official tagline found: no line is marked ™, ® or ℠, and no slogan repeats on the pages read. Only the homepage was saved. Candidates: banner slides 'Real Programs. Real Results.', 'As close to real life as it gets.', 'Ask naturally. Think clinically.' (each once). 'Body Interact®' is the product name."
+    },
+    "pricing": {
+      "status": "not_found",
+      "value": null,
+      "evidence": [],
+      "note": "No prices, plans or quote requests on the homepage. It offers 'Try for free' and 'Request a live demo', which are not pricing lines under EXTRACTION.md."
+    }
+  },
+  "revision": {
+    "from_record": "data/records/bodyinteract/2026-10-14_090552.json",
+    "at": "2026-10-14T09:18:24-06:00",
+    "reason": "Tagline rule approved by the owner on 2026-10-14 (DECISIONS.md)",
+    "changed": [
+      "tagline now 'No official tagline found'"
+    ]
+  },
+  "changes_since_previous": "No substantive website change. Revised from the same saved pages under the tagline rule approved on 2026-10-14 (see DECISIONS.md): tagline now 'No official tagline found'."
+}

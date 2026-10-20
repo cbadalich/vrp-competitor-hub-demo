@@ -1,0 +1,15 @@
+{
+  "competitor": "Sentinel U",
+  "requested_url": "https://www.sentinelu.com/",
+  "fetched_at": "2026-10-13T18:37:16-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.sentinelu.com/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "Sentinel U\u00ae | Providing Learners With The Best Practice\u2120",
+  "meta_description": "Sentinel U is advancing nursing academic education and healthcare professional training by providing virtual nursing simulations.",
+  "html_bytes": 63731,
+  "text_characters": 5145
+}

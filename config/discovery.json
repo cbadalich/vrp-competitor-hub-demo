@@ -1,0 +1,241 @@
+{
+  "_about": "Settings for the discovery track (finding possible new competitors). A different industry would replace this file, not the code.",
+  "market": "Simulation-based training for healthcare workers (nursing, EMS, medical, allied health, behavioral health and counseling, military medical), especially interactive training on VR, AR, MR or XR headsets.",
+  "categories": [
+    {
+      "label": "1st Degree",
+      "definition": "Trains healthcare workers (nursing, EMS, medical, allied health, behavioral health and counseling, military medical) AND offers INTERACTIVE training on a headset (VR, AR, MR or XR), even if the headset is one of several modes. Watching video or procedures in a headset is not interactive."
+    },
+    {
+      "label": "2nd Degree",
+      "definition": "Trains healthcare workers but has no interactive headset mode: screen-based virtual patients, manikins, task trainers, other simulation, or headset content that is watch-only (procedure viewing, 360-degree video)."
+    },
+    {
+      "label": "3rd Degree",
+      "definition": "Interactive headset-based (VR, AR, MR or XR) training for police, fire, corrections or military that is not healthcare training. Security and de-escalation training for hospital security staff belongs here."
+    },
+    {
+      "label": "Not Relevant",
+      "definition": "Anything else, including patient-facing VR (therapy, pain distraction, rehab), enterprise or industrial VR training, and healthcare software that is not training."
+    },
+    {
+      "label": "Unclear",
+      "definition": "The saved pages do not show enough to decide. A person must look."
+    }
+  ],
+  "tracked_labels": [
+    "Self",
+    "1st Degree",
+    "2nd Degree",
+    "3rd Degree"
+  ],
+  "keywords": {
+    "healthcare_training": [
+      "nursing",
+      "nurse",
+      "nurses",
+      "EMS",
+      "paramedic",
+      "paramedics",
+      "EMT",
+      "medical education",
+      "medical students",
+      "clinical training",
+      "clinical skills",
+      "healthcare simulation",
+      "healthcare training",
+      "patient simulation",
+      "virtual patient",
+      "virtual patients",
+      "allied health",
+      "physicians",
+      "residents",
+      "combat medic",
+      "TCCC",
+      "simulation center",
+      "behavioral health",
+      "counselor",
+      "counselors",
+      "counseling"
+    ],
+    "headset": [
+      "virtual reality",
+      "VR",
+      "augmented reality",
+      "mixed reality",
+      "XR",
+      "headset",
+      "headsets",
+      "Meta Quest",
+      "Quest 3",
+      "HoloLens",
+      "Vision Pro",
+      "HTC VIVE",
+      "Pico"
+    ],
+    "simulation": [
+      "simulation",
+      "simulations",
+      "simulator",
+      "simulators",
+      "manikin",
+      "manikins",
+      "mannequin",
+      "task trainer",
+      "training platform"
+    ],
+    "public_safety": [
+      "police",
+      "law enforcement",
+      "firefighter",
+      "firefighters",
+      "fire service",
+      "corrections",
+      "military",
+      "defense",
+      "soldiers",
+      "public safety"
+    ],
+    "patient_facing": [
+      "pain management",
+      "pain relief",
+      "therapeutic",
+      "digital therapeutic",
+      "rehabilitation",
+      "physical therapy",
+      "patient engagement",
+      "anxiety"
+    ]
+  },
+  "news_feeds": [
+    {
+      "name": "HealthySimulation.com",
+      "url": "https://www.healthysimulation.com/feed/",
+      "page_param": "paged",
+      "pages": 3,
+      "require": []
+    },
+    {
+      "name": "PR Newswire (all releases)",
+      "url": "https://www.prnewswire.com/rss/news-releases-list.rss",
+      "pages": 1,
+      "require": [
+        [
+          "healthcare_training"
+        ],
+        [
+          "headset",
+          "simulation"
+        ]
+      ]
+    },
+    {
+      "name": "PR Newswire (health)",
+      "url": "https://www.prnewswire.com/rss/health-latest-news/health-latest-news-list.rss",
+      "pages": 1,
+      "require": [
+        [
+          "healthcare_training",
+          "public_safety"
+        ],
+        [
+          "headset",
+          "simulation"
+        ]
+      ]
+    }
+  ],
+  "web_search_queries": [
+    "virtual reality nursing simulation software",
+    "VR EMS paramedic training simulation",
+    "VR medical simulation training platform",
+    "mixed reality medical training for clinicians",
+    "augmented reality healthcare simulation training",
+    "VR surgical training platform",
+    "VR combat medic TCCC training",
+    "screen-based virtual simulation nursing education",
+    "virtual patient simulation for nursing students",
+    "healthcare simulation manikin manufacturer",
+    "VR police training simulator",
+    "VR firefighter training simulation",
+    "healthcare simulation startup raises funding",
+    "VR nursing simulation startup 2026",
+    "AI virtual patient simulation launches",
+    "generative AI standardized patient simulation for nursing",
+    "VR medical training company raises seed funding",
+    "new virtual reality EMS training platform pilot",
+    "AI patient conversation simulation for medical students startup"
+  ],
+  "ignore_domains": [
+    "healthysimulation.com",
+    "prnewswire.com",
+    "globenewswire.com",
+    "businesswire.com",
+    "linkedin.com",
+    "youtube.com",
+    "facebook.com",
+    "x.com",
+    "twitter.com",
+    "instagram.com",
+    "tiktok.com",
+    "reddit.com",
+    "medium.com",
+    "wikipedia.org",
+    "g2.com",
+    "capterra.com",
+    "crunchbase.com",
+    "pitchbook.com",
+    "google.com",
+    "apple.com",
+    "amazon.com",
+    "meta.com",
+    "oculus.com",
+    "ncbi.nlm.nih.gov",
+    "sciencedirect.com",
+    "springer.com",
+    "wiley.com",
+    "researchgate.net"
+  ],
+  "ignore_suffixes": [
+    ".edu",
+    ".gov",
+    ".mil"
+  ],
+  "page_hints": [
+    "product",
+    "products",
+    "platform",
+    "solution",
+    "solutions",
+    "features",
+    "how-it-works",
+    "pricing",
+    "about",
+    "nursing",
+    "ems",
+    "medical",
+    "healthcare",
+    "vr",
+    "simulation",
+    "training"
+  ],
+  "category_rules": [
+    "Watch-only headset content (procedure viewing, 360-degree video) does not count as a headset mode. Decided by the owner 2026-09-29 (Immertec).",
+    "Behavioral health and counseling training counts as training healthcare workers. Decided 2026-09-29 (SimCare AI).",
+    "Hospital security de-escalation training is public-safety training (3rd Degree), not healthcare training. Decided 2026-09-29 (VirTra).",
+    "A company that trains both healthcare workers and public safety is placed by its healthcare side (1st or 2nd Degree). Decided 2026-09-29 (XVR)."
+  ],
+  "award_queries": [
+    "(\"virtual reality\" OR \"augmented reality\" OR \"mixed reality\" OR \"extended reality\") AND (nursing OR \"medical education\" OR \"medical training\" OR \"clinical training\" OR \"clinical skills\" OR paramedic OR EMS OR \"first responder\")",
+    "(\"virtual patient\" OR \"simulated patient\" OR \"standardized patient\") AND (simulation OR \"artificial intelligence\")",
+    "(\"simulation training\" OR \"simulation-based training\") AND (nursing OR EMS OR paramedic OR \"combat medic\" OR \"law enforcement\")"
+  ],
+  "award_queries_nsf": [
+    "virtual reality nursing",
+    "virtual reality medical training",
+    "simulation clinical training",
+    "virtual reality first responder training"
+  ],
+  "_award_about": "Award sources (discover.py awards): NIH RePORTER public API and NSF awards API, small-business programs (SBIR/STTR) only, last 3 years. Both checked 2026-10-14: public, no key. Not used: Google News RSS (its terms limit it to personal, non-commercial use; robots.txt disallows), SBIR.gov API and GlobeNewswire (403 to automated requests).",
+  "_web_search_queries_about": "The last six queries aim at new entrants (launch, startup, funding, pilot, year, newer product types). Added 2026-10-14."
+}

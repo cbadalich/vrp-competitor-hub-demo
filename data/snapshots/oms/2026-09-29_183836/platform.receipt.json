@@ -1,0 +1,15 @@
+{
+  "competitor": "Oxford Medical Simulation",
+  "requested_url": "https://oxfordmedicalsimulation.com/platform/",
+  "fetched_at": "2026-09-29T18:43:02-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://oxfordmedicalsimulation.com/platform/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "Platform - Oxford Medical Simulation",
+  "meta_description": "Strengthen clinical readiness with the OMS Platform. Deliver immersive VR and screen-based simulation, real-time feedback and scalable training that builds confidence and competence across programs.",
+  "html_bytes": 659819,
+  "text_characters": 9878
+}

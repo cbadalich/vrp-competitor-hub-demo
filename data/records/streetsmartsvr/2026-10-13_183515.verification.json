@@ -1,0 +1,173 @@
+{
+  "record": "data/records/streetsmartsvr/2026-10-13_183515.json",
+  "checked_at": "2026-10-14T09:09:57-06:00",
+  "results": {
+    "product_category": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://streetsmartsvr.com/",
+          "quote": "XR-based training platform for defense and public safety",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://streetsmartsvr.com/",
+          "quote": "A first-person, hands-on training platform configured to your requirements.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "platforms": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://streetsmartsvr.com/",
+          "quote": "XR-based training platform for defense and public safety",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://streetsmartsvr.com/",
+          "quote": "XR training in action",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "key_capabilities": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://streetsmartsvr.com/",
+          "quote": "// Select COTS-Available Scenarios",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://streetsmartsvr.com/",
+          "quote": "Author any scenario, map it to your standards, deploy to your force",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://streetsmartsvr.com/",
+          "quote": "Train to standard, capture every rep, and prove readiness with performance data.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://streetsmartsvr.com/",
+          "quote": "Live Telemetry\nAccuracy",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://streetsmartsvr.com/",
+          "quote": "Deployable kits\n\u00b7\nStandards mapping\n\u00b7\nStructured evidence",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://streetsmartsvr.com/",
+          "quote": "Weapon replicas configured for your platform and mission requirements.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://streetsmartsvr.com/",
+          "quote": "Training scenarios configured to your doctrine, standards, and environment.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "target_customer": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://streetsmartsvr.com/",
+          "quote": "XR-based training platform for defense and public safety",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://streetsmartsvr.com/",
+          "quote": "Show:\nAll\nDefense\nLaw Enforcement",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://streetsmartsvr.com/",
+          "quote": "50+ agencies\n\u00b7\n100+ locations\n\u00b7\n10,000+ users",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "value_proposition": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://streetsmartsvr.com/",
+          "quote": "Train to standard, capture every rep, and prove readiness with performance data.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://streetsmartsvr.com/",
+          "quote": "Qualification is a 1-day snapshot.\nReadiness is a 365-day requirement.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "tagline": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://streetsmartsvr.com/",
+          "quote": "Train to standard.\nProve readiness.\nAt scale.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "pricing": {
+      "status": "not_found",
+      "result": "not_found",
+      "problems": [],
+      "evidence": []
+    }
+  }
+}

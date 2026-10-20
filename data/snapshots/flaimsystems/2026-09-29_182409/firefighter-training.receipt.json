@@ -1,0 +1,15 @@
+{
+  "competitor": "FLAIM Systems",
+  "requested_url": "https://www.flaimsystems.com/firefighter-training/",
+  "fetched_at": "2026-09-29T18:34:36-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.flaimsystems.com/firefighter-training",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "FLAIM Trainer | Immersive Virtual Reality Fire Training System",
+  "meta_description": "The FLAIM Trainer is the world's leading VR fire training simulator. Portable, realistic & scalable for every fire response scenario.",
+  "html_bytes": 71878,
+  "text_characters": 4974
+}

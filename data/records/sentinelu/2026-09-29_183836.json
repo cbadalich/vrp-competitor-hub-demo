@@ -1,0 +1,171 @@
+{
+  "competitor": "Sentinel U",
+  "slug": "sentinelu",
+  "snapshot": "data/snapshots/sentinelu/2026-09-29_183836",
+  "extracted_at": "2026-09-29T19:14:00-06:00",
+  "extracted_by": "Claude Code session, model claude-opus-5-5",
+  "note": "The two learn_ pages end with long country, state and province form lists; these were read but hold no product content. The history timeline stops at January 2024. An older snapshot folder (2026-09-29_182409) also exists; this record uses the newest one.",
+  "pages_read": [
+    "home",
+    "about",
+    "about_history",
+    "learn_medical-surgical",
+    "learn_telehealth-nursing"
+  ],
+  "pages_failed": [],
+  "fields": {
+    "product_category": {
+      "status": "found",
+      "value": "Virtual nursing simulation and nursing education platform: virtual clinicals plus digital teaching resources, debriefing tools and performance analytics for nurse educators",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Sentinel U is advancing nursing academic education and healthcare professional training by providing virtual nursing simulations."
+        },
+        {
+          "page": "about",
+          "quote": "what started as a single virtual community health simulation has evolved into a comprehensive virtual nursing education platform designed to prepare the next generation of nurses."
+        },
+        {
+          "page": "about",
+          "quote": "Sentinel U® helps nurse educators teach more efficiently with virtual nursing simulations, competency-based learning tools, performance analytics, and evidence-based debriefing."
+        }
+      ],
+      "note": "First quote is the home META DESCRIPTION; third is the about META DESCRIPTION. Nursing-focused."
+    },
+    "platforms": {
+      "status": "unclear",
+      "value": [
+        "Desktop"
+      ],
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Illustrated nurse sitting at a computer desktop with animated screen showing a nursing simulation"
+        },
+        {
+          "page": "learn_medical-surgical",
+          "quote": "Laptop with Sentinel U Medical-Surgical simulations on the screen"
+        }
+      ],
+      "note": "No page says how learners run the simulations (browser, installed app or headset). The only hints are image descriptions saved in the text, showing simulations on a computer or laptop screen; per EXTRACTION.md a computer screen with no mention of a browser maps to Desktop, but because these are image captions rather than statements the status is unclear. The history page mentions a 'Sentinel World® Portal', a 'Faculty Portal' and 'login tokens', which hint at web access but do not say learners use a browser. VR appears only as a 2022 conference demo ('Family Support and Home Assessments® v.5 redeveloped as a virtual reality demo'), so VR is not listed. 'Ask Florence, an app featuring Florence Nightingale' (2020) is not described further."
+    },
+    "key_capabilities": {
+      "status": "found",
+      "value": [
+        "Virtual clinical simulations organized by content area, from undergraduate to advanced practice",
+        "ALIGN digital teaching resources: pre- and post-simulation materials, course module maps, competency mapping",
+        "EMPOWER Debrief model, including a standalone debrief product",
+        "METRIX performance reporting and analytics",
+        "Performance Tracker with aggregate reporting and competency mapping (AACN, NCLEX, NCJMM)",
+        "Autoscoring and gamification in virtual clinicals",
+        "Immediate feedback with rationales for correct and incorrect answers",
+        "Faculty guide, evaluative report dashboard and learner dashboard with each virtual clinical",
+        "Telehealth virtual office visits with remote patient monitoring",
+        "Continuing education (CE) credit for Professional Nursing Series"
+      ],
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "explore virtual nursing simulations by content area – for undergrad to advanced practice learners."
+        },
+        {
+          "page": "learn_medical-surgical",
+          "quote": "ALIGN® pre- and post-simulation digital teaching resources"
+        },
+        {
+          "page": "home",
+          "quote": "Craft a dynamic curriculum with active learning resources and course module maps aligned with national healthcare disciplines and clinical competency areas."
+        },
+        {
+          "page": "about_history",
+          "quote": "EMPOWER® Debrief Plus released as a standalone product"
+        },
+        {
+          "page": "learn_medical-surgical",
+          "quote": "our performance-focused platform METRIX™ for data-driven insights"
+        },
+        {
+          "page": "about_history",
+          "quote": "learner performance will map to competencies (AACN, NCLEX, NCJMM)"
+        },
+        {
+          "page": "about_history",
+          "quote": "complete with autoscoring, gamification, and activity reporting."
+        },
+        {
+          "page": "learn_telehealth-nursing",
+          "quote": "The learner is immersed in in-depth dialog and immediate feedback, including rationales for correct and incorrect answers."
+        },
+        {
+          "page": "learn_telehealth-nursing",
+          "quote": "Each virtual clinical includes a faculty guide, feedback and rationales, a dashboard with evaluative report, and a learner dashboard."
+        },
+        {
+          "page": "learn_telehealth-nursing",
+          "quote": "conducts a virtual office visit with the remote patient, reviewing data and selecting telehealth tools to monitor specific parameters."
+        },
+        {
+          "page": "about_history",
+          "quote": "Professional Nursing Series® is approved to award CE (continuing education) credits by the Connecticut Board of Nursing."
+        }
+      ],
+      "note": "The history page says competency reporting starts with 'Prioritization of Care® Specialty Series' and 'will be expanded to all products in time'. Product lines named: Sentinel City® and Sentinel Town® (community health), Prioritization of Care®, Patient Management and Delegation® (Charge Nurse role, 52 patient scenarios, 3 difficulty levels), Telehealth Nursing Series™, Interprofessional Teams®, Advanced Practice Series®, Professional Nursing Series®, Readiness Essentials. The menu lists 15 content areas. Products state clinical hours (for example 'Earn 2 Clinical Hours.') and CE hours."
+    },
+    "target_customer": {
+      "status": "found",
+      "value": "Nurse educators and nursing programs (undergraduate through advanced practice, including NP learners), plus hospitals and healthcare organizations for professional development and continuing education",
+      "evidence": [
+        {
+          "page": "about",
+          "quote": "Sentinel U® exists to support nurse educators facing growing demands, evolving competency requirements, and increasingly complex learning environments."
+        },
+        {
+          "page": "home",
+          "quote": "explore virtual nursing simulations by content area – for undergrad to advanced practice learners."
+        },
+        {
+          "page": "about_history",
+          "quote": "for schools, hospitals, and healthcare organizations."
+        }
+      ],
+      "note": "The third quote is from the 2020 timeline entry about the Telehealth and Interprofessional Teams series. The home page says 'more than 200,000 learner experiences in healthcare and academia'; the history page says 'more than 150,000 people in healthcare learn' with it. The contact form's job titles include Dean, Program Chair, Faculty, Clinical Coordinator and Healthcare Administrator."
+    },
+    "value_proposition": {
+      "status": "found",
+      "value": "Helps nurse educators teach, assess and scale learning more efficiently through virtual simulations, digital teaching resources and outcome data, producing confident, practice-ready nurses and bridging gaps in clinical placements.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Empowering nurse education through real-world virtual simulations, digital teaching resources, and outcome-driven insights, our holistic approach enhances learning outcomes and fosters confident, practice-ready nurses."
+        },
+        {
+          "page": "about",
+          "quote": "We help educators teach more efficiently, assess more effectively, and scale learning with confidence"
+        },
+        {
+          "page": "home",
+          "quote": "Bridges the Gap in Clinical Placements"
+        }
+      ],
+      "note": "Home also lists 'Cost-Effective and Scalable' and, for learners, 'Safe, Risk-Free Learning Environment' and 'Flexible On-Demand Learning' as short benefit labels."
+    },
+    "tagline": {
+      "status": "found",
+      "value": "Providing Learners With The Best Practice℠",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Sentinel U® | Providing Learners With The Best Practice℠"
+        }
+      ],
+      "note": "Appears only in the home page TITLE line, marked with a service mark (℠), which is why it is preferred over body headlines. Other candidates: homepage first headline after the menu 'Healthcare Simulations & Learning Innovations'; home 'Give Your Learners the Sentinel Advantage'; 'Empowering Educators, Elevating Learners'."
+    },
+    "pricing": {
+      "status": "not_found",
+      "value": null,
+      "evidence": [],
+      "note": "No prices, plans or pricing wording on the five pages read. Calls to action are 'Request a Demo', 'Connect with a Specialist', 'Request More Information' and 'Schedule a Demo', which are generic contact buttons under EXTRACTION.md. The 2017 history entry mentions a 'payment portal' but no prices."
+    }
+  }
+}

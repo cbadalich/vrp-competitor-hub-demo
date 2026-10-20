@@ -1,0 +1,28 @@
+{
+  "checked_at": "2026-10-14T11:24:43-06:00",
+  "proposed": "2nd Degree",
+  "problems": [],
+  "results": [
+    {
+      "page": "industries_physicians",
+      "quote": "Immertec connects you to cutting-edge techniques, devices, and peer insights through immersive training solutions",
+      "source_url": "https://www.immertec.com/industries/physicians",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "products_vr-viewer",
+      "quote": "If you already own a Meta VR headset, including Quest 1, 2, or 3, Immertec supports access",
+      "source_url": "https://www.immertec.com/products/vr-viewer",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "home",
+      "quote": "Train more physicians and sales reps faster and better",
+      "source_url": "https://www.immertec.com/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    }
+  ]
+}

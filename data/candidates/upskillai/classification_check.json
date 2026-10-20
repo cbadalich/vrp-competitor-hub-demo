@@ -1,0 +1,28 @@
+{
+  "checked_at": "2026-10-14T11:24:43-06:00",
+  "proposed": "1st Degree",
+  "problems": [],
+  "results": [
+    {
+      "page": "healthcare",
+      "quote": "VR simulation providing learners hands-on practice evaluating and talking to multiple virtual patients with guided coaching, feedback, and assessments",
+      "source_url": "https://upskillai.com/healthcare/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "healthcare",
+      "quote": "Trained 84 clinicians in under 24 hours without disrupting shifts",
+      "source_url": "https://upskillai.com/healthcare/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "ems",
+      "quote": "Practice high-stress scenarios, team leadership, pediatric emergencies, overdoses - all in one headset.",
+      "source_url": "https://upskillai.com/ems/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    }
+  ]
+}

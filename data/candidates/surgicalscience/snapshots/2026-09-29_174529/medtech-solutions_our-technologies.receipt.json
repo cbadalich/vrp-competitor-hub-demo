@@ -1,0 +1,15 @@
+{
+  "competitor": "Surgical Science",
+  "requested_url": "https://surgicalscience.com/medtech-solutions/our-technologies/",
+  "fetched_at": "2026-09-29T17:45:52-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://surgicalscience.com/medtech-solutions/our-technologies/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "Simulation technology - Surgical Science",
+  "meta_description": "Simulation technology is our expertise and outsourcing simulation projects to us saves time and cost compared to developing in-house.",
+  "html_bytes": 64359,
+  "text_characters": 5137
+}

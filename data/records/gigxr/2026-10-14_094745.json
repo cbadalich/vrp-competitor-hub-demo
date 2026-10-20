@@ -1,0 +1,198 @@
+{
+  "competitor": "GigXR",
+  "slug": "gigxr",
+  "snapshot": "data/snapshots/gigxr/2026-10-14_094745",
+  "extracted_at": "2026-09-29T19:11:04-06:00",
+  "extracted_by": "Claude Code session, model claude-opus-5-5",
+  "pages_read": [
+    "home",
+    "products_holopatient",
+    "products_holohuman-plus",
+    "products_ai-conversations",
+    "solutions_nursing"
+  ],
+  "pages_failed": [],
+  "fields": {
+    "product_category": {
+      "status": "found",
+      "value": "Mixed-reality immersive medical and clinical training platform for nursing, health professions, and military medicine education: holographic standardized patients (HoloPatient), holographic anatomy (HoloHuman+), and browser-based AI patient conversations (AI Conversations)",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Mixed-reality training for medical and nursing education: hyperrealistic holographic patients, full-body anatomy, and AI patient conversations"
+        },
+        {
+          "page": "home",
+          "quote": "A teaching platform, not just an app."
+        }
+      ],
+      "note": "The first quote is the homepage META DESCRIPTION line."
+    },
+    "platforms": {
+      "status": "found",
+      "value": [
+        "MR",
+        "Mobile",
+        "Web"
+      ],
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Run the same session on a mixed-reality headset, on a device already in students' hands, or with no headset at all"
+        },
+        {
+          "page": "products_holopatient",
+          "quote": "HoloPatient runs on mixed-reality headsets and on the phones and tablets students already carry"
+        },
+        {
+          "page": "products_holohuman-plus",
+          "quote": "HoloHuman+ runs on mixed-reality headsets and on tablets and phones, with collaborative cross-device sessions."
+        },
+        {
+          "page": "products_ai-conversations",
+          "quote": "AI Conversations runs in any modern web browser on PC or Mac"
+        }
+      ],
+      "note": "Platforms differ by product: HoloPatient and HoloHuman+ run on mixed-reality headsets, tablets and phones; AI Conversations runs only in a web browser ('no XR or mobile hardware required'). The home page device list shows 'Web browser' with 'PC & Mac' and 'No headset needed'. No headset brand is named on the pages read."
+    },
+    "key_capabilities": {
+      "status": "found",
+      "value": [
+        "Volumetric-captured holographic standardized patients (17+ presentations)",
+        "Staged, evolving scenes, linear and branching (3 to 6 clips per case)",
+        "Editable live vital signs and instructor dashboard",
+        "Real-time AI patient conversations for history-taking (65+ cases, 17 specialties)",
+        "Adaptive difficulty levels (beginner to advanced)",
+        "Time-stamped transcripts and ISBARR-style summaries",
+        "Holographic anatomy: 2 models, 12 layered systems, about 2,500 structures",
+        "Evidence-based facilitator guides and curriculum-mapped session plans",
+        "Multi-user, cross-device sessions around one hologram",
+        "MDM device management support and faculty onboarding"
+      ],
+      "evidence": [
+        {
+          "page": "products_holopatient",
+          "quote": "HoloPatient turns volumetric-captured, hyperrealistic patients into repeatable encounters"
+        },
+        {
+          "page": "products_holopatient",
+          "quote": "3–6 staged clips per case, linear and branching, showing realistic deterioration and improvement."
+        },
+        {
+          "page": "products_holopatient",
+          "quote": "Adjust vitals in real time to match difficulty to a learner's level or your objectives."
+        },
+        {
+          "page": "products_holopatient",
+          "quote": "Pause, fast-forward, and skip clips, and edit vitals from one place."
+        },
+        {
+          "page": "products_ai-conversations",
+          "quote": "AI Conversations lets learners hold free-form, natural conversations with more than 65 AI patients"
+        },
+        {
+          "page": "products_ai-conversations",
+          "quote": "Beginner (guided) → intermediate (independent) → advanced (complex cases)."
+        },
+        {
+          "page": "products_ai-conversations",
+          "quote": "Downloadable, time-stamped transcripts and ISBARR-style summaries"
+        },
+        {
+          "page": "products_holohuman-plus",
+          "quote": "With 12 systems and roughly 2,500 structures"
+        },
+        {
+          "page": "products_holopatient",
+          "quote": "Expert-created objectives, step-by-step questions, red-flag cues, and differential-diagnosis prompts"
+        },
+        {
+          "page": "products_holohuman-plus",
+          "quote": "Ready-to-use objectives, prompts, and clinical tie-ins; use as-is or adapt."
+        },
+        {
+          "page": "home",
+          "quote": "Cross-device sessions let a whole group join one hologram together."
+        },
+        {
+          "page": "home",
+          "quote": "From device choice and MDM to faculty onboarding and ongoing support"
+        }
+      ],
+      "note": "Case counts: HoloPatient '17+ clinical presentations', including sensitive cases (sexual assault / SANE, domestic violence). AI Conversations lists 'Multiplayer for collaborative role-play' under facilitator and patient guides. HoloHuman+ has a hand menu to 'hide, outline, isolate, label, move, or scale structures'."
+    },
+    "target_customer": {
+      "status": "found",
+      "value": "Nursing programs, health professions educators, and defense or military medicine training; learners include nursing, medical, and health professions students in large cohorts.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Help every student build clinical reasoning and assessment skills"
+        },
+        {
+          "page": "home",
+          "quote": "For nursing programs"
+        },
+        {
+          "page": "home",
+          "quote": "For health professions educators"
+        },
+        {
+          "page": "home",
+          "quote": "For defense medical training"
+        },
+        {
+          "page": "solutions_nursing",
+          "quote": "Nursing programs need hands-on practice for large groups, in limited space, without the cost of high-fidelity manikins"
+        }
+      ],
+      "note": "Menu segments: Nursing Education, Health Professions Education, Defense / Military Medicine. Only the nursing solution page was saved."
+    },
+    "value_proposition": {
+      "status": "found",
+      "value": "Evidence-based, curriculum-driven mixed-reality practice that builds clinical skills (assessment, clinical reasoning, communication, anatomy) through safe, repeatable practice, and lets educators standardize, cut prep time, and scale across large cohorts at a fraction of the cost of manikins and skills trainers.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "GigXR delivers evidence-based, curriculum-driven mixed-reality training that helps students build real clinical skills — assessment, clinical reasoning, communication, and anatomy — through safe, repeatable practice."
+        },
+        {
+          "page": "home",
+          "quote": "let educators standardize that practice, cut prep time, and scale it across large cohorts."
+        },
+        {
+          "page": "solutions_nursing",
+          "quote": "A fraction of the cost of manikins and skills trainers — and no dedicated simulation suite required."
+        }
+      ],
+      "note": ""
+    },
+    "tagline": {
+      "status": "found",
+      "value": "Redefining education, medicine, and training through seamless mixed reality.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Redefining education, medicine, and training through seamless mixed reality."
+        },
+        {
+          "page": "products_holopatient",
+          "quote": "Redefining education, medicine, and training through seamless mixed reality."
+        }
+      ],
+      "note": "Repeated in the footer of all 5 pages read. Other candidates: homepage first headline after the menu 'Immersive medical & clinical training' followed by 'Extending reality.'; home 'A teaching platform, not just an app.'; nursing page 'Practice-ready nurses, at the scale your cohorts demand.'"
+    },
+    "pricing": {
+      "status": "not_found",
+      "value": null,
+      "evidence": [],
+      "note": "No prices, plans, or quote requests on the 5 pages read. Calls to action are 'Book a Demo' / 'Book a 30-minute demo'. Cost is mentioned only relative to alternatives ('a fraction of the cost of manikins and skills trainers')."
+    }
+  },
+  "carried_forward": {
+    "from_record": "data/records/gigxr/2026-10-13_183515.json",
+    "at": "2026-10-14T09:52:04-06:00",
+    "reason": "identical page text",
+    "pages_changed": []
+  }
+}

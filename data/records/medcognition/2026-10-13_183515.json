@@ -1,0 +1,158 @@
+{
+  "competitor": "Medcognition",
+  "slug": "medcognition",
+  "snapshot": "data/snapshots/medcognition/2026-10-13_183515",
+  "extracted_at": "2026-09-29T19:20:00-06:00",
+  "extracted_by": "Claude Code session, model claude-opus-5-5",
+  "note": "Only two pages were saved (home and about-us), so several fields rest on short homepage feature lists. The earlier snapshot 2026-09-29_182409 has the same pages.",
+  "pages_read": [
+    "home",
+    "about-us"
+  ],
+  "pages_failed": [],
+  "fields": {
+    "product_category": {
+      "status": "found",
+      "value": "PerSim, a holographic (mixed/augmented reality) patient simulator for medical simulation training of pre-hospital and hospital healthcare providers",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "PerSim®\nHolographic Patient Simulation"
+        },
+        {
+          "page": "about-us",
+          "quote": "The PerSim® was specifically designed with pre-hospital and hospital training in mind."
+        }
+      ],
+      "note": "Disciplines named on the homepage: Pre-Hospital/EMS, Nursing, Physicians, Allied Health."
+    },
+    "platforms": {
+      "status": "found",
+      "value": [
+        "MR",
+        "AR"
+      ],
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "PerSim® leverages Microsoft HoloLens® mixed reality to project life-like patient simulations into your actual real-time work environment."
+        },
+        {
+          "page": "about-us",
+          "quote": "He is chiefly responsible for integrating the latest augmented reality and computing technology into the PerSim®."
+        }
+      ],
+      "note": "The product statement names Microsoft HoloLens mixed reality (MR). The site also calls it augmented reality: the homepage says 'Discover the Augmented Future of Medical Simulation.' and a testimonial mentions 'augmented reality training', and the CTO bio says augmented reality, so AR is also listed. 'schedule an online demo' refers to sales demos, not a learner mode."
+    },
+    "key_capabilities": {
+      "status": "found",
+      "value": [
+        "Holographic patients projected into the real work environment",
+        "Adult, pediatric, obstetric and geriatric patients",
+        "Team training capability",
+        "Multi-patient training",
+        "Medical, trauma and HazMat training",
+        "Over 10,000 case combinations",
+        "Access to expanding content",
+        "Highly portable; use in the classroom or in-situ"
+      ],
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "project life-like patient simulations into your actual real-time work environment."
+        },
+        {
+          "page": "home",
+          "quote": "Adult, pediatric, obstetric, and geriatric patients"
+        },
+        {
+          "page": "home",
+          "quote": "Team Training Capability"
+        },
+        {
+          "page": "home",
+          "quote": "Multi-Patient Training\nOver 10,000 Case Combinations\nAccess to expanding content"
+        },
+        {
+          "page": "home",
+          "quote": "Medical, Trauma, & HazMat Training"
+        },
+        {
+          "page": "home",
+          "quote": "Use PerSim® in the classroom or In-Situ in the clinical workspace."
+        },
+        {
+          "page": "home",
+          "quote": "Intuitive depictions of clinical conditions\nAdult, pediatric, obstetric, and geriatric patients\nHighly portable"
+        }
+      ],
+      "note": "Most items come from a short homepage feature list with no detail. A testimonial mentions 'The diagnostic tool'; not listed because it is not described by the company."
+    },
+    "target_customer": {
+      "status": "found",
+      "value": "Frontline healthcare professionals and their training programs: pre-hospital/EMS (EMTs, paramedics, fire departments), nursing, physicians, allied health, rapid response teams; hospital and pre-hospital settings. Also states DOD contracting.",
+      "evidence": [
+        {
+          "page": "about-us",
+          "quote": "Professionals on healthcare’s frontline, be they EMTs, paramedics, nurses, or rapid response teams are tasked with treating and caring for the sick and injured."
+        },
+        {
+          "page": "home",
+          "quote": "Pre-Hospital/EMS\nLearn More\nNursing\nLearn More\nPhysicians\nLearn More\nAllied Health"
+        },
+        {
+          "page": "home",
+          "quote": "Contracted by the DOD, trusted by frontline healthcare personnel."
+        }
+      ],
+      "note": "Testimonials come from EMS services, a health system simulation director, a firefighter/paramedic and a college program. Nursing schools are not named directly; a testimonial mentions 'graduate nurses'."
+    },
+    "value_proposition": {
+      "status": "found",
+      "value": "Affordable, portable and realistic patient simulation for frontline healthcare providers, showing signs such as facial expression and skin color that mechanical manikins cannot, in the place where teams work.",
+      "evidence": [
+        {
+          "page": "about-us",
+          "quote": "Our focus on affordable, portable and realistic simulation is specifically intended to provide all people who can benefit access to this valuable training modality."
+        },
+        {
+          "page": "about-us",
+          "quote": "Current simulators are bulky, heavy, and expensive."
+        },
+        {
+          "page": "home",
+          "quote": "With PerSim®, you can provide medical simulation training in the location where you need it."
+        }
+      ],
+      "note": "The facial expression and skin color point comes from a customer testimonial on the homepage ('sensitive to facial expression, to changes in skin color'), not company copy."
+    },
+    "tagline": {
+      "status": "found",
+      "value": "Discover the Augmented Future of Medical Simulation.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Holographic Patient Simulation\nDiscover the Augmented Future of Medical Simulation."
+        }
+      ],
+      "note": "No trademark slogan or line repeated across pages. This is the homepage's first headline after the menu (under 'PerSim® Holographic Patient Simulation'). Other candidates: About page 'You live to save lives. We live to help you train for it.'; homepage 'You work the frontlines of healthcare. We made this for you.' (appears twice on the homepage); 'Augment Your sim training.'"
+    },
+    "pricing": {
+      "status": "found",
+      "value": "Not published; quote on request",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Contact Us\nGet A Quote"
+        }
+      ],
+      "note": "No prices on either page. The site header has a 'Get A Quote' button. The About page calls the product 'affordable' without a price."
+    }
+  },
+  "carried_forward": {
+    "from_record": "data/records/medcognition/2026-09-29_183836.json",
+    "at": "2026-10-13T18:39:59-06:00",
+    "reason": "identical page text",
+    "pages_changed": []
+  }
+}

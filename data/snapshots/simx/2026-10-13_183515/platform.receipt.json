@@ -1,0 +1,15 @@
+{
+  "competitor": "SimX",
+  "requested_url": "https://www.simxvr.com/platform/",
+  "fetched_at": "2026-10-13T18:35:26-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.simxvr.com/platform/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "VR Medical Simulation Platform | SimX",
+  "meta_description": "High-fidelity, fully immersive VR medical simulation. Multiplayer training, 425+ patient models, and 1,064+ simulated tools. No lab required.",
+  "html_bytes": 81368,
+  "text_characters": 6704
+}

@@ -1,0 +1,74 @@
+{
+  "slug": "tech-labs",
+  "name": "Tech-Labs",
+  "website": "https://tech-labs.com/",
+  "domain": "tech-labs.com",
+  "aliases": [],
+  "status": "deferred",
+  "first_seen": "2026-10-14T11:23:27-06:00",
+  "last_seen": "2026-10-14T11:23:27-06:00",
+  "sightings": [
+    {
+      "source": "web search",
+      "query": "VR EMS paramedic training simulation",
+      "url": "https://www.jems.com/?p=221989",
+      "snippet": "",
+      "website_from": "result link",
+      "origin": "topic-search",
+      "found_in": "https://tech-labs.com/news/vrsim-announces-first-its-kind-cna-skills-vr-simulator",
+      "run": "2026-10-14",
+      "found_at": "2026-10-14T11:23:27-06:00"
+    }
+  ],
+  "known_from": null,
+  "possible_duplicate_of": [],
+  "snapshot": "data/candidates/tech-labs/snapshots/2026-10-14_112327",
+  "extra_pages": [],
+  "signals": {
+    "simulation": [
+      "simulation",
+      "simulators",
+      "training platform"
+    ],
+    "public_safety": [
+      "law enforcement"
+    ]
+  },
+  "suggested_pages": [
+    "https://tech-labs.com/product/",
+    "https://tech-labs.com/products/science/",
+    "https://tech-labs.com/products/stem/",
+    "https://tech-labs.com/products/3d-printers/",
+    "https://tech-labs.com/products/advanced-manufacturing/",
+    "https://tech-labs.com/products/automotive/",
+    "https://tech-labs.com/products/cnc-robotics/",
+    "https://tech-labs.com/products/it-cyber-security/"
+  ],
+  "classification": {
+    "proposed": "Not Relevant",
+    "by": "Claude Code session, model claude-opus-5-5",
+    "at": "2026-10-14T11:23:44-06:00",
+    "snapshot": "data/candidates/tech-labs/snapshots/2026-10-14_112327",
+    "reason": "Website belongs to a different company: tech-labs.com is Tech-Labs, a distributor of other makers' training systems. It was saved because it hosts VRSim's VRNA product page and press releases. The maker, VRSim (VRNA for nursing assistants and EMS), is a lead whose own website has not been found by search.",
+    "evidence": [
+      {
+        "page": "home",
+        "quote": "Tech-Labs provides educational and training solutions from Amatrol, Stratasys, Simlog, Lincoln Electric, EduSmart, iConnect Training LJ Create, and more!"
+      }
+    ]
+  },
+  "review": {
+    "decision": "deferred",
+    "at": "2026-10-14T11:31:01-06:00",
+    "reason": ""
+  },
+  "name_on_site": true,
+  "renamed": [
+    {
+      "from": "VRSim",
+      "to": "Tech-Labs",
+      "at": "2026-10-14T11:24:07-06:00",
+      "reason": "tech-labs.com is a distributor that hosts VRSim's product pages; VRSim's own site not found yet"
+    }
+  ]
+}

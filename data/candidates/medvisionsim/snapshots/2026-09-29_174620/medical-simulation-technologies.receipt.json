@@ -1,0 +1,15 @@
+{
+  "competitor": "MedVision",
+  "requested_url": "https://www.medvisionsim.com/medical-simulation-technologies/",
+  "fetched_at": "2026-09-29T17:46:42-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://medvisionsim.com/medical-simulation-technologies",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "Medical Simulation Technologies for Training and Practice",
+  "meta_description": "Discover cutting-edge medical simulation technologies designed for realistic training and practice. Ideal for healthcare professionals to enhance skills and improve patient care.",
+  "html_bytes": 122376,
+  "text_characters": 7899
+}

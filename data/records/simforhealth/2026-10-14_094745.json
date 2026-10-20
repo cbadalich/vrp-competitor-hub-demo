@@ -1,0 +1,192 @@
+{
+  "competitor": "SimForHealth",
+  "slug": "simforhealth",
+  "snapshot": "data/snapshots/simforhealth/2026-10-14_094745",
+  "extracted_at": "2026-09-29T19:18:00-06:00",
+  "extracted_by": "Claude Code session, model claude-opus-5-5",
+  "note": "All pages are in French. Quotes are copied in French exactly as saved; values and notes are in English (translations are this session's). The home page was requested at https://simforhealth.fr/ and redirected to https://www.simforhealth.com/. The nos-produits page is thin: the saved text holds only filter labels and product names, no product descriptions. On notre-expertise, the statistics counters were saved as '+ 0' (animated numbers not captured), so the years, trainee and simulator counts are unknown. The only product detail page saved (VR Transfu) is marked 'Non commercialisé actuellement' (not currently sold). An older snapshot folder (2026-09-29_182409) also exists; this record uses the newest one.",
+  "pages_read": [
+    "home",
+    "nos-produits",
+    "notre-expertise",
+    "produits_vr-transfu"
+  ],
+  "pages_failed": [],
+  "fields": {
+    "product_category": {
+      "status": "found",
+      "value": "Digital simulation (VR named for one product) for the initial and continuing training of health professionals, with a product catalog for initial paramedical training (including nurse and nursing-assistant collections) and custom simulator development",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Expert en simulation numérique pour la formation initiale et continue des professionnels de santé"
+        },
+        {
+          "page": "home",
+          "quote": "Découvrez nos simulateurs numériques développés spécialement pour la formation initiale paramédicale."
+        },
+        {
+          "page": "home",
+          "quote": "Notre équipe d'experts est à votre écoute pour réaliser votre propre simulateur numérique."
+        }
+      ],
+      "note": "Translations: 'Expert in digital simulation for the initial and continuing training of health professionals'; 'Discover our digital simulators developed specifically for initial paramedical training'; 'Our team of experts is ready to build your own digital simulator.' The pages mostly say 'simulation numérique' (digital simulation) without naming a device."
+    },
+    "platforms": {
+      "status": "unclear",
+      "value": [
+        "VR"
+      ],
+      "evidence": [
+        {
+          "page": "produits_vr-transfu",
+          "quote": "Ce simulateur fonctionne exclusivement avec un casque de réalité virtuelle (non fourni)."
+        },
+        {
+          "page": "produits_vr-transfu",
+          "quote": "HTC Vive ou Vive Pro"
+        }
+      ],
+      "note": "Translation: 'This simulator works exclusively with a virtual reality headset (not supplied).' VR is stated only for VR Transfu, which the same page marks 'Non commercialisé actuellement' (not currently sold); it uses an HTC Vive or Vive Pro headset tethered to a computer ('Relié à' 'ordinateur'), supplied by partner Matts Digital. The catalog also lists 'VR CCI' and 'PSY VR', whose names suggest VR but have no description on the pages read. The platform for the rest of the catalog (Collection Infirmière, Collection Aide-Soignante, SIMDOSE dose-calculation software, and others) is not stated; no page says browser, online, desktop app or mobile. The menu shows 'mySimforhealth' and 'MedicActiV' login links with no description. Status is unclear because the only explicit platform statement covers one product that is not currently sold."
+    },
+    "key_capabilities": {
+      "status": "found",
+      "value": [
+        "Virtual patients with their own medical history, traits and emotions",
+        "3D environments modeled on real professional settings",
+        "Clinical scenarios from simple to complex",
+        "Product catalog by collection: nursing (IFSI), nursing assistant (IFAS), pain, 'room of errors', transfusion (VR Transfu), psychiatry (PSY VR), SIMDOSE dose-calculation software",
+        "Progress tracking, described as real-time",
+        "Custom simulator development for clients",
+        "VR Transfu: step-by-step blood transfusion procedure guided by a virtual nurse",
+        "Headset view mirrored to a screen or projector for group debriefing (VR Transfu)",
+        "Medical content validated and updated by health professionals"
+      ],
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Pratiquez avec des patients virtuels réalistes, chacun avec son histoire médicale, ses traits distinctifs, et ses émotions."
+        },
+        {
+          "page": "home",
+          "quote": "Pratiquez dans des environnements 3D fidèles à la réalité, adaptés aux situations professionnelles."
+        },
+        {
+          "page": "home",
+          "quote": "Entraînez-vous sur des scénarios cliniques variés, des cas simples aux plus complexes."
+        },
+        {
+          "page": "nos-produits",
+          "quote": "SIMDOSE, logiciel de calcul de dose"
+        },
+        {
+          "page": "nos-produits",
+          "quote": "Collection Infirmière\nCollection Aide-Soignante"
+        },
+        {
+          "page": "notre-expertise",
+          "quote": "Suivi des progrès en temps réel pour optimiser l’apprentissage"
+        },
+        {
+          "page": "notre-expertise",
+          "quote": "Nous vous proposons de concevoir un outil de simulation numérique entièrement personnalisé."
+        },
+        {
+          "page": "produits_vr-transfu",
+          "quote": "Guidé virtuellement par une infirmière, il suit chaque étape de la procédure : contrôles de sécurité, préparation et pose de la transfusion."
+        },
+        {
+          "page": "produits_vr-transfu",
+          "quote": "L'ordinateur peut être connecté à un écran ou à un vidéoprojecteur, permettant à tous les apprenants de voir ce que l'utilisateur du casque visualise, facilitant ainsi le débriefing."
+        },
+        {
+          "page": "notre-expertise",
+          "quote": "Validation des scénarios par des professionnels de santé"
+        }
+      ],
+      "note": "Translations: 'Practice with realistic virtual patients, each with their own medical history, distinctive traits and emotions'; 'Practice in 3D environments faithful to reality'; 'Train on varied clinical scenarios, from simple to the most complex cases'; 'Real-time progress tracking to optimize learning'; 'We offer to design a fully customized digital simulation tool'; 'Guided virtually by a nurse, the user follows each step: safety checks, preparation and setting up the transfusion'; 'The computer can be connected to a screen or projector so all learners see what the headset user sees, making debriefing easier'; 'Scenario validation by health professionals'. The full nos-produits product list is 'Collection Douleur', 'Chambre des erreurs', 'VR CCI', 'VR TRANSFU', 'PSY VR', 'SIMDOSE, logiciel de calcul de dose', 'Collection Infirmière', 'Collection Aide-Soignante', with filters 'IFAS' and 'IFSI' and a 'Suivi progression' (progress tracking) label. Home icon labels 'Dialogue', 'Examens', 'Dossier médical' (dialogue, exams, medical record) are not listed because they have no description."
+    },
+    "target_customer": {
+      "status": "found",
+      "value": "Institutes for initial paramedical training (the catalog is filtered by 'IFSI' and 'IFAS'; the VR Transfu page tags IFSI with 'Infirmier', nurse, and the catalog has nurse and nursing-assistant collections), and health professionals in initial or continuing training; also organizations commissioning custom simulators",
+      "evidence": [
+        {
+          "page": "nos-produits",
+          "quote": "Tous\nIFAS\nIFSI\nCollection Douleur"
+        },
+        {
+          "page": "notre-expertise",
+          "quote": "La simulation numérique accompagne la formation des professionnels de santé, qu'ils soient en formation initiale ou continue."
+        },
+        {
+          "page": "produits_vr-transfu",
+          "quote": "adaptée au nombre d’étudiants de votre institut."
+        },
+        {
+          "page": "home",
+          "quote": "Découvrez des exemples de projets conçus pour répondre aux besoins spécifiques de formation de nos clients."
+        },
+        {
+          "page": "produits_vr-transfu",
+          "quote": "IFSI\nVR Transfu\nLe simulateur d'entraînement à la procédure de l'acte transfusionnel.\nInfirmier"
+        }
+      ],
+      "note": "The pages do not spell out the acronyms IFSI and IFAS; the value relies only on how the pages tag them. Translations: 'Digital simulation supports the training of health professionals, whether in initial or continuing training'; 'suited to the number of students at your institute'; 'Discover examples of projects designed to meet our clients' specific training needs.' The home page has a 'Ils nous font confiance' (they trust us) logo section with no names in the saved text."
+    },
+    "value_proposition": {
+      "status": "found",
+      "value": "Complements training programs with engaging, immersive digital simulation so learners can practice realistic clinical situations safely, without risk to patients, and be ready for real situations.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Choisissez la simulation numérique pour compléter vos programmes de formation"
+        },
+        {
+          "page": "home",
+          "quote": "S’entraîner de manière ludique avec des scénarios immersifs pour être prêt à toute situation réelle"
+        },
+        {
+          "page": "notre-expertise",
+          "quote": "Permet d'apprendre et de se perfectionner sans risque pour les patients, dans un environnement contrôlé et sans conséquences réelles."
+        }
+      ],
+      "note": "Translations: 'Choose digital simulation to complement your training programs'; 'Train in a playful way with immersive scenarios to be ready for any real situation'; 'Lets you learn and improve without risk to patients, in a controlled environment with no real consequences.' The VR Transfu page adds that transfusion training is hard in real life (specific equipment, real blood) and 'Possible en virtuel'."
+    },
+    "tagline": {
+      "status": "found",
+      "value": "Expert en simulation numérique pour la formation initiale et continue des professionnels de santé",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Expert en simulation numérique pour la formation initiale et continue des professionnels de santé"
+        },
+        {
+          "page": "notre-expertise",
+          "quote": "Expert en simulation numérique pour la formation initiale et continue des professionnels de santé"
+        }
+      ],
+      "note": "Kept in French because the tagline is copied exactly. English: 'Expert in digital simulation for the initial and continuing training of health professionals'. Repeated in the footer of all four pages read; not marked as a trademark. Other candidates: home META DESCRIPTION 'Simforhealth, l'expert en simulation pour la formation des professionnels de santé'; homepage first headline after the menu, split over four lines 'Un apprentissage' / 'ludique' / 'immersif' / 'engageant' (a learning experience that is playful, immersive, engaging); home 'Pratique virtuelle, impact réel .' (virtual practice, real impact; saved with a space before the period)."
+    },
+    "pricing": {
+      "status": "found",
+      "value": "Not published; quote on request",
+      "evidence": [
+        {
+          "page": "produits_vr-transfu",
+          "quote": "Devis personnalisé\nVous souhaitez offrir la réalité virtuelle à vos étudiants pour leurs études ?"
+        },
+        {
+          "page": "produits_vr-transfu",
+          "quote": "nous vous proposerons une offre personnalisée, adaptée au nombre d’étudiants de votre institut."
+        }
+      ],
+      "note": "Translations: 'Custom quote. Would you like to offer virtual reality to your students?'; 'we will propose a personalized offer, suited to the number of students at your institute.' Only on the VR Transfu page, which is marked not currently sold. No prices on any page read. The offer is sized by number of students."
+    }
+  },
+  "carried_forward": {
+    "from_record": "data/records/simforhealth/2026-10-13_183515.json",
+    "at": "2026-10-14T09:52:04-06:00",
+    "reason": "identical page text",
+    "pages_changed": []
+  }
+}

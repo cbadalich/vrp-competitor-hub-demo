@@ -1,0 +1,21 @@
+{
+  "checked_at": "2026-10-14T11:24:43-06:00",
+  "proposed": "2nd Degree",
+  "problems": [],
+  "results": [
+    {
+      "page": "about-aquifer",
+      "quote": "helps students in the health professions master clinical reasoning through realistic virtual patient cases",
+      "source_url": "https://aquifer.org/about-aquifer",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "how-it-works",
+      "quote": "Our solution leverages engaging and highly realistic virtual patient encounters with robust course content and an innovative formative assessment system",
+      "source_url": "https://aquifer.org/how-it-works",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    }
+  ]
+}

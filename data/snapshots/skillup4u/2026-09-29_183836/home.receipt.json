@@ -1,0 +1,8 @@
+{
+  "competitor": "Skillup VR",
+  "requested_url": "https://skillup4u.com/",
+  "fetched_at": "2026-09-29T18:59:19-06:00",
+  "ok": false,
+  "robots": "could not read robots.txt: [Errno 8] nodename nor servname provided, or not known",
+  "error": "skipped: could not read robots.txt: [Errno 8] nodename nor servname provided, or not known"
+}

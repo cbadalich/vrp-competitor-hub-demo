@@ -1,0 +1,15 @@
+{
+  "competitor": "Virti",
+  "requested_url": "https://www.virti.com/ai-role-play-platform/learn/",
+  "fetched_at": "2026-10-13T18:22:38-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://virti.com/ai-role-play-platform/learn",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "Immersive Learning Solutions | Virti",
+  "meta_description": "Immerse learners in realistic AI role-play scenarios for onboarding, upskilling and workforce confidence. Practise any time on any device with natural conversations, instant AI feedback and immersive learning that fits around every schedule.",
+  "html_bytes": 96592,
+  "text_characters": 6107
+}

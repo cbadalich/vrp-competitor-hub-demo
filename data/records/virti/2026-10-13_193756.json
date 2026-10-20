@@ -1,0 +1,231 @@
+{
+  "competitor": "Virti",
+  "slug": "virti",
+  "snapshot": "data/snapshots/virti/2026-10-13_193756",
+  "extracted_at": "2026-10-13T18:25:00-06:00",
+  "extracted_by": "Claude Code session, model claude-opus-5-5",
+  "note": "All five URLs redirected from www.virti.com to virti.com (see receipts' final_url); the pages are distinct. Every page shares the same menu and footer; menu text is saved with labels and descriptions run together (for example 'CreateBuild AI role-play scenarios...'). The site is general corporate training (sales, service, leadership) with medical training as one use case.",
+  "pages_read": [
+    "home",
+    "ai-role-play-platform",
+    "ai-role-play-platform_learn",
+    "ai-role-play-platform_scale",
+    "ai-role-play-platform_create",
+    "pricing"
+  ],
+  "pages_failed": [],
+  "fields": {
+    "product_category": {
+      "status": "found",
+      "value": "No-code AI role-play and AI coaching platform with immersive video training, for sales enablement, customer service, leadership and medical teams",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "AI roleplay training and AI coaching for sales enablement, customer service, leadership and medical teams."
+        },
+        {
+          "page": "ai-role-play-platform",
+          "quote": "One no-code platform to build AI role-play scenarios, immerse learners, measure performance and roll out to every corner of your organisation."
+        },
+        {
+          "page": "ai-role-play-platform_create",
+          "quote": "Create AI role-play scenarios and immersive video training with Virti's no-code builder."
+        }
+      ],
+      "note": "The first and third quotes are META DESCRIPTION lines. Medical training is one of four use cases in the menu ('Medical trainingEnhance clinical skills with AI-powered simulations.')."
+    },
+    "platforms": {
+      "status": "found",
+      "value": [
+        "Web",
+        "Mobile",
+        "VR"
+      ],
+      "evidence": [
+        {
+          "page": "ai-role-play-platform_scale",
+          "quote": "Virti runs right in the browser on desktop or mobile - no app to install, no headset required."
+        },
+        {
+          "page": "ai-role-play-platform",
+          "quote": "Mobile, desktop or VR headset. Learners train whenever it fits their schedule"
+        },
+        {
+          "page": "home",
+          "quote": "Deliver on mobile, desktop and VR, and plug straight into your existing LMS."
+        }
+      ],
+      "note": "Desktop is not listed: the pages say desktop use is in the browser with 'no app to install', which counts as Web under EXTRACTION.md. Mobile is listed because the pages name it directly, though they also describe it as browser-based ('Full experience on desktop, tablet or mobile - just a browser'); the footer links to 'App Privacy', but no mobile app is described. No VR headset brand or model is named. The no-code builder is an authoring tool and is not counted."
+    },
+    "key_capabilities": {
+      "status": "found",
+      "value": [
+        "No-code builder for branching scenarios and conversation trees",
+        "AI Virtual Humans generated from a text prompt (3D or 2D)",
+        "AI scenario generation from uploaded PDFs, slides or scripts",
+        "Real-time speech-to-speech conversations, plus voice-only and text chat modes",
+        "Automatic AI scoring and coaching feedback (empathy, clarity, confidence, pacing)",
+        "AI Coach learning companion",
+        "Analytics: real-time team progress, skill-gap detection, surveys, exportable reports",
+        "Interactive 360-degree video with hotspots and branching",
+        "35+ languages",
+        "LMS integration (SCORM, xAPI) and SSO via SAML 2.0"
+      ],
+      "evidence": [
+        {
+          "page": "ai-role-play-platform",
+          "quote": "Design branching scenarios and full conversation trees without writing a single line of code."
+        },
+        {
+          "page": "ai-role-play-platform",
+          "quote": "Generate Virtual Humans from a simple text prompt"
+        },
+        {
+          "page": "ai-role-play-platform",
+          "quote": "Choose between lifelike 3D Virtual Humans and stylised 2D CGI"
+        },
+        {
+          "page": "ai-role-play-platform",
+          "quote": "Paste a text prompt or upload your existing training materials - Virti's AI builds a complete, customised scenario in seconds."
+        },
+        {
+          "page": "ai-role-play-platform",
+          "quote": "Learners have real-time spoken conversations with Virtual Humans."
+        },
+        {
+          "page": "ai-role-play-platform_learn",
+          "quote": "Natural speech-to-speech practice with no avatars or distractions"
+        },
+        {
+          "page": "ai-role-play-platform",
+          "quote": "Practice real conversations without avatars - ideal for roles where messaging is the primary channel, like customer support teams."
+        },
+        {
+          "page": "ai-role-play-platform",
+          "quote": "Every session is scored automatically — empathy, clarity, confidence, pacing."
+        },
+        {
+          "page": "home",
+          "quote": "Virti's AI Coach is a learning companion that learners can talk to about what they're learning, where they're struggling and what to try next."
+        },
+        {
+          "page": "ai-role-play-platform",
+          "quote": "Track learner progress across your entire team in real time"
+        },
+        {
+          "page": "ai-role-play-platform",
+          "quote": "Identify skill gaps before they become performance problems"
+        },
+        {
+          "page": "ai-role-play-platform_create",
+          "quote": "Exportable reports to share with stakeholders and leadership"
+        },
+        {
+          "page": "ai-role-play-platform_create",
+          "quote": "Immersive environments with interactive hotspots and branching paths"
+        },
+        {
+          "page": "ai-role-play-platform_learn",
+          "quote": "Train global teams in their native language with 35+ supported languages."
+        },
+        {
+          "page": "ai-role-play-platform",
+          "quote": "Works with any LMS out of the box — SCORM 1.2, SCORM 2004, xAPI (Tin Can) and native connectors for major platforms."
+        },
+        {
+          "page": "ai-role-play-platform",
+          "quote": "Connect Virti to your identity provider via SAML 2.0"
+        }
+      ],
+      "note": "Other features stated but not listed: ready-made templates; Virti Courses combining interactive video, AI role-play and scenarios; in-moment hints during conversations; learner feedback surveys; captions, text-to-speech, screen reader support and white-labelling; ISO 9001 / ISO 27001, GDPR, encryption and US/UK/EU data residency. 'Multi-avatar Roleplays' is marked 'Coming soon' in the menu."
+    },
+    "target_customer": {
+      "status": "found",
+      "value": "Enterprise training and L&D teams; use cases are sales, customer service, leadership and medical/healthcare teams. Named sectors: healthcare, financial services and global retail. Scale from 10 to 10,000 learners.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Virti is trusted by enterprise teams in healthcare, financial services and global retail."
+        },
+        {
+          "page": "ai-role-play-platform",
+          "quote": "Our no-code platform is designed for training designers, L&D managers and subject matter experts - not engineers."
+        },
+        {
+          "page": "ai-role-play-platform_learn",
+          "quote": "Bridge theory and practice with Virtual Human patient consultations and immersive medical simulations."
+        },
+        {
+          "page": "ai-role-play-platform",
+          "quote": "Whether you're training 10 people or 10,000, Virti plugs straight into your existing learning infrastructure."
+        }
+      ],
+      "note": "Named customers on the home page: 'Amazon, NHS, Deloitte, Verizon, Pandora & 100s more'. The Learn page says 'From sales reps to surgeons'. The Create page adds employee onboarding and health and safety use cases. No schools or universities are named on the pages read."
+    },
+    "value_proposition": {
+      "status": "found",
+      "value": "A safe place to practise important conversations with AI Virtual Humans, with instant AI feedback and data showing readiness; claims learners upskill 40% faster.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Give every person a safe place to practise the conversations that matter, with the data to prove they're ready."
+        },
+        {
+          "page": "home",
+          "quote": "Upskill your people 40% faster"
+        }
+      ],
+      "note": "Other figures on the home page: '60%' of learners found Virti more effective for role-play than face-to-face training; '44%' score higher on soft-skill assessments; '40%' more confident; 'a 92% onboarding improvement for new hire managers' at Amazon."
+    },
+    "tagline": {
+      "status": "found",
+      "value": "AI Roleplay, Coaching & Sales Enablement",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "AI Roleplay, Coaching & Sales Enablement"
+        },
+        {
+          "page": "ai-role-play-platform_scale",
+          "quote": "AI Roleplay, Coaching & Sales Enablement"
+        }
+      ],
+      "note": "Repeated in the footer of all five pages. Other candidates: homepage first headline after the menu 'AI Role-Play, Coaching and Sales Enablement' followed by 'Real practice. Instant feedback. Powered by AI.'; home TITLE 'Real Practice, Instant Feedback'; platform page 'Built for the roles where performance matters.'"
+    },
+    "pricing": {
+      "status": "found",
+      "value": "Published plans, billed yearly: Teams $359 per month ($4,308 a year); Business $1,079 per month ($12,948 a year); Enterprise from $25,000 a year with custom pricing. 14-day free trial with no credit card; discounted pricing for non-profits, universities and NHS-affiliated institutions on request.",
+      "evidence": [
+        {
+          "page": "pricing",
+          "quote": "$359per month\nBilled annually at $4,308"
+        },
+        {
+          "page": "pricing",
+          "quote": "$1,079per month\nBilled annually at $12,948"
+        },
+        {
+          "page": "pricing",
+          "quote": "Annual commitment from:\n$25,000per year\nCustom pricing & multi-year discounts"
+        },
+        {
+          "page": "pricing",
+          "quote": "14-day free trial · No credit card required · Cancel any time"
+        },
+        {
+          "page": "pricing",
+          "quote": "we offer discounted pricing for verified non-profit organisations, universities, and NHS-affiliated institutions"
+        }
+      ],
+      "note": "From the Pricing page, added to the tracked pages on 2026-10-13 at the owner's request. Learner limits for the Teams plan differ on the same page: the plan card says 'Up to 25 learners' and the feature table says 'Up to 10'. Prices are in US dollars as shown; the page does not say whether education buyers pay these list prices."
+    }
+  },
+  "pricing_reextracted_at": "2026-10-13T19:39:21-06:00",
+  "carried_forward": {
+    "from_record": "data/records/virti/2026-10-13_183515.json",
+    "at": "2026-10-13T19:39:21-06:00",
+    "reason": "fields other than pricing carried forward; every quote still present",
+    "pages_changed": []
+  },
+  "changes_since_previous": "Pricing page now tracked: Virti publishes plan prices (Teams $359 a month, Business $1,079 a month, billed yearly; Enterprise from $25,000 a year). The earlier profile had no prices because that page was not saved."
+}

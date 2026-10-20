@@ -1,0 +1,50 @@
+{
+  "slug": "wrap",
+  "name": "Wrap Technologies",
+  "website": "https://wrap.com/",
+  "domain": "wrap.com",
+  "aliases": [],
+  "status": "rejected",
+  "first_seen": "2026-09-29T17:37:13-06:00",
+  "last_seen": "2026-09-29T17:37:13-06:00",
+  "sightings": [
+    {
+      "source": "earlier research list",
+      "query": "\"Wrap Technologies\" Wrap Reality official website",
+      "url": "https://www.police1.com/company-directory/wrap-technologies/",
+      "snippet": "wrap technologies",
+      "website_from": "search summary",
+      "found_at": "2026-09-29T17:37:13-06:00"
+    }
+  ],
+  "possible_duplicate_of": [],
+  "snapshot": "data/candidates/wrap/snapshots/2026-09-29_174015",
+  "extra_pages": [],
+  "signals": {
+    "public_safety": [
+      "law enforcement",
+      "corrections",
+      "defense"
+    ]
+  },
+  "suggested_pages": [],
+  "classification": {
+    "proposed": "Unclear",
+    "by": "Claude Code session, model claude-opus-5-5",
+    "at": "2026-09-29T17:50:00-06:00",
+    "snapshot": "data/candidates/wrap/snapshots/2026-09-29_174015",
+    "reason": "The homepage is built by JavaScript and saved no body text, and the /reality page returned 404, so no saved page shows a headset product. Check it by hand.",
+    "evidence": [
+      {
+        "page": "home",
+        "quote": "Integrating tools, training, and policy for law enforcement, corrections, defense, and campus safety."
+      }
+    ]
+  },
+  "review": {
+    "decision": "rejected",
+    "at": "2026-09-29T18:22:29-06:00",
+    "reason": "not a training solution"
+  },
+  "name_on_site": true
+}

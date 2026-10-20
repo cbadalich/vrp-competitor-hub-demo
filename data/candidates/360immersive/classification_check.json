@@ -1,0 +1,21 @@
+{
+  "checked_at": "2026-10-14T11:24:43-06:00",
+  "proposed": "Not Relevant",
+  "problems": [],
+  "results": [
+    {
+      "page": "home",
+      "quote": "Affordable VR Training for Construction and General Industry",
+      "source_url": "https://www.360immersive.com/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "home",
+      "quote": "support is offered for the Meta Quest 2 & 3 VR Headsets",
+      "source_url": "https://www.360immersive.com/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    }
+  ]
+}

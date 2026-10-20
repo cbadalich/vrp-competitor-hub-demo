@@ -1,0 +1,11 @@
+{
+  "competitor": "Laerdal Medical",
+  "requested_url": "https://laerdal.com/ca/products/courses-learning/virtual-simulation/virtual-simulation-for-students",
+  "fetched_at": "2026-10-13T18:36:50-06:00",
+  "ok": false,
+  "robots": "allowed by robots.txt",
+  "http_status": 404,
+  "final_url": "https://laerdal.com/ca/products/courses-learning/virtual-simulation/virtual-simulation-for-students",
+  "content_type": "",
+  "error": "HTTP error 404 Not Found"
+}

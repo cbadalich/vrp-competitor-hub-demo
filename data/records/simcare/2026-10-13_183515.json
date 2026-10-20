@@ -1,0 +1,184 @@
+{
+  "competitor": "SimCare AI",
+  "slug": "simcare",
+  "snapshot": "data/snapshots/simcare/2026-10-13_183515",
+  "extracted_at": "2026-09-29T19:16:00-06:00",
+  "extracted_by": "Claude Code session, model claude-opus-5-5",
+  "note": "Only three pages were configured. Much of the saved home text repeats (headlines and the footer appear two or three times) and includes interface mock-up text (sample schedule, sample chat, sample performance chart); the mock-up text is not used as evidence. The field page covers FieldX, a separate field-experience management product. An older snapshot folder (2026-09-29_182409) also exists; this record uses the newest one.",
+  "pages_read": [
+    "home",
+    "course-catalog",
+    "field"
+  ],
+  "pages_failed": [],
+  "fields": {
+    "product_category": {
+      "status": "found",
+      "value": "AI client (avatar) simulations for counselor training and other interpersonal, counseling and diagnostic skills training; the company also offers FieldX, a free field-experience management platform",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "AI Client simulations for better counselor training"
+        },
+        {
+          "page": "home",
+          "quote": "SimCare is designed and built exclusively for training that develops interpersonal, counseling, and diagnostic skills."
+        },
+        {
+          "page": "field",
+          "quote": "FieldX unifies placements, evaluations, and accreditation tracking for your program."
+        }
+      ],
+      "note": "Behavioral health and counseling focus. The pages do not describe nursing or procedural clinical simulation."
+    },
+    "platforms": {
+      "status": "found",
+      "value": [
+        "Web"
+      ],
+      "evidence": [
+        {
+          "page": "course-catalog",
+          "quote": "In the SimCare web app, click Course Catalog in the sidebar."
+        }
+      ],
+      "note": "The quote is from the instructor steps for adding a catalog course; students then join the course in SimCare using a course code, and no other app or device is named, so Web is listed for learners too. The pages say students 'Speak directly with avatars' (voice), but do not name a browser, mobile app or headset. 'No technical setup required' (home FAQ)."
+    },
+    "key_capabilities": {
+      "status": "found",
+      "value": [
+        "Full counseling sessions with 500+ counselor-designed AI clients, children to older adults",
+        "Spoken conversation with AI client avatars",
+        "Instant feedback on tone, empathy, communication, nonverbal cues, diagnostic accuracy and clinical skills",
+        "Session video review, skills assessment and transcript",
+        "Ongoing relationships with the same AI client: follow-ups, messages, progress updates",
+        "Automated scoring",
+        "Course Catalog of prebuilt counseling courses with Focused Scenarios, full sessions, learning outcomes and CACREP mapping",
+        "Faculty customization of courses and time limits",
+        "Custom modules and LMS integration",
+        "FieldX: placements, hour tracking, evaluations, accreditation reports and plain-English AI queries"
+      ],
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "From children to older adults, practice real counseling sessions with 500+ counselor-designed clients across a range of unique presenting problems."
+        },
+        {
+          "page": "home",
+          "quote": "Speak directly with avatars to practice counseling skills, explore different scenarios, and get instant feedback."
+        },
+        {
+          "page": "home",
+          "quote": "Get instant feedback on tone, empathy, communication, nonverbal cues, diagnostic accuracy, and clinical skills."
+        },
+        {
+          "page": "home",
+          "quote": "Review Session Video\nReview Skills Assessment\nView Transcript"
+        },
+        {
+          "page": "home",
+          "quote": "Keep working with the same client over time. Schedule follow-ups, send messages, and get updates from them about progress or setbacks."
+        },
+        {
+          "page": "home",
+          "quote": "Automated scoring removes grading bottlenecks"
+        },
+        {
+          "page": "course-catalog",
+          "quote": "Each course includes prebuilt modules, Focused Scenarios, optional full-session practice assignments, learning outcomes, and CACREP mapping."
+        },
+        {
+          "page": "course-catalog",
+          "quote": "Faculty can set time limits in SimCare."
+        },
+        {
+          "page": "home",
+          "quote": "We align client cases with your specialty (e.g., CMHC, MFT, school counseling) and can create custom modules or integrate into your LMS."
+        },
+        {
+          "page": "field",
+          "quote": "Ask questions about placements, hours, evaluations, and competencies in plain English."
+        },
+        {
+          "page": "field",
+          "quote": "Generate competency and placement reports by student or cohort, with exports built for accreditation evidence and outcomes tracking."
+        }
+      ],
+      "note": "The home page has a section titled 'Live Session Listening and Feedback' with an 'Observational AI' mock-up, but the paragraph under it describes consulting and custom AI projects ('we offer strategic consulting and develop custom AI projects'), so live listening is not listed as a feature. Home also announces 'moving avatars'. FieldX adds LMS connection via LTI, role-based access, timesheets, a form builder and a site directory with a live map; it states 'FERPA- and HIPAA-aligned, with SOC 2 Type II certification'. Catalog course titles include Introduction to Counseling, Career Counseling, Multicultural Counseling, Ethical & Legal Issues, Counseling Theories and Techniques, and Marriage, Couple and Family Counseling."
+    },
+    "target_customer": {
+      "status": "found",
+      "value": "Counseling education programs and their faculty and students; also psychology, psychiatry, clinical counseling, social work, school counseling and behavioral health training. Organization types: universities, government agencies, training organizations and private companies.",
+      "evidence": [
+        {
+          "page": "course-catalog",
+          "quote": "A library of prebuilt simulation courses for counseling programs."
+        },
+        {
+          "page": "home",
+          "quote": "It supports a wide range of disciplines including psychology, psychiatry, clinical counseling, social work, school counseling, and behavioral health."
+        },
+        {
+          "page": "home",
+          "quote": "The platform is built to scale—whether you're a university, government agency, training organization, or private company."
+        }
+      ],
+      "note": "Home says '15k+ students joined' and 'Training counselors nationwide'. FieldX targets programs managing field placements, with students, supervisors and instructors as users."
+    },
+    "value_proposition": {
+      "status": "found",
+      "value": "Gives every counseling student realistic, repeatable practice sessions with AI clients and instant feedback from day one, without needing a live role-play partner, and lets programs scale practice across the curriculum with automated scoring.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "SimCare gives every student realistic, full counseling sessions with virtual clients, so they can practice skills and get feedback without needing a live partner."
+        },
+        {
+          "page": "home",
+          "quote": "Most counseling students get no real practice before practicum. SimCare makes it possible from day one."
+        },
+        {
+          "page": "home",
+          "quote": "Turning limited, occasional practice into safe, scalable training across the entire program."
+        }
+      ],
+      "note": "Positioned against traditional role play: 'Role play is slow. Inconsistent. Outdated.'"
+    },
+    "tagline": {
+      "status": "found",
+      "value": "AI Client simulations for better counselor training",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "AI Client simulations for better counselor training"
+        }
+      ],
+      "note": "No trademarked slogan. This is the homepage's first headline after the menu and announcement bar, and it also opens the home META DESCRIPTION. Other candidates: 'AI Clients for better counselor training' (line directly under it); footer line on every page 'SimCare AI creates AI client avatars that students can speak with for better counselor training.'; FieldX headline 'A free platform for field experience'."
+    },
+    "pricing": {
+      "status": "found",
+      "value": "No prices published. Institutional billing model: paid directly by the institution or passed to students as a lab or tech fee; grant-based funding supported. FieldX is described as free.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "We offer flexible billing. Some institutions pay directly. Others pass the cost to students as a lab fee or tech fee, a common model."
+        },
+        {
+          "page": "home",
+          "quote": "We also support grant-based funding, whether through Title V, HRSA, or department-level budgets."
+        },
+        {
+          "page": "field",
+          "quote": "A free platform for field experience"
+        }
+      ],
+      "note": "From the home FAQ 'How does billing work for institutions?'. No price amounts, plans or 'request a quote' wording."
+    }
+  },
+  "carried_forward": {
+    "from_record": "data/records/simcare/2026-09-29_183836.json",
+    "at": "2026-10-13T18:39:59-06:00",
+    "reason": "identical page text",
+    "pages_changed": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "competitor": "XVR Simulation",
+  "requested_url": "https://info.xvrsim.com/download-product-literature/",
+  "fetched_at": "2026-09-29T19:03:03-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://info.xvrsim.com/download-product-literature",
+  "content_type": "text/html;charset=utf-8",
+  "error": null,
+  "title": "XVR Simulation | Gain Instant Access To All Product Literature",
+  "meta_description": "Download the latest product literature from XVR Simulation here.",
+  "html_bytes": 31389,
+  "text_characters": 358,
+  "warning": "only 358 characters of text; the page may be built by JavaScript, so compare page.txt with the live site"
+}

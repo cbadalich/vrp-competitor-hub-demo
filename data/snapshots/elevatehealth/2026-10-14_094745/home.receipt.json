@@ -1,0 +1,15 @@
+{
+  "competitor": "Elevate Healthcare",
+  "requested_url": "https://elevatehealth.net/",
+  "fetched_at": "2026-10-14T09:48:28-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://elevatehealth.net/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "Home - Elevate Healthcare",
+  "meta_description": "Why Simulation Matters in Healthcare Education Improved Patient Outcomes Simulation training reduced medical errors by up to 50%. High Confidence and Skills Students in simulation-based education report higher levels of confidence and competence. Reduced Cost in Education Every dollar invested in simulation training can yield up to $6 in cost savings. Complete Healthcare Simulation Ecosystem ...",
+  "html_bytes": 272335,
+  "text_characters": 8294
+}

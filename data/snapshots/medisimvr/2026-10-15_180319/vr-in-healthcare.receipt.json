@@ -1,0 +1,15 @@
+{
+  "competitor": "MedisimVR",
+  "requested_url": "https://medisimvr.com/vr-in-healthcare",
+  "fetched_at": "2026-10-15T18:03:39-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://medisimvr.com/vr-in-healthcare",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "Virtual Reality in Healthcare | MediSim VR Website",
+  "meta_description": "Explore how virtual reality is transforming healthcare with MedisimVR. Revolutionize medical training, enhance patient care, and simulate real-world scenarios with cutting-edge VR technology.",
+  "html_bytes": 34514,
+  "text_characters": 4512
+}

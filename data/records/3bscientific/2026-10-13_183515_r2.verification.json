@@ -1,0 +1,300 @@
+{
+  "record": "data/records/3bscientific/2026-10-13_183515_r2.json",
+  "checked_at": "2026-10-14T09:09:57-06:00",
+  "results": {
+    "product_category": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.3bscientific.com/",
+          "quote": "Advance clinical skills with 3B Scientific\u2019s high-quality medical simulators and task trainers. Explore solutions for nursing education, obstetrics simulation, anatomy learning, physiotherapy, and science education.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.3bscientific.com/",
+          "quote": "3B Scientific has grown into a global group of specialized companies, each a leader in their respective segment of medical and science education.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "us_medical-simulation,pg_1181.html",
+          "source_url": "https://www.3bscientific.com/us/medical-simulation,pg_1181.html",
+          "quote": "3B Scientific\u00ae offers an extensive range of high-quality medical simulators, such as advanced life support manikins, airway management trainers, and emergency rescue simulators.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.3bscientific.com/",
+          "quote": "Immersive VR-based healthcare simulation environments for advanced, scenario-driven clinical training at scale.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "platforms": {
+      "status": "unclear",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "us_immersive-interactive,imm.html",
+          "source_url": "https://www.3bscientific.com/us/immersive-interactive,imm.html",
+          "quote": "2D/3D scenarios, VR and MR capabilities",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "us_medical-simulation,pg_1181.html",
+          "source_url": "https://www.3bscientific.com/us/medical-simulation,pg_1181.html",
+          "quote": "Additionally, our virtual reality simulators and TCCC training manikins prepare trainees for tactical combat scenarios.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.3bscientific.com/",
+          "quote": "Cloud-based ultrasound simulation platform \u2014 e Sono \u2014 enabling learners at every level to practice image acquisition on any device, from anywhere.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.3bscientific.com/",
+          "quote": "Hyper-realistic, culturally diverse simulation manikins that elevate fidelity and inclusivity in clinical education and scenario-based training.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "us_immersive-interactive,imm.html",
+          "source_url": "https://www.3bscientific.com/us/immersive-interactive,imm.html",
+          "quote": "Using high-quality projection, responsive software, and multi-sensory integration",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "key_capabilities": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "us_immersive-interactive,imm.html",
+          "source_url": "https://www.3bscientific.com/us/immersive-interactive,imm.html",
+          "quote": "Using high-quality projection, responsive software, and multi-sensory integration, these rooms allow users to experience everything from medical emergencies to early childhood adventures in fully interactive, 360\u00b0 environments.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "us_immersive-interactive-spaces,pg_1799.html",
+          "source_url": "https://www.3bscientific.com/us/immersive-interactive-spaces,pg_1799.html",
+          "quote": "Immersive Interactive Room Double Wide Fronts- Six Wall",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "us_immersive-interactive,imm.html",
+          "source_url": "https://www.3bscientific.com/us/immersive-interactive,imm.html",
+          "quote": "Touchscreen and motion-tracked content engagement",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "us_immersive-interactive,imm.html",
+          "source_url": "https://www.3bscientific.com/us/immersive-interactive,imm.html",
+          "quote": "Cloud-based content management and scenario design",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.3bscientific.com/",
+          "quote": "Hyper-realistic, culturally diverse simulation manikins that elevate fidelity and inclusivity in clinical education and scenario-based training.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "us_lifecast,li.html",
+          "source_url": "https://www.3bscientific.com/us/lifecast,li.html",
+          "quote": "Lifecast has developed the most realistic range of Preterm Manikins and Neonatal Simulators available today.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.3bscientific.com/",
+          "quote": "Simulated medications and IV training solutions for realistic, risk-free pharmacology and drug administration practice.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.3bscientific.com/",
+          "quote": "Simulated patient monitors and defibrillators for advanced clinical and emergency training, powered by the award-winning REALITi 360 ecosystem.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.3bscientific.com/",
+          "quote": "Auscultation simulation solutions \u2014 from the SAM series manikins to the SimScope stethoscope \u2014 for heart, lung, bowel, and vascular sound training.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.3bscientific.com/",
+          "quote": "Cloud-based ultrasound simulation platform \u2014 e Sono \u2014 enabling learners at every level to practice image acquisition on any device, from anywhere.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.3bscientific.com/",
+          "quote": "Respiratory and mechanical ventilation training equipment, trusted by respiratory therapists and simulation educators worldwide.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.3bscientific.com/",
+          "quote": "Introducing the new P51 IV Injection Arm Trainer designed to bring realistic vascular access training to every skills lab.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.3bscientific.com/",
+          "quote": "New : SimOccluder\nBuild Core Airway Skills Faster.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "target_customer": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "us_medical-simulation,pg_1181.html",
+          "source_url": "https://www.3bscientific.com/us/medical-simulation,pg_1181.html",
+          "quote": "equipping students, doctors, nurses, rescue teams, and midwives with practical skills before they encounter real patients.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "us_immersive-interactive,imm.html",
+          "source_url": "https://www.3bscientific.com/us/immersive-interactive,imm.html",
+          "quote": "used in schools, universities, hospitals, and public services around the world.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "us_immersive-interactive,imm.html",
+          "source_url": "https://www.3bscientific.com/us/immersive-interactive,imm.html",
+          "quote": "Immersive Interactive enables learners to step into realistic, scenario-based simulations across healthcare, education, emergency services, and beyond.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.3bscientific.com/",
+          "quote": "Tactical emergency response and combat casualty care training solutions for military, law enforcement, and first responder preparedness.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.3bscientific.com/",
+          "quote": "Veterinary simulation and surgical training models designed to improve clinical competency in veterinary education programs.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "value_proposition": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "us_medical-simulation,pg_1181.html",
+          "source_url": "https://www.3bscientific.com/us/medical-simulation,pg_1181.html",
+          "quote": "Medical simulation closes the gap between theory and work on the patient",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "us_immersive-interactive,imm.html",
+          "source_url": "https://www.3bscientific.com/us/immersive-interactive,imm.html",
+          "quote": "3B Scientific now offers an unparalleled combination of hands-on simulation products and immersive learning environments.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "us_immersive-interactive,imm.html",
+          "source_url": "https://www.3bscientific.com/us/immersive-interactive,imm.html",
+          "quote": "create learning spaces where people don\u2019t just observe\u2014they experience.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "tagline": {
+      "status": "unclear",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.3bscientific.com/",
+          "quote": "Latest Released Products Spotlight",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "pricing": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "us_medical-simulation,pg_1181.html",
+          "source_url": "https://www.3bscientific.com/us/medical-simulation,pg_1181.html",
+          "quote": "SONOtrain Ultrasound Vein Model, Light Skin\n$ 762.00",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "us_medical-simulation,pg_1181.html",
+          "source_url": "https://www.3bscientific.com/us/medical-simulation,pg_1181.html",
+          "quote": "SONOtrain Foreign Body Model, Dark Skin\n$ 863.00",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "us_medical-simulation,pg_1181.html",
+          "source_url": "https://www.3bscientific.com/us/medical-simulation,pg_1181.html",
+          "quote": "Practi-Oral Med Pack\n$ 255.95",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "us_medical-simulation,pg_1181.html",
+          "source_url": "https://www.3bscientific.com/us/medical-simulation,pg_1181.html",
+          "quote": "Practi-Dextrose Normal Saline 250mL I.V. Solution Bag (1 Bag) - English Specification\n$ 2.95",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    }
+  }
+}

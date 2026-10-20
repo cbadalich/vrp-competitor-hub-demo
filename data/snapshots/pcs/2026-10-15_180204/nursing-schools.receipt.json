@@ -1,0 +1,11 @@
+{
+  "competitor": "PCS",
+  "requested_url": "https://pcs.ai/nursing-schools",
+  "fetched_at": "2026-10-15T18:02:25-06:00",
+  "ok": false,
+  "robots": "allowed by robots.txt",
+  "http_status": 404,
+  "final_url": "https://pcs.ai/nursing-schools",
+  "content_type": "",
+  "error": "HTTP error 404 Not Found"
+}

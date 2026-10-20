@@ -1,0 +1,186 @@
+{
+  "record": "data/records/medisimvr/2026-10-15_180319.json",
+  "checked_at": "2026-10-15T18:59:31-06:00",
+  "results": {
+    "product_category": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://medisimvr.com/",
+          "quote": "Competency-Based VR Training for Real-World Healthcare Scenarios",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "vr-in-medical-training",
+          "source_url": "https://medisimvr.com/vr-in-medical-training",
+          "quote": "All-in-one VR Medical Education Platform",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://medisimvr.com/",
+          "quote": "Simulation Training. Fully Managed.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "platforms": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "about-us",
+          "source_url": "https://medisimvr.com/about-us",
+          "quote": "With next-gen ergonomically designed VR stations and head-mounted displays",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "key_capabilities": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "simulation-lab-for-nursing-students",
+          "source_url": "https://medisimvr.com/simulation-lab-for-nursing-students",
+          "quote": "Guided mode enables protocol-based learning and evaluation mode facilitates\ncompetency-based assessment.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "vr-in-medical-training",
+          "source_url": "https://medisimvr.com/vr-in-medical-training",
+          "quote": "Students can practice taking patient history, refining clinical examination techniques,\nand sharpening decision-making abilities.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "vr-in-medical-training",
+          "source_url": "https://medisimvr.com/vr-in-medical-training",
+          "quote": "Immersive, Interactive Anatomy and Physiology Education",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://medisimvr.com/",
+          "quote": "AI Powered Competency Assessment",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://medisimvr.com/",
+          "quote": "Instructor Dashboard\nVast Library of Content",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://medisimvr.com/",
+          "quote": "On-ground Support by Certified Professionals",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "vr-in-healthcare",
+          "source_url": "https://medisimvr.com/vr-in-healthcare",
+          "quote": "Self-paced learning pathway that develops clinical confidence",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "vr-in-healthcare",
+          "source_url": "https://medisimvr.com/vr-in-healthcare",
+          "quote": "easy-to-follow modules, and real-time feedback really improved my\ndecision-making skills",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "simulation-lab-for-nursing-students",
+          "source_url": "https://medisimvr.com/simulation-lab-for-nursing-students",
+          "quote": "Centre of Excellence Certifications",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "target_customer": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "simulation-lab-for-nursing-students",
+          "source_url": "https://medisimvr.com/simulation-lab-for-nursing-students",
+          "quote": "A futuristic medium for nurses and allied health professionals to train",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "vr-in-medical-training",
+          "source_url": "https://medisimvr.com/vr-in-medical-training",
+          "quote": "cater\nto the essential clinical skills requirement for undergraduate medical education",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "about-us",
+          "source_url": "https://medisimvr.com/about-us",
+          "quote": "empower healthcare professionals to excel in their roles, reduce medical errors, and improve\ncare standards",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "value_proposition": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://medisimvr.com/",
+          "quote": "Bridging the World\u2019s Healthcare Skill Gap",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://medisimvr.com/",
+          "quote": "From simulation lab setup to on-ground support, we focus on improving lab utilization and delivering\nimpactful training outcomes.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "vr-in-healthcare",
+          "source_url": "https://medisimvr.com/vr-in-healthcare",
+          "quote": "IT\u2019S THE BEST WAY TO SKILL UP, BUILD CONFIDENCE, AND GET RID OFF MEDICAL ERRORS",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "tagline": {
+      "status": "not_found",
+      "result": "not_found",
+      "problems": [],
+      "evidence": []
+    },
+    "pricing": {
+      "status": "not_found",
+      "result": "not_found",
+      "problems": [],
+      "evidence": []
+    }
+  }
+}

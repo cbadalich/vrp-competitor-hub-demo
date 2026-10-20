@@ -1,0 +1,14 @@
+{
+  "checked_at": "2026-10-14T11:24:43-06:00",
+  "proposed": "Not Relevant",
+  "problems": [],
+  "results": [
+    {
+      "page": "home",
+      "quote": "Looking to manage AR and VR devices, or deploy, manage, and update VR & AR apps & files remotely?",
+      "source_url": "https://arborxr.com/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    }
+  ]
+}

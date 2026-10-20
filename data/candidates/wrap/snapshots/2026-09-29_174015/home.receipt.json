@@ -1,0 +1,16 @@
+{
+  "competitor": "Wrap Technologies",
+  "requested_url": "https://wrap.com/",
+  "fetched_at": "2026-09-29T17:40:15-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.wrap.com/",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "WRAP\u00ae \u2014 Non-Lethal Response\u2122",
+  "meta_description": "WRAP Technologies \u2014 the only complete Non-Lethal Response\u2122 system. Integrating tools, training, and policy for law enforcement, corrections, defense, and campus safety.",
+  "html_bytes": 11733,
+  "text_characters": 0,
+  "warning": "only 0 characters of text; the page may be built by JavaScript, so compare page.txt with the live site"
+}

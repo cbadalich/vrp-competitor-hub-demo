@@ -1,0 +1,15 @@
+{
+  "competitor": "TACMED Australia",
+  "requested_url": "https://tacmed.com.au/collections/ems-radio-harnesses/",
+  "fetched_at": "2026-10-13T18:38:14-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://tacmedaustralia.com.au/collections/ems-radio-harnesses",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "",
+  "meta_description": "Keep your radio secure and accessible with durable radio harnesses and holsters. Designed for first responders, military, and outdoor professionals.",
+  "html_bytes": 409673,
+  "text_characters": 7884
+}

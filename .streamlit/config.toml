@@ -1,0 +1,50 @@
+# Streamlit settings for the VRp Competitor Hub UI.
+# Every color and size below is taken from the VRpatients brand token file
+# (brand-tokens v1.6.0, updated 2026-09-28; values unchanged from v1.5.0). The token name is noted beside each value.
+# Values the token file does not define are left at Streamlit's defaults on purpose.
+
+[browser]
+# Do not send usage statistics to Streamlit.
+gatherUsageStats = false
+
+[client]
+# Hides Streamlit's "Deploy" button; this tool runs only on this Mac.
+toolbarMode = "minimal"
+
+[server]
+# Lets the UI load the brand font from the static/ folder.
+enableStaticServing = true
+
+[theme]
+base = "light"
+primaryColor = "#0052CC"             # Intervene: interactive elements
+backgroundColor = "#E4EEF6"          # Sterile: page ground on screen
+secondaryBackgroundColor = "#FFFFFF" # Bay: cards, sidebar, inputs
+textColor = "#060D24"                # Onset: body text
+linkColor = "#0052CC"                # Intervene
+borderColor = "#A8CDDF"              # Drape
+blueColor = "#0052CC"                # Intervene (1st Degree tags)
+blueTextColor = "#0052CC"            # Intervene
+grayColor = "#6A6E7C"                # Onset 60 (2nd Degree and neutral tags)
+greenColor = "#76B900"               # status.success (Stable)
+greenTextColor = "#4F7D0D"           # Stable deep
+orangeColor = "#F5A623"              # status.warning
+redColor = "#FA4D56"                 # status.error
+grayTextColor = "#515666"            # Onset 70: muted text
+baseRadius = "8px"                   # radius.sm, the default step
+baseFontSize = 16                    # type.scale.body
+headingFontSizes = ["44px", "36px", "28px"]  # type.scale h1, h2, h3
+font = "IBM Plex Sans, Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif"
+headingFont = "IBM Plex Sans, Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif"
+
+[[theme.fontFaces]]
+family = "IBM Plex Sans"
+url = "app/static/fonts/IBMPlexSans-Variable.ttf"
+weight = "100 700"
+style = "normal"
+
+[[theme.fontFaces]]
+family = "IBM Plex Sans"
+url = "app/static/fonts/IBMPlexSans-Italic-Variable.ttf"
+weight = "100 700"
+style = "italic"

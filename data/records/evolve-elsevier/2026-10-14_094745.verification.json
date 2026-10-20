@@ -1,0 +1,137 @@
+{
+  "record": "data/records/evolve-elsevier/2026-10-14_094745.json",
+  "checked_at": "2026-10-15T18:59:31-06:00",
+  "results": {
+    "product_category": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "education_training_simulation-learning-system-with-virtual-reality-sls-vr",
+          "source_url": "https://elsevierresources.com/nhe-faculty-training/simulation-learning-system-with-virtual-reality/",
+          "quote": "Enhance student clinical judgment with the first hands-on nursing virtual reality simulation of its kind.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "education_training_simulation-learning-system-with-virtual-reality-sls-vr",
+          "source_url": "https://elsevierresources.com/nhe-faculty-training/simulation-learning-system-with-virtual-reality/",
+          "quote": "By partnering with SimX, an industry-leading virtual reality company, Elsevier\u2019s new nursing solution will change the way students learn, and ensure they are ready for practice.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "platforms": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "education_training_simulation-learning-system-with-virtual-reality-sls-vr",
+          "source_url": "https://elsevierresources.com/nhe-faculty-training/simulation-learning-system-with-virtual-reality/",
+          "quote": "This video provides information on installing the SimX Virtual Reality (VR) app on your Meta Quest headset, for using Simulation Learning Systems simulations in a VR environment.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "education_training_simulation-learning-system-with-virtual-reality-sls-vr",
+          "source_url": "https://elsevierresources.com/nhe-faculty-training/simulation-learning-system-with-virtual-reality/",
+          "quote": "allows you to step into a completely immersive virtual reality environment and experience clinical nursing in a whole new way.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "key_capabilities": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "education_training_simulation-learning-system-with-virtual-reality-sls-vr",
+          "source_url": "https://elsevierresources.com/nhe-faculty-training/simulation-learning-system-with-virtual-reality/",
+          "quote": "Installing the SimX VR App On Meta Quest Headsets",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "education_training_simulation-learning-system-with-virtual-reality-sls-vr",
+          "source_url": "https://elsevierresources.com/nhe-faculty-training/simulation-learning-system-with-virtual-reality/",
+          "quote": "the SimX Moderator, your program for using and moderating Simulation Learning Systems simulations in a virtual reality (VR) environment.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "education_training_simulation-learning-system-with-virtual-reality-sls-vr",
+          "source_url": "https://elsevierresources.com/nhe-faculty-training/simulation-learning-system-with-virtual-reality/",
+          "quote": "This video provides information on starting or joining a Simulation Learning System virtual reality SimX simulation session on the SimX Moderator, for use with Meta Quest headsets.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "education_training_simulation-learning-system-with-virtual-reality-sls-vr",
+          "source_url": "https://elsevierresources.com/nhe-faculty-training/simulation-learning-system-with-virtual-reality/",
+          "quote": "Students also use SimChart\u00ae for Nursing, a robust Electronic Health Record system that houses the patient records for scenarios and skills drills.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "target_customer": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "education_training_simulation-learning-system-with-virtual-reality-sls-vr",
+          "source_url": "https://elsevierresources.com/nhe-faculty-training/simulation-learning-system-with-virtual-reality/",
+          "quote": "Enhance student clinical judgment with the first hands-on nursing virtual reality simulation of its kind.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "education_training_simulation-learning-system-with-virtual-reality-sls-vr",
+          "source_url": "https://elsevierresources.com/nhe-faculty-training/simulation-learning-system-with-virtual-reality/",
+          "quote": "This page features online tutorials, guides, and training sessions developed by product trainers and nurse educators, allowing you to learn this product at your own pace.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "value_proposition": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "education_training_simulation-learning-system-with-virtual-reality-sls-vr",
+          "source_url": "https://elsevierresources.com/nhe-faculty-training/simulation-learning-system-with-virtual-reality/",
+          "quote": "Enhance student clinical judgment with the first hands-on nursing virtual reality simulation of its kind.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "education_training_simulation-learning-system-with-virtual-reality-sls-vr",
+          "source_url": "https://elsevierresources.com/nhe-faculty-training/simulation-learning-system-with-virtual-reality/",
+          "quote": "will change the way students learn, and ensure they are ready for practice.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "tagline": {
+      "status": "not_found",
+      "result": "not_found",
+      "problems": [],
+      "evidence": []
+    },
+    "pricing": {
+      "status": "not_found",
+      "result": "not_found",
+      "problems": [],
+      "evidence": []
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "competitor": "Oxford Medical Simulation",
+  "requested_url": "https://oxfordmedicalsimulation.com/medical-schools/",
+  "fetched_at": "2026-09-29T18:43:33-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://oxfordmedicalsimulation.com/medical-schools/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "Medical Schools - Oxford Medical Simulation",
+  "meta_description": "Discover how VR in medical education helps students bridge theory and practice. OMS delivers immersive, measurable training that develops clinical competence, confidence, and readiness at scale.",
+  "html_bytes": 561749,
+  "text_characters": 11630
+}

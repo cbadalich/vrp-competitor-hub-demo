@@ -1,0 +1,21 @@
+{
+  "checked_at": "2026-10-14T11:24:43-06:00",
+  "proposed": "3rd Degree",
+  "problems": [],
+  "results": [
+    {
+      "page": "home",
+      "quote": "XR-based training platform for defense and public safety",
+      "source_url": "https://streetsmartsvr.com/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "home",
+      "quote": "Use of Force / De-Escalation",
+      "source_url": "https://streetsmartsvr.com/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    }
+  ]
+}

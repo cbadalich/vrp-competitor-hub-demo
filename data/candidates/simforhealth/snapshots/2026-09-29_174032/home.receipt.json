@@ -1,0 +1,15 @@
+{
+  "competitor": "SimForHealth",
+  "requested_url": "https://simforhealth.fr/",
+  "fetched_at": "2026-09-29T17:40:32-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.simforhealth.com/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "Simforhealth",
+  "meta_description": "Simforhealth, l'expert en simulation pour la formation des professionnels de sant\u00e9",
+  "html_bytes": 161814,
+  "text_characters": 2696
+}

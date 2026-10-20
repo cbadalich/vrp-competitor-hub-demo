@@ -1,0 +1,21 @@
+{
+  "checked_at": "2026-10-14T11:24:43-06:00",
+  "proposed": "Not Relevant",
+  "problems": [],
+  "results": [
+    {
+      "page": "home",
+      "quote": "ENGAGE is a cutting-edge immersive platform for collaboration and training, offering a secure environment where employees and managers can create and engage with training content using the latest AI and XR technologies.",
+      "source_url": "https://engagevr.io/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "home",
+      "quote": "ENGAGE XR Holdings and ENGAGE XR Limited are currently in provisional liquidation.",
+      "source_url": "https://engagevr.io/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    }
+  ]
+}

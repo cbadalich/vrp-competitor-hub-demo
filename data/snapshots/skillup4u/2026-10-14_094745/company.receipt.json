@@ -1,0 +1,15 @@
+{
+  "competitor": "Skillup VR",
+  "requested_url": "https://skillupvr.com/company/",
+  "fetched_at": "2026-10-14T09:50:46-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://skillupvr.com/company/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "Company - SKILLUP VR Simulation Centre",
+  "meta_description": "Discover Skillup VR, a leader in virtual reality simulation for healthcare. Our innovative platform enhances team training, communication, and decision-making, preparing professionals for high-risk scenarios. Learn more about our mission to revolutionize medical education and patient care through cutting-edge VR technology.",
+  "html_bytes": 214104,
+  "text_characters": 3403
+}

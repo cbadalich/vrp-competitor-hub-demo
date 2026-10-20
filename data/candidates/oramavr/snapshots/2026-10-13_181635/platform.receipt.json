@@ -1,0 +1,15 @@
+{
+  "competitor": "ORamaVR",
+  "requested_url": "https://oramavr.com/platform/",
+  "fetched_at": "2026-10-13T18:16:47-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://oramavr.com/platform",
+  "content_type": "text/html",
+  "error": null,
+  "title": "ORamaVR Platform, ORamaVR",
+  "meta_description": "ORamaVR Platform is the end-to-end platform for computational medical XR, covering simulation authoring, AI proctoring, VR training delivery, and performance analytics.",
+  "html_bytes": 93367,
+  "text_characters": 5171
+}

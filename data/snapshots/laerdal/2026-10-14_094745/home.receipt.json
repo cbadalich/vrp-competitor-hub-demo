@@ -1,0 +1,15 @@
+{
+  "competitor": "Laerdal Medical",
+  "requested_url": "https://laerdal.com/",
+  "fetched_at": "2026-10-14T09:49:13-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.laerdal.com/",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "Welcome to Laerdal Medical \u2013 Helping Save Lives | Laerdal Medical",
+  "meta_description": "Laerdal Medical is one of the world leaders in healthcare simulation, education, and resuscitation training",
+  "html_bytes": 500076,
+  "text_characters": 5898
+}

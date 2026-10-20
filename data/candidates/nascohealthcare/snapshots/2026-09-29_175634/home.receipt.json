@@ -1,0 +1,15 @@
+{
+  "competitor": "Nasco Healthcare",
+  "requested_url": "https://nascohealthcare.com/",
+  "fetched_at": "2026-09-29T17:56:34-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://nascohealthcare.com/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "Nasco Healthcare - Supporting Frontline Healthcare Workers",
+  "meta_description": "Nasco Healthcare provides healthcare training solutions that allow frontline heroes to BE READY in any situation.",
+  "html_bytes": 173521,
+  "text_characters": 2109
+}

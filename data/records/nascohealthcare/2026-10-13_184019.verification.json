@@ -1,0 +1,230 @@
+{
+  "record": "data/records/nascohealthcare/2026-10-13_184019.json",
+  "checked_at": "2026-10-13T18:53:39-06:00",
+  "results": {
+    "product_category": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "products_our-leading-products",
+          "source_url": "https://shop.nascohealthcare.com/#section-template--15234389901367__collection_list_TMafzB",
+          "quote": "Nasco Healthcare is home of over 4000 products from in-hospital care to casualty and rescue/extrication scenarios",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://nascohealthcare.com/",
+          "quote": "Nasco Healthcare provides healthcare training solutions that allow frontline heroes to BE READY in any situation.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "platforms": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://nascohealthcare.com/",
+          "quote": "XR Clinic is an affordable and revolutionary medical training solution using virtual reality with high resolution graphics.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "key_capabilities": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://nascohealthcare.com/",
+          "quote": "XR Clinic is an affordable and revolutionary medical training solution using virtual reality with high resolution graphics.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://nascohealthcare.com/",
+          "quote": "Meet twins ALEX and AXEL \u2013 untethered, on-the-go patient simulators \u2013 simply unpack, and you\u2019re ready to train \u2013 anytime, anywhere!*",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "products_our-leading-products",
+          "source_url": "https://shop.nascohealthcare.com/#section-template--15234389901367__collection_list_TMafzB",
+          "quote": "ALEX Gen AI Patient Communication Simulator",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "products_our-leading-products",
+          "source_url": "https://shop.nascohealthcare.com/#section-template--15234389901367__collection_list_TMafzB",
+          "quote": "NextGen TERi & DANi\nThe Patient Care Platform Built for Nursing",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "products_casualty-care-rescue-randy",
+          "source_url": "https://shop.nascohealthcare.com/products/149-6075",
+          "quote": "A manual foot-powered pumping system simulates blood flow and allows multiple wounds to bleed simultaneously",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "products_casualty-care-rescue-randy",
+          "source_url": "https://shop.nascohealthcare.com/products/149-6075",
+          "quote": "this trainer supports Tactical Combat Casualty Care (TCCC) and Tactical Emergency Casualty Care (TECC) training",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "products_our-leading-products",
+          "source_url": "https://shop.nascohealthcare.com/#section-template--15234389901367__collection_list_TMafzB",
+          "quote": "Durable rescue, extrication, and patient handling manikins trusted by fire, EMS, and military training programs.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "products_our-leading-products",
+          "source_url": "https://shop.nascohealthcare.com/#section-template--15234389901367__collection_list_TMafzB",
+          "quote": "Build injection, infusion, and vascular access skills with realistic training arms and task trainers.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "products_our-leading-products",
+          "source_url": "https://shop.nascohealthcare.com/#section-template--15234389901367__collection_list_TMafzB",
+          "quote": "Create realistic training scenarios for EMS, military, and nursing.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "about_our-purpose",
+          "source_url": "https://nascohealthcare.com/about/our-purpose/",
+          "quote": "We design upgradeable products to suit your current and future needs",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "target_customer": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "about_our-purpose",
+          "source_url": "https://nascohealthcare.com/about/our-purpose/",
+          "quote": "At Nasco Healthcare, we believe in the frontline healthcare and rescue professionals who stand ready to serve at a moment\u2019s notice.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "products_our-leading-products",
+          "source_url": "https://shop.nascohealthcare.com/#section-template--15234389901367__collection_list_TMafzB",
+          "quote": "Task trainers and simulators for nursing, EMS, allied health, and healthcare education programs.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "products_casualty-care-rescue-randy",
+          "source_url": "https://shop.nascohealthcare.com/products/149-6075",
+          "quote": "Ideal For\n\u2022 Military medical training\n\u2022 EMS and paramedic education\n\u2022 Law enforcement tactical training\n\u2022 Disaster response and rescue training\n\u2022 Simulation centers and training academies",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "value_proposition": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://nascohealthcare.com/",
+          "quote": "Our products prepare frontline healthcare heroes to Be READY\u00ae the moment they are called upon.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "about_our-purpose",
+          "source_url": "https://nascohealthcare.com/about/our-purpose/",
+          "quote": "For over 80 years we have made medical simulation possible and accessible to all.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://nascohealthcare.com/",
+          "quote": "Rugged, reliable and hyper-realistic\nDesigned in the USA\nCompliant to healthcare guidelines\nUp to 5-year warranty",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "tagline": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://nascohealthcare.com/",
+          "quote": "Be READY\u00ae\nFOR ANY SITUATION",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "about_our-purpose",
+          "source_url": "https://nascohealthcare.com/about/our-purpose/",
+          "quote": "helping prepare them to Be READY\u00ae for any situation",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "products_casualty-care-rescue-randy_casualty-care-rescue-randy-training-videos",
+          "source_url": "https://nascohealthcare.com/products/casualty-care-rescue-randy/casualty-care-rescue-randy-training-videos/",
+          "quote": "Casualty Care Rescue Randy trains healthcare heroes on the 3 most preventable causes of death preparing them to Be READY.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "pricing": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "products_casualty-care-rescue-randy",
+          "source_url": "https://shop.nascohealthcare.com/products/149-6075",
+          "quote": "Regular price\n$15,299.95 USD",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "products_our-leading-products",
+          "source_url": "https://shop.nascohealthcare.com/#section-template--15234389901367__collection_list_TMafzB",
+          "quote": "Yes, you can email your purchase order to orders@nascohealthcare.com. Prepayment may be required.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "products_our-leading-products",
+          "source_url": "https://shop.nascohealthcare.com/#section-template--15234389901367__collection_list_TMafzB",
+          "quote": "Save 60% off Moulage",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    }
+  }
+}

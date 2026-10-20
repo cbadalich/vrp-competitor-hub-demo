@@ -1,0 +1,15 @@
+{
+  "competitor": "VRpatients",
+  "requested_url": "https://vrpatients.com/authoring-tool/",
+  "fetched_at": "2026-10-13T18:19:51-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://vrpatients.com/authoring-tool/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "Authoring Tool - VRpatients",
+  "meta_description": "Pre-loaded with more than 20 realistic living environments and a multitude of patient avatars, the authoring tool\u2019s built-in prompts alert you to an improbable or unlikely action, making it virtually error-proof.",
+  "html_bytes": 227216,
+  "text_characters": 1986
+}

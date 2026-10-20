@@ -1,0 +1,15 @@
+{
+  "competitor": "Skillup VR",
+  "requested_url": "https://skillupvr.com/moreproducts/",
+  "fetched_at": "2026-10-13T19:53:44-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://skillupvr.com/moreproducts/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "MoreProducts - SKILLUP VR Simulation Centre",
+  "meta_description": "More Products VR Nurse Sim VR Nurse Sim is designed for junior healthcare professionals to practice their basic nursing skills. Developed together with a Norwegian vocational institution, the simulation pack offers multiple scenarios set in both clinical and home environments, [\u2026]",
+  "html_bytes": 195455,
+  "text_characters": 2149
+}

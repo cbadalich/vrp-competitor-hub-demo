@@ -1,0 +1,222 @@
+{
+  "competitor": "UbiSim",
+  "slug": "ubisim",
+  "snapshot": "data/snapshots/ubisim/2026-10-13_183515",
+  "extracted_at": "2026-10-13T18:45:00-06:00",
+  "extracted_by": "Claude Code session, model claude-opus-5-5",
+  "note": "All 10 pages downloaded; no two saved pages are identical. Several pages (about-us, pricing, solutions_academic-institutions, solutions_healthcare-systems) contain leftover template text ('Lorem ipsum', 'Heading 1'), which was ignored.",
+  "pages_read": [
+    "home",
+    "how-it-works",
+    "scenarios",
+    "ai-supported-capabilities",
+    "intuitive-editor",
+    "pricing",
+    "solutions_academic-institutions",
+    "solutions_healthcare-systems",
+    "onboarding-setup",
+    "about-us"
+  ],
+  "pages_failed": [],
+  "fields": {
+    "product_category": {
+      "status": "found",
+      "value": "Immersive VR simulation platform dedicated to nursing education and nurse training, built by nurses for nurses",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "UbiSim is dedicated exclusively to nursing education simulation and virtual reality."
+        },
+        {
+          "page": "about-us",
+          "quote": "The UbiSim immersive virtual reality simulation platform is built by nurses, for nurses to meet the evolving needs of nurse learners in higher education and healthcare institutions."
+        }
+      ],
+      "note": "Nursing only. The first quote is the homepage META DESCRIPTION line. The about-us page says 'UbiSim is a Labster product.'"
+    },
+    "platforms": {
+      "status": "found",
+      "value": [
+        "VR"
+      ],
+      "evidence": [
+        {
+          "page": "solutions_academic-institutions",
+          "quote": "UbiSim works on the entire wireless Quest family of headsets, including Meta Quest 2, Meta Quest 3 and Meta Quest Pro."
+        },
+        {
+          "page": "pricing",
+          "quote": "VR application with full visual and haptic immersion"
+        },
+        {
+          "page": "onboarding-setup",
+          "quote": "Just create a Meta account, follow our step-by-step headset setup guide, and install the UbiSim app."
+        }
+      ],
+      "note": "Learners use Meta Quest headsets. The facilitator uses 'A laptop or desktop computer with Windows/Mac operating system and Chrome browser. No software installation required.' (how-it-works); that is an educator tool, so Web is not listed. Observers can watch 'on their computers' or join as a 'ghost' in VR, and the pricing page lists 'web replay' as part of debriefing; neither describes the learner's simulation running in a browser."
+    },
+    "key_capabilities": {
+      "status": "found",
+      "value": [
+        "Catalog of peer-reviewed, standards-aligned scenarios included with every subscription",
+        "No-code Intuitive Editor to customize or build scenarios, included at no extra charge",
+        "Community-shared scenarios from other programs",
+        "AI-powered natural patient dialogue within clinical guardrails",
+        "AI-enhanced performance reports with dialogue transcript, organized by NCLEX Client Needs",
+        "Multiplayer for up to 3 active learners",
+        "Flexible facilitation: peer-to-peer, staff-led, observation, independent",
+        "Automatic session capture for data-informed debriefs",
+        "End-to-end pre-brief, simulation and debrief",
+        "Campus and cohort management, SSO via Microsoft Entra ID"
+      ],
+      "evidence": [
+        {
+          "page": "how-it-works",
+          "quote": "Every subscription comes with access to the growing UbiSim catalog of peer-reviewed scenarios, plus all custom scenarios shared from the UbiSim Community."
+        },
+        {
+          "page": "intuitive-editor",
+          "quote": "Included at no extra charge, UbiSim’s industry-leading scenario editor gives you maximum flexibility without increasing costs or coordination challenges."
+        },
+        {
+          "page": "intuitive-editor",
+          "quote": "No coding is needed. Drag and drop elements such as lab results, X-rays, EKGs, and even conversational dialogue into the scenario."
+        },
+        {
+          "page": "solutions_healthcare-systems",
+          "quote": "Share, edit and re-use custom scenarios with fellow educators in the UbiSim Community"
+        },
+        {
+          "page": "ai-supported-capabilities",
+          "quote": "Learners speak naturally with the patient, family members, and physician in the headset, and the AI responds in context, within clinically appropriate guardrails."
+        },
+        {
+          "page": "ai-supported-capabilities",
+          "quote": "A complete dialogue transcript sits alongside performance data, so you can see what learners did and what they said."
+        },
+        {
+          "page": "ai-supported-capabilities",
+          "quote": "Performance is organized by NCLEX Client Needs categories, which makes it easy to target teaching where it counts."
+        },
+        {
+          "page": "pricing",
+          "quote": "Instant, AI-enhanced performance reports"
+        },
+        {
+          "page": "how-it-works",
+          "quote": "Up to 3 active learners can collaborate together in the same simulation"
+        },
+        {
+          "page": "onboarding-setup",
+          "quote": "UbiSim supports flexible facilitation methods — from peer-to-peer role rotation and team-based multiplayer to educator-led and observation"
+        },
+        {
+          "page": "pricing",
+          "quote": "Facilitator-led & independent, with AI-assisted options"
+        },
+        {
+          "page": "home",
+          "quote": "Sessions are captured automatically, so you can review learners' decisions, timing, and actions, then lead data-informed debriefs that turn practice into competency."
+        },
+        {
+          "page": "pricing",
+          "quote": "End-to-end pre-brief, sim, and debrief"
+        },
+        {
+          "page": "pricing",
+          "quote": "Campus and cohort management tools"
+        },
+        {
+          "page": "pricing",
+          "quote": "UbiSim supports single sign-on via Microsoft Entra ID"
+        }
+      ],
+      "note": "Other features stated but not listed: unfolding orders that appear as a scenario progresses (intuitive-editor); 'Multi-tiered debriefing with self-guided reflection, quizzes, and web replay', 'Scenario progression based on learner actions', 'Remote access for multi-site and multi-facility programs', 'Hardware distribution and management assistance' (pricing); scenario filters by system, learner level and type of care (scenarios). Catalog areas named: Fundamentals, Med-Surg 1 and 2, Pediatrics, Mental Health, Obstetrics, plus Tutorials. No scenario count is stated. The healthcare-systems page says 'unscripted dialogue' while the how-it-works page describes learners 'triggering the preset dialogs on the computer' in peer-to-peer mode."
+    },
+    "target_customer": {
+      "status": "found",
+      "value": "Nursing schools (colleges and universities) and hospitals and health systems, plus workforce development programs. Learners are pre-licensure nursing students, new graduate nurses in transition to practice, and practicing nurses.",
+      "evidence": [
+        {
+          "page": "about-us",
+          "quote": "to meet the evolving needs of nurse learners in higher education and healthcare institutions."
+        },
+        {
+          "page": "home",
+          "quote": "Support new-graduate Transition to Practice and ongoing competency development"
+        },
+        {
+          "page": "home",
+          "quote": "Provide a consistent foundation that helps learners progress and programs retain them"
+        },
+        {
+          "page": "intuitive-editor",
+          "quote": "whether pre-licensure nursing students or practicing nurses."
+        }
+      ],
+      "note": "Menus list three segments: Academic Institutions, Healthcare Systems, Workforce Development. Implementation packages are split 'For Colleges and Universities' and 'For Hospitals and Health Systems' (onboarding-setup). Pricing FAQ: 'UbiSim is licensed at the institution or program level'."
+    },
+    "value_proposition": {
+      "status": "found",
+      "value": "Unlimited, realistic, repeatable VR clinical practice for nurses, with performance data showing readiness for the bedside, and simulation capacity that scales without scaling cost or faculty workload.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Give every learner unlimited, realistic clinical practice in VR, and the performance data to prove they're ready for the bedside."
+        },
+        {
+          "page": "home",
+          "quote": "Expand simulation capacity beyond the limits of clinical placements and lab time without adding faculty workload."
+        }
+      ],
+      "note": "Cost and outcome claims also appear: pricing says 'Up to 85% Lower Upfront Costs and 72% Increased Enrollment Capacity' 'Based on industry benchmark modeling'; home says students who practiced pre-briefing in UbiSim VR 'scored 57% higher in clinical judgment'."
+    },
+    "tagline": {
+      "status": "found",
+      "value": "Where Nursing Practice Gets Real™",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Where Nursing Practice Gets Real™."
+        },
+        {
+          "page": "pricing",
+          "quote": "Where Nursing Practice Gets Real™."
+        }
+      ],
+      "note": "Marked as a trademark and repeated in the footer of every page read. Other candidate: homepage first headline after the menu 'Scale Clinical Practice. Build Practice-Ready Nurses.'"
+    },
+    "pricing": {
+      "status": "found",
+      "value": "Custom pricing by quote, based on learner volume, term length and implementation tier; annual engagements typically begin at $5,000 USD. Implementation is a separate one-time package (Basic, Essentials, Custom). Licensed at institution or program level; free trials for qualified buyers; headsets procured separately.",
+      "evidence": [
+        {
+          "page": "pricing",
+          "quote": "Yes. Annual engagements typically begin at $5,000 USD, depending on the solution and implementation requirements."
+        },
+        {
+          "page": "pricing",
+          "quote": "Learner volume discounts\nTerm length options\nImplementation tiers"
+        },
+        {
+          "page": "pricing",
+          "quote": "Implementation is a separate one-time package. UbiSim offers three tiers: Basic (~5 weeks), Essentials (~6 weeks), and Custom (scoped pricing and timing)."
+        },
+        {
+          "page": "pricing",
+          "quote": "No. UbiSim is licensed at the institution or program level, so your institution covers access and learners don't pay out of pocket."
+        },
+        {
+          "page": "pricing",
+          "quote": "Yes, UbiSim offers free trials for qualified buyers."
+        },
+        {
+          "page": "pricing",
+          "quote": "headsets are typically procured separately from your software license."
+        }
+      ],
+      "note": "No list prices or plan prices beyond the $5,000 starting figure. The implementation package prices themselves are not published."
+    }
+  },
+  "changes_since_previous": "AI patient dialogue is now described as live (the AI page previously said 'coming soon'), and AI-enhanced debrief reports with transcripts are added. Homepage headline changed; pricing and tagline unchanged."
+}

@@ -1,0 +1,222 @@
+{
+  "record": "data/records/medvr/2026-10-14_094745.json",
+  "checked_at": "2026-10-15T18:59:31-06:00",
+  "results": {
+    "product_category": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://medvr.education/",
+          "quote": "MedVR Education's off-the-shelf and customized XR healthcare training solutions are designed to provide quality Nursing training in the field of healthcare.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://medvr.education/",
+          "quote": "Join the Largest XR Healthcare Simulation Library",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "platforms": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://medvr.education/",
+          "quote": "Access the library on any Android-based headset.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://medvr.education/",
+          "quote": "Immerse yourself in virtual reality medical simulations",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://medvr.education/",
+          "quote": "Mixed Reality!Check out the features",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://medvr.education/",
+          "quote": "MedVR Ed Connect\nBe a part of a virtual session via a PC/laptop",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://medvr.education/",
+          "quote": "Scale and distribute VR, AR, and MR content globally on multiple devices using the MedVR Ed platform.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "key_capabilities": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://medvr.education/",
+          "quote": "With an AI-driven patient assessment solution, powered by LLM, ML, and deep data analytics, learners engage in realistic conversation scenarios",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://medvr.education/",
+          "quote": "Independent XR simulations empower learners to train anytime and anywhere, without the need for a moderator or instructor.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://medvr.education/",
+          "quote": "Cross geographical boundaries and meet in one virtual space to share experiences, perform group activities, collaborate, and engage in voice chat in real-time.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://medvr.education/",
+          "quote": "In-VR customization for richer learning experiences",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://medvr.education/",
+          "quote": "Tracked learning to provide prompt, accurate and personalized feedback.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://medvr.education/",
+          "quote": "Realistic interactions with objects to gain real-world experiences.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://medvr.education/",
+          "quote": "Realistic, interactive, evidence-based simulations for optimum learning experience.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://medvr.education/",
+          "quote": "All modules are developed in alignment with the nursing curriculum followed by universities and training institutes.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://medvr.education/",
+          "quote": "MedVR Ed offers white labeling, integration with LMS and customization up to any extent to suit business needs.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://medvr.education/",
+          "quote": "With VR training apps remotely uploaded and managed on trainee headsets, manage all performance data from a single web-based dashboard.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "target_customer": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://medvr.education/",
+          "quote": "All modules are developed in alignment with the nursing curriculum followed by universities and training institutes.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://medvr.education/",
+          "quote": "Use off-the-shelf XR in healthcare training solutions to deploy content for the enterprise or to serve your B2B client.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://medvr.education/",
+          "quote": "Realistic virtual humans to train healthcare professionals in various soft skills.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "value_proposition": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://medvr.education/",
+          "quote": "Train anytime and anywhere, experiencing immersive scenarios that promote teamwork, critical thinking, and decision-making skills.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://medvr.education/",
+          "quote": "Annual subscription with unlimited sessions and no additional resource requirements.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "tagline": {
+      "status": "not_found",
+      "result": "not_found",
+      "problems": [],
+      "evidence": []
+    },
+    "pricing": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://medvr.education/",
+          "quote": "Cost-effective and Scalable\nAnnual subscription with unlimited sessions and no additional resource requirements.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://medvr.education/",
+          "quote": "SAAS Based Solution",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    }
+  }
+}

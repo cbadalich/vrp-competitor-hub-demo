@@ -1,0 +1,15 @@
+{
+  "competitor": "SimForHealth",
+  "requested_url": "https://www.simforhealth.com/nos-produits/",
+  "fetched_at": "2026-09-29T18:44:12-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.simforhealth.com/nos-produits/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "Nos produits - SimforHealth",
+  "meta_description": "Formation initiale Entra\u00eenez aujourd'hui les soignants de demain gr\u00e2ce \u00e0 des simulations m\u00e9dicales immersives. Avec Simforhealth, formez des professionnels de sant\u00e9 comp\u00e9tents, pr\u00eats \u00e0 relever les d\u00e9fis cliniques de demain. Ludiques & immersifs Format engageant Pertinence p\u00e9dagogique Suivi progression Tous IFAS IFSI Collection Aide-Soignante Collection Infirmi\u00e8re SIMDOSE, logiciel de calcul de dose PSY VR VR",
+  "html_bytes": 100983,
+  "text_characters": 1218
+}

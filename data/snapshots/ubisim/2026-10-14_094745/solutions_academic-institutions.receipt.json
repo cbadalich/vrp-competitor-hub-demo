@@ -1,0 +1,15 @@
+{
+  "competitor": "UbiSim",
+  "requested_url": "https://www.ubisimvr.com/solutions/academic-institutions/",
+  "fetched_at": "2026-10-14T09:48:48-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.ubisimvr.com/solutions/academic-institutions",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "UbiSim VR for Universities and Colleges | Passing the NCLEX",
+  "meta_description": "Discover how UbiSim's immersive VR platform for nursing simulation supports programs in scaling training, enhances clinical judgement, and driving better outcomes.",
+  "html_bytes": 198409,
+  "text_characters": 5125
+}

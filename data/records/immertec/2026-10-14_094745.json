@@ -1,0 +1,173 @@
+{
+  "competitor": "Immertec",
+  "slug": "immertec",
+  "snapshot": "data/snapshots/immertec/2026-10-14_094745",
+  "extracted_at": "2026-09-29T19:11:04-06:00",
+  "extracted_by": "Claude Code session, model claude-opus-5-5",
+  "note": "All 5 saved pages have an empty TITLE and META DESCRIPTION.",
+  "pages_read": [
+    "home",
+    "solutions",
+    "solutions_live-broadcast",
+    "products_vr-viewer",
+    "industries_physicians"
+  ],
+  "pages_failed": [],
+  "fields": {
+    "product_category": {
+      "status": "found",
+      "value": "Immersive training and awareness platform that gives virtual access to the operating room (live broadcasts, recordings, presenter mode) for healthcare professionals and medical device companies",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Immertec helps healthcare professionals connect, communicate, and collaborate in challenging environments where details matter"
+        },
+        {
+          "page": "solutions",
+          "quote": "A technology enabled Healthcare platform that covers all the needs of Healthcare Professionals and Medical Device Companies"
+        },
+        {
+          "page": "home",
+          "quote": "We help medical device companies virtually access the OR to enhance education, drive sales, improve R&D and support successful product launches"
+        }
+      ],
+      "note": "The product shows real procedures (surgery) rather than simulated patients, based on the pages read."
+    },
+    "platforms": {
+      "status": "found",
+      "value": [
+        "VR",
+        "Web"
+      ],
+      "evidence": [
+        {
+          "page": "solutions_live-broadcast",
+          "quote": "Watch live broadcasts in VR or Immersive 2D from anywhere in the world"
+        },
+        {
+          "page": "products_vr-viewer",
+          "quote": "If you already own a Meta VR headset, including Quest 1, 2, or 3, Immertec supports access\nthrough the Meta Quest AppLab."
+        },
+        {
+          "page": "solutions_live-broadcast",
+          "quote": "the convenience of joining through the browser-based Immersive 2D viewer"
+        }
+      ],
+      "note": "Two viewing options: the VR Viewer (Meta Quest headsets, or company-supplied configured headsets with MDM software) and the Immersive 2D Viewer, described as browser-based. Presenter Mode is a tool for hosts and educators and is not counted."
+    },
+    "key_capabilities": {
+      "status": "found",
+      "value": [
+        "Live broadcasting of surgical procedures from the OR",
+        "Recording and sharing procedures as an on-demand library",
+        "Presenter Mode for guided, interactive case presentations",
+        "Real-time peer interaction and Q&A with KOLs",
+        "Highlight, replay, pause and zoom on key moments",
+        "VR Viewer on Meta Quest via AppLab, plus browser-based Immersive 2D Viewer",
+        "White-glove headset service: configured headsets shipped with MDM software",
+        "Post-event engagement reports (attendance, watch time, viewer roles, VR vs. 2D, NPS)",
+        "On-site setup and live production by Immertec"
+      ],
+      "evidence": [
+        {
+          "page": "solutions",
+          "quote": "Enable real-time sharing of surgical workflows in an immersive environment"
+        },
+        {
+          "page": "solutions",
+          "quote": "Capture detailed procedures to build a library of immersive, on-demand content"
+        },
+        {
+          "page": "solutions",
+          "quote": "Presenters can guide participants through recorded cases, highlight key moments, and answer\nquestions in real time"
+        },
+        {
+          "page": "solutions_live-broadcast",
+          "quote": "Facilitate real-time peer-to-peer communication during live broadcasts"
+        },
+        {
+          "page": "industries_physicians",
+          "quote": "Highlight and replay key moments for deeper analysis"
+        },
+        {
+          "page": "industries_physicians",
+          "quote": "Pause, zoom, and enlarge visuals to focus on details"
+        },
+        {
+          "page": "products_vr-viewer",
+          "quote": "Delivered directly with MDM software for focused, case-specific use"
+        },
+        {
+          "page": "solutions_live-broadcast",
+          "quote": "Receive a detailed engagement report with attendance, watch time, and viewer roles."
+        },
+        {
+          "page": "solutions_live-broadcast",
+          "quote": "Immertec’s on-site team manages setup and live production with minimal disruption."
+        }
+      ],
+      "note": "Broadcasts need a cart installed at the site: 'Select from Immertec-approved locations or let us handle new site approvals and cart installations'."
+    },
+    "target_customer": {
+      "status": "found",
+      "value": "Medical device companies (professional education, sales, marketing and R&D teams) and physicians; menus also list medical schools, animal health, veterinarians, veterinary schools, and government.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Our comprehensive solutions provide medical device companies with the platform to train physicians and sales reps more effectively"
+        },
+        {
+          "page": "industries_physicians",
+          "quote": "Immertec connects you to cutting-edge techniques, devices, and peer insights through immersive training solutions"
+        },
+        {
+          "page": "home",
+          "quote": "Medical Device Companies Physicians Medical Schools Animal Health Veterinarians Veterinary Schools Government"
+        }
+      ],
+      "note": "The medical schools, animal health, veterinary and government segments appear only as menu labels (weak evidence); only the physicians industry page was saved. The live-broadcast page lists 'Physicians & Trainees', 'Educators & Trainers', 'Sales Teams', 'R&D Teams' and 'Event Organizers' as beneficiaries."
+    },
+    "value_proposition": {
+      "status": "found",
+      "value": "Virtual, real-time access to the operating room so medical device companies can train physicians and sales reps, drive sales and R&D, and reach global audiences without travel.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "We help medical device companies virtually access the OR to enhance education, drive sales, improve R&D and support successful product launches"
+        },
+        {
+          "page": "solutions_live-broadcast",
+          "quote": "Real-Time Access to the OR, Without the Travel"
+        }
+      ],
+      "note": ""
+    },
+    "tagline": {
+      "status": "found",
+      "value": "Immersive Training & Awareness Platform",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Immersive Training & Awareness Platform"
+        },
+        {
+          "page": "solutions",
+          "quote": "Immersive Training & Awareness Platform"
+        }
+      ],
+      "note": "Repeated in the footer block of all 5 pages read (the home page hero writes it 'Immersive Training and Awareness Platform'). Other candidates: homepage first headline after the menu 'Experience Procedures Like Never Before'; footer line 'Immertec helps healthcare professionals connect, communicate, and collaborate in challenging environments where details matter'."
+    },
+    "pricing": {
+      "status": "not_found",
+      "value": null,
+      "evidence": [],
+      "note": "No prices, plans, or quote requests on the 5 pages read. Calls to action are 'Request a Demo' and 'Contact Us'. The VR Viewer page mentions 'Pre-paid shipping labels' for headset returns, which is not pricing."
+    }
+  },
+  "carried_forward": {
+    "from_record": "data/records/immertec/2026-10-13_183515.json",
+    "at": "2026-10-14T09:52:04-06:00",
+    "reason": "identical page text",
+    "pages_changed": []
+  }
+}

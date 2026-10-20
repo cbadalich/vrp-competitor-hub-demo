@@ -1,0 +1,95 @@
+{
+  "slug": "upskillai",
+  "name": "UpSkillAI",
+  "website": "https://upskillai.com/",
+  "domain": "upskillai.com",
+  "aliases": [],
+  "status": "approved",
+  "first_seen": "2026-10-13T18:13:37-06:00",
+  "last_seen": "2026-10-13T18:13:37-06:00",
+  "sightings": [
+    {
+      "source": "earlier research list",
+      "query": "",
+      "url": "",
+      "snippet": "formerly Health Scholars",
+      "website_from": "earlier research list",
+      "found_at": "2026-10-13T18:13:37-06:00"
+    }
+  ],
+  "possible_duplicate_of": [],
+  "snapshot": "data/candidates/upskillai/snapshots/2026-10-13_181425",
+  "extra_pages": [
+    "https://upskillai.com/what-is-ai-powered-xr-training/",
+    "https://upskillai.com/ems/",
+    "https://upskillai.com/healthcare/"
+  ],
+  "signals": {
+    "healthcare_training": [
+      "EMS",
+      "medical education",
+      "medical students",
+      "clinical skills",
+      "virtual patient",
+      "virtual patients",
+      "behavioral health"
+    ],
+    "headset": [
+      "VR",
+      "mixed reality",
+      "XR",
+      "headset",
+      "headsets"
+    ],
+    "simulation": [
+      "simulation",
+      "simulations"
+    ],
+    "public_safety": [
+      "military",
+      "defense"
+    ]
+  },
+  "suggested_pages": [
+    "https://upskillai.com/what-is-ai-powered-xr-training/",
+    "https://upskillai.com/ems/",
+    "https://upskillai.com/healthcare/",
+    "https://upskillai.com/about/"
+  ],
+  "classification": {
+    "proposed": "1st Degree",
+    "by": "Claude Code session, model claude-opus-5-5",
+    "at": "2026-10-13T18:30:00-06:00",
+    "snapshot": "data/candidates/upskillai/snapshots/2026-10-13_181425",
+    "reason": "UpSkillAI's VR simulations train clinicians, nurses, EMS and medical students with hands-on practice talking to and evaluating virtual patients in a headset. It also lists Defense, but per category_rules it is placed by its healthcare side.",
+    "evidence": [
+      {
+        "page": "healthcare",
+        "quote": "VR simulation providing learners hands-on practice evaluating and talking to multiple virtual patients with guided coaching, feedback, and assessments"
+      },
+      {
+        "page": "healthcare",
+        "quote": "Trained 84 clinicians in under 24 hours without disrupting shifts"
+      },
+      {
+        "page": "ems",
+        "quote": "Practice high-stress scenarios, team leadership, pediatric emergencies, overdoses - all in one headset."
+      }
+    ]
+  },
+  "review": {
+    "decision": "approved",
+    "type": "1st Degree",
+    "at": "2026-10-13T18:19:17-06:00",
+    "reason": "",
+    "tracked_slug": "upskillai",
+    "pages": [
+      "https://upskillai.com/",
+      "https://upskillai.com/what-is-ai-powered-xr-training/",
+      "https://upskillai.com/ems/",
+      "https://upskillai.com/healthcare/",
+      "https://upskillai.com/about/"
+    ]
+  },
+  "name_on_site": true
+}

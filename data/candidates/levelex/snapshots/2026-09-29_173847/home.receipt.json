@@ -1,0 +1,15 @@
+{
+  "competitor": "Level Ex",
+  "requested_url": "https://www.levelex.com/",
+  "fetched_at": "2026-09-29T17:38:47-06:00",
+  "ok": true,
+  "robots": "no robots.txt (HTTP 404); allowed by default",
+  "http_status": 200,
+  "final_url": "https://www.levelex.com/",
+  "content_type": "text/html",
+  "error": null,
+  "title": "Level Ex - New Name. Same Game.",
+  "meta_description": "Level Ex's Life Sciences division is now Relevate Health Games, offering clinical games for medical professionals and the pharmaceutical industry. Learn about our rebranding and continuing innovation in medical gaming.",
+  "html_bytes": 12976,
+  "text_characters": 607
+}

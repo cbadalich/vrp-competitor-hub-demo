@@ -1,0 +1,15 @@
+{
+  "competitor": "FundamentalVR",
+  "requested_url": "https://www.fundamentalvr.com/clinical-areas",
+  "fetched_at": "2026-10-14T09:48:56-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.fundamentalxr.com/clinical-areas",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "Clinical areas | Fundamental XR",
+  "meta_description": "Immersive simulation built for the clinical realities of each area of practice, from first exposure to documented competency.",
+  "html_bytes": 49905,
+  "text_characters": 1031
+}

@@ -1,0 +1,28 @@
+{
+  "checked_at": "2026-10-14T11:24:43-06:00",
+  "proposed": "1st Degree",
+  "problems": [],
+  "results": [
+    {
+      "page": "home",
+      "quote": "Competency-Based VR Training for Real-World Healthcare Scenarios",
+      "source_url": "https://medisimvr.com/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "home",
+      "quote": "Our AI-powered platform offers immersive experiences for healthcare professionals to learn.",
+      "source_url": "https://medisimvr.com/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "home",
+      "quote": "VR in Nursing & AHS",
+      "source_url": "https://medisimvr.com/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    }
+  ]
+}

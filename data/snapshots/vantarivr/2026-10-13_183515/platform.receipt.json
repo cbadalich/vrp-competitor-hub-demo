@@ -1,0 +1,15 @@
+{
+  "competitor": "Vantari VR",
+  "requested_url": "https://www.vantarivr.com/platform/",
+  "fetched_at": "2026-10-13T18:38:43-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.vantarivr.com/vantari-platform",
+  "content_type": "text/html;charset=utf-8",
+  "error": null,
+  "title": "Vantari Platform \u2014 Vantari VR",
+  "meta_description": "",
+  "html_bytes": 192979,
+  "text_characters": 2091
+}

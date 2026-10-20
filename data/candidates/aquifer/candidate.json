@@ -1,0 +1,70 @@
+{
+  "slug": "aquifer",
+  "name": "Aquifer",
+  "website": "https://aquifer.org/",
+  "domain": "aquifer.org",
+  "aliases": [],
+  "status": "approved",
+  "first_seen": "2026-09-29T17:38:40-06:00",
+  "last_seen": "2026-09-29T17:38:40-06:00",
+  "sightings": [
+    {
+      "source": "earlier research list",
+      "query": "\"Aquifer\" medical education virtual patient cases",
+      "url": "https://aquifer.org/for-physician-assistant-programs/",
+      "snippet": "Why PA Educators & Students Love Aquifer",
+      "website_from": "result link",
+      "found_at": "2026-09-29T17:38:40-06:00"
+    }
+  ],
+  "possible_duplicate_of": [],
+  "snapshot": "data/candidates/aquifer/snapshots/2026-09-29_174143",
+  "extra_pages": [
+    "https://aquifer.org/how-it-works/",
+    "https://aquifer.org/about-aquifer/"
+  ],
+  "signals": {
+    "healthcare_training": [
+      "medical education",
+      "virtual patient"
+    ]
+  },
+  "suggested_pages": [
+    "https://aquifer.org/student-pricing/",
+    "https://aquifer.org/institutional-pricing/",
+    "https://aquifer.org/how-it-works/",
+    "https://aquifer.org/about-aquifer/"
+  ],
+  "classification": {
+    "proposed": "2nd Degree",
+    "by": "Claude Code session, model claude-opus-5-5",
+    "at": "2026-09-29T17:48:00-06:00",
+    "snapshot": "data/candidates/aquifer/snapshots/2026-09-29_174143",
+    "reason": "The Aquifer platform teaches health professions students with screen-based virtual patient cases. No headset term on 3 saved pages.",
+    "evidence": [
+      {
+        "page": "about-aquifer",
+        "quote": "helps students in the health professions master clinical reasoning through realistic virtual patient cases"
+      },
+      {
+        "page": "how-it-works",
+        "quote": "Our solution leverages engaging and highly realistic virtual patient encounters with robust course content and an innovative formative assessment system"
+      }
+    ]
+  },
+  "review": {
+    "decision": "approved",
+    "type": "2nd Degree",
+    "at": "2026-09-29T18:06:01-06:00",
+    "reason": "",
+    "tracked_slug": "aquifer",
+    "pages": [
+      "https://aquifer.org/",
+      "https://aquifer.org/how-it-works/",
+      "https://aquifer.org/about-aquifer/",
+      "https://aquifer.org/student-pricing/",
+      "https://aquifer.org/institutional-pricing/"
+    ]
+  },
+  "name_on_site": true
+}

@@ -1,0 +1,15 @@
+{
+  "competitor": "Aquifer",
+  "requested_url": "https://aquifer.org/how-it-works/",
+  "fetched_at": "2026-09-29T18:46:20-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://aquifer.org/how-it-works",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "How It Works",
+  "meta_description": "Aquifer is a comprehensive clinical curriculum designed to help students learn efficiently and effectively to become the best clinicians they can be.",
+  "html_bytes": 157698,
+  "text_characters": 3086
+}

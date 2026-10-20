@@ -1,0 +1,15 @@
+{
+  "competitor": "Oxford Medical Simulation",
+  "requested_url": "https://oxfordmedicalsimulation.com/",
+  "fetched_at": "2026-10-14T09:47:45-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://oxfordmedicalsimulation.com/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "Home - Oxford Medical Simulation",
+  "meta_description": "OMS delivers immersive, AI-driven VR healthcare training that elevates learners, empowers educators, and transforms health outcomes, preparing every clinician for real-world practice.",
+  "html_bytes": 607148,
+  "text_characters": 7843
+}

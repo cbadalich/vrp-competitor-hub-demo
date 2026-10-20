@@ -1,0 +1,15 @@
+{
+  "competitor": "Surgical Science",
+  "requested_url": "https://surgicalscience.com/medtech-solutions/",
+  "fetched_at": "2026-10-13T18:38:00-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://surgicalscience.com/medtech-solutions/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "Simulation for MedTech companies - Surgical Science",
+  "meta_description": "Customized medical simulation for MedTech companies. If you are looking for tailored simulation solutions, we would be happy to speak with you",
+  "html_bytes": 61050,
+  "text_characters": 4243
+}

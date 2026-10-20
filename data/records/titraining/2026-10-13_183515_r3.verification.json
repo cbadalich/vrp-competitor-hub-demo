@@ -1,0 +1,215 @@
+{
+  "record": "data/records/titraining/2026-10-13_183515_r3.json",
+  "checked_at": "2026-10-14T10:16:03-06:00",
+  "results": {
+    "product_category": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://titraining.com/",
+          "quote": "Ti Training is a trusted provider of highly interactive and immersive training solutions for law enforcement, military professionals, and retail/commercial industries.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://titraining.com/",
+          "quote": "We produce hardware, software, and content for both the classroom and simulation training room.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "recon",
+          "source_url": "https://titraining.com/recon/",
+          "quote": "Scalable use of force and de-escalation training featuring 900+ real-world scenarios.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "platforms": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "ar-glasses",
+          "source_url": "https://titraining.com/ar-glasses/",
+          "quote": "Upgrade your simulation experience with Augmented Reality options.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "ar-glasses",
+          "source_url": "https://titraining.com/ar-glasses/",
+          "quote": "Our AR glasses provide an unparalleled advantage in law enforcement and security training.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "recon",
+          "source_url": "https://titraining.com/recon/",
+          "quote": "RECON training simulators feature large-scale projection screens that provide a 360-degree view",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "key_capabilities": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "recon",
+          "source_url": "https://titraining.com/recon/",
+          "quote": "Single screen simulator pre-loaded with 900+ Scenarios, additional scenarios delivered twice a year FREE of CHARGE, and the ability to create your own content!",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "recon",
+          "source_url": "https://titraining.com/recon/",
+          "quote": "From 2 to 24 active simulation screens, in your existing shoot house, or with our mobile wall system, or throughout your facility rooms",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "recon",
+          "source_url": "https://titraining.com/recon/",
+          "quote": "This five- screen system can be set up as a 360 degree simulation environment",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "recon",
+          "source_url": "https://titraining.com/recon/",
+          "quote": "Officers use the firearms, ECW devices, chemical and impact munitions they are already familiar with",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "recon",
+          "source_url": "https://titraining.com/recon/",
+          "quote": "Internal lasers accurately mark hits and misses on-screen while CO2-powered recoil devices mimic live-fire training",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "recon",
+          "source_url": "https://titraining.com/recon/",
+          "quote": "surround sound that accurately reproduces real-world sounds, and sensory effects like smoke and scents",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "recon",
+          "source_url": "https://titraining.com/recon/",
+          "quote": "With multiple outcomes possible depending on the trainee\u2019s decisions",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "recon",
+          "source_url": "https://titraining.com/recon/",
+          "quote": "Undeniable Debriefing on Trainee Performance",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "recon",
+          "source_url": "https://titraining.com/recon/",
+          "quote": "Multiple trainees at the same time with tracking of results",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "recon",
+          "source_url": "https://titraining.com/recon/",
+          "quote": "Voice-overs are available in specific languages, and our graphical user interface can be in any language",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "custom-content-production",
+          "source_url": "https://titraining.com/custom-content-production/",
+          "quote": "we\u2019re proud to offer the only in-house studio and full-time video and editing staff in the simulation industry.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "target_customer": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://titraining.com/",
+          "quote": "Law Enforcement, Military Professionals, and Commercial Industries Training Solutions",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "commercial_solutions",
+          "source_url": "https://titraining.com/commercial/solutions/",
+          "quote": "Join the hundreds of other range owners revolutionizing their space",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "value_proposition": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://titraining.com/",
+          "quote": "With our help, you\u2019ll improve your response times, increase situational awareness, and reduce your risk for error.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "recon",
+          "source_url": "https://titraining.com/recon/",
+          "quote": "Our family of products can grow with your agency, starting with a single screen system (RECON CORE) and expanding as budget and space permit.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "tagline": {
+      "status": "not_found",
+      "result": "not_found",
+      "problems": [],
+      "evidence": []
+    },
+    "pricing": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://titraining.com/",
+          "quote": "2. Get a Quote\nWe\u2019ll provide you with a quote with the details on the cost of hardware, software, and any custom content development required.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "commercial_solutions",
+          "source_url": "https://titraining.com/commercial/solutions/",
+          "quote": "Receive a free quote tailored to your specific requirements.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    }
+  }
+}

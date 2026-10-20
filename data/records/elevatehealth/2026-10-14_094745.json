@@ -1,0 +1,204 @@
+{
+  "competitor": "Elevate Healthcare",
+  "slug": "elevatehealth",
+  "snapshot": "data/snapshots/elevatehealth/2026-10-14_094745",
+  "extracted_at": "2026-09-29T19:45:00-06:00",
+  "extracted_by": "Claude Code session, model claude-opus-5-5",
+  "note": "Elevate Healthcare sells mainly physical patient simulators (manikins), task trainers and ultrasound simulators, plus LearningSpace simulation-center software and MaestroAI. The about-us META DESCRIPTION is just 'Discover More' and the products page META DESCRIPTION is empty. The about-us page repeats one paragraph (the sonographer/women's health sentence) twice. The products page shows the first 80 of 101 results; page 2 was not saved.",
+  "pages_read": [
+    "home",
+    "about-us",
+    "products",
+    "product_evo",
+    "product_evo-aura-auscultation-training"
+  ],
+  "pages_failed": [],
+  "fields": {
+    "product_category": {
+      "status": "found",
+      "value": "Healthcare simulation ecosystem: high-fidelity patient simulators (manikins), task trainers, ultrasound simulators and simulation-center management software (LearningSpace) for nursing programs, hospitals and emergency services",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "From patient simulators to center management, we provide integrated solutions for nursing programs, hospitals, and emergency services."
+        },
+        {
+          "page": "home",
+          "quote": "Comprehensive healthcare patient simulators for every stage of clinical education, from basic skills to advanced emergency care."
+        },
+        {
+          "page": "about-us",
+          "quote": "to elevate the healthcare simulation industry with innovative solutions, both virtual and physical, that is flexible for every educational experience."
+        }
+      ],
+      "note": "The homepage section heading is 'Complete Healthcare Simulation Ecosystem'. Product lines on the products page: Patient Simulators (Apollo, Ares, Aria, Elevate SMART Manikin, Evo, Evo AuRA, HPS, Juno, Lucina, Luna, MaestroAI), Task Trainers & Accessories (Blue Phantom, Medicor, SimEquip), Ultrasound Simulators (Vimedix) and LearningSpace."
+    },
+    "platforms": {
+      "status": "unclear",
+      "value": [
+        "AR",
+        "Physical hardware"
+      ],
+      "evidence": [
+        {
+          "page": "product_evo-aura-auscultation-training",
+          "quote": "Evo AuRA: Augmented Reality Apparel for Healthcare Simulation"
+        },
+        {
+          "page": "home",
+          "quote": "deliver immersive, high-impact simulation with a modular manikin designed to grow with your program"
+        }
+      ],
+      "note": "Physical hardware covers the manikins, task trainers and the Evo AuRA vest described on the pages read. Still marked unclear because 'AR' rests only on the Evo AuRA product name ('Augmented Reality Apparel'); the page describes an RFID vest heard through a Bluetooth stethoscope, not a headset or screen overlay. Educator-side software is not counted: Evo AuRA scenarios are controlled from a tablet and the 'Evo AuRA Windows Application', LearningSpace is center-management software, and Evo has 'cloud-connected software' for fleet management. No VR, web or mobile learner access is described."
+    },
+    "key_capabilities": {
+      "status": "found",
+      "value": [
+        "Modular high-fidelity adult patient simulator (Evo) with replaceable head, arms, torso and legs",
+        "Real-time physiological responses (Maestro physiology engine)",
+        "Airway management, IV/IM medication, NG tube, catheterization and CPR with live feedback",
+        "Wireless operation with hot-swappable batteries",
+        "Diverse skin tones and interchangeable anatomy",
+        "Wearable auscultation simulator for standardized patients or manikins (Evo AuRA) with wireless scenario control",
+        "Heatmap tracking of auscultation for assessment",
+        "LearningSpace simulation management: scheduling, debriefing, learner assessment",
+        "Ehli, a LearningSpace AI assistant for evaluation scoring",
+        "Service agreements, education and training, and consulting (LifeSpan tiers, Achieve Program)"
+      ],
+      "evidence": [
+        {
+          "page": "product_evo",
+          "quote": "Replaceable head, arms, torso, and legs to reduce downtime and adapt use cases"
+        },
+        {
+          "page": "product_evo",
+          "quote": "all powered by Maestro’s real-time physiological response engine."
+        },
+        {
+          "page": "product_evo",
+          "quote": "Airway management including intubation, tracheostomy, and BVM ventilation"
+        },
+        {
+          "page": "product_evo",
+          "quote": "IV and IM medication administration with software-driven physiological response"
+        },
+        {
+          "page": "product_evo",
+          "quote": "CPR with live feedback and ECG rhythm display"
+        },
+        {
+          "page": "product_evo",
+          "quote": "Wireless operation and hot-swappable batteries for uninterrupted sessions"
+        },
+        {
+          "page": "product_evo",
+          "quote": "Supports multiple skin tones and interchangeable genitalia"
+        },
+        {
+          "page": "product_evo-aura-auscultation-training",
+          "quote": "This wearable auscultation simulator uses RFID mesh technology to deliver authentic sounds at anatomically correct locations, worn by a standardized patient or fitted over a simulator."
+        },
+        {
+          "page": "product_evo-aura-auscultation-training",
+          "quote": "Real-time scenario switching from a Bluetooth-connected tablet"
+        },
+        {
+          "page": "product_evo-aura-auscultation-training",
+          "quote": "Heatmap tracking of auscultation locations and time spent"
+        },
+        {
+          "page": "home",
+          "quote": "Simulation center management software that streamlines scheduling, debriefing, and learner assessment—all in one integrated platform."
+        },
+        {
+          "page": "home",
+          "quote": "LearningSpace AI assistant for evaluation scoring that saves time and ensures consistency."
+        },
+        {
+          "page": "product_evo",
+          "quote": "Protect your Evo investment with Elevate LifeSpanSM Service Agreements"
+        },
+        {
+          "page": "product_evo",
+          "quote": "Take your simulation program further with our Achieve Program featuring expert consulting tailored to your goals."
+        }
+      ],
+      "note": "MaestroAI is listed as 'the AI-powered extension of the Elevate Healthcare simulation ecosystem' (products page, truncated). LearningSpace is also described as 'AI-powered scoring, instant feedback, and full control from anywhere.' Other products named but not detailed: Apollo (prehospital and nursing), Ares (emergency care), Aria (pediatric), HPS, Juno, Lucina (obstetrics), Luna (neonatal), Elevate SMART Manikin (with the American Red Cross), Vimedix, SimEquip. 'SM' after LifeSpan appears as plain letters in the saved text."
+    },
+    "target_customer": {
+      "status": "found",
+      "value": "Nursing programs, hospitals, emergency services, medical schools, simulation centers (including OSCE and standardized patient programs), healthcare educators and clinicians; also sonography, pediatric, emergency and trauma training and military medical readiness.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "we provide integrated solutions for nursing programs, hospitals, and emergency services."
+        },
+        {
+          "page": "product_evo-aura-auscultation-training",
+          "quote": "Designed for nursing simulation labs, medical schools, and healthcare institutions running standardized patient programs."
+        },
+        {
+          "page": "product_evo-aura-auscultation-training",
+          "quote": "Simulation centers supporting OSCE programs across multiple disciplines"
+        },
+        {
+          "page": "home",
+          "quote": "Healthcare Simulation Solutions That Build Clinical Confidence for Educators and Clinicians."
+        },
+        {
+          "page": "about-us",
+          "quote": "We have established an educational experience tailored for emergency and trauma specialists"
+        }
+      ],
+      "note": "The menu lists 'Higher NCLEX Rates' and 'Workforce-Ready Teams' as outcomes, and blog titles cover NCLEX pass rates and military medical readiness. Customer stories name University of Wisconsin-Madison Nursing, Montana Tech's school of nursing and Carolinas Simulation Center."
+    },
+    "value_proposition": {
+      "status": "found",
+      "value": "Realistic simulation that bridges learning and clinical practice, strengthening clinical skills and confidence, improving patient outcomes and driving safer care.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Bridging the gap between learning and clinical practice, Elevate Healthcare helps educators and clinicians train with realism and purpose – strengthening clinical skills, improving patient outcomes and driving safer care."
+        },
+        {
+          "page": "home",
+          "quote": "We make the world safer, healthier, and more productive by empowering healthcare professionals to deliver confidently in the moments that matter."
+        }
+      ],
+      "note": "Home and about also cite third-party figures: 'Simulation training reduced medical errors by up to 50%.' and 'Every dollar invested in simulation training can yield up to $6 in cost savings.' The about page stresses that manikins are 'assembled by hand in Sarasota, Florida'."
+    },
+    "tagline": {
+      "status": "not_found",
+      "value": null,
+      "evidence": [],
+      "note": "No official tagline found: no line is marked ™, ® or ℠, and no slogan repeats on the pages read. Candidates: carousel headline 'Healthcare Simulation Solutions That Build Clinical Confidence for Educators and Clinicians.' (once); an event promotion 'Ignite Your Superpower'."
+    },
+    "pricing": {
+      "status": "found",
+      "value": "Some products have published prices in the online shop (Evo AuRA $2,995.00; Blue Phantom, Medicor and Evo AuRA are sold online). Patient simulators such as Evo show no price (Contact Us). Service agreements come in tiers (LifeSpan Base, Peak, Summit) without published prices; a Financing link is offered.",
+      "evidence": [
+        {
+          "page": "product_evo-aura-auscultation-training",
+          "quote": "Evo AuRA\n$2,995.00"
+        },
+        {
+          "page": "home",
+          "quote": "Shop Elevate Online Blue Phantom, Medicor, and Evo AuRA solutions are now available for online purchase."
+        },
+        {
+          "page": "product_evo",
+          "quote": "Available Service Plans for Evo:\nLifeSpanSM Base\nLifeSpanSM Peak\nLifeSpanSM Summit"
+        }
+      ],
+      "note": "The products page offers 'Sort by price' options, but shows no prices in the saved text. 'Financing' appears as a footer link on every page, with no terms shown."
+    }
+  },
+  "carried_forward": {
+    "from_record": "data/records/elevatehealth/2026-10-13_183515_r3.json",
+    "at": "2026-10-14T09:52:03-06:00",
+    "reason": "page text changed, every quote still present",
+    "pages_changed": [
+      "home"
+    ]
+  }
+}

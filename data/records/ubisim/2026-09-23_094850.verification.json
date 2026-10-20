@@ -1,0 +1,222 @@
+{
+  "record": "/Users/cbadalich/Library/CloudStorage/OneDrive-UCB-O365/Leeds Class of 27/5 - Fall '26/Consumer Decision Making/Project/Claude Work/ci-monitor/data/records/ubisim/2026-09-23_094850.json",
+  "results": {
+    "product_category": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.ubisimvr.com/",
+          "quote": "UbiSim is dedicated exclusively to nursing education simulation and Virtual Reality.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "about-us",
+          "source_url": "https://www.ubisimvr.com/about-us",
+          "quote": "The UbiSim immersive virtual reality simulation platform is built by nurses, for nurses",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "platforms": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "solutions_academic-institutions",
+          "source_url": "https://www.ubisimvr.com/solutions/academic-institutions",
+          "quote": "UbiSim works on the entire wireless Quest family of headsets, including Meta Quest 2, Meta Quest 3 and Meta Quest Pro.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "how-it-works",
+          "source_url": "https://www.ubisimvr.com/how-it-works",
+          "quote": "A laptop or desktop computer with Windows/Mac operating system and Chrome browser. No software installation required.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "key_capabilities": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "pricing",
+          "source_url": "https://www.ubisimvr.com/pricing",
+          "quote": "No-code, intuitive scenario editor",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pricing",
+          "source_url": "https://www.ubisimvr.com/pricing",
+          "quote": "Peer-reviewed and standards-aligned sims across Med-Surg, Peds, OB, and Mental Health",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pricing",
+          "source_url": "https://www.ubisimvr.com/pricing",
+          "quote": "Community-built scenarios from other programs",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "how-it-works",
+          "source_url": "https://www.ubisimvr.com/how-it-works",
+          "quote": "Up to 3 active learners can collaborate together in the same simulation",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "how-it-works",
+          "source_url": "https://www.ubisimvr.com/how-it-works",
+          "quote": "Peers can learn by actively observing the simulation on their computers or joining the simulation as a \u201cghost\u201d in virtual reality.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pricing",
+          "source_url": "https://www.ubisimvr.com/pricing",
+          "quote": "Facilitator-led & independent, with AI-assisted options",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pricing",
+          "source_url": "https://www.ubisimvr.com/pricing",
+          "quote": "AI-powered patient dialogue",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pricing",
+          "source_url": "https://www.ubisimvr.com/pricing",
+          "quote": "Instant, AI-enhanced performance reports",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pricing",
+          "source_url": "https://www.ubisimvr.com/pricing",
+          "quote": "Multi-tiered debriefing with self-guided reflection, quizzes, and web replay",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pricing",
+          "source_url": "https://www.ubisimvr.com/pricing",
+          "quote": "Enterprise security, SSO, and data privacy compliance",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "target_customer": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "about-us",
+          "source_url": "https://www.ubisimvr.com/about-us",
+          "quote": "meet the evolving needs of nurse learners in higher education and healthcare institutions.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "solutions_healthcare-systems",
+          "source_url": "https://www.ubisimvr.com/solutions/healthcare-systems",
+          "quote": "UbiSim enables hospitals and healthcare systems to prepare new graduate nurses for the Transition to Practice",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pricing",
+          "source_url": "https://www.ubisimvr.com/pricing",
+          "quote": "UbiSim is licensed at the institution or program level, so your institution covers access and learners don't pay out of pocket.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "value_proposition": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.ubisimvr.com/",
+          "quote": "The UbiSim immersive VR simulation platform \u2014 designed by nurses, for nurses \u2014 builds clinical judgment, confidence, and communication skills in a safe and realistic environment.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.ubisimvr.com/",
+          "quote": "UbiSim makes quality clinical education more scalable with training that costs less and reduces workload.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "tagline": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.ubisimvr.com/",
+          "quote": "Where Nursing Practice Gets Real\u2122.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "pricing": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "pricing",
+          "source_url": "https://www.ubisimvr.com/pricing",
+          "quote": "Annual engagements typically begin at $5,000 USD, depending on the solution and implementation requirements.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pricing",
+          "source_url": "https://www.ubisimvr.com/pricing",
+          "quote": "Implementation is a separate one-time package.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "solutions_academic-institutions",
+          "source_url": "https://www.ubisimvr.com/solutions/academic-institutions",
+          "quote": "Headsets are not included with a UbiSim purchase.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pricing",
+          "source_url": "https://www.ubisimvr.com/pricing",
+          "quote": "UbiSim offers free trials for qualified buyers.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    }
+  }
+}

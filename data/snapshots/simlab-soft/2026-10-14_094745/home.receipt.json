@@ -1,0 +1,15 @@
+{
+  "competitor": "SimLab Soft",
+  "requested_url": "https://www.simlab-soft.com/",
+  "fetched_at": "2026-10-14T09:49:58-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.simlab-soft.com/",
+  "content_type": "text/html",
+  "error": null,
+  "title": "VR Creation Software & 3D Visualization Tools | SimLab Soft",
+  "meta_description": "Create professional VR experiences & 3D visualizations with SimLab's no-code software. VR Studio for immersive training, Composer for 3D animations. Free trial available.",
+  "html_bytes": 57455,
+  "text_characters": 1908
+}

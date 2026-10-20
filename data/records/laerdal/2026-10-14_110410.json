@@ -1,0 +1,170 @@
+{
+  "competitor": "Laerdal Medical",
+  "slug": "laerdal",
+  "snapshot": "data/snapshots/laerdal/2026-10-14_110410",
+  "extracted_at": "2026-09-29T19:32:00-06:00",
+  "extracted_by": "Claude Code session, model claude-opus-5-5",
+  "note": "Laerdal's site covers a broad catalog (manikins, simulators, software, medical devices, courses, services). The saved pages are mostly menus; body text is short on every page. The Canadian virtual-simulation-for-students page returned 404 in this snapshot and in the earlier 2026-09-29_182409 snapshot. The earlier snapshot otherwise has the same pages.",
+  "pages_read": [
+    "us",
+    "us_information_help-nursing-students-develop-clinical-reasoning-skills-competence-and-confidence-with-vsim-for-nursing",
+    "us_products_courses-learning_virtual-simulation",
+    "us_solutions"
+  ],
+  "pages_failed": [
+    "ca_products_courses-learning_virtual-simulation_virtual-simulation-for-students"
+  ],
+  "fields": {
+    "product_category": {
+      "status": "found",
+      "value": "Training, educational and therapy products for lifesaving and emergency medical care: medical simulators and manikins, simulation software, resuscitation/CPR training, virtual simulation (including vSim for Nursing), medical devices and services",
+      "evidence": [
+        {
+          "page": "us",
+          "quote": "Laerdal Medical is a world leading provider of training, educational and therapy products for lifesaving and emergency medical care."
+        },
+        {
+          "page": "us",
+          "quote": "Medical simulators\nEverything needed to plan, operate, and scale simulation.\nSimulation software\nManage, assess, and debrief simulation training."
+        },
+        {
+          "page": "us_products_courses-learning_virtual-simulation",
+          "quote": "Laerdal's virtual healthcare simulation solutions offer interactive, realistic experiences that help students achieve these goals."
+        }
+      ],
+      "note": "The first quote is the homepage META DESCRIPTION line. Multidisciplinary; nursing, medical education, EMS and CPR are separate solution areas in the menu."
+    },
+    "platforms": {
+      "status": "found",
+      "value": [
+        "Web",
+        "Physical hardware"
+      ],
+      "evidence": [
+        {
+          "page": "us_products_courses-learning_virtual-simulation",
+          "quote": "Allows for learners to interact in a safe, virtual, and realistic online environment with our virtual simulation solutions."
+        },
+        {
+          "page": "us_information_help-nursing-students-develop-clinical-reasoning-skills-competence-and-confidence-with-vsim-for-nursing",
+          "quote": "virtual simulation, a method of treating patients via eLearning"
+        },
+        {
+          "page": "us",
+          "quote": "Manikins for high-performance CPR and community responders."
+        }
+      ],
+      "note": "Web covers the virtual simulation products (the first Web quote is that page's META DESCRIPTION). Physical hardware covers the manikins and trainers that make up most of the catalog. No VR, AR, MR or mobile delivery is mentioned on the pages read."
+    },
+    "key_capabilities": {
+      "status": "found",
+      "value": [
+        "vSim for Nursing virtual simulation, co-developed with Wolters Kluwer",
+        "Scenarios authored by the NLN across eight nursing course areas",
+        "vSim instructor tools and usage models",
+        "Virtual simulation for individual and team-based learning",
+        "Medical simulators (manikins such as SimJunior, Nursing Anne Simulator)",
+        "Simulation software to manage, assess and debrief",
+        "Resuscitation / CPR training manikins",
+        "Samaritan AI integrated into products",
+        "Services: on-site training, installation, maintenance"
+      ],
+      "evidence": [
+        {
+          "page": "us_information_help-nursing-students-develop-clinical-reasoning-skills-competence-and-confidence-with-vsim-for-nursing",
+          "quote": "vSim for Nursing, co-developed by Laerdal Medical and Wolters Kluwer, helps prepare for and reinforce the lessons of high-fidelity patient simulators."
+        },
+        {
+          "page": "us_information_help-nursing-students-develop-clinical-reasoning-skills-competence-and-confidence-with-vsim-for-nursing",
+          "quote": "Featuring scenarios authored by the NLN, vSim for Nursing provides virtual simulation solutions for:"
+        },
+        {
+          "page": "us_information_help-nursing-students-develop-clinical-reasoning-skills-competence-and-confidence-with-vsim-for-nursing",
+          "quote": "Let us guide you through the different vSim for Nursing courses, instructor tools, and usage models."
+        },
+        {
+          "page": "us_products_courses-learning_virtual-simulation",
+          "quote": "Designed for individual and team-based learning, these tools present a variety of clinical scenarios that mirror real-world challenges in a safe, controlled environment."
+        },
+        {
+          "page": "us",
+          "quote": "Meet our new SimJunior®\nClinically real. Easy to run. Built to last."
+        },
+        {
+          "page": "us",
+          "quote": "Simulation software\nManage, assess, and debrief simulation training."
+        },
+        {
+          "page": "us",
+          "quote": "Manikins for high-performance CPR and community responders."
+        },
+        {
+          "page": "us",
+          "quote": "Samaritan brings clarity, efficiency, and intelligence to our products by seamlessly integrating the right AI solutions."
+        },
+        {
+          "page": "us",
+          "quote": "From on-site training to installation, maintenance, and more."
+        }
+      ],
+      "note": "vSim course areas listed: Medical-Surgical, Fundamentals, Maternity, Pharmacology, Pediatric, Health Assessment, Gerontology, Mental Health. Nursing Anne Simulator is named in a homepage webinar listing. Menu items (Ultrasound, Airway Management Trainers, HeartCode Blended Learning, Managed Services) are not listed because they have no body text on the pages read."
+    },
+    "target_customer": {
+      "status": "found",
+      "value": "Hospitals, universities and nursing programs (including ADN programs and nursing students), first responders/EMS, military, and laypeople/community CPR. Menu professions also list Career and Technical Education and Athletics.",
+      "evidence": [
+        {
+          "page": "us",
+          "quote": "Laerdal products and solutions are used by hospitals, universities, first responders, and laypeople to help save lives and improve patient outcomes."
+        },
+        {
+          "page": "us_information_help-nursing-students-develop-clinical-reasoning-skills-competence-and-confidence-with-vsim-for-nursing",
+          "quote": "In a safe, realistic environment, nursing students hone their prioritization, clinical reasoning, and decision-making skills."
+        },
+        {
+          "page": "us_solutions",
+          "quote": "empower your learners – whether they’re bystanders or professional responders – with the lifesaving skills"
+        }
+      ],
+      "note": "Menu 'Profession' entries: Nursing, First Responders, Military, Career and Technical Education (CTE), Athletics. Footer lists EMS Customers, Military Customers, Veteran Affairs Healthcare."
+    },
+    "value_proposition": {
+      "status": "found",
+      "value": "Help save lives and improve patient outcomes through realistic, repeated simulation training that builds clinical reasoning, competence and confidence and makes learners practice-ready.",
+      "evidence": [
+        {
+          "page": "us_products_courses-learning_virtual-simulation",
+          "quote": "High-quality patient care requires comprehensive, diverse, and repeated training to develop clinical reasoning and skills."
+        },
+        {
+          "page": "us_information_help-nursing-students-develop-clinical-reasoning-skills-competence-and-confidence-with-vsim-for-nursing",
+          "quote": "Engaging in virtual simulation scenarios, students develop clinical reasoning skills, competence, and confidence as they care for the patient."
+        },
+        {
+          "page": "us_solutions",
+          "quote": "Prepare learners to be practice-ready by equipping them with the crucial knowledge, skills, and attitudes required for real-world healthcare environments."
+        }
+      ],
+      "note": "The vSim page also reports survey results: faculty said students who used vSim as prep 'were more comfortable meeting the same patient in the simulation lab'. Footer goal: 'One Million Lives - Our Shared Goal for 2030'."
+    },
+    "tagline": {
+      "status": "not_found",
+      "value": null,
+      "evidence": [],
+      "note": "No official tagline found: no line is marked ™, ® or ℠, and no slogan repeats on the pages read. Candidates: 'Helping Save Lives' (homepage TITLE only); 'Empowering everyday heroes' (homepage heading for a customer story); product promo 'Clinically real. Easy to run. Built to last.' (SimJunior®)."
+    },
+    "pricing": {
+      "status": "not_found",
+      "value": null,
+      "evidence": [],
+      "note": "No prices, plans or price/quote buttons on the 4 pages read. The menu has 'Shop', 'Financing Solutions', 'Payment Methods' and 'Payment Terms', and the vSim page offers 'a vSim consultation and free trial'; none states a price or pricing model."
+    }
+  },
+  "carried_forward": {
+    "from_record": "data/records/laerdal/2026-10-13_183515_r3.json",
+    "at": "2026-10-14T11:05:07-06:00",
+    "reason": "same US pages, now fetched at their /us/ address",
+    "pages_changed": []
+  },
+  "changes_since_previous": "No substantive website change. laerdal.com stopped redirecting to the US site, so the tracked addresses now point at /us/ directly; the profile is carried forward to those pages."
+}

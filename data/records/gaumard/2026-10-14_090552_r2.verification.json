@@ -1,0 +1,159 @@
+{
+  "record": "data/records/gaumard/2026-10-14_090552_r2.json",
+  "checked_at": "2026-10-15T18:59:31-06:00",
+  "results": {
+    "product_category": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.gaumard.com/",
+          "quote": "We develop state-of-the-art patient simulators, task trainers, learning modules, and mixed reality solutions.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.gaumard.com/",
+          "quote": "Full-body Patient\nPart-body Task Trainer\nAnatomical Models\nAudio/video Camera Systems\nScenarios\nSoftware\nMoulage (wound kits)",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "platforms": {
+      "status": "unclear",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.gaumard.com/",
+          "quote": "We develop state-of-the-art patient simulators, task trainers, learning modules, and mixed reality solutions.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.gaumard.com/",
+          "quote": "Obstetric MR\u2122 for VICTORIA\u00ae S2200",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "key_capabilities": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.gaumard.com/",
+          "quote": "Age Group\nAdults\nPediatrics\nNeonates",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.gaumard.com/",
+          "quote": "IV and\nArterial Access\nTraining Arms",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.gaumard.com/",
+          "quote": "Meet the new\nUnified Simulator Control Software",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.gaumard.com/",
+          "quote": "Gaumard\nUltrasound\u2122\nSimulation-based Ultrasound Training",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.gaumard.com/",
+          "quote": "Obstetric MR\u2122 for VICTORIA\u00ae S2200",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.gaumard.com/",
+          "quote": "Skills Trainers\nVideo-assisted Debriefing\nLearning Modules",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.gaumard.com/",
+          "quote": "Moulage (wound kits)\nAge Group",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "target_customer": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.gaumard.com/",
+          "quote": "designed to facilitate safe and effective training opportunities for healthcare students and professionals across nearly all clinical specialties, including pre-hospital care, trauma, nursing, obstetrics and gynecology, pediatrics, and surgery",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "value_proposition": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.gaumard.com/",
+          "quote": "At Gaumard, our mission is to empower healthcare with innovative training solutions, accelerating progress toward safer patient care and improved outcomes for all.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.gaumard.com/",
+          "quote": "With over 75 years of healthcare simulation experience",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "tagline": {
+      "status": "not_found",
+      "result": "not_found",
+      "problems": [],
+      "evidence": []
+    },
+    "pricing": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.gaumard.com/",
+          "quote": "Request Quote\nMy Cart",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    }
+  }
+}

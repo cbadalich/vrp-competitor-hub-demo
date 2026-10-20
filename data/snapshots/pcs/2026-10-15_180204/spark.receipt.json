@@ -1,0 +1,15 @@
+{
+  "competitor": "PCS",
+  "requested_url": "https://www.pcs.ai/spark",
+  "fetched_at": "2026-10-15T18:02:15-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.pcs.ai/spark",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "PCS Spark | PCS",
+  "meta_description": "Spark is an AI-driven, virtual patient that delivers simulated clinical experiences to medical, nursing, and allied healthcare students.",
+  "html_bytes": 147963,
+  "text_characters": 12192
+}

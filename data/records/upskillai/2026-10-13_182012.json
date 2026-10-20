@@ -1,0 +1,188 @@
+{
+  "competitor": "UpSkillAI",
+  "slug": "upskillai",
+  "snapshot": "data/snapshots/upskillai/2026-10-13_182012",
+  "extracted_at": "2026-10-13T18:25:00-06:00",
+  "extracted_by": "Claude Code session, model claude-opus-5-5",
+  "note": "Every page starts with the line 'is now UpSkillAI'; the former name is not in the saved text (probably an image). The EMS and Healthcare pages share most content: both carry the heading 'TOP 5 EMS BENEFITS' and the same research figures, and several case studies appear on both. A 'Stroke' and a 'Defense' content area are in the menu but were not among the saved pages.",
+  "pages_read": [
+    "home",
+    "what-is-ai-powered-xr-training",
+    "ems",
+    "healthcare",
+    "about"
+  ],
+  "pages_failed": [],
+  "fields": {
+    "product_category": {
+      "status": "found",
+      "value": "AI-powered XR (immersive) training, delivered as a full-service solution, with content areas in EMS, stroke, healthcare and defense; not limited to healthcare",
+      "evidence": [
+        {
+          "page": "what-is-ai-powered-xr-training",
+          "quote": "UpSkillAI combines Extended Reality (XR)—including Virtual, Augmented, and Mixed Reality—with the precision of Artificial Intelligence to create deeply immersive, adaptive training environments."
+        },
+        {
+          "page": "about",
+          "quote": "That’s why we build AI-powered XR experiences that help people learn faster, retain more, and perform under pressure."
+        },
+        {
+          "page": "what-is-ai-powered-xr-training",
+          "quote": "Whether you’re training a medic in triage protocol or onboarding a technician to complex equipment"
+        }
+      ],
+      "note": "Content areas from the menu and home 'SOLUTIONS' blocks: EMS, Stroke, Healthcare, Defense. All case studies on the saved pages are healthcare, EMS, medical-school or bio-defense programs."
+    },
+    "platforms": {
+      "status": "unclear",
+      "value": [
+        "VR",
+        "AR",
+        "MR"
+      ],
+      "evidence": [
+        {
+          "page": "what-is-ai-powered-xr-training",
+          "quote": "UpSkillAI combines Extended Reality (XR)—including Virtual, Augmented, and Mixed Reality—with the precision of Artificial Intelligence"
+        },
+        {
+          "page": "ems",
+          "quote": "Practice high-stress scenarios, team leadership, pediatric emergencies, overdoses - all in one headset."
+        },
+        {
+          "page": "home",
+          "quote": "Want to run a quick test with VR headsets?"
+        }
+      ],
+      "note": "VR is stated directly and repeatedly (headsets, 'in-headset debriefs', every case study is a VR course). AR and MR appear only in the general sentence defining XR on the 'What is AI Powered XR Training?' page; no AR or MR product, device or case study is named, hence 'unclear'. No headset brand or model is named."
+    },
+    "key_capabilities": {
+      "status": "found",
+      "value": [
+        "Hands-on, voice-powered training (no keyboards or drop-downs)",
+        "AI adapts content, pace and feedback to each learner in real time",
+        "Rapid customized and co-developed content matched to customer protocols",
+        "Instructor-free training",
+        "In-headset debriefs, learning insights and cohort analysis",
+        "Virtual patients with guided coaching, feedback and assessments",
+        "Voice technology calibrated in real time for varying accents",
+        "Scenario content: high-stress scenarios, team leadership, pediatric emergencies, overdoses",
+        "End-to-end service: planning, hardware and IT integration, deployment, onboarding, reporting, support"
+      ],
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Hands-on, voice powered training. No keyboards. No drop-downs."
+        },
+        {
+          "page": "what-is-ai-powered-xr-training",
+          "quote": "our AI-powered XR training responds to each learner in real-time—adapting content, pace, and feedback based on performance, behavior, and decision-making patterns."
+        },
+        {
+          "page": "home",
+          "quote": "Rapid customized and co-developed content options."
+        },
+        {
+          "page": "healthcare",
+          "quote": "Rapidly customized VR simulation for OB Hemorrhage response, matching exact system protocols"
+        },
+        {
+          "page": "home",
+          "quote": "No instructor, no extra equipment, no limits."
+        },
+        {
+          "page": "ems",
+          "quote": "Go from compliance to true competency with in-headset debriefs, learning insights, and cohort analysis that turn practice into measurable skills."
+        },
+        {
+          "page": "healthcare",
+          "quote": "VR simulation providing learners hands-on practice evaluating and talking to multiple virtual patients with guided coaching, feedback, and assessments"
+        },
+        {
+          "page": "healthcare",
+          "quote": "with voice technology calibrated in real time to accommodate varying accents"
+        },
+        {
+          "page": "ems",
+          "quote": "Practice high-stress scenarios, team leadership, pediatric emergencies, overdoses - all in one headset."
+        },
+        {
+          "page": "home",
+          "quote": "Discovery & Planning\nHardware & IT Integration\nDeployment & Onboarding\nCustomization & Co-development\nReporting & Optimization\nOngoing Support"
+        }
+      ],
+      "note": "Other topics named in case studies: suicide risk assessment, PPE/bio-defense, Pediatric Assessment Triangle triage, OB empathy, NIH stroke scale (NIHSS), Malignant Hyperthermia. One case study mentions embedding a customer's PDF checklists in the VR course."
+    },
+    "target_customer": {
+      "status": "found",
+      "value": "Clients across sectors: hospitals and hospital systems, first responders/EMS, tech companies and government agencies (including defense); case studies also include medical schools and medical students.",
+      "evidence": [
+        {
+          "page": "about",
+          "quote": "We serve clients across sectors, from hospitals and first responders to tech companies and government agencies."
+        },
+        {
+          "page": "healthcare",
+          "quote": "Major U.S. Hospital System"
+        },
+        {
+          "page": "ems",
+          "quote": "IMR & Ukraine’s Largest Medical School"
+        },
+        {
+          "page": "ems",
+          "quote": "UC San Diego Medical Students"
+        }
+      ],
+      "note": "Menu content areas: EMS, Stroke, Healthcare, Defense. Case-study customers are described without names except UC San Diego, UGHE & Rwanda Military Hospital, and IMR with a Ukrainian medical school; one is a 'Federal Tier 1 Program'."
+    },
+    "value_proposition": {
+      "status": "found",
+      "value": "AI-powered XR training that helps people learn faster, retain more and perform better under pressure, citing published research: 50% faster learning, 83% lower training costs, 17X higher knowledge retention.",
+      "evidence": [
+        {
+          "page": "what-is-ai-powered-xr-training",
+          "quote": "UpSkillAI helps people learn faster, retain more, and perform better, when it matters most."
+        },
+        {
+          "page": "home",
+          "quote": "AI and XR to supercharge learning, retention, and results."
+        },
+        {
+          "page": "home",
+          "quote": "50%\nFaster Learning Times"
+        },
+        {
+          "page": "home",
+          "quote": "83%\nLower Training Costs"
+        },
+        {
+          "page": "home",
+          "quote": "17X\nHigher Knowledge Retention"
+        }
+      ],
+      "note": "The EMS and Healthcare pages label these figures 'Published research from our Healthcare-based program'. The EMS/Healthcare benefit list says the training is 'Proven against high-fidelity simulation'."
+    },
+    "tagline": {
+      "status": "found",
+      "value": "Ai-powered Immersive Training Done Right",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Ai-powered Immersive Training Done Right"
+        },
+        {
+          "page": "about",
+          "quote": "Ai-powered Immersive Training Done Right"
+        }
+      ],
+      "note": "Repeated as the META DESCRIPTION of all five pages. The homepage's first headline says the same thing, saved with words run together: 'AI-POWEREDIMMERSIVETRAININGDONE RIGHT.' Other candidates: 'Built around your team, your needs, your pace.'; About page vision 'ACCELERATE HUMAN POTENTIAL'."
+    },
+    "pricing": {
+      "status": "not_found",
+      "value": null,
+      "evidence": [],
+      "note": "No prices, plans or pricing buttons on the 5 pages read; only demo buttons ('DEMO', 'Book a Demo', 'Schedule a demo'). The '83% Lower Training Costs' figure is a research claim, not pricing."
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "competitor": "Gaumard",
+  "requested_url": "https://www.gaumard.com/hal-s5301",
+  "fetched_at": "2026-10-14T09:49:37-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.gaumard.com/hal-s5301",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "HAL\u00ae S5301",
+  "meta_description": "Introducing HAL\u00ae S5301, the most advanced interdisciplinary patient simulator in the world. From emergency care to ICU and med-surge training, HAL is engineered to fulfill educational objectives across clinical disciplines and blur the lines between simulation and real life.",
+  "html_bytes": 335467,
+  "text_characters": 34765
+}

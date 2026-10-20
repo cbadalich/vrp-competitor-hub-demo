@@ -1,0 +1,87 @@
+{
+  "slug": "medisimvr",
+  "name": "MedisimVR",
+  "website": "https://medisimvr.com/",
+  "domain": "medisimvr.com",
+  "aliases": [],
+  "status": "approved",
+  "first_seen": "2026-10-14T10:12:28-06:00",
+  "last_seen": "2026-10-14T11:23:28-06:00",
+  "sightings": [
+    {
+      "source": "web search",
+      "query": "healthcare simulation startup raises funding",
+      "url": "https://india.entrepreneur.com/news-and-trends/med-tech-startup-medisimvr-raises-rs-35-crores-funding-in/423007",
+      "snippet": "Medtech Startup MedisimVR Raises INR 3.5 crore Funding In Pre-Series A",
+      "website_from": "search summary",
+      "origin": "topic-search",
+      "found_in": "https://india.entrepreneur.com/news-and-trends/med-tech-startup-medisimvr-raises-rs-35-crores-funding-in/423007",
+      "run": "2026-10-14-test",
+      "found_at": "2026-10-14T10:12:28-06:00"
+    }
+  ],
+  "known_from": null,
+  "possible_duplicate_of": [],
+  "snapshot": "data/candidates/medisimvr/snapshots/2026-10-14_101228",
+  "extra_pages": [],
+  "signals": {
+    "healthcare_training": [
+      "nursing",
+      "healthcare training"
+    ],
+    "headset": [
+      "virtual reality",
+      "VR",
+      "XR"
+    ],
+    "simulation": [
+      "simulation"
+    ],
+    "public_safety": [
+      "defense"
+    ]
+  },
+  "suggested_pages": [
+    "https://medisimvr.com/about-us/",
+    "https://medisimvr.com/vr-in-healthcare/",
+    "https://medisimvr.com/vr-in-medical-training/",
+    "https://medisimvr.com/simulation-lab-for-nursing-students/",
+    "https://medisimvr.com/vr-in-hospital/"
+  ],
+  "classification": {
+    "proposed": "1st Degree",
+    "by": "Claude Code session, model claude-opus-5-5",
+    "at": "2026-10-14T10:14:56-06:00",
+    "snapshot": "data/candidates/medisimvr/snapshots/2026-10-14_101228",
+    "reason": "VR training for healthcare workers: the homepage offers 'Competency-Based VR Training for Real-World Healthcare Scenarios' with nursing labs ('VR in Nursing & AHS'). Headset use is implied by 'virtual reality' training labs; the homepage gives little detail on how interactive it is.",
+    "evidence": [
+      {
+        "page": "home",
+        "quote": "Competency-Based VR Training for Real-World Healthcare Scenarios"
+      },
+      {
+        "page": "home",
+        "quote": "Our AI-powered platform offers immersive experiences for healthcare professionals to learn."
+      },
+      {
+        "page": "home",
+        "quote": "VR in Nursing & AHS"
+      }
+    ]
+  },
+  "review": {
+    "decision": "approved",
+    "type": "1st Degree",
+    "at": "2026-10-14T11:31:01-06:00",
+    "reason": "Approved in the review queue",
+    "tracked_slug": "medisimvr",
+    "pages": [
+      "https://medisimvr.com/",
+      "https://medisimvr.com/about-us/",
+      "https://medisimvr.com/vr-in-healthcare/",
+      "https://medisimvr.com/vr-in-medical-training/",
+      "https://medisimvr.com/simulation-lab-for-nursing-students/"
+    ]
+  },
+  "name_on_site": true
+}

@@ -1,0 +1,265 @@
+{
+  "record": "data/records/elevatehealth/2026-10-13_183515_r2.json",
+  "checked_at": "2026-10-14T09:09:57-06:00",
+  "results": {
+    "product_category": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://elevatehealth.net/",
+          "quote": "From patient simulators to center management, we provide integrated solutions for nursing programs, hospitals, and emergency services.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://elevatehealth.net/",
+          "quote": "Comprehensive healthcare patient simulators for every stage of clinical education, from basic skills to advanced emergency care.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "about-us",
+          "source_url": "https://elevatehealth.net/about-us/",
+          "quote": "to elevate the healthcare simulation industry with innovative solutions, both virtual and physical, that is flexible for every educational experience.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "platforms": {
+      "status": "unclear",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "product_evo-aura-auscultation-training",
+          "source_url": "https://elevatehealth.net/product/evo-aura-auscultation-training/",
+          "quote": "Evo AuRA: Augmented Reality Apparel for Healthcare Simulation",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://elevatehealth.net/",
+          "quote": "deliver immersive, high-impact simulation with a modular manikin designed to grow with your program",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "key_capabilities": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "product_evo",
+          "source_url": "https://elevatehealth.net/product/evo/",
+          "quote": "Replaceable head, arms, torso, and legs to reduce downtime and adapt use cases",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "product_evo",
+          "source_url": "https://elevatehealth.net/product/evo/",
+          "quote": "all powered by Maestro\u2019s real-time physiological response engine.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "product_evo",
+          "source_url": "https://elevatehealth.net/product/evo/",
+          "quote": "Airway management including intubation, tracheostomy, and BVM ventilation",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "product_evo",
+          "source_url": "https://elevatehealth.net/product/evo/",
+          "quote": "IV and IM medication administration with software-driven physiological response",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "product_evo",
+          "source_url": "https://elevatehealth.net/product/evo/",
+          "quote": "CPR with live feedback and ECG rhythm display",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "product_evo",
+          "source_url": "https://elevatehealth.net/product/evo/",
+          "quote": "Wireless operation and hot-swappable batteries for uninterrupted sessions",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "product_evo",
+          "source_url": "https://elevatehealth.net/product/evo/",
+          "quote": "Supports multiple skin tones and interchangeable genitalia",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "product_evo-aura-auscultation-training",
+          "source_url": "https://elevatehealth.net/product/evo-aura-auscultation-training/",
+          "quote": "This wearable auscultation simulator uses RFID mesh technology to deliver authentic sounds at anatomically correct locations, worn by a standardized patient or fitted over a simulator.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "product_evo-aura-auscultation-training",
+          "source_url": "https://elevatehealth.net/product/evo-aura-auscultation-training/",
+          "quote": "Real-time scenario switching from a Bluetooth-connected tablet",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "product_evo-aura-auscultation-training",
+          "source_url": "https://elevatehealth.net/product/evo-aura-auscultation-training/",
+          "quote": "Heatmap tracking of auscultation locations and time spent",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://elevatehealth.net/",
+          "quote": "Simulation center management software that streamlines scheduling, debriefing, and learner assessment\u2014all in one integrated platform.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://elevatehealth.net/",
+          "quote": "LearningSpace AI assistant for evaluation scoring that saves time and ensures consistency.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "product_evo",
+          "source_url": "https://elevatehealth.net/product/evo/",
+          "quote": "Protect your Evo investment with Elevate LifeSpanSM Service Agreements",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "product_evo",
+          "source_url": "https://elevatehealth.net/product/evo/",
+          "quote": "Take your simulation program further with our Achieve Program featuring expert consulting tailored to your goals.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "target_customer": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://elevatehealth.net/",
+          "quote": "we provide integrated solutions for nursing programs, hospitals, and emergency services.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "product_evo-aura-auscultation-training",
+          "source_url": "https://elevatehealth.net/product/evo-aura-auscultation-training/",
+          "quote": "Designed for nursing simulation labs, medical schools, and healthcare institutions running standardized patient programs.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "product_evo-aura-auscultation-training",
+          "source_url": "https://elevatehealth.net/product/evo-aura-auscultation-training/",
+          "quote": "Simulation centers supporting OSCE programs across multiple disciplines",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://elevatehealth.net/",
+          "quote": "Healthcare Simulation Solutions That Build Clinical Confidence for Educators and Clinicians.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "about-us",
+          "source_url": "https://elevatehealth.net/about-us/",
+          "quote": "We have established an educational experience tailored for emergency and trauma specialists",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "value_proposition": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://elevatehealth.net/",
+          "quote": "Bridging the gap between learning and clinical practice, Elevate Healthcare helps educators and clinicians train with realism and purpose \u2013 strengthening clinical skills, improving patient outcomes and driving safer care.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://elevatehealth.net/",
+          "quote": "We make the world safer, healthier, and more productive by empowering healthcare professionals to deliver confidently in the moments that matter.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "tagline": {
+      "status": "unclear",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://elevatehealth.net/",
+          "quote": "Healthcare Simulation Solutions That Build Clinical Confidence for Educators and Clinicians.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "pricing": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "product_evo-aura-auscultation-training",
+          "source_url": "https://elevatehealth.net/product/evo-aura-auscultation-training/",
+          "quote": "Evo AuRA\n$2,995.00",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://elevatehealth.net/",
+          "quote": "Shop Elevate Online Blue Phantom, Medicor, and Evo AuRA solutions are now available for online purchase.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "product_evo",
+          "source_url": "https://elevatehealth.net/product/evo/",
+          "quote": "Available Service Plans for Evo:\nLifeSpanSM Base\nLifeSpanSM Peak\nLifeSpanSM Summit",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    }
+  }
+}

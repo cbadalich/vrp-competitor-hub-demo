@@ -1,0 +1,11 @@
+{
+  "competitor": "Wrap Technologies",
+  "requested_url": "https://wrap.com/reality",
+  "fetched_at": "2026-09-29T17:40:26-06:00",
+  "ok": false,
+  "robots": "allowed by robots.txt",
+  "http_status": 404,
+  "final_url": "https://wrap.com/reality",
+  "content_type": "",
+  "error": "HTTP error 404 Not Found"
+}

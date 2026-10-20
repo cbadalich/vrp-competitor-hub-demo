@@ -1,0 +1,15 @@
+{
+  "competitor": "MedVR Education",
+  "requested_url": "https://medvr.education/",
+  "fetched_at": "2026-09-29T17:37:29-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://medvr.education/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "XR in healthcare | XR Healthcare Nursing Training Solutions",
+  "meta_description": "MedVR Education's off-the-shelf and customized XR healthcare training solutions are designed to provide quality Nursing training in the field of healthcare.",
+  "html_bytes": 178647,
+  "text_characters": 7375
+}

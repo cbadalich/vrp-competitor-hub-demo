@@ -1,0 +1,8 @@
+{
+  "competitor": "Intelligent Ultrasound",
+  "requested_url": "https://intelligentultrasound.com/",
+  "fetched_at": "2026-09-29T17:46:03-06:00",
+  "ok": false,
+  "robots": "could not read robots.txt: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1082) (This Python has no list of trusted certificates. Fix: double-click 'Install Certificates.command' in the Python folder under Applications.)",
+  "error": "skipped: could not read robots.txt: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1082) (This Python has no list of trusted certificates. Fix: double-click 'Install Certificates.command' in the Python folder under Applications.)"
+}

@@ -1,0 +1,28 @@
+{
+  "checked_at": "2026-10-14T11:24:43-06:00",
+  "proposed": "1st Degree",
+  "problems": [],
+  "results": [
+    {
+      "page": "virtual-reality-medical",
+      "quote": "Deploy virtual reality training in sim labs, nursing schools, paramedic programs and more.",
+      "source_url": "https://archvirtual.com/virtual-reality-medical/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "home",
+      "quote": "Acadicus provides an expansive library of simulation content. It can be downloaded free, and is compatible with Oculus Rift.",
+      "source_url": "https://archvirtual.com/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "home",
+      "quote": "© Copyright 2019 Arch Virtual",
+      "source_url": "https://archvirtual.com/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    }
+  ]
+}

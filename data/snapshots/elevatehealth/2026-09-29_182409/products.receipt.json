@@ -1,0 +1,15 @@
+{
+  "competitor": "Elevate Healthcare",
+  "requested_url": "https://elevatehealth.net/products/",
+  "fetched_at": "2026-09-29T18:33:31-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://elevatehealth.net/products/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "Products - Elevate Healthcare",
+  "meta_description": "",
+  "html_bytes": 176820,
+  "text_characters": 4154
+}

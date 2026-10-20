@@ -1,0 +1,91 @@
+{
+  "slug": "virtra",
+  "name": "VirTra",
+  "website": "https://www.virtra.com/",
+  "domain": "virtra.com",
+  "aliases": [],
+  "status": "approved",
+  "first_seen": "2026-09-29T17:37:01-06:00",
+  "last_seen": "2026-09-29T17:37:01-06:00",
+  "sightings": [
+    {
+      "source": "earlier research list",
+      "query": "\"VirTra\" official website",
+      "url": "https://craft.co/virtra",
+      "snippet": "craft.co",
+      "website_from": "search summary",
+      "found_at": "2026-09-29T17:37:01-06:00"
+    }
+  ],
+  "possible_duplicate_of": [],
+  "snapshot": "data/candidates/virtra/snapshots/2026-09-29_173822",
+  "extra_pages": [
+    "https://www.virtra.com/healthcare/",
+    "https://www.virtra.com/simulator/vxr/"
+  ],
+  "signals": {
+    "headset": [
+      "virtual reality",
+      "VR",
+      "XR",
+      "headset"
+    ],
+    "simulation": [
+      "simulation",
+      "simulations",
+      "simulator",
+      "simulators",
+      "training platform"
+    ],
+    "public_safety": [
+      "police",
+      "law enforcement",
+      "corrections",
+      "military",
+      "public safety"
+    ]
+  },
+  "suggested_pages": [
+    "https://www.virtra.com/training/",
+    "https://www.virtra.com/healthcare/",
+    "https://www.virtra.com/a-little-maintenance-can-prevent-lost-training-time/",
+    "https://www.virtra.com/virtra-awarded-1-5m-sole-source-contract-from-the-u-s-army-to-support-firearms-training-in-tajikistan/",
+    "https://www.virtra.com/overview-le/about-us/"
+  ],
+  "classification": {
+    "proposed": "3rd Degree",
+    "by": "Claude Code session, model claude-opus-5-5",
+    "at": "2026-09-29T17:50:00-06:00",
+    "snapshot": "data/candidates/virtra/snapshots/2026-09-29_173822",
+    "reason": "Best match is the V-XR headset system for law enforcement and military use-of-force and de-escalation training. The healthcare page trains hospital security teams (and names clinical staff) in de-escalation, which is security training rather than clinical training, so the owner may want to look at it.",
+    "evidence": [
+      {
+        "page": "home",
+        "quote": "VirTra delivers immersive simulation training that prepares law enforcement, military, and public-safety professionals"
+      },
+      {
+        "page": "simulator_vxr",
+        "quote": "With a lightweight headset and a library of fully interactive scenarios, agencies can provide judgmental use-of-force, de-escalation, and mental health training"
+      },
+      {
+        "page": "healthcare",
+        "quote": "VirTra equips hospital and healthcare security personnel with immersive, scenario-based training to safely de-escalate volatile situations"
+      }
+    ]
+  },
+  "review": {
+    "decision": "approved",
+    "type": "3rd Degree",
+    "at": "2026-09-29T18:20:17-06:00",
+    "reason": "",
+    "tracked_slug": "virtra",
+    "pages": [
+      "https://www.virtra.com/",
+      "https://www.virtra.com/healthcare/",
+      "https://www.virtra.com/simulator/vxr/",
+      "https://www.virtra.com/training/",
+      "https://www.virtra.com/a-little-maintenance-can-prevent-lost-training-time/"
+    ]
+  },
+  "name_on_site": true
+}

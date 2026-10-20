@@ -1,0 +1,15 @@
+{
+  "competitor": "TI Training",
+  "requested_url": "https://titraining.com/commercial/solutions/",
+  "fetched_at": "2026-09-29T19:01:35-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://titraining.com/commercial/solutions/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "Innovative Immersive Training Simulator Solutions",
+  "meta_description": "Unlock next-level readiness with immersive training simulator solutions from Ti Training. Elevate engagement, safety & performance across your operations.",
+  "html_bytes": 273448,
+  "text_characters": 5934
+}

@@ -1,0 +1,11 @@
+{
+  "competitor": "Body Interact",
+  "requested_url": "https://bodyinteract.com/blog/ai-driven-conversations-virtual-patient/",
+  "fetched_at": "2026-10-14T09:48:46-06:00",
+  "ok": false,
+  "robots": "allowed by robots.txt",
+  "http_status": 403,
+  "final_url": "https://bodyinteract.com/blog/ai-driven-conversations-virtual-patient/",
+  "content_type": "",
+  "error": "HTTP error 403 Forbidden"
+}

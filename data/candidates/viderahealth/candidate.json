@@ -1,0 +1,57 @@
+{
+  "slug": "viderahealth",
+  "name": "Videra Health",
+  "website": "https://www.viderahealth.com/",
+  "domain": "viderahealth.com",
+  "aliases": [],
+  "status": "deferred",
+  "first_seen": "2026-10-14T10:12:31-06:00",
+  "last_seen": "2026-10-14T11:23:28-06:00",
+  "sightings": [
+    {
+      "source": "web search",
+      "query": "AI patient conversation simulation for medical students startup",
+      "url": "https://viderahealth.com/resources/news/wwltv-ai-avatars-doctor-communication-skills",
+      "snippet": "powers AI avatar patients at LSU Health",
+      "website_from": "result link",
+      "origin": "topic-search",
+      "found_in": "",
+      "run": "2026-10-14-test",
+      "found_at": "2026-10-14T10:12:31-06:00"
+    }
+  ],
+  "known_from": null,
+  "possible_duplicate_of": [],
+  "snapshot": "data/candidates/viderahealth/snapshots/2026-10-14_101231",
+  "extra_pages": [],
+  "signals": {
+    "healthcare_training": [
+      "behavioral health"
+    ],
+    "patient_facing": [
+      "patient engagement"
+    ]
+  },
+  "suggested_pages": [
+    "https://www.viderahealth.com/about/"
+  ],
+  "classification": {
+    "proposed": "Not Relevant",
+    "by": "Claude Code session, model claude-opus-5-5",
+    "at": "2026-10-14T10:14:56-06:00",
+    "snapshot": "data/candidates/viderahealth/snapshots/2026-10-14_101231",
+    "reason": "Software for running behavioral health clinics (patient engagement, documentation, monitoring). The news item that surfaced it mentions AI avatar patients for medical students, but no saved page describes training.",
+    "evidence": [
+      {
+        "page": "home",
+        "quote": "AI for behavioral health: automate patient engagement, clinical documentation, and continuous monitoring"
+      }
+    ]
+  },
+  "review": {
+    "decision": "deferred",
+    "at": "2026-10-14T11:31:01-06:00",
+    "reason": ""
+  },
+  "name_on_site": true
+}

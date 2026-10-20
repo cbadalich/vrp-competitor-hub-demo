@@ -1,0 +1,114 @@
+{
+  "slug": "simulaids-co",
+  "name": "Simulaids",
+  "website": "https://www.simulaids.co.uk/",
+  "domain": "simulaids.co.uk",
+  "aliases": [],
+  "status": "rejected",
+  "first_seen": "2026-09-29T17:18:46-06:00",
+  "last_seen": "2026-10-14T11:23:28-06:00",
+  "sightings": [
+    {
+      "source": "web search",
+      "query": "virtual reality nursing simulation software",
+      "url": "https://www.simulaids.co.uk/shop/patient-care-nursing-6/mvr-n010-mvr-nursing-virtual-reality-simulation-for-nursing-education-22996",
+      "snippet": "mvr n010 mvr nursing virtual reality simulation for nursing education 22996",
+      "found_at": "2026-09-29T17:18:46-06:00"
+    },
+    {
+      "source": "web search",
+      "query": "virtual reality nursing simulation software",
+      "url": "https://www.simulaids.co.uk/shop/mvr-n010-mvr-nursing-virtual-reality-simulation-for-nursing-education-22996",
+      "snippet": "",
+      "website_from": "result link",
+      "origin": "topic-search",
+      "found_in": "",
+      "run": "2026-10-14-test",
+      "found_at": "2026-10-14T10:12:22-06:00"
+    },
+    {
+      "source": "web search",
+      "query": "healthcare simulation manikin manufacturer",
+      "url": "https://app.researchpool.com/provider/globaldata-plc/simulaids-inc-company-review",
+      "snippet": "",
+      "website_from": "search summary",
+      "origin": "topic-search",
+      "found_in": "",
+      "run": "2026-10-14-test",
+      "found_at": "2026-10-14T10:12:26-06:00"
+    },
+    {
+      "source": "web search",
+      "query": "healthcare simulation manikin manufacturer",
+      "url": "https://www.g2.com/sellers/simulaids-ltd",
+      "snippet": "",
+      "website_from": "search summary",
+      "origin": "topic-search",
+      "found_in": "",
+      "run": "2026-10-14",
+      "found_at": "2026-10-14T11:23:28-06:00"
+    }
+  ],
+  "possible_duplicate_of": [],
+  "snapshot": "data/candidates/simulaids-co/snapshots/2026-09-29_172142",
+  "extra_pages": [
+    "https://www.simulaids.co.uk/shop/patient-care-nursing-6/mvr-n010-mvr-nursing-virtual-reality-simulation-for-nursing-education-22996",
+    "https://www.simulaids.co.uk/about-us/"
+  ],
+  "signals": {
+    "healthcare_training": [
+      "nursing",
+      "paramedics",
+      "clinical training",
+      "clinical skills",
+      "healthcare simulation"
+    ],
+    "headset": [
+      "virtual reality",
+      "VR",
+      "headset"
+    ],
+    "simulation": [
+      "simulation",
+      "simulations",
+      "simulator",
+      "simulators",
+      "manikin",
+      "manikins"
+    ],
+    "public_safety": [
+      "police",
+      "law enforcement"
+    ]
+  },
+  "suggested_pages": [
+    "https://www.simulaids.co.uk/about-us/"
+  ],
+  "classification": {
+    "proposed": "Not Relevant",
+    "by": "Claude Code session, model claude-opus-5-5",
+    "at": "2026-09-29T17:32:21-06:00",
+    "snapshot": "data/candidates/simulaids-co/snapshots/2026-09-29_172142",
+    "reason": "Reseller: Simulaids calls itself a master distributor, and its VR product (MVR-Nursing, MVR-N010) lists Nasco Healthcare as the brand. The maker, Nasco Healthcare, is already a separate candidate.",
+    "evidence": [
+      {
+        "page": "home",
+        "quote": "As a master distributor, no supplier delivered faster."
+      },
+      {
+        "page": "shop_patient-care-nursing-6_mvr-n010-mvr-nursing-virtual-reality-simulation-for-nursing-education-22996",
+        "quote": "Brand: Nasco Healthcare"
+      },
+      {
+        "page": "home",
+        "quote": "Products sourced from the world's leading simulation manufacturers"
+      }
+    ]
+  },
+  "review": {
+    "decision": "rejected",
+    "at": "2026-09-29T18:18:35-06:00",
+    "reason": "distributor not competitor"
+  },
+  "name_on_site": true
+}

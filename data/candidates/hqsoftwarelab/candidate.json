@@ -1,0 +1,80 @@
+{
+  "slug": "hqsoftwarelab",
+  "name": "HQSoftwareLab",
+  "website": "https://hqsoftwarelab.com/",
+  "domain": "hqsoftwarelab.com",
+  "aliases": [],
+  "status": "deferred",
+  "first_seen": "2026-10-14T10:12:24-06:00",
+  "last_seen": "2026-10-14T11:23:28-06:00",
+  "sightings": [
+    {
+      "source": "web search",
+      "query": "VR medical simulation training platform",
+      "url": "https://hqsoftwarelab.com/portfolio/vr-medical-app-for-education/",
+      "snippet": "vr medical app for education (portfolio)",
+      "website_from": "result link",
+      "origin": "topic-search",
+      "found_in": "",
+      "run": "2026-10-14-test",
+      "found_at": "2026-10-14T10:12:24-06:00"
+    },
+    {
+      "source": "web search",
+      "query": "VR firefighter training simulation",
+      "url": "https://hqsoftwarelab.com/blog/vr-for-fire-training/",
+      "snippet": "",
+      "website_from": "result link",
+      "origin": "topic-search",
+      "found_in": "",
+      "run": "2026-10-14-test",
+      "found_at": "2026-10-14T10:12:28-06:00"
+    }
+  ],
+  "known_from": null,
+  "possible_duplicate_of": [],
+  "snapshot": "data/candidates/hqsoftwarelab/snapshots/2026-10-14_101224",
+  "extra_pages": [],
+  "signals": {
+    "headset": [
+      "virtual reality",
+      "VR",
+      "augmented reality",
+      "mixed reality"
+    ],
+    "simulation": [
+      "simulation",
+      "simulations",
+      "training platform"
+    ]
+  },
+  "suggested_pages": [
+    "https://hqsoftwarelab.com/solutions/",
+    "https://hqsoftwarelab.com/solutions/data-analytics/",
+    "https://hqsoftwarelab.com/solutions/data-analytics/data-ai-readiness-audit/",
+    "https://hqsoftwarelab.com/solutions/data-analytics/artificial-intelligence/",
+    "https://hqsoftwarelab.com/solutions/data-analytics/machine-learning/",
+    "https://hqsoftwarelab.com/solutions/ar-vr-development/",
+    "https://hqsoftwarelab.com/solutions/virtual-reality-training/",
+    "https://hqsoftwarelab.com/solutions/virtual-reality-development/"
+  ],
+  "classification": {
+    "proposed": "Not Relevant",
+    "by": "Claude Code session, model claude-opus-5-5",
+    "at": "2026-10-14T10:14:56-06:00",
+    "snapshot": "data/candidates/hqsoftwarelab/snapshots/2026-10-14_101224",
+    "reason": "Custom software development agency; AR/VR is one service among many and the pages show client projects, not its own training product.",
+    "evidence": [
+      {
+        "page": "home",
+        "quote": "From AI and machine learning to AR/VR, IoT, eLearning, and custom web and mobile apps"
+      }
+    ]
+  },
+  "review": {
+    "decision": "deferred",
+    "at": "2026-10-14T11:31:01-06:00",
+    "reason": ""
+  },
+  "name_on_site": true
+}

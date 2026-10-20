@@ -1,0 +1,14 @@
+{
+  "checked_at": "2026-10-14T11:24:43-06:00",
+  "proposed": "Not Relevant",
+  "problems": [],
+  "results": [
+    {
+      "page": "home",
+      "quote": "Tech-Labs provides educational and training solutions from Amatrol, Stratasys, Simlog, Lincoln Electric, EduSmart, iConnect Training LJ Create, and more!",
+      "source_url": "https://tech-labs.com/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "competitor": "3B Scientific",
+  "requested_url": "https://www.3bscientific.com/",
+  "fetched_at": "2026-09-29T17:27:40-06:00",
+  "ok": false,
+  "robots": "could not read robots.txt: The read operation timed out",
+  "error": "skipped: could not read robots.txt: The read operation timed out"
+}

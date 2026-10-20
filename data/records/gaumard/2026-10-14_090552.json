@@ -1,0 +1,139 @@
+{
+  "competitor": "Gaumard",
+  "slug": "gaumard",
+  "snapshot": "data/snapshots/gaumard/2026-10-14_090552",
+  "extracted_at": "2026-10-14T09:09:47-06:00",
+  "extracted_by": "Claude Code session, model claude-opus-5-5",
+  "note": "Only the homepage could be saved: the site's bot check (Cloudflare) blocks automated downloads most of the time. It let the homepage through on 2026-10-14 at 09:05; a later attempt the same morning to save 4 more pages was blocked (403 on every page). The homepage is a store page; most product information sits on product pages that were blocked. '[email protected]' in the saved text is how the page hides e-mail addresses.",
+  "pages_read": [
+    "home"
+  ],
+  "pages_failed": [],
+  "fields": {
+    "product_category": {
+      "status": "found",
+      "value": "Healthcare simulation products: full-body patient simulators, task trainers, anatomical models, audio/video debriefing systems, scenarios and learning modules, simulator software, and mixed reality solutions.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "We develop state-of-the-art patient simulators, task trainers, learning modules, and mixed reality solutions."
+        },
+        {
+          "page": "home",
+          "quote": "Full-body Patient\nPart-body Task Trainer\nAnatomical Models\nAudio/video Camera Systems\nScenarios\nSoftware\nMoulage (wound kits)"
+        }
+      ],
+      "note": "The second quote is the Product Type menu."
+    },
+    "platforms": {
+      "status": "unclear",
+      "value": [
+        "Physical hardware",
+        "MR"
+      ],
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "We develop state-of-the-art patient simulators, task trainers, learning modules, and mixed reality solutions."
+        },
+        {
+          "page": "home",
+          "quote": "Obstetric MR™ for VICTORIA® S2200"
+        }
+      ],
+      "note": "Physical hardware covers the patient simulators and task trainers. MR rests on the phrase 'mixed reality solutions' and a menu product name ('Obstetric MR™ for VICTORIA® S2200'); the homepage does not say how learners use it, so the field is unclear. The software listed (UNI, OMNI 2, Gaumard Vitals) appears to control simulators and is not counted as a learner platform."
+    },
+    "key_capabilities": {
+      "status": "found",
+      "value": [
+        "Full-body patient simulators for adults, pediatrics and neonates",
+        "Part-body task trainers, including IV and arterial access training arms",
+        "Unified Simulator Control Software",
+        "Simulation-based ultrasound training (Gaumard Ultrasound)",
+        "Obstetric mixed reality for the VICTORIA simulator",
+        "Video-assisted debriefing (audio/video camera systems)",
+        "Scenarios and learning modules",
+        "Moulage wound kits"
+      ],
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Age Group\nAdults\nPediatrics\nNeonates"
+        },
+        {
+          "page": "home",
+          "quote": "IV and\nArterial Access\nTraining Arms"
+        },
+        {
+          "page": "home",
+          "quote": "Meet the new\nUnified Simulator Control Software"
+        },
+        {
+          "page": "home",
+          "quote": "Gaumard\nUltrasound™\nSimulation-based Ultrasound Training"
+        },
+        {
+          "page": "home",
+          "quote": "Obstetric MR™ for VICTORIA® S2200"
+        },
+        {
+          "page": "home",
+          "quote": "Skills Trainers\nVideo-assisted Debriefing\nLearning Modules"
+        },
+        {
+          "page": "home",
+          "quote": "Moulage (wound kits)\nAge Group"
+        }
+      ],
+      "note": "Most items come from the product menus and homepage banners; the product pages that would describe them were blocked."
+    },
+    "target_customer": {
+      "status": "found",
+      "value": "Healthcare students and professionals across nearly all clinical specialties, including pre-hospital care, trauma, nursing, obstetrics and gynecology, pediatrics and surgery.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "designed to facilitate safe and effective training opportunities for healthcare students and professionals across nearly all clinical specialties, including pre-hospital care, trauma, nursing, obstetrics and gynecology, pediatrics, and surgery"
+        }
+      ],
+      "note": "Quoted from the homepage META DESCRIPTION. The menu also lists 'Purchasing Cooperative Partners' and 'Financing'."
+    },
+    "value_proposition": {
+      "status": "found",
+      "value": "Innovative training solutions that accelerate progress toward safer patient care and improved outcomes, backed by over 75 years of simulation experience.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "At Gaumard, our mission is to empower healthcare with innovative training solutions, accelerating progress toward safer patient care and improved outcomes for all."
+        },
+        {
+          "page": "home",
+          "quote": "With over 75 years of healthcare simulation experience"
+        }
+      ],
+      "note": ""
+    },
+    "tagline": {
+      "status": "unclear",
+      "value": "Introducing SUSIE® S2400 Comprehensive Patient Care Simulator",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Introducing\nSUSIE®\nS2400\nComprehensive Patient Care Simulator"
+        }
+      ],
+      "note": "Per DECISIONS.md the tagline is the homepage's main headline, but here it is the first slide of a rotating product banner, not a slogan, so it is marked unclear. No slogan appears on the homepage. The page title reads 'Simulators for Health Care Education'."
+    },
+    "pricing": {
+      "status": "found",
+      "value": "Not published; quote on request",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Request Quote\nMy Cart"
+        }
+      ],
+      "note": "The site is an online store (cart, USD and EUR currency, a 'Financing' link), but no prices appear on the homepage. Product pages, which may show prices, were blocked."
+    }
+  }
+}

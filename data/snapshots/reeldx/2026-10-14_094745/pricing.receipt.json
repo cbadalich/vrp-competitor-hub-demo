@@ -1,0 +1,11 @@
+{
+  "competitor": "ReelDx",
+  "requested_url": "https://www.reeldx.com/pricing/",
+  "fetched_at": "2026-10-14T09:50:21-06:00",
+  "ok": false,
+  "robots": "allowed by robots.txt",
+  "http_status": 404,
+  "final_url": "https://www.reeldx.com/pricing/",
+  "content_type": "",
+  "error": "HTTP error 404 Not Found"
+}

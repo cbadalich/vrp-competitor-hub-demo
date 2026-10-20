@@ -1,0 +1,15 @@
+{
+  "competitor": "PCS",
+  "requested_url": "https://pcs.ai/spark/for-nursing",
+  "fetched_at": "2026-10-15T18:03:39-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.pcs.ai/spark/for-nursing",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "For Nursing - PCS Spark | PCS",
+  "meta_description": "Virtual patient platform delivering simulated clinical experiences to nursing students, used in Fundamentals of Nursing and Clinical Nursing courses.",
+  "html_bytes": 68014,
+  "text_characters": 3283
+}

@@ -1,0 +1,153 @@
+{
+  "competitor": "MedisimVR",
+  "slug": "medisimvr",
+  "snapshot": "data/snapshots/medisimvr/2026-10-15_180319",
+  "extracted_at": "2026-10-15T18:05:10-06:00",
+  "extracted_by": "Claude Code session, model claude-opus-5-5",
+  "note": "The company calls itself MediSim VR. Founded in 2018 at IIT Madras, India, per the vr-in-healthcare page. The study percentages on the training pages are the company's citations; no study is linked in the saved text.",
+  "pages_read": [
+    "about-us",
+    "home",
+    "simulation-lab-for-nursing-students",
+    "vr-in-healthcare",
+    "vr-in-medical-training"
+  ],
+  "pages_failed": [],
+  "fields": {
+    "product_category": {
+      "status": "found",
+      "value": "VR medical simulation platform and managed VR simulation labs for nursing, allied health and medical education, with skill training (STRIV), patient diagnosis practice (DIVE) and anatomy and physiology modules (StudySim).",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Competency-Based VR Training for Real-World Healthcare Scenarios"
+        },
+        {
+          "page": "vr-in-medical-training",
+          "quote": "All-in-one VR Medical Education Platform"
+        },
+        {
+          "page": "home",
+          "quote": "Simulation Training. Fully Managed."
+        }
+      ],
+      "note": ""
+    },
+    "platforms": {
+      "status": "found",
+      "value": [
+        "VR"
+      ],
+      "evidence": [
+        {
+          "page": "about-us",
+          "quote": "With next-gen ergonomically designed VR stations and head-mounted displays"
+        }
+      ],
+      "note": "Training runs in the company's VR labs on head-mounted displays. No headset brand is named. A student portal login is linked, but the pages do not say learners use it for training, so Web is not listed."
+    },
+    "key_capabilities": {
+      "status": "found",
+      "value": [
+        "STRIV skill training with a guided mode and an evaluation mode",
+        "DIVE patient simulations for history taking, clinical exam and diagnosis",
+        "StudySim VR anatomy and physiology modules",
+        "AI-powered competency assessment and analytics",
+        "Instructor dashboard",
+        "Library of VR training modules for clinical skills",
+        "VR lab setup with on-ground support by certified professionals",
+        "Self-paced solo learning with real-time feedback",
+        "Centre of Excellence certification programs"
+      ],
+      "evidence": [
+        {
+          "page": "simulation-lab-for-nursing-students",
+          "quote": "Guided mode enables protocol-based learning and evaluation mode facilitates\ncompetency-based assessment."
+        },
+        {
+          "page": "vr-in-medical-training",
+          "quote": "Students can practice taking patient history, refining clinical examination techniques,\nand sharpening decision-making abilities."
+        },
+        {
+          "page": "vr-in-medical-training",
+          "quote": "Immersive, Interactive Anatomy and Physiology Education"
+        },
+        {
+          "page": "home",
+          "quote": "AI Powered Competency Assessment"
+        },
+        {
+          "page": "home",
+          "quote": "Instructor Dashboard\nVast Library of Content"
+        },
+        {
+          "page": "home",
+          "quote": "On-ground Support by Certified Professionals"
+        },
+        {
+          "page": "vr-in-healthcare",
+          "quote": "Self-paced learning pathway that develops clinical confidence"
+        },
+        {
+          "page": "vr-in-healthcare",
+          "quote": "easy-to-follow modules, and real-time feedback really improved my\ndecision-making skills"
+        },
+        {
+          "page": "simulation-lab-for-nursing-students",
+          "quote": "Centre of Excellence Certifications"
+        }
+      ],
+      "note": "'Real-time feedback' comes from a user quote on the page."
+    },
+    "target_customer": {
+      "status": "found",
+      "value": "Healthcare education institutions: nursing and allied health (AHS) programs, undergraduate medical education, and healthcare professionals.",
+      "evidence": [
+        {
+          "page": "simulation-lab-for-nursing-students",
+          "quote": "A futuristic medium for nurses and allied health professionals to train"
+        },
+        {
+          "page": "vr-in-medical-training",
+          "quote": "cater\nto the essential clinical skills requirement for undergraduate medical education"
+        },
+        {
+          "page": "about-us",
+          "quote": "empower healthcare professionals to excel in their roles, reduce medical errors, and improve\ncare standards"
+        }
+      ],
+      "note": "Customer quotes name colleges and a hospital in India. A testimonial says the technology also extends to aerospace and defense; not counted."
+    },
+    "value_proposition": {
+      "status": "found",
+      "value": "Competency-based VR training, with labs set up and supported by the company, to close healthcare skill gaps, build confidence and reduce medical errors.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Bridging the World’s Healthcare Skill Gap"
+        },
+        {
+          "page": "home",
+          "quote": "From simulation lab setup to on-ground support, we focus on improving lab utilization and delivering\nimpactful training outcomes."
+        },
+        {
+          "page": "vr-in-healthcare",
+          "quote": "IT’S THE BEST WAY TO SKILL UP, BUILD CONFIDENCE, AND GET RID OFF MEDICAL ERRORS"
+        }
+      ],
+      "note": ""
+    },
+    "tagline": {
+      "status": "not_found",
+      "value": null,
+      "evidence": [],
+      "note": "No official tagline found: no slogan is marked ™, ® or ℠, and no slogan repeats across pages. Lines that repeat are product or section headings ('Competency-Based Skill Training & Assessment', 'AI-powered Assessment & Evaluation Tools'). Homepage headline: 'Bridging the World’s Healthcare Skill Gap'."
+    },
+    "pricing": {
+      "status": "not_found",
+      "value": null,
+      "evidence": [],
+      "note": "No prices or pricing models on the 5 pages read; only 'Book an Experience' and a free experience day."
+    }
+  }
+}

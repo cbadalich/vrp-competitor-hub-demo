@@ -1,0 +1,15 @@
+{
+  "competitor": "SimX",
+  "requested_url": "https://www.simxvr.com/platform/autonomous-simulation/",
+  "fetched_at": "2026-10-13T18:36:07-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.simxvr.com/platform/autonomous-simulation/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "Autonomous VR Simulation Training | SimX",
+  "meta_description": "Run high-fidelity, self-directed VR simulations anytime, anywhere, no facilitator required. Expert-validated scenarios for nursing and healthcare learners.",
+  "html_bytes": 87795,
+  "text_characters": 7616
+}

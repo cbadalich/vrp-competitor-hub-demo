@@ -1,0 +1,200 @@
+{
+  "competitor": "SimLab Soft",
+  "slug": "simlab-soft",
+  "snapshot": "data/snapshots/simlab-soft/2026-10-13_183515",
+  "extracted_at": "2026-09-29T19:22:00-06:00",
+  "extracted_by": "Claude Code session, model claude-opus-5-5",
+  "note": "Thin evidence: three of the five configured pages (the Composer and VR Studio product pages) returned HTTP 404, so only the home page (short, mostly product names) and one use-case page (VR training for fire departments) were read. Neither page mentions healthcare, nursing or medical training; the fire-department page is the only detailed product description, so several fields describe that use case. An older snapshot folder (2026-09-29_182409) also exists with the same failures; this record uses the newest one.",
+  "pages_read": [
+    "home",
+    "use_cases_simlab-vr-fire-fighting.aspx"
+  ],
+  "pages_failed": [
+    "3d-products_simlab-composer-15-whats-new.aspx",
+    "3d-products_simlab-composer-main.aspx",
+    "3d-products_vr-studio-15-whats-new.aspx"
+  ],
+  "fields": {
+    "product_category": {
+      "status": "found",
+      "value": "No-code VR creation and 3D visualization software (SimLab Composer, VR Studio, VR Viewer, plugins, CADVRter converter, VR Store); SimLab Composer is presented on the use-case page as firefighter VR training software that departments use to build their own training",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Create professional VR experiences & 3D visualizations with SimLab's no-code software."
+        },
+        {
+          "page": "home",
+          "quote": "Create all types of VR Experiences, From simple product visualization, all the way to advanced educational and vocational training sessions"
+        },
+        {
+          "page": "use_cases_simlab-vr-fire-fighting.aspx",
+          "quote": "SimLab Composer is firefighter VR training software that fire departments, training academies and industrial HSE teams use to build their own VR fire training in-house"
+        }
+      ],
+      "note": "First quote is the home META DESCRIPTION. A general-purpose authoring tool, not a healthcare simulation product, on the pages read."
+    },
+    "platforms": {
+      "status": "found",
+      "value": [
+        "VR",
+        "Desktop",
+        "Mobile"
+      ],
+      "evidence": [
+        {
+          "page": "use_cases_simlab-vr-fire-fighting.aspx",
+          "quote": "Meta Quest, Pico, PC VR, desktop and mobile — via the free SimLab VR Viewer"
+        },
+        {
+          "page": "use_cases_simlab-vr-fire-fighting.aspx",
+          "quote": "One build runs on Quest, Pico, PC VR, desktop, and mobile — the free SimLab VR Viewer."
+        },
+        {
+          "page": "home",
+          "quote": "Free cross-platform VR viewer that runs your VR scenes for your clients on any device."
+        }
+      ],
+      "note": "Trainees run experiences through the free SimLab VR Viewer. Headsets named: Meta Quest, Pico, PC VR. Desktop is listed because 'desktop' is named with no mention of a browser; the page also mentions 'training-room PCs, tablets'. SimLab Composer (the authoring tool, 'Runs on a PC') is used by instructors/creators and does not count toward learner platforms. No browser/Web delivery is mentioned."
+    },
+    "key_capabilities": {
+      "status": "found",
+      "value": [
+        "No-code VR scene and training creation",
+        "Direct import of CAD/3D files (SolidWorks, Inventor, CATIA and others) into VR",
+        "Conversion among 25+ 3D/CAD file formats (CADVRter)",
+        "Importer, exporter and VR plugins for 3D design applications",
+        "Free cross-platform VR Viewer for running experiences",
+        "Multi-user VR collaboration training",
+        "On-premises deployment (Full package)",
+        "Ready-made fire training experiences to customize",
+        "VR Store marketplace to buy and sell VR experiences",
+        "3D PDF, rendering and automation outputs (Composer)"
+      ],
+      "evidence": [
+        {
+          "page": "use_cases_simlab-vr-fire-fighting.aspx",
+          "quote": "Instructors build with the no-code editor in SimLab Composer, and CAD models convert to VR directly."
+        },
+        {
+          "page": "use_cases_simlab-vr-fire-fighting.aspx",
+          "quote": "SolidWorks, Inventor, CATIA and other 3D formats convert directly to VR."
+        },
+        {
+          "page": "home",
+          "quote": "CADVRter enables you to convert among more than 25 3D/CAD file formats with minimal steps."
+        },
+        {
+          "page": "home",
+          "quote": "Power up your 3D modeling software with new capabilities using SimLab importers, exporters , and VR plugins."
+        },
+        {
+          "page": "home",
+          "quote": "Free cross-platform VR viewer for running VR experiences"
+        },
+        {
+          "page": "use_cases_simlab-vr-fire-fighting.aspx",
+          "quote": "Crews train together in the same virtual fireground, coordinating like they would on scene."
+        },
+        {
+          "page": "use_cases_simlab-vr-fire-fighting.aspx",
+          "quote": "The Full package deploys on-premises."
+        },
+        {
+          "page": "use_cases_simlab-vr-fire-fighting.aspx",
+          "quote": "The Full package includes these four fire training experiences."
+        },
+        {
+          "page": "home",
+          "quote": "A Vibrant marketplace where clients can buy and sell VR Experiences made by SimLab team and professional creators and enthusiasts."
+        },
+        {
+          "page": "home",
+          "quote": "VR - 3D PDF - Rendering - Automation"
+        }
+      ],
+      "note": "The four ready experiences are 'VR Collaboration — Fire Fight Training', 'Fire Extinguisher VR Training', 'Fire Scene Inspection' and 'Emergency Fire Drill'. SimLab also offers to build customers' models from photos, drawings or pre-plans. Home lists plugins for 18 applications (for example SolidWorks, Blender, Revit, Maya). Home says version '16' is 'Available Now!' for Composer and VR Studio; the 404 product pages were for version 15. No assessment, scoring or learner analytics features are described on the pages read."
+    },
+    "target_customer": {
+      "status": "found",
+      "value": "On the use-case page: fire departments, fire training academies and industrial HSE teams. On the home page: users of 3D modeling and design software creating VR and 3D visualizations, from product visualization to educational and vocational training.",
+      "evidence": [
+        {
+          "page": "use_cases_simlab-vr-fire-fighting.aspx",
+          "quote": "Fire departments, fire training academies, industrial HSE teams"
+        },
+        {
+          "page": "home",
+          "quote": "Power up your 3D modeling software with new capabilities using SimLab importers, exporters , and VR plugins."
+        }
+      ],
+      "note": "The use-case contact form's organization types also include 'VR Content Creator / Studio', 'Municipality/Government' and 'Volunteer Fire Department'. The page quotes the New York Fire Department (FDNY). No healthcare customers are named on the pages read."
+    },
+    "value_proposition": {
+      "status": "found",
+      "value": "Lets organizations build and update their own VR training in-house from their own models and procedures, without coding or an outside studio, and run it for unlimited trainees at a fixed annual price on their own infrastructure.",
+      "evidence": [
+        {
+          "page": "use_cases_simlab-vr-fire-fighting.aspx",
+          "quote": "SimLab Composer lets your instructors build interactive VR fire training from your department's own models and SOPs — fixed yearly price, unlimited firefighters, running on your own infrastructure."
+        },
+        {
+          "page": "use_cases_simlab-vr-fire-fighting.aspx",
+          "quote": "Build it in-house. Own it forever."
+        }
+      ],
+      "note": "Stated for the fire-department use case, the only detailed page read."
+    },
+    "tagline": {
+      "status": "found",
+      "value": "#1 Code FREE VR Creation Software",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "#1 Code FREE VR Creation Software"
+        }
+      ],
+      "note": "Appears twice on the homepage; best guess, since it describes the VR Studio product line. Other candidates: homepage headline 'Professional VR Creation & 3D Visualization Software' (once); use-case page 'Build it. Own it.'"
+    },
+    "pricing": {
+      "status": "found",
+      "value": "Published for the fire-training use case: Starter $1,199/year (1 SimLab Composer creator seat); Full package $10,000/year (up to 5 creator seats, on-premises deployment, 4 ready fire experiences). Priced per creator seat with unlimited trainees; SimLab VR Viewer free; 21-day free trial of Composer Ultimate; detailed pricing on request.",
+      "evidence": [
+        {
+          "page": "use_cases_simlab-vr-fire-fighting.aspx",
+          "quote": "$1,199–$10,000 per year, fixed — trainees are always unlimited"
+        },
+        {
+          "page": "use_cases_simlab-vr-fire-fighting.aspx",
+          "quote": "Full authoring power for one instructor\n$1,199 / year"
+        },
+        {
+          "page": "use_cases_simlab-vr-fire-fighting.aspx",
+          "quote": "Everything a training division needs\n$10,000 / year"
+        },
+        {
+          "page": "use_cases_simlab-vr-fire-fighting.aspx",
+          "quote": "Fixed annual price for creator seats. Trainees are unlimited — the SimLab VR Viewer is free."
+        },
+        {
+          "page": "use_cases_simlab-vr-fire-fighting.aspx",
+          "quote": "21-day free trial of SimLab Composer Ultimate."
+        },
+        {
+          "page": "use_cases_simlab-vr-fire-fighting.aspx",
+          "quote": "Request detailed pricing or start a pilot program."
+        }
+      ],
+      "note": "Home also offers 'Try for Free' (Composer, CADVRter), 'Get Free Edition' (VR Studio) and 'Get Free' (VR Viewer). Whether these prices apply outside the fire-training use case is not stated on the pages read."
+    }
+  },
+  "revision": {
+    "from_record": "data/records/simlab-soft/2026-10-13_183515.json",
+    "at": "2026-10-14T09:18:24-06:00",
+    "reason": "Tagline rule approved by the owner on 2026-10-14 (DECISIONS.md)",
+    "changed": [
+      "tagline now '#1 Code FREE VR Creation Software'"
+    ]
+  },
+  "changes_since_previous": "No substantive website change. Revised from the same saved pages under the tagline rule approved on 2026-10-14 (see DECISIONS.md): tagline now '#1 Code FREE VR Creation Software'."
+}

@@ -1,0 +1,21 @@
+{
+  "checked_at": "2026-10-14T11:24:43-06:00",
+  "proposed": "Not Relevant",
+  "problems": [],
+  "results": [
+    {
+      "page": "home",
+      "quote": "All-in-one AV capture & debrief solution (iOS & Android) for running simulation anytime & anywhere.",
+      "source_url": "https://ems-works.com/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "home",
+      "quote": "suite of simulation training solutions are purposely built to help you enhance your student’s learning outcomes through advanced audio/video capture, management, and progression tracking technologies.",
+      "source_url": "https://ems-works.com/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    }
+  ]
+}

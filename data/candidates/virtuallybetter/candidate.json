@@ -1,0 +1,68 @@
+{
+  "slug": "virtuallybetter",
+  "name": "Virtually Better",
+  "website": "https://virtuallybetter.com/",
+  "domain": "virtuallybetter.com",
+  "aliases": [],
+  "status": "deferred",
+  "first_seen": "2026-10-14T10:12:33-06:00",
+  "last_seen": "2026-10-14T10:12:33-06:00",
+  "sightings": [
+    {
+      "source": "NIH RePORTER (SBIR/STTR)",
+      "query": "",
+      "url": "https://reporter.nih.gov/project-details/5R41MH131229-02",
+      "snippet": "Simulated Exposure Trainer (SET-VR): Implementing Targeted Experiential Training",
+      "website_from": "result link",
+      "origin": "award",
+      "found_in": "",
+      "run": "2026-10-14-test",
+      "found_at": "2026-10-14T10:12:33-06:00"
+    }
+  ],
+  "known_from": null,
+  "possible_duplicate_of": [],
+  "snapshot": "data/candidates/virtuallybetter/snapshots/2026-10-14_101233",
+  "extra_pages": [],
+  "signals": {
+    "healthcare_training": [
+      "nurse",
+      "behavioral health"
+    ],
+    "headset": [
+      "virtual reality"
+    ],
+    "patient_facing": [
+      "anxiety"
+    ]
+  },
+  "suggested_pages": [
+    "https://virtuallybetter.com/products-overview/",
+    "https://virtuallybetter.com/mobile-vr-suite/",
+    "https://virtuallybetter.com/livetraining/",
+    "https://virtuallybetter.com/community-virtual-solutions/"
+  ],
+  "classification": {
+    "proposed": "Unclear",
+    "by": "Claude Code session, model claude-opus-5-5",
+    "at": "2026-10-14T10:14:56-06:00",
+    "snapshot": "data/candidates/virtuallybetter/snapshots/2026-10-14_101233",
+    "reason": "Behavioral health technology, mostly for patients and families; one product is 'A Virtual Reality nurse resiliency program', which is staff well-being rather than clinical skills training. The NIH award that surfaced it (SET-VR) trains clinicians in exposure therapy, but no saved page describes it. Check by hand.",
+    "evidence": [
+      {
+        "page": "home",
+        "quote": "A Virtual Reality nurse resiliency program."
+      },
+      {
+        "page": "home",
+        "quote": "innovative technology applied to behavioral health interventions"
+      }
+    ]
+  },
+  "review": {
+    "decision": "deferred",
+    "at": "2026-10-14T11:31:01-06:00",
+    "reason": ""
+  },
+  "name_on_site": true
+}

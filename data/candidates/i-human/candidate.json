@@ -1,0 +1,82 @@
+{
+  "slug": "i-human",
+  "name": "i-Human Patients",
+  "website": "https://i-human.com/",
+  "domain": "i-human.com",
+  "aliases": [],
+  "status": "approved",
+  "first_seen": "2026-09-29T17:18:48-06:00",
+  "last_seen": "2026-09-29T17:18:48-06:00",
+  "sightings": [
+    {
+      "source": "web search",
+      "query": "virtual patient simulation for nursing students",
+      "url": "https://i-human.com/virtual-simulation-for-undergraduate-nursing-programs",
+      "snippet": "virtual simulation for undergraduate nursing programs",
+      "found_at": "2026-09-29T17:18:48-06:00"
+    }
+  ],
+  "possible_duplicate_of": [],
+  "snapshot": "data/candidates/i-human/snapshots/2026-09-29_173030",
+  "extra_pages": [
+    "https://i-human.com/virtual-simulation-for-undergraduate-nursing-programs",
+    "https://i-human.com/institutions-educators/higher-education/nursing-schools/i-human",
+    "https://i-human.com/institutions-educators/higher-education/medical-education/",
+    "https://i-human.com/institutions-educators/higher-education/medical-schools/allopathic/",
+    "https://i-human.com/institutions-educators/higher-education/medical-schools/osteopathic/"
+  ],
+  "signals": {
+    "healthcare_training": [
+      "nursing",
+      "medical students",
+      "patient simulation",
+      "virtual patient"
+    ],
+    "simulation": [
+      "simulation",
+      "simulations"
+    ]
+  },
+  "suggested_pages": [
+    "https://i-human.com/institutions-educators/k-12-schools-districts/act-solutions/",
+    "https://i-human.com/institutions-educators/k-12-schools-districts/sat-solutions/",
+    "https://i-human.com/institutions-educators/k-12-schools-districts/advanced-placement-solutions/",
+    "https://i-human.com/institutions-educators/higher-education/medical-education/",
+    "https://i-human.com/institutions-educators/higher-education/medical-schools/international/",
+    "https://i-human.com/institutions-educators/higher-education/medical-schools/caribbean/",
+    "https://i-human.com/institutions-educators/higher-education/medical-schools/allopathic/",
+    "https://i-human.com/institutions-educators/higher-education/medical-schools/osteopathic/"
+  ],
+  "classification": {
+    "proposed": "Unclear",
+    "by": "Claude Code session, model claude-opus-5-5",
+    "at": "2026-09-29T17:32:21-06:00",
+    "snapshot": "data/candidates/i-human/snapshots/2026-09-29_173030",
+    "reason": "i-Human (Kaplan) is virtual patient simulation for nursing students, so healthcare workers are trained. All six saved pages redirect to the same Kaplan page, so only one distinct page is saved and the 2nd Degree rule (two pages) cannot be applied; that page does not say whether a headset mode exists.",
+    "evidence": [
+      {
+        "page": "home",
+        "quote": "Virtual Patient Simulation"
+      },
+      {
+        "page": "home",
+        "quote": "Boost your cohort’s skills in clinical judgment for success on both the NCLEX exam and in their future nursing careers."
+      }
+    ]
+  },
+  "review": {
+    "decision": "approved",
+    "type": "2nd Degree",
+    "at": "2026-09-29T18:14:13-06:00",
+    "reason": "",
+    "tracked_slug": "i-human",
+    "pages": [
+      "https://i-human.com/",
+      "https://i-human.com/virtual-simulation-for-undergraduate-nursing-programs",
+      "https://i-human.com/institutions-educators/higher-education/nursing-schools/i-human",
+      "https://i-human.com/institutions-educators/higher-education/medical-education/",
+      "https://i-human.com/institutions-educators/higher-education/medical-schools/allopathic/"
+    ]
+  },
+  "name_on_site": true
+}

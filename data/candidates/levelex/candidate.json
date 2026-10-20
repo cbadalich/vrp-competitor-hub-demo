@@ -1,0 +1,48 @@
+{
+  "slug": "levelex",
+  "name": "Level Ex",
+  "website": "https://www.levelex.com/",
+  "domain": "levelex.com",
+  "aliases": [],
+  "status": "rejected",
+  "first_seen": "2026-09-29T17:38:47-06:00",
+  "last_seen": "2026-09-29T17:38:47-06:00",
+  "sightings": [
+    {
+      "source": "earlier research list",
+      "query": "\"Level Ex\" official website",
+      "url": "https://levelex.com/about",
+      "snippet": "Level Ex Team working virtually from Chicago Headquarters",
+      "website_from": "result link",
+      "found_at": "2026-09-29T17:38:47-06:00"
+    }
+  ],
+  "possible_duplicate_of": [],
+  "snapshot": "data/candidates/levelex/snapshots/2026-09-29_173847",
+  "extra_pages": [],
+  "signals": {},
+  "suggested_pages": [],
+  "classification": {
+    "proposed": "Unclear",
+    "by": "Claude Code session, model claude-opus-5-5",
+    "at": "2026-09-29T17:48:00-06:00",
+    "snapshot": "data/candidates/levelex/snapshots/2026-09-29_173847",
+    "reason": "The Level Ex site is only a rebrand notice: its divisions moved to Relevate Health Games and Brainlab's SNKE Group. The page shows no product of its own to classify.",
+    "evidence": [
+      {
+        "page": "home",
+        "quote": "In 2024, Level Ex's Life Sciences division was acquired by Relevate Health and has been rebranded as Relevate Health Games."
+      },
+      {
+        "page": "home",
+        "quote": "Level Ex's Surgical and Medical Device division remains part of Brainlab's SNKE Group."
+      }
+    ]
+  },
+  "review": {
+    "decision": "rejected",
+    "at": "2026-09-29T18:15:47-06:00",
+    "reason": "The Level Ex site is only a rebrand notice: its divisions moved to Relevate Health Games and Brainlab's SNKE Group. The page shows no product of its own to classify."
+  },
+  "name_on_site": true
+}

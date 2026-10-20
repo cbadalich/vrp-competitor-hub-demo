@@ -1,0 +1,100 @@
+/*
+  ui.css: VRpatients brand treatment for the VRp Competitor Hub UI.
+  Every value is a variable from brand-tokens.css (the brand kit's own file,
+  copied unchanged next to this one). No colors or sizes are typed here.
+  Light touch, as the brand guidance asks for tools people work in:
+  brand the headers, cards and accents, then stay out of the way.
+*/
+
+/* Page header: Onset panel with a Stable accent bar (the brand's hero block). */
+.vrp-header {
+  background: var(--onset);
+  color: var(--bay);
+  border-radius: var(--radius-sm);
+  border-bottom: var(--space-02) solid var(--stable);
+  padding: var(--space-06) var(--space-07);
+  margin-bottom: var(--space-06);
+}
+.vrp-header .vrp-eyebrow {
+  font-size: var(--size-caption);
+  font-weight: 600;
+  letter-spacing: var(--tracking-caption);
+  text-transform: uppercase;
+  color: var(--drape);
+  margin-bottom: var(--space-02);
+}
+.vrp-header .vrp-title {
+  font-size: var(--size-h2);
+  font-weight: var(--weight-h2);
+  line-height: var(--leading-h2);
+  color: var(--bay);
+  margin: 0;
+}
+.vrp-header .vrp-subtitle {
+  font-size: var(--size-body);
+  line-height: var(--leading-body);
+  color: var(--sterile);
+  margin: var(--space-03) 0 0 0;
+}
+
+/* Cards: bordered containers, metric tiles and expanders are Bay on the Sterile page. */
+[data-testid="stVerticalBlockBorderWrapper"],
+[data-testid="stMetric"],
+[data-testid="stExpander"] details {
+  background: var(--bay);
+  border-radius: var(--radius-md);
+}
+[data-testid="stMetric"] {
+  padding: var(--space-05) var(--space-06);
+}
+[data-testid="stMetricLabel"] p {
+  font-size: var(--size-caption);
+  font-weight: 600;
+  letter-spacing: var(--tracking-caption);
+  text-transform: uppercase;
+  color: var(--onset-70);
+}
+
+/* Tables built with st.table: Onset header band with Bay text, Bay cells. */
+[data-testid="stTable"] table { background: var(--bay); }
+[data-testid="stTable"] thead th {
+  background: var(--onset);
+  color: var(--bay);
+  font-size: var(--size-bodySmall);
+  font-weight: 600;
+}
+[data-testid="stTable"] td {
+  font-size: var(--size-bodySmall);
+  line-height: var(--leading-bodySmall);
+  vertical-align: top;
+}
+/* Comparison tables scroll inside their own box, so the header row (company
+   names) and the first column (field names) stay in view while scrolling. */
+[data-testid="stTable"] > div { max-height: 75vh; overflow: auto; }
+[data-testid="stTable"] thead th { position: sticky; top: 0; z-index: 2; }
+[data-testid="stTable"] tbody td:first-child {
+  position: sticky;
+  left: 0;
+  z-index: 1;
+  background: var(--bay);
+  font-weight: 600;
+  box-shadow: 1px 0 0 var(--drape);
+}
+[data-testid="stTable"] thead th:first-child { left: 0; z-index: 3; }
+/* In tall rows the field name follows down the cell, just below the header row. */
+[data-testid="stTable"] tbody td:first-child > div { position: sticky; top: var(--space-10); }
+
+/* Section dividers in Drape. */
+hr { border-color: var(--drape) !important; }
+
+/* Phones and small tablets. 672px is the brand's md breakpoint (brand-tokens.css:
+   "Custom properties do not work inside @media. Use these literals."). */
+@media (max-width: 672px) {
+  .vrp-header { padding: var(--space-05) var(--space-06); }
+  .vrp-header .vrp-title { font-size: var(--size-h3); line-height: var(--leading-h3); }
+  /* Count tiles: compact, and wide enough that they wrap two per row. */
+  [data-testid="stMetric"] { min-width: var(--space-13); padding: var(--space-04) var(--space-05); }
+  /* Comparison table: readable columns that scroll sideways instead of squeezing. */
+  [data-testid="stTable"] th, [data-testid="stTable"] td { min-width: var(--space-13); }
+  [data-testid="stTable"] th:first-child, [data-testid="stTable"] td:first-child { min-width: var(--space-11); }
+}

@@ -1,0 +1,156 @@
+{
+  "competitor": "Labster",
+  "slug": "labster",
+  "snapshot": "data/snapshots/labster/2026-10-15_180204",
+  "extracted_at": "2026-10-15T18:06:40-06:00",
+  "extracted_by": "Claude Code session, model claude-opus-5-5",
+  "note": "Overlap with a tracked company: the about page says Labster's VR nursing simulation product is UbiSim, and the homepage links to ubisimvr.com. Labster's own pages are mostly STEM virtual labs. Counting both Labster and UbiSim may count the same nursing product twice in the Insights and Market overview.",
+  "pages_read": [
+    "about-us",
+    "discipline_health-sciences",
+    "home",
+    "simulation-courses",
+    "simulation-skills",
+    "simulations"
+  ],
+  "pages_failed": [],
+  "fields": {
+    "product_category": {
+      "status": "found",
+      "value": "Virtual lab simulations for STEM education (biology, chemistry, physics, health sciences), and VR nursing simulation through its UbiSim product.",
+      "evidence": [
+        {
+          "page": "about-us",
+          "quote": "Labster’s immersive learning platforms for STEM education and nursing simulation allow students to engage in real-world scenarios safely and repeatedly"
+        },
+        {
+          "page": "simulation-courses",
+          "quote": "Enhance nurse training and outcomes through UbiSim's immersive virtual reality."
+        }
+      ],
+      "note": "The about page says Labster's VR nursing simulation product is UbiSim, which is tracked separately."
+    },
+    "platforms": {
+      "status": "found",
+      "value": [
+        "Web",
+        "VR"
+      ],
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Higher education STEM programs use Labster to replace passive learning with hands-on virtual labs that improve retention, scale online courses, and prove outcomes."
+        },
+        {
+          "page": "about-us",
+          "quote": "Now, Labster is also redefining nursing education with its virtual reality (VR) nursing simulation product"
+        }
+      ],
+      "note": "Web is based on virtual labs used in 'online courses' and assigned from an LMS; no browser is named. VR applies to the UbiSim nursing product."
+    },
+    "key_capabilities": {
+      "status": "found",
+      "value": [
+        "Catalog of 300+ virtual lab simulations",
+        "LMS integration: assign labs and sync grades from the LMS",
+        "Syllabus matching tool and textbook alignment",
+        "Real-time performance and assessment reports",
+        "Customizable quizzes and automated grading",
+        "Labs matched to competency frameworks (NGSS, ACS, AAPT)",
+        "Course mapping by a Customer Success Manager (Advanced and Elite plans)",
+        "VR nursing simulation (UbiSim)",
+        "Live support by chat, help center and training"
+      ],
+      "evidence": [
+        {
+          "page": "simulations",
+          "quote": "Browse Our Catalog of 300+ Virtual Labs"
+        },
+        {
+          "page": "home",
+          "quote": "Assign Labster right from your LMS. Explore and select content, and monitor student results, all without having to leave your course page."
+        },
+        {
+          "page": "simulations",
+          "quote": "Syllabus Matching Tool\nFind Your Textbook"
+        },
+        {
+          "page": "home",
+          "quote": "Labster's real-time performance and assessment reports are highlighted as key"
+        },
+        {
+          "page": "home",
+          "quote": "customize quizzes, automate grading, and boost student engagement with interactive labs"
+        },
+        {
+          "page": "simulation-skills",
+          "quote": "Find virtual labs matched to competencies from common frameworks like NGSS, ACS, and AAPT."
+        },
+        {
+          "page": "simulations",
+          "quote": "Our Labster Advanced and Labster Elite plans include a dedicated Customer Success Manager who will work with you to match course syllabi to relevant simulations."
+        },
+        {
+          "page": "simulation-courses",
+          "quote": "Enhance nurse training and outcomes through UbiSim's immersive virtual reality."
+        },
+        {
+          "page": "home",
+          "quote": "Our support team is ready to help you and your students at every step of the process via Live Chat, Help Center, and training courses and guides."
+        }
+      ],
+      "note": ""
+    },
+    "target_customer": {
+      "status": "found",
+      "value": "Higher education and high school STEM programs and their instructors, including nursing, allied health and health sciences students in prerequisite science courses; nursing programs through UbiSim.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Higher education STEM programs use Labster"
+        },
+        {
+          "page": "discipline_health-sciences",
+          "quote": "Explore virtual labs for Nursing students, Allied Health students, and Health Sciences students."
+        }
+      ],
+      "note": "Course listings are tagged Higher Education and High School."
+    },
+    "value_proposition": {
+      "status": "found",
+      "value": "Immersive virtual labs at scale that build STEM students' confidence and real-world skills, help them persist, and extend hands-on learning beyond lab capacity.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Labster delivers immersive learning at scale, building the confidence and real-world skills STEM students need to persist, succeed, and thrive beyond the classroom."
+        },
+        {
+          "page": "home",
+          "quote": "Scale hands-on learning beyond lab capacity."
+        }
+      ],
+      "note": ""
+    },
+    "tagline": {
+      "status": "not_found",
+      "value": null,
+      "evidence": [],
+      "note": "No official tagline found: no slogan is marked ™, ® or ℠. The sentence that repeats on home and about ('Labster delivers immersive learning at scale, ...') reads as a description, not a slogan. Homepage headline: 'Build Confidence That Keeps STEM Students Moving Forward'; also 'Labster Makes STEM Click'."
+    },
+    "pricing": {
+      "status": "found",
+      "value": "Not published; subscription plans, including Labster Advanced and Labster Elite.",
+      "evidence": [
+        {
+          "page": "simulations",
+          "quote": "Every subscription includes access to choose virtual lab simulations that best fit your curriculum."
+        },
+        {
+          "page": "simulations",
+          "quote": "Our Labster Advanced and Labster Elite plans include a dedicated Customer Success Manager"
+        }
+      ],
+      "note": "Plan names only; no prices on the 7 pages read. The homepage also mentions buying through campus bookstores."
+    }
+  }
+}

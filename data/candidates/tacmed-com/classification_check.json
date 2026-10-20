@@ -1,0 +1,28 @@
+{
+  "checked_at": "2026-10-14T11:24:43-06:00",
+  "proposed": "2nd Degree",
+  "problems": [],
+  "results": [
+    {
+      "page": "home",
+      "quote": "Emergency healthcare for complex tactical environments.",
+      "source_url": "https://training.tacmed.com.au/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "home",
+      "quote": "Complex tactical scenario-based simulation",
+      "source_url": "https://training.tacmed.com.au/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "pages_simulation",
+      "quote": "Tactical and clinical medical simulation equipment for defence, emergency services and healthcare training.",
+      "source_url": "https://tacmedaustralia.com.au/pages/simulation",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    }
+  ]
+}

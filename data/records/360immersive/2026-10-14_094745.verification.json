@@ -1,0 +1,195 @@
+{
+  "record": "data/records/360immersive/2026-10-14_094745.json",
+  "checked_at": "2026-10-15T18:59:31-06:00",
+  "results": {
+    "product_category": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.360immersive.com/",
+          "quote": "Affordable Immersive Training for Construction and General Industry, featuring VR training simulations that offer a higher level of engagement and learning retention!",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.360immersive.com/",
+          "quote": "Put the FUN back into fundamental safety training using interactive eLearning, VR simulations, and gamified content.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.360immersive.com/",
+          "quote": "Each course is about 20 minutes in length and supports training requirements for OSHA 10-hour certification.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "platforms": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.360immersive.com/",
+          "quote": "The simulations can be viewed on desktop (PC & Mac) and current mobile devices (iOS and Android) and for a more immersive experience support is offered for the Meta Quest 2 & 3 VR Headsets.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "key_capabilities": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.360immersive.com/",
+          "quote": "MVST consists of 60+ microlearning courses that incorporate interactive simulations, gamification, and virtual reality technology.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.360immersive.com/",
+          "quote": "Our comprehensive course library consists of Full Courses, ranging from 15 to 20 minutes in duration, Short Sprint Courses that are approximately 7 to 10 minutes long, and Simulation Only modules.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.360immersive.com/",
+          "quote": "Each MVST course is SCORM compliant to ensure ease of compatibility and integration into your Learning Management System (LMS).",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.360immersive.com/",
+          "quote": "We have you covered with our own secure LMS to assign MVST to your learners.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.360immersive.com/",
+          "quote": "every eLearning course can be used as a self-paced, instructor-led, or virtual instructor-led training aid.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.360immersive.com/",
+          "quote": "We develop our VR simulations and gamified content using a proprietary gamification platform that allows our team to quickly customize training experiences \u2013 typically within 2 to 3 weeks.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.360immersive.com/",
+          "quote": "Feel free to mix and match eLearning courses to meet your training and budgetary needs.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.360immersive.com/",
+          "quote": "Start Free Trial",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "target_customer": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.360immersive.com/",
+          "quote": "Affordable Immersive Training\nfor Construction and General Industry",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.360immersive.com/",
+          "quote": "Let\u2019s work together to ensure your onboarding, refresher training, and upskilling programs are engaging, educational, and entertaining.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "about-us",
+          "source_url": "https://www.360immersive.com/about-us/",
+          "quote": "ensure any organization, regardless of its size, can easily access the best safety training possible",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "value_proposition": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.360immersive.com/",
+          "quote": "VR training simulations that offer a higher level of engagement and learning retention!",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.360immersive.com/",
+          "quote": "Say goodbye to expensive pilot projects, and hello to custom training solutions at a fraction of the cost!",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "about-us",
+          "source_url": "https://www.360immersive.com/about-us/",
+          "quote": "We create experiences that capture the perspective of the worker to generate an emotional connection that increases engagement, retention, and enjoyment of training materials.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "tagline": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "about-us",
+          "source_url": "https://www.360immersive.com/about-us/",
+          "quote": "Total Worker Safety\u2122",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "pricing": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.360immersive.com/",
+          "quote": "Please contact us for volume discounts and any other pricing questions!",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    }
+  }
+}

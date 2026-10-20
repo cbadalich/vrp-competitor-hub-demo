@@ -1,0 +1,15 @@
+{
+  "competitor": "Laerdal Medical",
+  "requested_url": "https://laerdal.com/us/solutions/",
+  "fetched_at": "2026-10-13T18:37:23-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.laerdal.com/us/solutions/",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "Solutions | Laerdal Medical",
+  "meta_description": "",
+  "html_bytes": 474691,
+  "text_characters": 4476
+}

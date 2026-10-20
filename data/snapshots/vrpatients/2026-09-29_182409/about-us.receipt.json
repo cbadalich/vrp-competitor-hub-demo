@@ -1,0 +1,15 @@
+{
+  "competitor": "VRpatients",
+  "requested_url": "https://vrpatients.com/about-us/",
+  "fetched_at": "2026-09-29T18:25:26-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://vrpatients.com/about-us/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "About Us - VRpatients",
+  "meta_description": "VRpatients\u2122 and its parent company, Virtual Education Systems, began as a startup funded by Cincinnati-based tech incubator CincyTech and Columbus-based Rev1 Ventures before it was acquired in 2018.",
+  "html_bytes": 199343,
+  "text_characters": 1556
+}

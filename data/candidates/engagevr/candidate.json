@@ -1,0 +1,68 @@
+{
+  "slug": "engagevr",
+  "name": "ENGAGE XR",
+  "website": "https://engagevr.io/",
+  "domain": "engagevr.io",
+  "aliases": [],
+  "status": "rejected",
+  "first_seen": "2026-09-29T17:38:20-06:00",
+  "last_seen": "2026-09-29T17:38:20-06:00",
+  "sightings": [
+    {
+      "source": "earlier research list",
+      "query": "\"ENGAGE XR\" official website",
+      "url": "https://craft.co/engage-xr",
+      "snippet": "engage xr",
+      "website_from": "search summary",
+      "found_at": "2026-09-29T17:38:20-06:00"
+    }
+  ],
+  "possible_duplicate_of": [],
+  "snapshot": "data/candidates/engagevr/snapshots/2026-09-29_173820",
+  "extra_pages": [],
+  "signals": {
+    "headset": [
+      "virtual reality",
+      "VR",
+      "augmented reality",
+      "XR"
+    ],
+    "simulation": [
+      "simulation",
+      "simulations"
+    ]
+  },
+  "suggested_pages": [
+    "https://engagevr.io/remote-vr-ar-colloboration/",
+    "https://engagevr.io/virtual-reality-events-vr-ar/",
+    "https://engagevr.io/virtual-classroom-solutions/",
+    "https://engagevr.io/ai-totems-digital-kiosks/",
+    "https://engagevr.io/about/about-the-team/",
+    "https://engagevr.io/features/",
+    "https://engagevr.io/build-immersive-vr-worlds-with-your-voice-generative-ai-on-engage-xr/",
+    "https://engagevr.io/vr-education-transforming-learning-through-immersive-experiences-like-titanic-vr/"
+  ],
+  "classification": {
+    "proposed": "Not Relevant",
+    "by": "Claude Code session, model claude-opus-5-5",
+    "at": "2026-09-29T17:48:00-06:00",
+    "snapshot": "data/candidates/engagevr/snapshots/2026-09-29_173820",
+    "reason": "ENGAGE is a general enterprise and education XR collaboration and training platform; the saved homepage shows no healthcare-worker training. The same page says the companies are in provisional liquidation.",
+    "evidence": [
+      {
+        "page": "home",
+        "quote": "ENGAGE is a cutting-edge immersive platform for collaboration and training, offering a secure environment where employees and managers can create and engage with training content using the latest AI and XR technologies."
+      },
+      {
+        "page": "home",
+        "quote": "ENGAGE XR Holdings and ENGAGE XR Limited are currently in provisional liquidation."
+      }
+    ]
+  },
+  "review": {
+    "decision": "rejected",
+    "at": "2026-09-29T18:12:56-06:00",
+    "reason": "ENGAGE is a general enterprise and education XR collaboration and training platform; the saved homepage shows no healthcare-worker training. The same page says the companies are in provisional liquidation."
+  },
+  "name_on_site": true
+}

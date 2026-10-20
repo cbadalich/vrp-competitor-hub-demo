@@ -1,0 +1,265 @@
+{
+  "record": "data/records/simx/2026-09-23_094850.json",
+  "checked_at": "2026-10-13T18:27:47-06:00",
+  "results": {
+    "product_category": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.simxvr.com/",
+          "quote": "SimX is the world's leading VR medical simulation training platform of patient simulators for nurses, physicians, first responders, and more.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "platform",
+          "source_url": "https://www.simxvr.com/platform/",
+          "quote": "The VR medical simulation platform built for teams.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "platform",
+          "source_url": "https://www.simxvr.com/platform/",
+          "quote": "With SimX you don\u2019t have to buy a different platform for your Nursing and EMS trainees.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "platforms": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "platform",
+          "source_url": "https://www.simxvr.com/platform/",
+          "quote": "SimX is built from the ground up to be compatible with all major Virtual Reality headsets.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "platform",
+          "source_url": "https://www.simxvr.com/platform/",
+          "quote": "SimX is the only VR medical training system compatible with the newest cutting-edge all-in-one headsets",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "platform_scenario-editor",
+          "source_url": "https://www.simxvr.com/platform/scenario-editor/",
+          "quote": "lets educators adapt existing professional VR scenarios themselves, in a web browser, without waiting on a development team.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "key_capabilities": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "platform",
+          "source_url": "https://www.simxvr.com/platform/",
+          "quote": "Each simulated patient encounter has multiplayer functionality for both co-located and non-co-located training groups.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "platform",
+          "source_url": "https://www.simxvr.com/platform/",
+          "quote": "4+ learners around one virtual patient",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.simxvr.com/",
+          "quote": "Choose scenarios from the SimX marketplace, which hosts the largest library of simulated patient encounters in the world, or build custom scenarios to fit your simulation needs.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "platform_virtual-manikin",
+          "source_url": "https://www.simxvr.com/platform/virtual-manikin/",
+          "quote": "In real time, simulation moderators adjust the scenario to meet learner needs.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "platform_scenario-editor",
+          "source_url": "https://www.simxvr.com/platform/scenario-editor/",
+          "quote": "It\u2019s the no-code customization layer built into SimX that lets educators adapt existing professional VR scenarios themselves, in a web browser, without waiting on a development team.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "platform_ai-assistant",
+          "source_url": "https://www.simxvr.com/platform/ai-assistant/",
+          "quote": "By automating character management, dialogue, actions, and scenario flow, educators can shift their focus from operational control to instruction, coaching, and evaluation.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "platform_autonomous-simulation",
+          "source_url": "https://www.simxvr.com/platform/autonomous-simulation/",
+          "quote": "Eliminate the need for in-room staff entirely.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "platform_autonomous-simulation",
+          "source_url": "https://www.simxvr.com/platform/autonomous-simulation/",
+          "quote": "Learners control every character using their voice.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "platform",
+          "source_url": "https://www.simxvr.com/platform/",
+          "quote": "View timestamps for critical actions",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "platform",
+          "source_url": "https://www.simxvr.com/platform/",
+          "quote": "Record and playback completed encounters",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "platform",
+          "source_url": "https://www.simxvr.com/platform/",
+          "quote": "Export assessments and performance report",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "platform_autonomous-simulation",
+          "source_url": "https://www.simxvr.com/platform/autonomous-simulation/",
+          "quote": "Track critical objectives automatically and deliver instant after-action reports via email",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "platform",
+          "source_url": "https://www.simxvr.com/platform/",
+          "quote": "Proprietary tools designed to control dialogue, animations, and patient vitals",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "platform_offline-mode",
+          "source_url": "https://www.simxvr.com/platform/offline-mode/",
+          "quote": "Run fully immersive VR medical simulations without a live internet connection",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "target_customer": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "about",
+          "source_url": "https://www.simxvr.com/about/",
+          "quote": "empowering hospitals, universities, and military teams to train with realistic, high-fidelity scenarios anytime, anywhere.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "virtual-reality-simulation-for-nurses",
+          "source_url": "https://www.simxvr.com/virtual-reality-simulation-for-nurses/",
+          "quote": "Virtual Reality Simulation Training Solutions for Pre- and Post-Licensure Nurses",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "platform",
+          "source_url": "https://www.simxvr.com/platform/",
+          "quote": "Targeted Learner Populations Include:",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "platform",
+          "source_url": "https://www.simxvr.com/platform/",
+          "quote": "Paramedics & EMTs",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "platform_offline-mode",
+          "source_url": "https://www.simxvr.com/platform/offline-mode/",
+          "quote": "For healthcare institutions, government programs, and global training organizations operating in environments with unreliable or no connectivity",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "value_proposition": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "platform",
+          "source_url": "https://www.simxvr.com/platform/",
+          "quote": "High-fidelity, multiplayer scenarios that let programs scale team-based training without scaling staff or lab space.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.simxvr.com/",
+          "quote": "SimX leverages VR to enable the kind of difficult-to-simulate clinical encounters that are crucial for enhancing critical thinking and clinical judgment.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "tagline": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.simxvr.com/",
+          "quote": "LOAD, LEARN, REPEAT TM",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "platform",
+          "source_url": "https://www.simxvr.com/platform/",
+          "quote": "LOAD, LEARN, REPEAT TM",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "pricing": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "platform_virtual-manikin",
+          "source_url": "https://www.simxvr.com/platform/virtual-manikin/",
+          "quote": "controlled with the click of a button.\nGet Pricing",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    }
+  }
+}

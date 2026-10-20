@@ -1,0 +1,11 @@
+{
+  "competitor": "FLAIM Systems",
+  "requested_url": "https://flaimsystems.com/eod-training/",
+  "fetched_at": "2026-10-14T09:49:33-06:00",
+  "ok": false,
+  "robots": "no robots.txt (HTTP 500); allowed by default",
+  "http_status": 500,
+  "final_url": "https://flaimsystems.com/eod-training/",
+  "content_type": "",
+  "error": "HTTP error 500 INTERNAL SERVER ERROR"
+}

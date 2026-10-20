@@ -1,0 +1,221 @@
+{
+  "record": "data/records/inveristraining/2026-10-14_094745.json",
+  "checked_at": "2026-10-15T18:59:31-06:00",
+  "results": {
+    "product_category": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.inveristraining.com/",
+          "quote": "InVeris is the leading supplier of integrated live fire and virtual reality weapons training for public safety, military and shooting ranges.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "virtual-training",
+          "source_url": "https://www.inveristraining.com/virtual-training/",
+          "quote": "InVeris develops, manufactures, installs, and supports small-arms training systems and corresponding weapon simulators for our global military, paramilitary and security agency customers.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "platforms": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "virtual-training_military-virtual-tactical-small-arms-training-marksmanship",
+          "source_url": "https://www.inveristraining.com/virtual-training/military-virtual-tactical-small-arms-training-marksmanship/",
+          "quote": "fats\u00ae VR \u2013 Military Virtual Reality Training: A fully immersive VR training solution designed for combat readiness.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "virtual-training_military-virtual-tactical-small-arms-training-marksmanship",
+          "source_url": "https://www.inveristraining.com/virtual-training/military-virtual-tactical-small-arms-training-marksmanship/",
+          "quote": "fats\u00ae AR \u2013 Military Augmented Reality Training: Blends real and virtual worlds to create immersive mission rehearsal environments.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "virtual-training_military-virtual-tactical-small-arms-training-marksmanship",
+          "source_url": "https://www.inveristraining.com/virtual-training/military-virtual-tactical-small-arms-training-marksmanship/",
+          "quote": "Fixed installations with 180- or 300-degree wraparound screens",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "key_capabilities": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "virtual-training_military-virtual-tactical-small-arms-training-marksmanship",
+          "source_url": "https://www.inveristraining.com/virtual-training/military-virtual-tactical-small-arms-training-marksmanship/",
+          "quote": "Real-time feedback and After-Action Review (AAR) with multi-angle replay to reinforce skills and decision-making.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "virtual-training_military-virtual-tactical-small-arms-training-marksmanship_fats-vr-2",
+          "source_url": "https://www.inveristraining.com/virtual-training/military-virtual-tactical-small-arms-training-marksmanship/fats-vr-2/",
+          "quote": "Easily create, edit, and save custom scenarios.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "virtual-training",
+          "source_url": "https://www.inveristraining.com/virtual-training/",
+          "quote": "Weapon handling with our BlueFire\u00ae wireless weapon simulators, which maintain the form, fit and function of the officer\u2019s own weapon.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "virtual-training_military-virtual-tactical-small-arms-training-marksmanship_fats-vr-2",
+          "source_url": "https://www.inveristraining.com/virtual-training/military-virtual-tactical-small-arms-training-marksmanship/fats-vr-2/",
+          "quote": "Recoiling weapons \u2013 we provide realistic recoiling Pistol and Rifle simulators.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "virtual-training_military-virtual-tactical-small-arms-training-marksmanship",
+          "source_url": "https://www.inveristraining.com/virtual-training/military-virtual-tactical-small-arms-training-marksmanship/",
+          "quote": "De-escalation, use-of-force, and non-lethal options aligned with modern rules of engagement",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "virtual-training_military-virtual-tactical-small-arms-training-marksmanship",
+          "source_url": "https://www.inveristraining.com/virtual-training/military-virtual-tactical-small-arms-training-marksmanship/",
+          "quote": "Mission-critical collective training for squad- and platoon-level operations",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "virtual-training_military-virtual-tactical-small-arms-training-marksmanship_fats-vr-2",
+          "source_url": "https://www.inveristraining.com/virtual-training/military-virtual-tactical-small-arms-training-marksmanship/fats-vr-2/",
+          "quote": "Can support two trainees now and will expand to four or more trainees soon.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "virtual-training_military-virtual-tactical-small-arms-training-marksmanship_fats-vr-2",
+          "source_url": "https://www.inveristraining.com/virtual-training/military-virtual-tactical-small-arms-training-marksmanship/fats-vr-2/",
+          "quote": "Easy setup \u2013 the system uses no external tracking infrastructure.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "virtual-training_military-virtual-tactical-small-arms-training-marksmanship_fats-vr-2",
+          "source_url": "https://www.inveristraining.com/virtual-training/military-virtual-tactical-small-arms-training-marksmanship/fats-vr-2/",
+          "quote": "An Expanding library of high-quality environments with adjustable weather, time of day, lighting conditions and trainee/suspect/bystander starting locations.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "virtual-training_military-virtual-tactical-small-arms-training-marksmanship_fats-vr-2",
+          "source_url": "https://www.inveristraining.com/virtual-training/military-virtual-tactical-small-arms-training-marksmanship/fats-vr-2/",
+          "quote": "An Expanding library of suspect and bystander avatars, with variations in gender, ethnicity, and clothing.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "virtual-training_military-virtual-tactical-small-arms-training-marksmanship_fats-vr-2",
+          "source_url": "https://www.inveristraining.com/virtual-training/military-virtual-tactical-small-arms-training-marksmanship/fats-vr-2/",
+          "quote": "Nuisance generator to create realistic background noises and visuals (e.g. barking dog, shots fired, yelling).",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "virtual-training_military-virtual-tactical-small-arms-training-marksmanship",
+          "source_url": "https://www.inveristraining.com/virtual-training/military-virtual-tactical-small-arms-training-marksmanship/",
+          "quote": "Remote multi-user training with liver instructor and trainee interaction",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "virtual-training",
+          "source_url": "https://www.inveristraining.com/virtual-training/",
+          "quote": "Only InVeris integrates virtual with live-fire system to give officers realistic, total training solutions",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "target_customer": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.inveristraining.com/",
+          "quote": "integrated live fire and virtual reality weapons training for public safety, military and shooting ranges.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "virtual-training",
+          "source_url": "https://www.inveristraining.com/virtual-training/",
+          "quote": "InVeris is the simulation system of record for the US Army and US Marine Corps.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "virtual-training",
+          "source_url": "https://www.inveristraining.com/virtual-training/",
+          "quote": "Federal, state, local and international public safety agencies around the world turn to our simulation systems to complement live-fire training.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "value_proposition": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "virtual-training_military-virtual-tactical-small-arms-training-marksmanship",
+          "source_url": "https://www.inveristraining.com/virtual-training/military-virtual-tactical-small-arms-training-marksmanship/",
+          "quote": "Our mission is to advance human performance, improve combat readiness, and enhance safety for soldiers, sailors, airmen, and marines worldwide.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "virtual-training_military-virtual-tactical-small-arms-training-marksmanship_fats-vr-2",
+          "source_url": "https://www.inveristraining.com/virtual-training/military-virtual-tactical-small-arms-training-marksmanship/fats-vr-2/",
+          "quote": "Bringing the power of proven experience, immersive scenarios, and realistic weapons to a 360\u00b0 virtual training environment.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "virtual-training_military-virtual-tactical-small-arms-training-marksmanship",
+          "source_url": "https://www.inveristraining.com/virtual-training/military-virtual-tactical-small-arms-training-marksmanship/",
+          "quote": "This flexible infrastructure dramatically reduces the logistics and cost of delivering high-impact training while enabling units to train where and when they need to.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "tagline": {
+      "status": "not_found",
+      "result": "not_found",
+      "problems": [],
+      "evidence": []
+    },
+    "pricing": {
+      "status": "not_found",
+      "result": "not_found",
+      "problems": [],
+      "evidence": []
+    }
+  }
+}

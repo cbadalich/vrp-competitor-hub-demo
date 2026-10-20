@@ -1,0 +1,92 @@
+{
+  "slug": "laerdal",
+  "name": "Laerdal Medical",
+  "website": "https://laerdal.com/",
+  "domain": "laerdal.com",
+  "aliases": [],
+  "status": "approved",
+  "first_seen": "2026-09-29T17:18:53-06:00",
+  "last_seen": "2026-09-29T17:18:53-06:00",
+  "sightings": [
+    {
+      "source": "web search",
+      "query": "virtual patient simulation for nursing students",
+      "url": "https://laerdal.com/information/help-nursing-students-develop-clinical-reasoning-skills-competence-and-confidence-with-vsim-for-nursing/",
+      "snippet": "help nursing students develop clinical reasoning skills competence and confidence with vsim for nursing",
+      "found_at": "2026-09-29T17:18:53-06:00"
+    }
+  ],
+  "possible_duplicate_of": [],
+  "snapshot": "data/candidates/laerdal/snapshots/2026-09-29_172234",
+  "extra_pages": [
+    "https://laerdal.com/ca/products/courses-learning/virtual-simulation/virtual-simulation-for-students",
+    "https://laerdal.com/information/help-nursing-students-develop-clinical-reasoning-skills-competence-and-confidence-with-vsim-for-nursing/",
+    "https://laerdal.com/us/products/courses-learning/virtual-simulation/"
+  ],
+  "signals": {
+    "healthcare_training": [
+      "nursing",
+      "EMS",
+      "medical education",
+      "healthcare simulation",
+      "healthcare training",
+      "patient simulation"
+    ],
+    "simulation": [
+      "simulation",
+      "simulations",
+      "simulator",
+      "simulators",
+      "manikins"
+    ],
+    "public_safety": [
+      "military"
+    ]
+  },
+  "suggested_pages": [
+    "https://laerdal.com/us/solutions/",
+    "https://laerdal.com/us/solutions/healthcare-quality-improvement/",
+    "https://laerdal.com/us/solutions/healthcare-quality-improvement/emergency-department/",
+    "https://laerdal.com/us/solutions/healthcare-quality-improvement/intensive-care/",
+    "https://laerdal.com/us/solutions/healthcare-quality-improvement/obstetrics/",
+    "https://laerdal.com/us/solutions/healthcare-quality-improvement/neonatal-care/",
+    "https://laerdal.com/us/solutions/competency-based-education/",
+    "https://laerdal.com/us/solutions/competency-based-education/nursing-education/"
+  ],
+  "classification": {
+    "proposed": "2nd Degree",
+    "by": "Claude Code session, model claude-opus-5-5",
+    "at": "2026-09-29T17:32:21-06:00",
+    "snapshot": "data/candidates/laerdal/snapshots/2026-09-29_172234",
+    "reason": "Best-matching product is Laerdal's virtual simulation range, including vSim for Nursing, which trains nursing students on screen. No headset term on 3 saved pages, including the Virtual Simulation product page (which does not list individual products in its saved text).",
+    "evidence": [
+      {
+        "page": "us_products_courses-learning_virtual-simulation",
+        "quote": "Laerdal's virtual healthcare simulation solutions offer interactive, realistic experiences that help students achieve these goals."
+      },
+      {
+        "page": "information_help-nursing-students-develop-clinical-reasoning-skills-competence-and-confidence-with-vsim-for-nursing",
+        "quote": "vSim for Nursing, co-developed by Laerdal Medical and Wolters Kluwer, helps prepare for and reinforce the lessons of high-fidelity patient simulators."
+      },
+      {
+        "page": "home",
+        "quote": "Laerdal Medical is a world leading provider of training, educational and therapy products for lifesaving and emergency medical care."
+      }
+    ]
+  },
+  "review": {
+    "decision": "approved",
+    "type": "2nd Degree",
+    "at": "2026-09-29T18:15:07-06:00",
+    "reason": "",
+    "tracked_slug": "laerdal",
+    "pages": [
+      "https://laerdal.com/",
+      "https://laerdal.com/ca/products/courses-learning/virtual-simulation/virtual-simulation-for-students",
+      "https://laerdal.com/information/help-nursing-students-develop-clinical-reasoning-skills-competence-and-confidence-with-vsim-for-nursing/",
+      "https://laerdal.com/us/products/courses-learning/virtual-simulation/",
+      "https://laerdal.com/us/solutions/"
+    ]
+  },
+  "name_on_site": true
+}

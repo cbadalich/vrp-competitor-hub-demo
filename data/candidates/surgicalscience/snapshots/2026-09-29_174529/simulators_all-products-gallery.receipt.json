@@ -1,0 +1,15 @@
+{
+  "competitor": "Surgical Science",
+  "requested_url": "https://surgicalscience.com/simulators/all-products-gallery/",
+  "fetched_at": "2026-09-29T17:45:42-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://surgicalscience.com/simulators/all-products-gallery/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "Browse all products - Surgical Science",
+  "meta_description": "",
+  "html_bytes": 74530,
+  "text_characters": 4925
+}

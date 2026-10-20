@@ -1,0 +1,79 @@
+{
+  "slug": "evolve-elsevier",
+  "name": "Elsevier",
+  "website": "https://evolve.elsevier.com/",
+  "domain": "elsevier.com",
+  "aliases": [],
+  "status": "approved",
+  "first_seen": "2026-09-29T17:18:45-06:00",
+  "last_seen": "2026-09-29T17:18:46-06:00",
+  "sightings": [
+    {
+      "source": "web search",
+      "query": "virtual reality nursing simulation software",
+      "url": "https://evolve.elsevier.com/education/training/simulation-learning-system-with-virtual-reality-sls-vr",
+      "snippet": "simulation learning system with virtual reality sls vr",
+      "found_at": "2026-09-29T17:18:45-06:00"
+    },
+    {
+      "source": "web search",
+      "query": "virtual patient simulation for nursing students",
+      "url": "https://evolve.elsevier.com/education/expertise/assess-review/transformative-learning-through-virtual-patient-simulations",
+      "snippet": "Transformative Learning through Virtual Patient Simulations",
+      "found_at": "2026-09-29T17:18:46-06:00"
+    }
+  ],
+  "possible_duplicate_of": [],
+  "snapshot": "data/candidates/evolve-elsevier/snapshots/2026-09-29_171924",
+  "extra_pages": [
+    "https://evolve.elsevier.com/education/training/simulation-learning-system-with-virtual-reality-sls-vr"
+  ],
+  "signals": {
+    "healthcare_training": [
+      "nursing",
+      "nurse",
+      "clinical skills"
+    ],
+    "headset": [
+      "virtual reality",
+      "VR",
+      "headset",
+      "headsets",
+      "Meta Quest"
+    ],
+    "simulation": [
+      "simulation",
+      "simulations"
+    ]
+  },
+  "suggested_pages": [],
+  "classification": {
+    "proposed": "1st Degree",
+    "by": "Claude Code session, model claude-opus-5-5",
+    "at": "2026-09-29T17:24:32-06:00",
+    "snapshot": "data/candidates/evolve-elsevier/snapshots/2026-09-29_171924",
+    "reason": "Best-matching product is Simulation Learning System with Virtual Reality (SLS with VR). The saved page describes it as a nursing VR simulation for students, run on Meta Quest headsets through a SimX partnership. The homepage itself is empty (script-rendered).",
+    "evidence": [
+      {
+        "page": "education_training_simulation-learning-system-with-virtual-reality-sls-vr",
+        "quote": "Enhance student clinical judgment with the first hands-on nursing virtual reality simulation of its kind."
+      },
+      {
+        "page": "education_training_simulation-learning-system-with-virtual-reality-sls-vr",
+        "quote": "Installing the SimX VR App On Meta Quest Headsets"
+      }
+    ]
+  },
+  "review": {
+    "decision": "approved",
+    "type": "1st Degree",
+    "at": "2026-09-29T18:13:02-06:00",
+    "reason": "",
+    "tracked_slug": "evolve-elsevier",
+    "pages": [
+      "https://evolve.elsevier.com/",
+      "https://evolve.elsevier.com/education/training/simulation-learning-system-with-virtual-reality-sls-vr"
+    ]
+  },
+  "name_on_site": true
+}

@@ -1,0 +1,16 @@
+{
+  "competitor": "Elsevier",
+  "requested_url": "https://evolve.elsevier.com/",
+  "fetched_at": "2026-10-14T09:48:32-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://evolve.elsevier.com:443/cs/",
+  "content_type": "text/html",
+  "error": null,
+  "title": "Elsevier Education Portal",
+  "meta_description": "",
+  "html_bytes": 45626,
+  "text_characters": 20,
+  "warning": "only 20 characters of text; the page may be built by JavaScript, so compare page.txt with the live site"
+}

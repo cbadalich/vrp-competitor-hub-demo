@@ -1,0 +1,229 @@
+{
+  "record": "data/records/fundamentalvr/2026-10-14_094745.json",
+  "checked_at": "2026-10-15T18:59:31-06:00",
+  "results": {
+    "product_category": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.fundamentalxr.com/",
+          "quote": "We create immersive solutions for knowledge acquisition and skills development in the medical sector for any interactive medium.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.fundamentalxr.com/",
+          "quote": "We are the complete training solution for clinical, manufacturing, and growth teams in MedTech, with an advanced platform to deliver it.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "clinical-areas",
+          "source_url": "https://www.fundamentalxr.com/clinical-areas",
+          "quote": "Immersive simulation built for the clinical realities of each area of practice.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "platforms": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.fundamentalxr.com/",
+          "quote": "Immersive experiences that place you in real world medical environments.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.fundamentalxr.com/",
+          "quote": "MR uses a headset to mix virtual content with real-world settings.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.fundamentalxr.com/",
+          "quote": "A digital training layer over the real world.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.fundamentalxr.com/",
+          "quote": "Experiences for browsers or native mobile or tablet applications.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.fundamentalxr.com/",
+          "quote": "Our technology enables simple conversion across immersive, app, and web based platforms.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "clinical-areas",
+          "source_url": "https://www.fundamentalxr.com/clinical-areas",
+          "quote": "Haptic VR for cataract, retina and gene therapy training.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "key_capabilities": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.fundamentalxr.com/",
+          "quote": "Track usage and measure learning. Monitor training and assessment on our learning platform.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.fundamentalxr.com/",
+          "quote": "Our suite of imaging technologies supports any procedure, and accurately simulates your own imaging device.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.fundamentalxr.com/",
+          "quote": "Our technology enables simple conversion across immersive, app, and web based platforms.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.fundamentalxr.com/",
+          "quote": "Stunning recreations of any patient or treatment mechanism, large or small, inside and out.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.fundamentalxr.com/",
+          "quote": "Easy collaboration enables tutoring, teamwork or role-based training anywhere, anytime.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.fundamentalxr.com/",
+          "quote": "Dependable, secure, and ready to use or integrate with any single-sign on system.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.fundamentalxr.com/",
+          "quote": "Physical feedback through touch or motion.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.fundamentalxr.com/",
+          "quote": "Deeper learning with generative AI",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.fundamentalxr.com/",
+          "quote": "How a digital twin and virtual ORs transformed urology training at scale.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "target_customer": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.fundamentalxr.com/",
+          "quote": "We are the complete training solution for clinical, manufacturing, and growth teams in MedTech",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "clinical-areas",
+          "source_url": "https://www.fundamentalxr.com/clinical-areas",
+          "quote": "Injection technique and therapy administration for pharma teams.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.fundamentalxr.com/",
+          "quote": "200+\nHealthcare institutions",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "case-studies",
+          "source_url": "https://www.fundamentalxr.com/case-studies",
+          "quote": "Evidence from immersive training programs in ophthalmology and medical education, and the implementation research behind them.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "value_proposition": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.fundamentalxr.com/",
+          "quote": "\u2022 Build competency faster and boost commercial traction\n\u2022 Unlock deeper insights with real-time, actionable feedback\n\u2022 Reduce operational friction and cut costs for greater efficiency",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "tagline": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.fundamentalxr.com/",
+          "quote": "Immersive technology to accelerate\nhuman excellence",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.fundamentalxr.com/",
+          "quote": "Fundamental XR - Immersive Technology to Accelerate Human Excellence",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "pricing": {
+      "status": "not_found",
+      "result": "not_found",
+      "problems": [],
+      "evidence": []
+    }
+  }
+}

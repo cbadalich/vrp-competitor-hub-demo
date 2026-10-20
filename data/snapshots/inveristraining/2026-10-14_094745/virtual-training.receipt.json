@@ -1,0 +1,15 @@
+{
+  "competitor": "InVeris Training Solutions",
+  "requested_url": "https://www.inveristraining.com/virtual-training/",
+  "fetched_at": "2026-10-14T09:49:45-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.inveristraining.com/virtual-training/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "Virtual Training Solutions | AR/VR & Simulation Systems",
+  "meta_description": "Explore InVeris\u2019s virtual training, AR, VR & simulation systems for military & public safety. Enhance readiness with immersive scenario-based training",
+  "html_bytes": 321733,
+  "text_characters": 11984
+}

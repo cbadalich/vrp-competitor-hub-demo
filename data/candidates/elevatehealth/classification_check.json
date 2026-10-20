@@ -1,0 +1,28 @@
+{
+  "checked_at": "2026-10-14T11:24:43-06:00",
+  "proposed": "2nd Degree",
+  "problems": [],
+  "results": [
+    {
+      "page": "home",
+      "quote": "From patient simulators to center management, we provide integrated solutions for nursing programs, hospitals, and emergency services.",
+      "source_url": "https://elevatehealth.net/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "product_evo-aura-auscultation-training",
+      "quote": "A standardized patient or simulator wears the Evo AuRA vest, which contains RFID mesh at anatomically correct auscultation points.",
+      "source_url": "https://elevatehealth.net/product/evo-aura-auscultation-training/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "products",
+      "quote": "Evo: Modular Patient Simulator Evo is a next-generation, high-fidelity patient simulator",
+      "source_url": "https://elevatehealth.net/products/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    }
+  ]
+}

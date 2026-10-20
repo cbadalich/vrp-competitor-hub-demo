@@ -1,0 +1,15 @@
+{
+  "competitor": "GigXR",
+  "requested_url": "https://www.gigxr.com/solutions/nursing/",
+  "fetched_at": "2026-09-29T18:50:29-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.gigxr.com/solutions/nursing",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "Immersive training for nursing education | GigXR",
+  "meta_description": "Scale clinical reasoning, assessment, anatomy, and communication practice across large nursing cohorts \u2014 for a fraction of the cost of manikins and skills trainers.",
+  "html_bytes": 30357,
+  "text_characters": 3351
+}

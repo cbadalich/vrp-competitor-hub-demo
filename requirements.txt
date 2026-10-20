@@ -1,0 +1,4 @@
+# Add-on libraries for the UI only. The pipeline scripts need nothing extra.
+# Install into the private environment with:
+#   ~/.venvs/ci-monitor/bin/pip install -r requirements.txt
+streamlit==1.64.0

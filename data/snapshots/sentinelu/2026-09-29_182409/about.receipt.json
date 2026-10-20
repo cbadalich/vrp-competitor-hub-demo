@@ -1,0 +1,15 @@
+{
+  "competitor": "Sentinel U",
+  "requested_url": "https://www.sentinelu.com/about/",
+  "fetched_at": "2026-09-29T18:43:14-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.sentinelu.com/about",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "About | Sentinel U\u00ae",
+  "meta_description": "Sentinel U\u00ae helps nurse educators teach more efficiently with virtual nursing simulations, competency-based learning tools, performance analytics, and evidence-based debriefing.",
+  "html_bytes": 64140,
+  "text_characters": 4323
+}

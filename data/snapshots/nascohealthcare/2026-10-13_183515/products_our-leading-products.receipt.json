@@ -1,0 +1,11 @@
+{
+  "competitor": "Nasco Healthcare",
+  "requested_url": "https://nascohealthcare.com/products/our-leading-products/",
+  "fetched_at": "2026-10-13T18:37:15-06:00",
+  "ok": false,
+  "robots": "allowed by robots.txt",
+  "http_status": 429,
+  "final_url": "https://nascohealthcare.com/products/our-leading-products/",
+  "content_type": "",
+  "error": "HTTP error 429 Too Many Requests"
+}

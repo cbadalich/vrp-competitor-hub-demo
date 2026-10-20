@@ -1,0 +1,21 @@
+{
+  "checked_at": "2026-10-14T11:24:43-06:00",
+  "proposed": "2nd Degree",
+  "problems": [],
+  "results": [
+    {
+      "page": "home",
+      "quote": "Sentinel U is advancing nursing academic education and healthcare professional training by providing virtual nursing simulations.",
+      "source_url": "https://www.sentinelu.com/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "learn_medical-surgical",
+      "quote": "Featuring 52 diverse patient scenarios and 3 levels of increasing difficulty to enhance learning outcomes.",
+      "source_url": "https://www.sentinelu.com/learn/medical-surgical",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    }
+  ]
+}

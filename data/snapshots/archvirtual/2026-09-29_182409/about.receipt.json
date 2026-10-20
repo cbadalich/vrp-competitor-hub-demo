@@ -1,0 +1,15 @@
+{
+  "competitor": "Arch Virtual",
+  "requested_url": "https://archvirtual.com/about/",
+  "fetched_at": "2026-09-29T18:33:09-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://archvirtual.com/about/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "About - Arch Virtual VR Training and Simulation for Education and Enterprise",
+  "meta_description": "",
+  "html_bytes": 172863,
+  "text_characters": 4776
+}

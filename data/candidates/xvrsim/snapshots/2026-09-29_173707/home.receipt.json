@@ -1,0 +1,15 @@
+{
+  "competitor": "XVR Simulation",
+  "requested_url": "https://www.xvrsim.com/",
+  "fetched_at": "2026-09-29T17:37:07-06:00",
+  "ok": true,
+  "robots": "no robots.txt (HTTP 404); allowed by default",
+  "http_status": 200,
+  "final_url": "https://learnprogroup.com/xvr/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "XVR | Training Software For Emergency Services",
+  "meta_description": "Train smarter with advanced VR simulation software designed for safety and emergency response teams. Realistic, scalable, and trusted worldwide. Explore now.",
+  "html_bytes": 317306,
+  "text_characters": 5603
+}

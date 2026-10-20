@@ -1,0 +1,8 @@
+{
+  "competitor": "UbiSim",
+  "requested_url": "https://www.ubisimvr.com/solutions/healthcare-systems/",
+  "fetched_at": "2026-09-23T11:06:26-06:00",
+  "ok": false,
+  "robots": "could not read robots.txt: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)",
+  "error": "skipped: could not read robots.txt: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)"
+}

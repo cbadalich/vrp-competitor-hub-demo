@@ -1,0 +1,28 @@
+{
+  "checked_at": "2026-10-14T11:24:43-06:00",
+  "proposed": "1st Degree",
+  "problems": [],
+  "results": [
+    {
+      "page": "home",
+      "quote": "Rapidly scale new-nurse onboarding in the procedural skills that matter most across your hospitals and health systems with the Osso VR Nursing Series and companion Osso Loop™ learning platform.",
+      "source_url": "https://www.ossovr.com/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "home",
+      "quote": "Clinically accurate VR procedural skills scenarios",
+      "source_url": "https://www.ossovr.com/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "about",
+      "quote": "Johnson & Johnson Institute highlights Osso VR as its VR training partner and announces plans to scale VR surgical training globally using Oculus headsets.",
+      "source_url": "https://www.ossovr.com/about",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    }
+  ]
+}

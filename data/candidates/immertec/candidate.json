@@ -1,0 +1,85 @@
+{
+  "slug": "immertec",
+  "name": "Immertec",
+  "website": "https://www.immertec.com/",
+  "domain": "immertec.com",
+  "aliases": [],
+  "status": "approved",
+  "first_seen": "2026-09-29T17:38:40-06:00",
+  "last_seen": "2026-09-29T17:38:40-06:00",
+  "sightings": [
+    {
+      "source": "earlier research list",
+      "query": "\"Immertec\" official website",
+      "url": "https://www.healthysimulation.com/vendors/immertec/",
+      "snippet": "www.healthysimulation.com",
+      "website_from": "search summary",
+      "found_at": "2026-09-29T17:38:40-06:00"
+    }
+  ],
+  "possible_duplicate_of": [],
+  "snapshot": "data/candidates/immertec/snapshots/2026-09-29_174204",
+  "extra_pages": [
+    "https://www.immertec.com/products/vr-viewer",
+    "https://www.immertec.com/industries/physicians"
+  ],
+  "signals": {
+    "healthcare_training": [
+      "medical education",
+      "physicians"
+    ],
+    "headset": [
+      "virtual reality",
+      "VR",
+      "headset",
+      "headsets",
+      "Meta Quest"
+    ]
+  },
+  "suggested_pages": [
+    "https://www.immertec.com/solutions/",
+    "https://www.immertec.com/solutions/live-broadcast/",
+    "https://www.immertec.com/solutions/recordings/",
+    "https://www.immertec.com/solutions/presenter-mode/",
+    "https://www.immertec.com/industries/medical-device-companies/",
+    "https://www.immertec.com/industries/medical-schools/",
+    "https://www.immertec.com/about/",
+    "https://www.immertec.com/about/team/"
+  ],
+  "classification": {
+    "proposed": "2nd Degree",
+    "by": "Owner decision 2026-09-29, applied by Claude Code (model claude-opus-5-5)",
+    "at": "2026-09-29T17:57:08-06:00",
+    "snapshot": "data/candidates/immertec/snapshots/2026-09-29_174204",
+    "reason": "Immertec trains physicians, and its VR Viewer on Meta Quest lets them watch live or recorded procedures. Watch-only headset content is not interactive, so under the owner's rule of 2026-09-29 it is 2nd Degree.",
+    "evidence": [
+      {
+        "page": "industries_physicians",
+        "quote": "Immertec connects you to cutting-edge techniques, devices, and peer insights through immersive training solutions"
+      },
+      {
+        "page": "products_vr-viewer",
+        "quote": "If you already own a Meta VR headset, including Quest 1, 2, or 3, Immertec supports access"
+      },
+      {
+        "page": "home",
+        "quote": "Train more physicians and sales reps faster and better"
+      }
+    ]
+  },
+  "review": {
+    "decision": "approved",
+    "type": "2nd Degree",
+    "at": "2026-09-29T18:14:18-06:00",
+    "reason": "",
+    "tracked_slug": "immertec",
+    "pages": [
+      "https://www.immertec.com/",
+      "https://www.immertec.com/products/vr-viewer",
+      "https://www.immertec.com/industries/physicians",
+      "https://www.immertec.com/solutions/",
+      "https://www.immertec.com/solutions/live-broadcast/"
+    ]
+  },
+  "name_on_site": true
+}

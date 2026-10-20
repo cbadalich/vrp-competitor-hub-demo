@@ -1,0 +1,28 @@
+{
+  "checked_at": "2026-10-14T11:24:43-06:00",
+  "proposed": "1st Degree",
+  "problems": [],
+  "results": [
+    {
+      "page": "home",
+      "quote": "Medical trainingEnhance clinical skills with AI-powered simulations.",
+      "source_url": "https://virti.com/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "ai-role-play-platform_learn",
+      "quote": "Bridge theory and practice with Virtual Human patient consultations and immersive medical simulations.",
+      "source_url": "https://virti.com/ai-role-play-platform/learn",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "ai-role-play-platform",
+      "quote": "Mobile, desktop or VR headset. Learners train whenever it fits their schedule",
+      "source_url": "https://virti.com/ai-role-play-platform",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "record": "data/records/vrpatients/2026-10-14_094745.json",
+  "checked_at": "2026-10-15T18:59:32-06:00",
+  "results": {
+    "product_category": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://vrpatients.com/",
+          "quote": "VRpatients\u00ae is a no-code platform for creating immersive, AI-driven VR, MR, and web-based patient simulations",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://vrpatients.com/",
+          "quote": "VRpatients is Virtual Reality EMS & Nursing Simulation Software",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "military",
+          "source_url": "https://vrpatients.com/military/",
+          "quote": "VRpatients for Military is a virtual medical simulation training software program",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "platforms": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://vrpatients.com/",
+          "quote": "Web, VR, or MR\u2014train on any device, in any setting, at any time.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://vrpatients.com/",
+          "quote": "Note: Mixed Reality works best on the Meta Quest 3, 3s, and HTC VIVE XR Elite.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "emergency-responders",
+          "source_url": "https://vrpatients.com/emergency-responders/",
+          "quote": "Accessible on:\nVR headsets\nDesktop browsers",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "faqs",
+          "source_url": "https://vrpatients.com/faqs/",
+          "quote": "VRpatients is available online using a PC/monitor, and can be casted to a TV screen for classroom viewing.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "key_capabilities": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "authoring-tool",
+          "source_url": "https://vrpatients.com/authoring-tool/",
+          "quote": "Simply connect the boxes. No programming required.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "faqs",
+          "source_url": "https://vrpatients.com/faqs/",
+          "quote": "Yes, the application includes more than 50+ cases and is always growing.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "faqs",
+          "source_url": "https://vrpatients.com/faqs/",
+          "quote": "VRpatients currently has over 25 living environments and 8 patient avatars from which to choose.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://vrpatients.com/",
+          "quote": "run simulations anywhere, on any device, with AI-powered conversations.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "nursing",
+          "source_url": "https://vrpatients.com/nursing/",
+          "quote": "Speak with your patient in any language",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "nursing",
+          "source_url": "https://vrpatients.com/nursing/",
+          "quote": "Evaluate student performance automatically using customizable grading rubrics and critical actions.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://vrpatients.com/",
+          "quote": "AI grading is here to empower your debriefing sessions",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://vrpatients.com/",
+          "quote": "Asynchronous access means no scheduling conflicts\u2014students train on their terms.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://vrpatients.com/",
+          "quote": "Online, In-Class or Async\nNo Facilitator",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://vrpatients.com/",
+          "quote": "Users can interact with existing task trainers and equipment without leaving the virtual sim.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "authoring-tool",
+          "source_url": "https://vrpatients.com/authoring-tool/",
+          "quote": "Create custom physiologic responses to medication administration in minutes!",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "nursing",
+          "source_url": "https://vrpatients.com/nursing/",
+          "quote": "Secure Administrative Management Tool + LMS Integration",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "target_customer": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://vrpatients.com/",
+          "quote": "let schools, hospitals, and healthcare workforce learners seamlessly integrate realistic, on-demand training",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://vrpatients.com/",
+          "quote": "Join leading nursing programs, EMS agencies, and clinical educators already using VRpatients",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "emergency-responders",
+          "source_url": "https://vrpatients.com/emergency-responders/",
+          "quote": "Train EMTs and paramedics with realistic scenarios anytime using VRpatients platform.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "military",
+          "source_url": "https://vrpatients.com/military/",
+          "quote": "enabling personnel to train, assess, and maintain critical skills wherever they are deployed.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "faqs",
+          "source_url": "https://vrpatients.com/faqs/",
+          "quote": "The only limit is how many seats/users are in your subscription.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "value_proposition": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://vrpatients.com/",
+          "quote": "Its flexible authoring tool and 24/7 access let schools, hospitals, and healthcare workforce learners seamlessly integrate realistic, on-demand training that elevates clinical education and professional development.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "nursing",
+          "source_url": "https://vrpatients.com/nursing/",
+          "quote": "With VRpatients\u00ae, you create and own your scenarios\u2014tailored to your curriculum.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "nursing",
+          "source_url": "https://vrpatients.com/nursing/",
+          "quote": "Students can practice high-risk scenarios without putting real patients in danger.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "nursing",
+          "source_url": "https://vrpatients.com/nursing/",
+          "quote": "Traditional labs are expensive, limited, and require scheduling. VR removes these barriers.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "tagline": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://vrpatients.com/",
+          "quote": "VRpatients\u00ae, Real life training without real life consequences.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "about-us",
+          "source_url": "https://vrpatients.com/about-us/",
+          "quote": "It\u2019s real life training without real life consequences.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "pricing": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "faqs",
+          "source_url": "https://vrpatients.com/faqs/",
+          "quote": "VRpatients is priced to meet the needs of any sized organization with a known yearly cost, no surprises. Click to request your personalized quote.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "faqs",
+          "source_url": "https://vrpatients.com/faqs/",
+          "quote": "The only limit is how many seats/users are in your subscription.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "emergency-responders",
+          "source_url": "https://vrpatients.com/emergency-responders/",
+          "quote": "SAVVIK members can access pre-negotiated pricing and purchase through SAVVIK, eliminating the need for a separate bid process.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    }
+  }
+}

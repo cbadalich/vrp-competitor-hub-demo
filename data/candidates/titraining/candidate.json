@@ -1,0 +1,87 @@
+{
+  "slug": "titraining",
+  "name": "TI Training",
+  "website": "https://www.titraining.com/",
+  "domain": "titraining.com",
+  "aliases": [],
+  "status": "approved",
+  "first_seen": "2026-09-29T17:37:01-06:00",
+  "last_seen": "2026-09-29T17:37:01-06:00",
+  "sightings": [
+    {
+      "source": "earlier research list",
+      "query": "\"TI Training\" Table Mountain Group official website",
+      "url": "https://www.zoominfo.com/c/ti-training-corp/272547933",
+      "snippet": "Ti Training",
+      "website_from": "search summary",
+      "found_at": "2026-09-29T17:37:01-06:00"
+    }
+  ],
+  "possible_duplicate_of": [],
+  "snapshot": "data/candidates/titraining/snapshots/2026-09-29_173843",
+  "extra_pages": [
+    "https://titraining.com/ar-glasses/",
+    "https://titraining.com/recon/"
+  ],
+  "signals": {
+    "headset": [
+      "augmented reality",
+      "headset",
+      "headsets"
+    ],
+    "simulation": [
+      "simulation",
+      "simulations",
+      "simulator",
+      "simulators"
+    ],
+    "public_safety": [
+      "police",
+      "law enforcement",
+      "military",
+      "defense",
+      "public safety"
+    ]
+  },
+  "suggested_pages": [
+    "https://titraining.com/custom-content-production/",
+    "https://titraining.com/commercial/solutions/",
+    "https://titraining.com/commercial/vrg-pro/",
+    "https://titraining.com/commercial/vrg-sport/",
+    "https://titraining.com/commercial/vrg-options/",
+    "https://titraining.com/military/solutions/",
+    "https://titraining.com/military/custom-content-production/"
+  ],
+  "classification": {
+    "proposed": "3rd Degree",
+    "by": "Claude Code session, model claude-opus-5-5",
+    "at": "2026-09-29T17:50:00-06:00",
+    "snapshot": "data/candidates/titraining/snapshots/2026-09-29_173843",
+    "reason": "RECON projection-screen simulators for law enforcement and military, with an AR headset/glasses option used alongside RECON. The projection screens are not a headset mode; the AR glasses are.",
+    "evidence": [
+      {
+        "page": "home",
+        "quote": "Ti Training is a trusted provider of highly interactive and immersive training solutions for law enforcement, military professionals, and retail/commercial industries."
+      },
+      {
+        "page": "ar-glasses",
+        "quote": "Our Immersive Reality headsets create a 3D training environment. Used in conjunction with our RECON simulation system"
+      }
+    ]
+  },
+  "review": {
+    "decision": "approved",
+    "type": "3rd Degree",
+    "at": "2026-09-29T18:20:11-06:00",
+    "reason": "",
+    "tracked_slug": "titraining",
+    "pages": [
+      "https://www.titraining.com/",
+      "https://titraining.com/ar-glasses/",
+      "https://titraining.com/recon/",
+      "https://titraining.com/custom-content-production/",
+      "https://titraining.com/commercial/solutions/"
+    ]
+  },
+  "name_on_site": true
+}

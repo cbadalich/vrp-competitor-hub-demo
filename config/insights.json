@@ -1,0 +1,731 @@
+{
+  "_about": "Lists used by insights.py and the Insights page. Each entry is matched against the companies' own words: the verified evidence quotes in each company's newest record (never against summaries written during extraction). Patterns are Python regular expressions, case-insensitive unless wrapped in (?-i:...). A quote that matches an 'exclude' pattern is not counted for that entry. Assigning wording to a topic is a judgment: review the matches on the Insights page and edit here. Approved by the owner 2026-10-14.",
+  "thresholds": {
+    "common_at_least_share": 0.5,
+    "uncommon_at_most_companies": 2,
+    "thin_profile_at_most_pages": 2,
+    "_about": "Common: claimed by at least half the competitors in the set. Uncommon: claimed by 2 or fewer. Thin profile: 2 or fewer pages read."
+  },
+  "exclude_everywhere": [
+    "coming soon"
+  ],
+  "manual_exclusions": [
+    {
+      "slug": "archvirtual",
+      "entry": "analytics",
+      "quote_starts": "We gather feedback throughout deployment",
+      "reason": "Analytics on how the product is used during development, not learner performance."
+    },
+    {
+      "slug": "gaumard",
+      "entry": "mixed_physical",
+      "quote_starts": "We develop state-of-the-art patient simulators",
+      "reason": "Lists mixed reality next to manikins; does not say they are combined."
+    }
+  ],
+  "_manual_exclusions_about": "Add {\"slug\": ..., \"entry\": ..., \"quote_starts\": ...} to stop one specific quote counting for one entry, with a reason.",
+  "capabilities": [
+    {
+      "key": "ai_conversation",
+      "label": "AI patient conversations",
+      "overview": true,
+      "definition": "Learners talk with an AI-driven patient, client or character.",
+      "fields": "all",
+      "patterns": [
+        "\\b(ai|artificial intelligence|gen(erative)? ?ai|llm)\\b[^.;]{0,60}\\b(patients?|conversations?|dialog(ue)?s?|role-?plays?|characters?|avatars?|clients?|speak|talk|voice)",
+        "\\b(patients?|conversations?|dialog(ue)?|role-?play|characters?|avatars?|clients?)\\b[^.;]{0,40}\\b(ai|artificial intelligence)\\b",
+        "virtual humans?",
+        "natural (language|patient) (dialog|dialogue|conversation)",
+        "\\b(speak|talk|conversation|dialog)\\w*[^.;]{0,100}\\b(?-i:AI)\\b (responds?|replies|answers)"
+      ]
+    },
+    {
+      "key": "ai_feedback",
+      "label": "AI grading, feedback or coaching",
+      "overview": false,
+      "definition": "AI scores, grades, coaches or gives feedback on learner performance.",
+      "fields": "all",
+      "patterns": [
+        "\\b(ai|artificial intelligence)\\b[^.;]{0,50}\\b(grad\\w*|feedback|debrief\\w*|assess\\w*|scor\\w*|evaluat\\w*|coach\\w*|proctor\\w*)",
+        "\\b(grad\\w*|feedback|debrief\\w*|assess\\w*|scor\\w*|evaluat\\w*|coach\\w*|proctor\\w*)\\b[^.;]{0,30}\\b(ai|artificial intelligence)\\b",
+        "(?-i:\\bAI\\b)[- ](enhanced|powered|driven|assisted)[^.;]{0,30}(reports?|feedback|grading|scor\\w*|debrief\\w*)"
+      ]
+    },
+    {
+      "key": "authoring",
+      "label": "Scenario authoring or editing",
+      "overview": true,
+      "definition": "Customers can build or edit their own scenarios or cases (an editor, builder or no-code tool).",
+      "fields": "all",
+      "patterns": [
+        "no-?code",
+        "code-?free",
+        "\\bauthoring\\b",
+        "\\b(scenario|case|simulation) (editor|builder|creator|customi[sz]er)",
+        "\\beditor\\b",
+        "\\b(create|build|design|write)\\b[^.;]{0,25}\\b(your own|custom|new)\\b[^.;]{0,15}\\b(scenarios?|cases?|simulations?|content)",
+        "no programming",
+        "no coding",
+        "customi[sz]e (your |the |existing |our )?(own )?(training )?(scenarios?|cases?)"
+      ]
+    },
+    {
+      "key": "library",
+      "label": "Ready-made scenario or case library",
+      "overview": true,
+      "definition": "A library, catalog or marketplace of ready-made content, or a stated number of cases.",
+      "fields": "all",
+      "patterns": [
+        "\\b(library|libraries|catalog(ue)?|marketplace)\\b",
+        "\\b\\d{2,}[\\d,]*\\+?\\s*(ready-made |pre-built |prebuilt |validated |peer-reviewed )?(cases|scenarios|simulations|modules|titles)\\b"
+      ],
+      "exclude": [
+        "knowledge library",
+        "resource library",
+        "video library",
+        "product catalog",
+        "library of[^.;]{0,40}(sounds|environments|avatars)"
+      ]
+    },
+    {
+      "key": "multiplayer",
+      "label": "Multiplayer or team training",
+      "overview": true,
+      "definition": "Several learners train together in the same simulation.",
+      "fields": "all",
+      "patterns": [
+        "multi-?player",
+        "multi-?user",
+        "multi-?learner",
+        "co-located",
+        "\\bteam[- ](training|based|work|coordination|communication)",
+        "interprofessional",
+        "(?-i:\\bIPE\\b)",
+        "collaborative (training|learning|scenarios?|simulation)",
+        "train(ing)? together",
+        "up to \\d+ (\\(or more!\\) )?(learners|users|participants|trainees)"
+      ]
+    },
+    {
+      "key": "remote",
+      "label": "Remote or distributed training",
+      "overview": false,
+      "definition": "Learners or instructors join from different places.",
+      "fields": "all",
+      "patterns": [
+        "\\bremote(ly)?\\b",
+        "\\bdistributed\\b",
+        "(other|different|multiple) locations",
+        "geographically",
+        "globally dispersed"
+      ],
+      "exclude": [
+        "remote (setup|support|management|device)",
+        "remote (monitoring|areas?)",
+        "remotely (uploaded|managed|deployed)",
+        "set[^.;]{0,20}up remotely",
+        "remote patients?"
+      ]
+    },
+    {
+      "key": "self_directed",
+      "label": "Self-directed or on-demand practice",
+      "overview": true,
+      "definition": "Learners can practice on their own schedule, without an instructor running the session.",
+      "fields": "all",
+      "patterns": [
+        "without (a |an )?(facilitator|instructor|faculty|proctor)",
+        "no (facilitator|instructor|proctor)",
+        "facilitator-?free",
+        "self-?directed",
+        "self-?paced",
+        "self-?guided",
+        "asynchronous",
+        "independent(ly)?\\b[^.;]{0,20}(practice|learn|train)",
+        "24/7",
+        "on-?demand"
+      ]
+    },
+    {
+      "key": "analytics",
+      "label": "Debrief, analytics or performance tracking",
+      "overview": true,
+      "definition": "Debriefing tools, dashboards, reports or tracked performance data.",
+      "fields": "all",
+      "patterns": [
+        "debrief",
+        "analytic",
+        "dashboard",
+        "performance (data|tracking|reports?|metrics|analysis)",
+        "track\\w*[^.;]{0,25}(performance|progress|proficiency)",
+        "\\breport(s|ing)\\b",
+        "proficiency scor",
+        "\\bmetrics\\b"
+      ]
+    },
+    {
+      "key": "lms",
+      "label": "LMS integration",
+      "overview": false,
+      "definition": "Connects with a customer's learning management system (SCORM, xAPI, LTI, a named LMS, or stated LMS integration). A product's own learning management system does not count.",
+      "fields": "all",
+      "patterns": [
+        "(?-i:SCORM)",
+        "(?-i:xAPI)",
+        "(?-i:\\bLTI\\b)",
+        "\\b(canvas|blackboard|moodle|d2l|cornerstone)\\b",
+        "(integrat\\w*|plug\\w*|connect\\w*|compatib\\w*)[^.;]{0,40}((?-i:\\bLMS\\b)|learning management)",
+        "((?-i:\\bLMS\\b)|learning management system)[^.;]{0,20}integration"
+      ]
+    },
+    {
+      "key": "standards",
+      "label": "Aligned to named standards",
+      "overview": false,
+      "definition": "Content is tied to named standards or exams (NCLEX, INACSL, QSEN, AACN and similar), or accreditation.",
+      "fields": "all",
+      "patterns": [
+        "(?-i:NCLEX)",
+        "(?-i:INACSL)",
+        "(?-i:QSEN)",
+        "(?-i:AACN)",
+        "(?-i:\\bNLN\\b)",
+        "(?-i:CCNE)",
+        "\\baccredit\\w*",
+        "standards-?aligned",
+        "aligned (to|with)[^.;]{0,40}standards",
+        "(?-i:TCCC|TECC|ACLS|PALS|BLS)\\b"
+      ]
+    },
+    {
+      "key": "research",
+      "label": "Research or validation claims",
+      "overview": false,
+      "definition": "Claims backed by research, peer review, validation or published studies.",
+      "fields": "all",
+      "patterns": [
+        "peer-?reviewed",
+        "\\bvalidated\\b",
+        "research (indicates|shows|studies|backed|-backed|proves|demonstrates)",
+        "\\bresearch\\b[^.;]{0,30}(evidence|outcomes|program)",
+        "published (research|studies|study|papers?)",
+        "clinical(ly)? (validated|proven|stud(y|ies)|trials?)",
+        "evidence-?based",
+        "evidence from",
+        "(research|clinical|published|peer-reviewed|validation) stud(y|ies)",
+        "stud(y|ies) (show|found|confirm|demonstrat)\\w*",
+        "\\d+\\+? (research |published |peer-reviewed )?studies",
+        "randomi[sz]ed"
+      ],
+      "exclude": [
+        "case stud(y|ies)",
+        "research\\s*&\\s*development",
+        "evidence-based practice",
+        "study guides?",
+        "research and development|\\bR&D\\b"
+      ]
+    },
+    {
+      "key": "languages",
+      "label": "Multiple languages",
+      "overview": false,
+      "definition": "Use in more than one language, or translation.",
+      "fields": "all",
+      "patterns": [
+        "\\blanguages\\b",
+        "any language",
+        "multilingual",
+        "translat\\w*",
+        "\\d+\\+? languages"
+      ],
+      "exclude": [
+        "translates? (in)?to real"
+      ]
+    },
+    {
+      "key": "haptics",
+      "label": "Haptics or hand interaction",
+      "overview": false,
+      "definition": "Touch feedback, force feedback or hand tracking.",
+      "fields": "all",
+      "patterns": [
+        "haptic",
+        "hand[- ]tracking",
+        "force feedback",
+        "\\btactile\\b",
+        "use your hands",
+        "hand control",
+        "hands-on interaction"
+      ]
+    },
+    {
+      "key": "physiology",
+      "label": "Dynamic patient physiology",
+      "overview": false,
+      "definition": "The simulated patient's condition responds to learner actions (physiology, vitals, deterioration, medications).",
+      "fields": "all",
+      "patterns": [
+        "physiolog\\w*",
+        "vital signs?[^.;]{0,30}(respond|change|react)",
+        "respond\\w* dynamically",
+        "react\\w* in real[- ]time",
+        "real-?time[^.;]{0,15}(response|reaction)s?",
+        "deteriorat\\w*",
+        "medication (response|administration)",
+        "breathe, speak"
+      ]
+    },
+    {
+      "key": "mixed_physical",
+      "label": "Mixed reality with physical equipment",
+      "overview": false,
+      "definition": "Virtual content combined with real manikins, task trainers or equipment.",
+      "fields": "all",
+      "patterns": [
+        "(mixed reality|(?-i:\\bMR\\b)|passthrough|pass-through|hybrid)[^.;]{0,80}(manikins?|task trainers?|physical|real equipment|equipment)",
+        "(manikins?|task trainers?|physical equipment)[^.;]{0,80}(mixed reality|(?-i:\\bMR\\b)|passthrough|augmented reality)",
+        "(existing|real|physical) (task trainers?|manikins?|equipment)[^.;]{0,60}\\b(virtual|sim)",
+        "\\bvirtual\\b[^.;]{0,60}(existing|real|physical) (task trainers?|manikins?|equipment)"
+      ]
+    },
+    {
+      "key": "custom_services",
+      "label": "Custom content development",
+      "overview": false,
+      "definition": "The company builds custom simulations or content for customers.",
+      "fields": "all",
+      "patterns": [
+        "custom (content|development|developed|simulations?|modules?|vr|xr|training)",
+        "\\bbespoke\\b",
+        "co-?develop\\w*",
+        "content (build|development)",
+        "tailor(ed|-made)[^.;]{0,20}(content|solutions?|simulations?|training)",
+        "custom sim service"
+      ],
+      "exclude": [
+        "co-?developed by"
+      ]
+    }
+  ],
+  "messaging": [
+    {
+      "key": "patient_safety",
+      "label": "Safety and risk-free practice",
+      "definition": "Patient safety, fewer errors, or a safe, risk-free place to practice.",
+      "patterns": [
+        "patient safety",
+        "safer[^.;]{0,15}care",
+        "risk-?free",
+        "without (putting )?(real )?patients at risk",
+        "reduc\\w*[^.;]{0,20}errors?",
+        "preventable",
+        "safe(ly)?[^.;]{0,30}without[^.;]{0,20}(risk|harm)",
+        "\\bsafe\\b",
+        "patients? in danger",
+        "without (real[- ]life |real )?consequences"
+      ]
+    },
+    {
+      "key": "readiness",
+      "label": "Readiness and confidence",
+      "definition": "Learners become ready, prepared, confident or competent.",
+      "patterns": [
+        "\\bready\\b",
+        "readiness",
+        "practice-?ready",
+        "\\bprepar\\w*",
+        "confiden\\w*",
+        "competen\\w*"
+      ],
+      "exclude": [
+        "ready-to-use",
+        "ready-made"
+      ]
+    },
+    {
+      "key": "judgment",
+      "label": "Clinical judgment and decision-making",
+      "definition": "Clinical judgment, reasoning, critical thinking or decision-making.",
+      "patterns": [
+        "clinical (judg\\w*|reasoning|decision)",
+        "critical thinking",
+        "decision-?making",
+        "\\bjudg(e)?ment\\b"
+      ]
+    },
+    {
+      "key": "realism",
+      "label": "Realism",
+      "definition": "Realistic, lifelike, authentic or real-world practice.",
+      "patterns": [
+        "realis\\w*",
+        "life-?like",
+        "true-?to-?life",
+        "authentic",
+        "real-?world",
+        "real life",
+        "real patients?",
+        "as close to real"
+      ]
+    },
+    {
+      "key": "scale_access",
+      "label": "Scale and access",
+      "definition": "Training at scale, anytime, anywhere, or on demand.",
+      "patterns": [
+        "\\bscal(e|es|able|ability|ing)\\b",
+        "anytime",
+        "anywhere",
+        "on-?demand",
+        "24/7",
+        "any device",
+        "\\baccess\\w*"
+      ]
+    },
+    {
+      "key": "cost",
+      "label": "Cost",
+      "definition": "Lower cost, savings, affordability or return on investment.",
+      "patterns": [
+        "\\bcosts?\\b",
+        "cost-",
+        "afford\\w*",
+        "savings",
+        "(?-i:\\bROI\\b)",
+        "budget",
+        "save[^.;]{0,15}(money|time and money)",
+        "fraction of",
+        "\\bexpensive\\b",
+        "less costly"
+      ],
+      "exclude": [
+        "as budget"
+      ]
+    },
+    {
+      "key": "time",
+      "label": "Time",
+      "definition": "Saves time, faster learning or efficiency.",
+      "patterns": [
+        "\\btime\\b",
+        "faster",
+        "\\bquick(ly|er)?\\b",
+        "efficien\\w*"
+      ],
+      "exclude": [
+        "real-?time",
+        "full-?time",
+        "part-?time",
+        "any ?time"
+      ]
+    },
+    {
+      "key": "faculty",
+      "label": "Faculty and staff workload",
+      "definition": "Less work, time or staffing for educators and facilitators.",
+      "patterns": [
+        "faculty (workload|bandwidth|time)",
+        "without (adding |increasing |requiring )?(more )?(faculty|educators|instructors|staff)",
+        "without scaling staff",
+        "workload",
+        "prep time",
+        "(educators|faculty|instructors)[^.;]{0,30}(more )?efficient\\w*",
+        "(fewer|less) (faculty|instructors?|staff)",
+        "facilitator (time|hours)"
+      ]
+    },
+    {
+      "key": "evidence",
+      "label": "Evidence and outcomes",
+      "definition": "Evidence-based, validated, proven, or measurable outcomes.",
+      "patterns": [
+        "evidence-?based",
+        "peer-?reviewed",
+        "validated",
+        "\\bresearch",
+        "proven",
+        "\\boutcomes?\\b",
+        "measurable",
+        "clinically"
+      ]
+    },
+    {
+      "key": "engagement",
+      "label": "Engagement",
+      "definition": "Engaging, motivating or enjoyable learning.",
+      "patterns": [
+        "engag\\w*",
+        "motivat\\w*",
+        "gamif\\w*",
+        "\\bfun\\b",
+        "emotionally connected"
+      ],
+      "exclude": [
+        "engag\\w* in\\b"
+      ]
+    },
+    {
+      "key": "workforce",
+      "label": "Workforce and staffing",
+      "definition": "Workforce shortages, onboarding, retention or transition to practice.",
+      "patterns": [
+        "workforce (shortages?|development|readiness|gaps?|challenges?)",
+        "shortages?",
+        "(staff|nurse|employee|workforce) retention",
+        "retain (staff|nurses|employees|talent)",
+        "turnover",
+        "onboard\\w*",
+        "transition to practice",
+        "recruit\\w*"
+      ]
+    },
+    {
+      "key": "ai_message",
+      "label": "AI as a selling point",
+      "definition": "AI named in the main promise or tagline.",
+      "patterns": [
+        "(?-i:\\bAI\\b)",
+        "(?-i:\\bAi\\b)",
+        "artificial intelligence"
+      ]
+    }
+  ],
+  "messaging_fields": [
+    "value_proposition",
+    "tagline"
+  ],
+  "terminology": [
+    {
+      "key": "patient",
+      "label": "What they call the simulated patient",
+      "terms": [
+        {
+          "label": "virtual patient",
+          "pattern": "virtual patients?"
+        },
+        {
+          "label": "avatar",
+          "pattern": "avatars?"
+        },
+        {
+          "label": "virtual human",
+          "pattern": "virtual humans?"
+        },
+        {
+          "label": "virtual manikin",
+          "pattern": "virtual manikins?"
+        },
+        {
+          "label": "AI patient",
+          "pattern": "(?-i:\\bAI\\b)[- ](powered |driven )?patients?"
+        },
+        {
+          "label": "holographic patient",
+          "pattern": "holo\\w*[^.;]{0,20}patients?"
+        },
+        {
+          "label": "standardized patient",
+          "pattern": "standardi[sz]ed patients?"
+        },
+        {
+          "label": "patient simulator",
+          "pattern": "patient simulators?"
+        },
+        {
+          "label": "manikin",
+          "pattern": "(?<!virtual )\\bmanikins?\\b"
+        }
+      ]
+    },
+    {
+      "key": "content",
+      "label": "What they call a unit of content",
+      "terms": [
+        {
+          "label": "scenario",
+          "pattern": "\\bscenarios?\\b"
+        },
+        {
+          "label": "case",
+          "pattern": "(?<!use )\\bcases?\\b(?! stud)"
+        },
+        {
+          "label": "simulation",
+          "pattern": "\\bsimulations?\\b"
+        },
+        {
+          "label": "module",
+          "pattern": "\\bmodules?\\b"
+        },
+        {
+          "label": "course",
+          "pattern": "\\bcourses?\\b"
+        },
+        {
+          "label": "experience",
+          "pattern": "\\bexperiences?\\b"
+        },
+        {
+          "label": "encounter",
+          "pattern": "\\bencounters?\\b"
+        },
+        {
+          "label": "virtual clinical",
+          "pattern": "virtual clinicals?"
+        }
+      ]
+    },
+    {
+      "key": "technology",
+      "label": "How they describe the technology",
+      "terms": [
+        {
+          "label": "VR / virtual reality",
+          "pattern": "(?-i:\\bVR\\b)|virtual reality"
+        },
+        {
+          "label": "XR / extended reality",
+          "pattern": "(?-i:\\bXR\\b)|extended reality"
+        },
+        {
+          "label": "MR / mixed reality",
+          "pattern": "(?-i:\\bMR\\b)|mixed reality"
+        },
+        {
+          "label": "AR / augmented reality",
+          "pattern": "(?-i:\\bAR\\b)|augmented reality"
+        },
+        {
+          "label": "immersive",
+          "pattern": "immersi\\w*"
+        },
+        {
+          "label": "screen-based",
+          "pattern": "screen-?based"
+        },
+        {
+          "label": "3D",
+          "pattern": "(?-i:\\b3D\\b)"
+        },
+        {
+          "label": "spatial computing",
+          "pattern": "spatial computing"
+        },
+        {
+          "label": "metaverse",
+          "pattern": "metaverse"
+        }
+      ]
+    },
+    {
+      "key": "ai",
+      "label": "How they describe AI",
+      "terms": [
+        {
+          "label": "AI-powered",
+          "pattern": "(?-i:AI|Ai)[- ]powered"
+        },
+        {
+          "label": "AI-driven",
+          "pattern": "(?-i:AI|Ai)[- ]driven"
+        },
+        {
+          "label": "AI-enhanced",
+          "pattern": "(?-i:AI|Ai)[- ]enhanced"
+        },
+        {
+          "label": "generative AI",
+          "pattern": "generative (?-i:AI)|(?-i:GenAI|Gen AI)"
+        },
+        {
+          "label": "conversational AI",
+          "pattern": "conversational (?-i:AI)"
+        },
+        {
+          "label": "artificial intelligence",
+          "pattern": "artificial intelligence"
+        },
+        {
+          "label": "machine learning",
+          "pattern": "machine learning"
+        }
+      ]
+    },
+    {
+      "key": "outcome",
+      "label": "How they describe the learning outcome",
+      "terms": [
+        {
+          "label": "clinical judgment",
+          "pattern": "clinical judg\\w*"
+        },
+        {
+          "label": "clinical reasoning",
+          "pattern": "clinical reasoning"
+        },
+        {
+          "label": "critical thinking",
+          "pattern": "critical thinking"
+        },
+        {
+          "label": "decision-making",
+          "pattern": "decision-?making"
+        },
+        {
+          "label": "competence / competency",
+          "pattern": "competen\\w*"
+        },
+        {
+          "label": "confidence",
+          "pattern": "confiden\\w*"
+        },
+        {
+          "label": "readiness / practice-ready",
+          "pattern": "readiness|practice-?ready"
+        },
+        {
+          "label": "proficiency",
+          "pattern": "proficien\\w*"
+        }
+      ]
+    },
+    {
+      "key": "learner",
+      "label": "Who they say they train",
+      "terms": [
+        {
+          "label": "nurses / nursing students",
+          "pattern": "\\bnurs(e|es|ing)\\b"
+        },
+        {
+          "label": "students",
+          "pattern": "\\bstudents?\\b"
+        },
+        {
+          "label": "learners",
+          "pattern": "\\blearners?\\b"
+        },
+        {
+          "label": "trainees",
+          "pattern": "\\btrainees?\\b"
+        },
+        {
+          "label": "clinicians",
+          "pattern": "\\bclinicians?\\b"
+        },
+        {
+          "label": "healthcare professionals / providers",
+          "pattern": "(health ?care|medical) (professionals?|providers?|workers?)"
+        },
+        {
+          "label": "EMS / first responders",
+          "pattern": "(?-i:\\bEMS\\b)|first responders?|paramedics?"
+        },
+        {
+          "label": "physicians / residents",
+          "pattern": "physicians?|\\bresidents?\\b|surgeons?"
+        }
+      ]
+    }
+  ]
+}

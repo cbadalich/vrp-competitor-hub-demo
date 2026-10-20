@@ -1,0 +1,21 @@
+{
+  "checked_at": "2026-10-14T11:24:43-06:00",
+  "proposed": "3rd Degree",
+  "problems": [],
+  "results": [
+    {
+      "page": "firefighter-training",
+      "quote": "The FLAIM Trainer is the world's leading VR fire training simulator.",
+      "source_url": "https://www.flaimsystems.com/firefighter-training",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "home",
+      "quote": "so firefighters, emergency responders, defence personnel, and high-risk industrial workforces are ready when it matters most",
+      "source_url": "https://www.flaimsystems.com/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    }
+  ]
+}

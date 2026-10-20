@@ -1,0 +1,186 @@
+{
+  "competitor": "FLAIM Systems",
+  "slug": "flaimsystems",
+  "snapshot": "data/snapshots/flaimsystems/2026-09-29_183836",
+  "extracted_at": "2026-09-29T19:11:04-06:00",
+  "extracted_by": "Claude Code session, model claude-opus-5-5",
+  "pages_read": [
+    "home",
+    "about-us",
+    "firefighter-training",
+    "fire-extinguisher-training",
+    "eod-training"
+  ],
+  "pages_failed": [],
+  "fields": {
+    "product_category": {
+      "status": "found",
+      "value": "Immersive eXtended Reality (XR) simulation training systems for firefighting, fire extinguisher (workplace fire safety), and explosive ordnance disposal (EOD) training, serving emergency services, defence, and high-risk industries",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "FLAIM designs, develops, and deploys immersive technology training systems that use simulation to replicate the conditions of real incidents"
+        },
+        {
+          "page": "about-us",
+          "quote": "FLAIM creates immersive eXtended-Reality (XR) training systems to help first responders, defence teams, and high-risk industry workers prepare more effectively and confidently for real-world emergencies and life-threatening situations"
+        }
+      ],
+      "note": "Not a healthcare or nursing product. Three systems are named: FLAIM FTS (firefighters), FLAIM FEX (fire extinguisher), FLAIM EOD, plus the FLAIM Capture analytics platform."
+    },
+    "platforms": {
+      "status": "found",
+      "value": [
+        "VR",
+        "MR"
+      ],
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Powered by high-fidelity VR, multisensory immersion (heat, hose drag, smoke, and haptics), and real-world fire science"
+        },
+        {
+          "page": "home",
+          "quote": "FLAIM FEX incorporates Virtual Reality scenarios, audio and industry replica equipment to deliver eXtended Reality (XR) fire extinguishing"
+        },
+        {
+          "page": "eod-training",
+          "quote": "prepare defence and humanitarian teams to handle high-stakes, hazardous operations in realistic mixed reality environments"
+        },
+        {
+          "page": "firefighter-training",
+          "quote": "Immersive mixed reality training for firefighters, first responders, and critical incident teams"
+        }
+      ],
+      "note": "Learners use VR headsets combined with physical replica equipment and haptics; the pages call this XR (counted as VR) and, for EOD and some firefighting pages, mixed reality (MR). The EOD page's 'Why mixed reality?' section lists 'VR headsets, haptic feedback, and real-world replica tools'. Capture is described as 'a web-based learner record and analytics platform' and 'a cloud based reporting tool' for organisations and trainers, so Web is not listed as a learner platform."
+    },
+    "key_capabilities": {
+      "status": "found",
+      "value": [
+        "Multisensory immersion: heat, hose drag, smoke, haptics",
+        "Industry-standard or replica equipment integrated with VR",
+        "Multi-user mode with up to five roles, including incident command, from different locations",
+        "Live feedback, performance tracking and After-Action Reviews",
+        "FLAIM Capture web-based learner record and analytics platform, LMS integration",
+        "Scenario playlists assigned to the headset (80+ FEX scenarios)",
+        "Dynamic branching scenarios that adapt to trainee decisions (EOD)",
+        "Portable system: 2 rugged cases, about 10 minutes to set up (FTS)",
+        "Configurable scenarios matched to standard operating procedures (EOD)"
+      ],
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Powered by high-fidelity VR, multisensory immersion (heat, hose drag, smoke, and haptics), and real-world fire science"
+        },
+        {
+          "page": "home",
+          "quote": "FLAIM EOD supports industry-standard detectors like the Minelab F3"
+        },
+        {
+          "page": "firefighter-training",
+          "quote": "When set-up in multi-user mode FTS can train up to five roles; primary and secondary firefighters and an incident command role."
+        },
+        {
+          "page": "firefighter-training",
+          "quote": "The team can also share the same scenario from different locations"
+        },
+        {
+          "page": "home",
+          "quote": "Achieve objective and repeatable training with live feedback, performance tracking, and After-Action Reviews."
+        },
+        {
+          "page": "home",
+          "quote": "FLAIM’s solutions are connected with Capture, a web-based learner record and analytics platform that enables organisations to capture data and report on training."
+        },
+        {
+          "page": "fire-extinguisher-training",
+          "quote": "Capture can be seamlessly integrated into your LMS to support your objectives."
+        },
+        {
+          "page": "fire-extinguisher-training",
+          "quote": "Create a playlist of scenarios relevant to your workplace and assign it the headset."
+        },
+        {
+          "page": "eod-training",
+          "quote": "Scenarios adapt based on trainee decisions, creating unique learning moments every run."
+        },
+        {
+          "page": "firefighter-training",
+          "quote": "Delivered in 2 rugged cases with only 10 minutes required to set up"
+        },
+        {
+          "page": "home",
+          "quote": "scenarios are configurable to match your standard operating procedures"
+        }
+      ],
+      "note": "Scenario counts differ: fire-extinguisher-training says '>80 immersive training scenarios' and '80+ Immersive scenarios' but also has a heading 'Choose from 60+ scenarios'; about-us says '180+Immersive scenarios' across all systems. FEX setup is stated as 'Sub 2-minute set up'. The contact form also lists 'Customised virtual reality training content' and 'Fire safety eLearning' as services, with no further detail."
+    },
+    "target_customer": {
+      "status": "found",
+      "value": "Firefighters and emergency responders, defence personnel (Air Force ARFF, Navy damage control, Army; defence and humanitarian demining teams), and high-risk industry workforces (mining, oil and gas, manufacturing, energy, transport and transit, workplace safety and compliance).",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "so firefighters, emergency responders, defence personnel, and high-risk industrial workforces are ready when it matters most"
+        },
+        {
+          "page": "home",
+          "quote": "Immserive XR/MR training solutions for Air Force ARFF's and Navy damage control"
+        },
+        {
+          "page": "firefighter-training",
+          "quote": "Advanced mixed reality training for mission-critical operations across Army, Navy, and Air Force"
+        },
+        {
+          "page": "about-us",
+          "quote": "Our main focus areas include fire and emergency response, defence, resources, energy oil and gas, transportation, and workplace safety"
+        },
+        {
+          "page": "firefighter-training",
+          "quote": "High-fidelity firefighting training for mining, oil & gas, manufacturing, and heavy industry"
+        },
+        {
+          "page": "eod-training",
+          "quote": "delivers safe, scalable, and highly realistic Explosive Ordnance Disposal training for defence and humanitarian teams"
+        }
+      ],
+      "note": "The quote 'Immserive XR/MR' keeps the page's own spelling. One testimonial is from a high school (Fern Creek High School) and one from a state health fire safety coordinator (QLD Health), but neither is stated as a target segment."
+    },
+    "value_proposition": {
+      "status": "found",
+      "value": "Simulation that replicates the conditions, pressure, and unpredictability of real emergencies so responses become instinctive, delivered safely and repeatably without the cost, logistics, and hazards of live fire or live ordnance training.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "building systems that replicate the conditions, pressure, and unpredictability of real emergencies so that the responses they demand become instinctive"
+        },
+        {
+          "page": "home",
+          "quote": "with the skills and confidence to respond to fire emergencies without the logistics, cost, or hazards of traditional live fire training"
+        }
+      ],
+      "note": "Outcome claims also appear on two pages: '4x faster to train than the classroom' and '275% more confident to apply skills learned after training'. Environmental claims: 'no fuel, no foam, no water, no carcinogens'."
+    },
+    "tagline": {
+      "status": "found",
+      "value": "Training for a better tomorrow",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Training for a better tomorrow"
+        },
+        {
+          "page": "about-us",
+          "quote": "Training for a better tomorrow"
+        }
+      ],
+      "note": "Repeated as a heading on home and about-us. Other candidates: homepage first headline after the menu 'Immersive technology training for high-risk environments' followed by 'When being prepared is non-negotiable'; about-us 'Our promise to deliver better training today for a better tomorrow'; home 'On-demand training anytime, anywhere, any place'."
+    },
+    "pricing": {
+      "status": "not_found",
+      "value": null,
+      "evidence": [],
+      "note": "No prices, plans, or quote requests on the 5 pages read. The site menu shows 'My Cart', 'Wishlist' and 'System Registration Licensing', and the footer links 'Terms of Sale', but no product prices appear. Calls to action are 'Contact FLAIM', 'Download Brochure' and a contact form."
+    }
+  }
+}

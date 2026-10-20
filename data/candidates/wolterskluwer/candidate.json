@@ -1,0 +1,67 @@
+{
+  "slug": "wolterskluwer",
+  "name": "Wolters Kluwer",
+  "website": "https://www.wolterskluwer.com/",
+  "domain": "wolterskluwer.com",
+  "aliases": [],
+  "status": "rejected",
+  "first_seen": "2026-09-29T17:18:55-06:00",
+  "last_seen": "2026-10-14T11:23:28-06:00",
+  "sightings": [
+    {
+      "source": "web search",
+      "query": "screen-based virtual simulation nursing education",
+      "url": "https://www.wolterskluwer.com/en-au/expert-insights/leveraging-screen-based-virtual-simulation-to-enhance-clinical-judgment-in-nursing-education",
+      "snippet": "Health March 10, 2025",
+      "found_at": "2026-09-29T17:18:55-06:00"
+    },
+    {
+      "source": "web search",
+      "query": "virtual patient simulation for nursing students",
+      "url": "https://wolterskluwer.com/en/news/wolters-kluwer-laerdal-medical-expand-vsim-for-nursing-with-new-foundational-virtual-simulation-courses",
+      "snippet": "wolters kluwer laerdal medical expand vsim for nursing with new foundational virtual simulation courses",
+      "found_at": "2026-09-29T17:18:55-06:00"
+    },
+    {
+      "source": "web search",
+      "query": "virtual patient simulation for nursing students",
+      "url": "https://www.wolterskluwer.com/en/solutions/lippincott-nursing-faculty/vsim-sim-scenarios",
+      "snippet": "",
+      "website_from": "result link",
+      "origin": "topic-search",
+      "found_in": "",
+      "run": "2026-10-14-test",
+      "found_at": "2026-10-14T10:12:26-06:00"
+    },
+    {
+      "source": "news: HealthySimulation.com",
+      "query": "",
+      "url": "https://www.healthysimulation.com/building-practice-ready-nurses-virtual-simulation-wolters-kluwer/",
+      "snippet": "Building Practice-Ready Nurses Through Virtual Simulation",
+      "website_from": "search summary",
+      "origin": "news",
+      "found_in": "",
+      "run": "2026-10-14-test",
+      "found_at": "2026-10-14T10:12:33-06:00"
+    }
+  ],
+  "possible_duplicate_of": [],
+  "snapshot": "data/candidates/wolterskluwer/snapshots/2026-09-29_172022",
+  "extra_pages": [],
+  "signals": {},
+  "suggested_pages": [],
+  "classification": {
+    "proposed": "Unclear",
+    "by": "Claude Code session, model claude-opus-5-5",
+    "at": "2026-09-29T17:24:32-06:00",
+    "snapshot": "data/candidates/wolterskluwer/snapshots/2026-09-29_172022",
+    "reason": "No page could be saved: robots.txt returned HTTP 403, which fetch.py treats as not allowed. Nothing on file to classify from.",
+    "evidence": []
+  },
+  "review": {
+    "decision": "rejected",
+    "at": "2026-09-29T18:20:43-06:00",
+    "reason": "AI-powered solutions for professionals"
+  },
+  "name_on_site": null
+}

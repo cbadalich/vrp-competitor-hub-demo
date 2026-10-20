@@ -1,0 +1,44 @@
+{
+  "slug": "gaumard",
+  "name": "Gaumard",
+  "website": "https://www.gaumard.com/",
+  "domain": "gaumard.com",
+  "aliases": [],
+  "status": "approved",
+  "first_seen": "2026-09-29T17:37:33-06:00",
+  "last_seen": "2026-09-29T17:37:33-06:00",
+  "sightings": [
+    {
+      "source": "web search",
+      "query": "\"Gaumard\" official website",
+      "url": "https://craft.co/gaumard",
+      "snippet": "craft.co",
+      "website_from": "search summary",
+      "found_at": "2026-09-29T17:37:33-06:00"
+    }
+  ],
+  "possible_duplicate_of": [],
+  "snapshot": "data/candidates/gaumard/snapshots/2026-09-29_173733",
+  "extra_pages": [],
+  "signals": {},
+  "suggested_pages": [],
+  "classification": {
+    "proposed": "Unclear",
+    "by": "Claude Code session, model claude-opus-5-5",
+    "at": "2026-09-29T17:41:28-06:00",
+    "snapshot": "data/candidates/gaumard/snapshots/2026-09-29_173733",
+    "reason": "Website blocks automated download; check it by hand.",
+    "evidence": []
+  },
+  "review": {
+    "decision": "approved",
+    "type": "2nd Degree",
+    "at": "2026-09-29T18:13:42-06:00",
+    "reason": "",
+    "tracked_slug": "gaumard",
+    "pages": [
+      "https://www.gaumard.com/"
+    ]
+  },
+  "name_on_site": null
+}

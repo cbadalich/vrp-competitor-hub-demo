@@ -1,0 +1,214 @@
+{
+  "record": "data/records/surgicalscience/2026-09-29_183836.json",
+  "checked_at": "2026-10-13T18:27:47-06:00",
+  "results": {
+    "product_category": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://surgicalscience.com/",
+          "quote": "Surgical Science is a leading provider of medical simulation training and software solutions.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://surgicalscience.com/",
+          "quote": "Today, all leading robotic surgery companies power their hardware with Surgical Science\u2019s software.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "medtech-solutions",
+          "source_url": "https://surgicalscience.com/medtech-solutions/",
+          "quote": "Surgical Science offers a variety of custom-made simulation solutions for different types of medical devices and robot consoles.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "simulators_all-products-gallery",
+          "source_url": "https://surgicalscience.com/simulators/all-products-gallery/",
+          "quote": "A comprehensive simulator for essential laparoscopic skills and advanced complete clinical procedures, for learners at all levels.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "platforms": {
+      "status": "not_found",
+      "result": "not_found",
+      "problems": [],
+      "evidence": []
+    },
+    "key_capabilities": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://surgicalscience.com/",
+          "quote": "150+\nMedical procedures",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "medtech-solutions_our-technologies",
+          "source_url": "https://surgicalscience.com/medtech-solutions/our-technologies/",
+          "quote": "With the integration of cutting-edge soft body physics and force feedback technology, we bring pliable, lifelike tissue to life.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "medtech-solutions_training",
+          "source_url": "https://surgicalscience.com/medtech-solutions/training/",
+          "quote": "We integrate your handles or grips into our hardware, software and learning management system, including branding and your choice of procedures and curricula.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "medtech-solutions_training",
+          "source_url": "https://surgicalscience.com/medtech-solutions/training/",
+          "quote": "Choose the platform, we have full suites and portable versions \u2013 integrated with your devices and grips",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "medtech-solutions_our-technologies",
+          "source_url": "https://surgicalscience.com/medtech-solutions/our-technologies/",
+          "quote": "Our team developed the very first commercial surgical robotic simulator in 2007, and we have been setting the industry standards ever since.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "medtech-solutions_training",
+          "source_url": "https://surgicalscience.com/medtech-solutions/training/",
+          "quote": "Build courses, see proficiency remotely: create your training classes, and assign courses",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "medtech-solutions_training",
+          "source_url": "https://surgicalscience.com/medtech-solutions/training/",
+          "quote": "Design your curricula: pick from a pre-set library and customize to your specific training needs",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "medtech-solutions_our-technologies",
+          "source_url": "https://surgicalscience.com/medtech-solutions/our-technologies/",
+          "quote": "When the simulator is being used, all movements are tracked and data is collected.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "medtech-solutions_training",
+          "source_url": "https://surgicalscience.com/medtech-solutions/training/",
+          "quote": "Objective debriefing: document participant progress with comprehensive objective metrics",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "medtech-solutions_training",
+          "source_url": "https://surgicalscience.com/medtech-solutions/training/",
+          "quote": "Create your own benchmarks and reports",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "medtech-solutions",
+          "source_url": "https://surgicalscience.com/medtech-solutions/",
+          "quote": "our simulation platforms and support documentation have been localized into more than 18 different languages.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "target_customer": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://surgicalscience.com/",
+          "quote": "Trusted by surgeons, clinicians, and healthcare teams worldwide",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "simulators_all-products-gallery",
+          "source_url": "https://surgicalscience.com/simulators/all-products-gallery/",
+          "quote": "Exclusively developed for surgical technologist and surgical assistant training",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "simulators_all-products-gallery",
+          "source_url": "https://surgicalscience.com/simulators/all-products-gallery/",
+          "quote": "it provides residents with an essential path to technical skills proficiency.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "medtech-solutions",
+          "source_url": "https://surgicalscience.com/medtech-solutions/",
+          "quote": "Medical Simulation for MedTech Companies",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "value_proposition": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://surgicalscience.com/",
+          "quote": "we enhance patient safety and healthcare outcomes using evidence-based customized simulation to improve clinical proficiency and performance.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://surgicalscience.com/",
+          "quote": "With our high-fidelity simulation, you can safely advance skills\u2014from essential techniques to managing complex cases\u2014without putting patients at risk.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "tagline": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://surgicalscience.com/",
+          "quote": "Improve Clinical Proficiency and Performance",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "medtech-solutions_training",
+          "source_url": "https://surgicalscience.com/medtech-solutions/training/",
+          "quote": "to improve clinical proficiency and performance.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "pricing": {
+      "status": "not_found",
+      "result": "not_found",
+      "problems": [],
+      "evidence": []
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "checked_at": "2026-10-14T11:24:43-06:00",
+  "proposed": "Unclear",
+  "problems": [],
+  "results": [
+    {
+      "page": "home",
+      "quote": "A Virtual Reality nurse resiliency program.",
+      "source_url": "https://virtuallybetter.com/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "home",
+      "quote": "innovative technology applied to behavioral health interventions",
+      "source_url": "https://virtuallybetter.com/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    }
+  ]
+}

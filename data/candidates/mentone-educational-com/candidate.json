@@ -1,0 +1,68 @@
+{
+  "slug": "mentone-educational-com",
+  "name": "Mentone Educational",
+  "website": "https://www.mentone-educational.com.au/",
+  "domain": "mentone-educational.com.au",
+  "aliases": [],
+  "status": "deferred",
+  "first_seen": "2026-10-14T10:12:22-06:00",
+  "last_seen": "2026-10-14T11:23:27-06:00",
+  "sightings": [
+    {
+      "source": "web search",
+      "query": "virtual reality nursing simulation software",
+      "url": "https://www.mentone-educational.com.au/assets/brochures/MVR-N010.pdf",
+      "snippet": "MVR N010 brochure (reseller of the Nasco/Simulaids MVR Nursing product)",
+      "website_from": "result link",
+      "origin": "topic-search",
+      "found_in": "",
+      "run": "2026-10-14-test",
+      "found_at": "2026-10-14T10:12:22-06:00"
+    }
+  ],
+  "known_from": null,
+  "possible_duplicate_of": [],
+  "snapshot": "data/candidates/mentone-educational-com/snapshots/2026-10-14_101222",
+  "extra_pages": [],
+  "signals": {
+    "healthcare_training": [
+      "nursing",
+      "clinical skills"
+    ],
+    "simulation": [
+      "simulation",
+      "simulations",
+      "simulators",
+      "manikins"
+    ]
+  },
+  "suggested_pages": [
+    "https://www.mentone-educational.com.au/about_us/",
+    "https://www.mentone-educational.com.au/medical-and-nursing-simulation/",
+    "https://www.mentone-educational.com.au/simulation/advanced-life-support-als/",
+    "https://www.mentone-educational.com.au/simulation/advanced-life-support-als/high-fidelity/",
+    "https://www.mentone-educational.com.au/medical-and-nursing-simulation/airway-management/",
+    "https://www.mentone-educational.com.au/simulation/airway-management-intubation/infant/",
+    "https://www.mentone-educational.com.au/simulation/airway-management-intubation/child/",
+    "https://www.mentone-educational.com.au/simulation/airway-management-intubation/adult/"
+  ],
+  "classification": {
+    "proposed": "Not Relevant",
+    "by": "Claude Code session, model claude-opus-5-5",
+    "at": "2026-10-14T10:14:56-06:00",
+    "snapshot": "data/candidates/mentone-educational-com/snapshots/2026-10-14_101222",
+    "reason": "Reseller of other makers' simulation products in Australia (it surfaced through a brochure for the Nasco/Simulaids MVR Nursing product, which is tracked under Nasco Healthcare).",
+    "evidence": [
+      {
+        "page": "home",
+        "quote": "Mentone Educational started selling medical teaching aids in 1979 and now stocks the largest range of Anatomical Models, Medical Simulation and Health Education products in Australia."
+      }
+    ]
+  },
+  "review": {
+    "decision": "deferred",
+    "at": "2026-10-14T11:31:01-06:00",
+    "reason": ""
+  },
+  "name_on_site": true
+}

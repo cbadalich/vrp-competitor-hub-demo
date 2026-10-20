@@ -1,0 +1,15 @@
+{
+  "competitor": "Sentinel U",
+  "requested_url": "https://www.sentinelu.com/learn/telehealth-nursing/",
+  "fetched_at": "2026-10-13T18:37:48-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.sentinelu.com/learn/telehealth-nursing",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "Telehealth Nursing | Sentinel U\u00ae",
+  "meta_description": "In the Telehealth Nursing Series\u2122, learners conduct virtual office visits with a remote patient and utilize telehealth tools to monitor specific parameters.",
+  "html_bytes": 116350,
+  "text_characters": 9175
+}

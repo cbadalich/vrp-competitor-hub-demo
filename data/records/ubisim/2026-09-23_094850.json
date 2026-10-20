@@ -1,0 +1,95 @@
+{
+  "competitor": "UbiSim",
+  "slug": "ubisim",
+  "snapshot": "data/snapshots/ubisim/2026-09-23_094850",
+  "extracted_at": "2026-09-23T10:15:00-06:00",
+  "extracted_by": "Claude Code session, model claude-opus-5-5",
+  "pages_read": ["home", "how-it-works", "scenarios", "ai-supported-capabilities", "intuitive-editor", "pricing", "solutions_academic-institutions", "solutions_healthcare-systems", "onboarding-setup", "about-us"],
+  "pages_failed": [],
+  "fields": {
+    "product_category": {
+      "status": "found",
+      "value": "Immersive VR simulation platform dedicated to nursing education",
+      "evidence": [
+        {"page": "home", "quote": "UbiSim is dedicated exclusively to nursing education simulation and Virtual Reality."},
+        {"page": "about-us", "quote": "The UbiSim immersive virtual reality simulation platform is built by nurses, for nurses"}
+      ],
+      "note": ""
+    },
+    "platforms": {
+      "status": "found",
+      "value": ["VR"],
+      "evidence": [
+        {"page": "solutions_academic-institutions", "quote": "UbiSim works on the entire wireless Quest family of headsets, including Meta Quest 2, Meta Quest 3 and Meta Quest Pro."},
+        {"page": "how-it-works", "quote": "A laptop or desktop computer with Windows/Mac operating system and Chrome browser. No software installation required."}
+      ],
+      "note": "Learners use Meta Quest headsets. The second quote describes the facilitator's computer, which runs in a Chrome browser; the pages do not describe a web or desktop mode for learners, so Web is not listed as a learner platform. Pricing page also mentions 'web replay' for debriefing."
+    },
+    "key_capabilities": {
+      "status": "found",
+      "value": [
+        "No-code scenario editor (Intuitive Editor)",
+        "Peer-reviewed scenario catalog (Med-Surg, Peds, OB, Mental Health)",
+        "Community-shared scenarios from other programs",
+        "Multiplayer: up to 3 learners in one simulation",
+        "Observation mode, on computer or as a 'ghost' in VR",
+        "Facilitator-led and independent simulation modes",
+        "AI-powered patient dialogue",
+        "AI-enhanced performance reports",
+        "Pre-brief, simulation and debrief with web replay",
+        "SSO and enterprise security"
+      ],
+      "evidence": [
+        {"page": "pricing", "quote": "No-code, intuitive scenario editor"},
+        {"page": "pricing", "quote": "Peer-reviewed and standards-aligned sims across Med-Surg, Peds, OB, and Mental Health"},
+        {"page": "pricing", "quote": "Community-built scenarios from other programs"},
+        {"page": "how-it-works", "quote": "Up to 3 active learners can collaborate together in the same simulation"},
+        {"page": "how-it-works", "quote": "Peers can learn by actively observing the simulation on their computers or joining the simulation as a “ghost” in virtual reality."},
+        {"page": "pricing", "quote": "Facilitator-led & independent, with AI-assisted options"},
+        {"page": "pricing", "quote": "AI-powered patient dialogue"},
+        {"page": "pricing", "quote": "Instant, AI-enhanced performance reports"},
+        {"page": "pricing", "quote": "Multi-tiered debriefing with self-guided reflection, quizzes, and web replay"},
+        {"page": "pricing", "quote": "Enterprise security, SSO, and data privacy compliance"}
+      ],
+      "note": "CONFLICT on AI dialogue: the pricing page lists 'AI-powered patient dialogue' as included, but the AI capabilities page says 'Coming soon: AI-Supported Dialogue' and its meta description says 'Coming November 2025'. The AI page may be out of date. Treat the AI items as unconfirmed until checked."
+    },
+    "target_customer": {
+      "status": "found",
+      "value": "Nursing programs in higher education, and hospitals/health systems training new-graduate nurses (transition to practice). Licensed per institution; learners do not pay.",
+      "evidence": [
+        {"page": "about-us", "quote": "meet the evolving needs of nurse learners in higher education and healthcare institutions."},
+        {"page": "solutions_healthcare-systems", "quote": "UbiSim enables hospitals and healthcare systems to prepare new graduate nurses for the Transition to Practice"},
+        {"page": "pricing", "quote": "UbiSim is licensed at the institution or program level, so your institution covers access and learners don't pay out of pocket."}
+      ],
+      "note": "Menus also list 'Workforce Development' as a third segment."
+    },
+    "value_proposition": {
+      "status": "found",
+      "value": "Nurse-designed, immersive VR that builds clinical judgment, confidence and communication skills, and lets programs scale clinical education at lower cost and workload.",
+      "evidence": [
+        {"page": "home", "quote": "The UbiSim immersive VR simulation platform — designed by nurses, for nurses — builds clinical judgment, confidence, and communication skills in a safe and realistic environment."},
+        {"page": "home", "quote": "UbiSim makes quality clinical education more scalable with training that costs less and reduces workload."}
+      ],
+      "note": ""
+    },
+    "tagline": {
+      "status": "found",
+      "value": "Where Nursing Practice Gets Real™",
+      "evidence": [
+        {"page": "home", "quote": "Where Nursing Practice Gets Real™."}
+      ],
+      "note": "Trademarked and repeated in the footer of every page read. Homepage's first headline is 'Today’s Nurses Train in UbiSim VR Simulation'."
+    },
+    "pricing": {
+      "status": "found",
+      "value": "Custom quote. Annual engagements typically start at $5,000 USD. Implementation is a separate one-time package (Basic, Essentials, Custom). Headsets not included. Free trials for qualified buyers.",
+      "evidence": [
+        {"page": "pricing", "quote": "Annual engagements typically begin at $5,000 USD, depending on the solution and implementation requirements."},
+        {"page": "pricing", "quote": "Implementation is a separate one-time package."},
+        {"page": "solutions_academic-institutions", "quote": "Headsets are not included with a UbiSim purchase."},
+        {"page": "pricing", "quote": "UbiSim offers free trials for qualified buyers."}
+      ],
+      "note": ""
+    }
+  }
+}

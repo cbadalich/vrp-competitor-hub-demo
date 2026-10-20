@@ -1,0 +1,15 @@
+{
+  "competitor": "TACMED Australia",
+  "requested_url": "https://training.tacmed.com.au/",
+  "fetched_at": "2026-09-29T17:50:24-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://training.tacmed.com.au/",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "TacMed Training | Tactical & Emergency Medical Courses",
+  "meta_description": "TacMed Training delivers scenario-driven, nationally accredited medical courses for military, mining, law enforcement, and first responders across Australia.",
+  "html_bytes": 176715,
+  "text_characters": 2791
+}

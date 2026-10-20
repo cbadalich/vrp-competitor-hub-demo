@@ -1,0 +1,15 @@
+{
+  "competitor": "SIMULATIONiQ",
+  "requested_url": "https://www.simulationiq.com/",
+  "fetched_at": "2026-09-29T17:38:48-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://ems-works.com/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "Education Management Solutions | SIMULATIONiQ",
+  "meta_description": "Education Management Solutions (EMS) is an industry pioneer in simulation technology solutions for healthcare training environments\u2014including clinical simulation management and competency-based curriculum management in the USA.",
+  "html_bytes": 578329,
+  "text_characters": 8674
+}

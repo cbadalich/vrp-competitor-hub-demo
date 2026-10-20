@@ -1,0 +1,203 @@
+{
+  "competitor": "Aquifer",
+  "slug": "aquifer",
+  "snapshot": "data/snapshots/aquifer/2026-10-14_094745",
+  "extracted_at": "2026-09-29T19:31:00-06:00",
+  "extracted_by": "Claude Code session, model claude-opus-5-5",
+  "note": "The student-pricing page repeats the institutional plan comparison table ('Curricular Partner' / 'Limited Subscription') that also appears on the institutional-pricing page. The two pricing pages disagree in places; see key_capabilities and pricing notes.",
+  "pages_read": [
+    "home",
+    "about-aquifer",
+    "how-it-works",
+    "institutional-pricing",
+    "student-pricing"
+  ],
+  "pages_failed": [],
+  "fields": {
+    "product_category": {
+      "status": "found",
+      "value": "AI-enhanced online virtual patient case platform and clinical curriculum for health professions education (clinical reasoning), from a non-profit organization",
+      "evidence": [
+        {
+          "page": "about-aquifer",
+          "quote": "Aquifer is the leading AI-powered learning platform that helps students in the health professions master clinical reasoning through realistic virtual patient cases."
+        },
+        {
+          "page": "how-it-works",
+          "quote": "Aquifer is a comprehensive clinical curriculum designed to help students learn efficiently and effectively to become the best clinicians they can be."
+        },
+        {
+          "page": "about-aquifer",
+          "quote": "Aquifer is a non-profit technology company guided by the vision of an affordable, outcome-based, wellness-focused health professions education without walls."
+        }
+      ],
+      "note": "The first quote is the about page META DESCRIPTION. The homepage META DESCRIPTION calls Aquifer 'the trusted leader in online clinical learning' and says it was founded in 2006."
+    },
+    "platforms": {
+      "status": "found",
+      "value": [
+        "Web",
+        "Mobile"
+      ],
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Aquifer is dedicated to providing the best online clinical learning resources for medical teachers and learners."
+        },
+        {
+          "page": "institutional-pricing",
+          "quote": "Mobile access to cases and assessments via our iOS and Android apps"
+        }
+      ],
+      "note": "Web is based on 'online' (homepage META DESCRIPTION; the about page also says 'online health professions education'). No browser is named. The platform is called Aqueduct®. No VR, AR or MR is mentioned."
+    },
+    "key_capabilities": {
+      "status": "found",
+      "value": [
+        "Virtual patient encounters (250+ cases across core disciplines)",
+        "Course Builder for core and custom courses",
+        "AI-driven individualized feedback, including AI-generated summary statement feedback",
+        "AI Assistant and enhanced curriculum search",
+        "Formative assessments (Aquifer Calibrate)",
+        "Self-assessment question bank and Quiz Generator (PracticeSmart)",
+        "Clinical Decision-Making Exam (Internal Medicine)",
+        "Integrated Illness Scripts linking basic science to clinical reasoning",
+        "Dashboards, reports, and student activity and content usage logs",
+        "iOS and Android apps"
+      ],
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Check out some of our 250+ award-winning cases from all the core disciplines."
+        },
+        {
+          "page": "how-it-works",
+          "quote": "Aquifer makes it easy to build your own course, create assignments, track student progress at a glance, and more."
+        },
+        {
+          "page": "how-it-works",
+          "quote": "Our solution delivers AI-driven individualized student feedback, delivering precepting at scale, validated by your peers, and built directly on trusted content."
+        },
+        {
+          "page": "how-it-works",
+          "quote": "AI-Generated Summary Statement Feedback"
+        },
+        {
+          "page": "how-it-works",
+          "quote": "AI Assistant/Enhanced Curriculum Search Capabilities"
+        },
+        {
+          "page": "institutional-pricing",
+          "quote": "Formative assessment feature for all 7 core disciplines (with Psychiatry coming)."
+        },
+        {
+          "page": "institutional-pricing",
+          "quote": "Our continuously growing bank of self-assessment questions and quizzes help students target their learning."
+        },
+        {
+          "page": "how-it-works",
+          "quote": "Quizzes (Qbank Format)\nQuiz Generator\nClinical Decision-Making Exam"
+        },
+        {
+          "page": "student-pricing",
+          "quote": "40+ Integrated Illness Scripts linking basic sciences to clinical reasoning"
+        },
+        {
+          "page": "how-it-works",
+          "quote": "Dashboards & Reports\nSnapshots and Trends\nContent Usage Log\nStudent Activity Log\nComprehensive Performance Report"
+        },
+        {
+          "page": "institutional-pricing",
+          "quote": "Mobile access to cases and assessments via our iOS and Android apps"
+        }
+      ],
+      "note": "Case counts differ: the institutional plan card says '200+ Cases on core disciplines', while home, the plan comparison table and the student plan say 250+. Calibrate is described as covering 'all 7 core disciplines (with Psychiatry coming)' in one place and 'all core disciplines (except Psychiatry)' in the comparison table. Course limits also differ ('Choose up to three courses' vs 'Choose up to 4 courses'). Other listed items: Clinical Excellence Case Sets (50+ cases), Oral Presentation Skills Modules, student to-do lists, individualized learning plans, peer-led curriculum consults, educator guides."
+    },
+    "target_customer": {
+      "status": "found",
+      "value": "Health professions students and educators, and institutions: US allopathic and osteopathic medical schools, NP, PA and residency programs. Individual students can also subscribe.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "US allopathic medical schools"
+        },
+        {
+          "page": "home",
+          "quote": "US osteopathic medical schools"
+        },
+        {
+          "page": "home",
+          "quote": "NP, PA, and Residency programs"
+        },
+        {
+          "page": "student-pricing",
+          "quote": "Ideal for any health professions learner who's looking to improve, enhance, or reinforce key clinical knowledge."
+        }
+      ],
+      "note": "The homepage gives counts of '150 +' allopathic schools, '20 +' osteopathic schools and '100 +' NP, PA and residency programs (numbers on separate lines). It also claims '125k' active students. The menu has Students, Educators and Institutions sections. Nursing programs other than NP are not named."
+    },
+    "value_proposition": {
+      "status": "found",
+      "value": "Helps health professions students master foundational knowledge and clinical reasoning (understanding, not memorization) for patient care and high-stakes exams, through realistic virtual patient cases built by a consortium of clinical educators.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Aquifer is a dynamic virtual teaching and learning solution that helps students master the foundational knowledge and clinical reasoning needed for patient care and high-stakes exams."
+        },
+        {
+          "page": "home",
+          "quote": "Master Understanding, Not Memorization"
+        },
+        {
+          "page": "home",
+          "quote": "our courses are created by a Consortium of the nation’s leading clinical educators and designed with student success in mind."
+        }
+      ],
+      "note": "Homepage subhead: 'Improve performance. Build confidence. Deliver better patient care.'"
+    },
+    "tagline": {
+      "status": "unclear",
+      "value": "Clinical Learning, Reimagined",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Clinical Learning, Reimagined"
+        },
+        {
+          "page": "how-it-works",
+          "quote": "Clinical Learning, Reimagined"
+        }
+      ],
+      "note": "Repeated in the footer of all five pages, which fits the tagline rule, but it sits inside the 'Resources & Support' link list, so it may be the name of a resource rather than a slogan. Other candidates: homepage first headline after the menu 'Becoming a Great Clinician'; pricing pages 'The Journey to an Exceptional Clinical Education Starts Here'; about page 'By educators, for educators'."
+    },
+    "pricing": {
+      "status": "found",
+      "value": "Individual student plan: Yearly Access $125. Institutional subscriptions (Curricular Partner, Limited Subscription with per-course pricing, separate subscriptions for some case sets): prices not published, quote on request.",
+      "evidence": [
+        {
+          "page": "student-pricing",
+          "quote": "Yearly Access: $125"
+        },
+        {
+          "page": "institutional-pricing",
+          "quote": "Explore options for institutional subscribers. Request a quote today."
+        },
+        {
+          "page": "institutional-pricing",
+          "quote": "Choose up to three courses (per-course pricing)"
+        },
+        {
+          "page": "institutional-pricing",
+          "quote": "Clinical Excellence Case Sets\nSeparate Subscription"
+        }
+      ],
+      "note": "'Curricular Partner' is labeled 'most popular'. Integrated Illness Scripts are a 'Separate Subscription' on the plan card and 'Available as an add-on' in the comparison table. The limited plan's course cap differs (three vs 4)."
+    }
+  },
+  "carried_forward": {
+    "from_record": "data/records/aquifer/2026-10-13_183515.json",
+    "at": "2026-10-14T09:52:03-06:00",
+    "reason": "identical page text",
+    "pages_changed": []
+  }
+}

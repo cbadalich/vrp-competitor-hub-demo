@@ -1,0 +1,28 @@
+{
+  "checked_at": "2026-10-14T11:24:43-06:00",
+  "proposed": "2nd Degree",
+  "problems": [],
+  "results": [
+    {
+      "page": "us_products_courses-learning_virtual-simulation",
+      "quote": "Laerdal's virtual healthcare simulation solutions offer interactive, realistic experiences that help students achieve these goals.",
+      "source_url": "https://www.laerdal.com/us/products/courses-learning/virtual-simulation/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "information_help-nursing-students-develop-clinical-reasoning-skills-competence-and-confidence-with-vsim-for-nursing",
+      "quote": "vSim for Nursing, co-developed by Laerdal Medical and Wolters Kluwer, helps prepare for and reinforce the lessons of high-fidelity patient simulators.",
+      "source_url": "https://www.laerdal.com/us/information/help-nursing-students-develop-clinical-reasoning-skills-competence-and-confidence-with-vsim-for-nursing/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "home",
+      "quote": "Laerdal Medical is a world leading provider of training, educational and therapy products for lifesaving and emergency medical care.",
+      "source_url": "https://www.laerdal.com/us/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    }
+  ]
+}

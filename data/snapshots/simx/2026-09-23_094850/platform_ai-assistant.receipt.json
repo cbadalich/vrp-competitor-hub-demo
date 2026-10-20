@@ -1,0 +1,15 @@
+{
+  "competitor": "SimX",
+  "requested_url": "https://www.simxvr.com/platform/ai-assistant/",
+  "fetched_at": "2026-09-23T09:51:02-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.simxvr.com/platform/ai-assistant/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "VR Medical Simulation for Hospital Systems | SimX",
+  "meta_description": "Scalable VR simulation training for hospital systems. Standardized, repeatable clinical training across every department, specialty, and learner level.",
+  "html_bytes": 85633,
+  "text_characters": 5423
+}

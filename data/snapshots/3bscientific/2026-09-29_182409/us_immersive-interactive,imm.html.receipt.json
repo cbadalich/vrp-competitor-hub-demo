@@ -1,0 +1,15 @@
+{
+  "competitor": "3B Scientific",
+  "requested_url": "https://www.3bscientific.com/us/immersive-interactive,imm.html",
+  "fetched_at": "2026-09-29T18:30:13-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.3bscientific.com/us/immersive-interactive,imm.html",
+  "content_type": "text/html;charset=UTF-8",
+  "error": null,
+  "title": "Immersive Interactive | Where Learning Meets Experience",
+  "meta_description": "Advance clinical skills with 3B Scientific\u2019s high-quality medical simulators and task trainers. Explore solutions for nursing education, obstetrics simulation, anatomy learning, physiotherapy, and science education.",
+  "html_bytes": 119365,
+  "text_characters": 6236
+}

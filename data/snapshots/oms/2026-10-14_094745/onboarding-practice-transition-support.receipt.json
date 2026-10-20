@@ -1,0 +1,15 @@
+{
+  "competitor": "Oxford Medical Simulation",
+  "requested_url": "https://oxfordmedicalsimulation.com/onboarding-practice-transition-support/",
+  "fetched_at": "2026-10-14T09:48:47-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://oxfordmedicalsimulation.com/onboarding-practice-transition-support/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "Onboarding & Transition to Practice - Oxford Medical Simulation",
+  "meta_description": "Prepare new nurses and clinicians for real-world care with immersive VR onboarding. Standardize readiness, support educators, and improve performance and patient outcomes.",
+  "html_bytes": 522645,
+  "text_characters": 8912
+}

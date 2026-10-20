@@ -1,0 +1,15 @@
+{
+  "competitor": "SimX",
+  "requested_url": "https://www.simxvr.com/platform/offline-mode/",
+  "fetched_at": "2026-09-29T18:40:55-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.simxvr.com/platform/offline-mode/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "Offline Mode: VR Simulation Without Internet | SimX",
+  "meta_description": "Run full-fidelity VR medical simulation with no internet connection. Built for rural clinics, field hospitals, and low-bandwidth training environments.",
+  "html_bytes": 82127,
+  "text_characters": 4193
+}

@@ -1,0 +1,15 @@
+{
+  "competitor": "Intulect",
+  "requested_url": "https://intulect.com/pages/simulations/",
+  "fetched_at": "2026-10-14T09:50:46-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://intulect.com/pages/simulations/",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "Intulect | AI-Facilitated Nursing Simulations",
+  "meta_description": "Intulect delivers facilitator-free nursing simulations in both Virtual Reality & Computer-based devices so educators can run hundreds of simulations simultaneously and complete competency reports automatically.",
+  "html_bytes": 388822,
+  "text_characters": 8086
+}

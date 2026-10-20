@@ -1,0 +1,258 @@
+{
+  "record": "data/records/aquifer/2026-10-13_183515.json",
+  "checked_at": "2026-10-14T09:18:32-06:00",
+  "results": {
+    "product_category": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "about-aquifer",
+          "source_url": "https://aquifer.org/about-aquifer",
+          "quote": "Aquifer is the leading AI-powered learning platform that helps students in the health professions master clinical reasoning through realistic virtual patient cases.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "how-it-works",
+          "source_url": "https://aquifer.org/how-it-works",
+          "quote": "Aquifer is a comprehensive clinical curriculum designed to help students learn efficiently and effectively to become the best clinicians they can be.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "about-aquifer",
+          "source_url": "https://aquifer.org/about-aquifer",
+          "quote": "Aquifer is a non-profit technology company guided by the vision of an affordable, outcome-based, wellness-focused health professions education without walls.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "platforms": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://aquifer.org/",
+          "quote": "Aquifer is dedicated to providing the best online clinical learning resources for medical teachers and learners.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "institutional-pricing",
+          "source_url": "https://aquifer.org/institutional-pricing",
+          "quote": "Mobile access to cases and assessments via our iOS and Android apps",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "key_capabilities": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://aquifer.org/",
+          "quote": "Check out some of our 250+ award-winning cases from all the core disciplines.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "how-it-works",
+          "source_url": "https://aquifer.org/how-it-works",
+          "quote": "Aquifer makes it easy to build your own course, create assignments, track student progress at a glance, and more.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "how-it-works",
+          "source_url": "https://aquifer.org/how-it-works",
+          "quote": "Our solution delivers AI-driven individualized student feedback, delivering precepting at scale, validated by your peers, and built directly on trusted content.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "how-it-works",
+          "source_url": "https://aquifer.org/how-it-works",
+          "quote": "AI-Generated Summary Statement Feedback",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "how-it-works",
+          "source_url": "https://aquifer.org/how-it-works",
+          "quote": "AI Assistant/Enhanced Curriculum Search Capabilities",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "institutional-pricing",
+          "source_url": "https://aquifer.org/institutional-pricing",
+          "quote": "Formative assessment feature for all 7 core disciplines (with Psychiatry coming).",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "institutional-pricing",
+          "source_url": "https://aquifer.org/institutional-pricing",
+          "quote": "Our continuously growing bank of self-assessment questions and quizzes help students target their learning.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "how-it-works",
+          "source_url": "https://aquifer.org/how-it-works",
+          "quote": "Quizzes (Qbank Format)\nQuiz Generator\nClinical Decision-Making Exam",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "student-pricing",
+          "source_url": "https://aquifer.org/student-pricing",
+          "quote": "40+ Integrated Illness Scripts linking basic sciences to clinical reasoning",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "how-it-works",
+          "source_url": "https://aquifer.org/how-it-works",
+          "quote": "Dashboards & Reports\nSnapshots and Trends\nContent Usage Log\nStudent Activity Log\nComprehensive Performance Report",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "institutional-pricing",
+          "source_url": "https://aquifer.org/institutional-pricing",
+          "quote": "Mobile access to cases and assessments via our iOS and Android apps",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "target_customer": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://aquifer.org/",
+          "quote": "US allopathic medical schools",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://aquifer.org/",
+          "quote": "US osteopathic medical schools",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://aquifer.org/",
+          "quote": "NP, PA, and Residency programs",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "student-pricing",
+          "source_url": "https://aquifer.org/student-pricing",
+          "quote": "Ideal for any health professions learner who's looking to improve, enhance, or reinforce key clinical knowledge.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "value_proposition": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://aquifer.org/",
+          "quote": "Aquifer is a dynamic virtual teaching and learning solution that helps students master the foundational knowledge and clinical reasoning needed for patient care and high-stakes exams.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://aquifer.org/",
+          "quote": "Master Understanding, Not Memorization",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://aquifer.org/",
+          "quote": "our courses are created by a Consortium of the nation\u2019s leading clinical educators and designed with student success in mind.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "tagline": {
+      "status": "unclear",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://aquifer.org/",
+          "quote": "Clinical Learning, Reimagined",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "how-it-works",
+          "source_url": "https://aquifer.org/how-it-works",
+          "quote": "Clinical Learning, Reimagined",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "pricing": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "student-pricing",
+          "source_url": "https://aquifer.org/student-pricing",
+          "quote": "Yearly Access: $125",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "institutional-pricing",
+          "source_url": "https://aquifer.org/institutional-pricing",
+          "quote": "Explore options for institutional subscribers. Request a quote today.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "institutional-pricing",
+          "source_url": "https://aquifer.org/institutional-pricing",
+          "quote": "Choose up to three courses (per-course pricing)",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "institutional-pricing",
+          "source_url": "https://aquifer.org/institutional-pricing",
+          "quote": "Clinical Excellence Case Sets\nSeparate Subscription",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    }
+  }
+}

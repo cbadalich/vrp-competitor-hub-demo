@@ -1,0 +1,28 @@
+{
+  "checked_at": "2026-10-14T11:24:43-06:00",
+  "proposed": "Not Relevant",
+  "problems": [],
+  "results": [
+    {
+      "page": "home",
+      "quote": "As a master distributor, no supplier delivered faster.",
+      "source_url": "https://www.simulaids.co.uk/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "shop_patient-care-nursing-6_mvr-n010-mvr-nursing-virtual-reality-simulation-for-nursing-education-22996",
+      "quote": "Brand: Nasco Healthcare",
+      "source_url": "https://www.simulaids.co.uk/shop/patient-care-nursing-6/mvr-n010-mvr-nursing-virtual-reality-simulation-for-nursing-education-22996",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "home",
+      "quote": "Products sourced from the world's leading simulation manufacturers",
+      "source_url": "https://www.simulaids.co.uk/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    }
+  ]
+}

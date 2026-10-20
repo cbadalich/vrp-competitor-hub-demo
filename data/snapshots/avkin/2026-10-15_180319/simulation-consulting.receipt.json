@@ -1,0 +1,15 @@
+{
+  "competitor": "AvKin",
+  "requested_url": "https://avkin.com/simulation-consulting/",
+  "fetched_at": "2026-10-15T18:03:49-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://avkin.com/simulation-consulting/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "Simulation Consulting - Avkin",
+  "meta_description": "",
+  "html_bytes": 181703,
+  "text_characters": 2215
+}

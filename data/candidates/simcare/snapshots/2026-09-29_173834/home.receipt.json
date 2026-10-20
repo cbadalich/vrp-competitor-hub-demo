@@ -1,0 +1,15 @@
+{
+  "competitor": "SimCare AI",
+  "requested_url": "https://simcare.ai/",
+  "fetched_at": "2026-09-29T17:38:34-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://simcare.ai/",
+  "content_type": "text/html",
+  "error": null,
+  "title": "SimCare",
+  "meta_description": "AI Client simulations for better counselor training. Speak directly with avatars to practice counseling skills, explore different scenarios, and get instant feedback.",
+  "html_bytes": 573805,
+  "text_characters": 8714
+}

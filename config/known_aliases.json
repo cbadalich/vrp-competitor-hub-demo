@@ -1,0 +1,221 @@
+{
+  "_about": "Other names and websites of companies we already know, so discovery does not treat them as new. 'belongs_to' is a tracked company's slug (config/competitors.csv) or a candidate's slug (data/candidates/). Each entry says why, with a public source where one was recorded. Edit freely.",
+  "aliases": [
+    {
+      "names": [
+        "Health Scholars"
+      ],
+      "domains": [
+        "healthscholars.com"
+      ],
+      "belongs_to": "upskillai",
+      "why": "Renamed: UpSkillAI's own site says 'is now UpSkillAI'."
+    },
+    {
+      "names": [
+        "Intelligent Ultrasound",
+        "ScanTrainer",
+        "HeartWorks",
+        "BodyWorks Eve",
+        "BabyWorks",
+        "NeedleTrainer"
+      ],
+      "domains": [
+        "intelligentultrasound.com"
+      ],
+      "belongs_to": "surgicalscience",
+      "why": "Acquired: https://smarterscanning.surgicalscience.com/ says 'Intelligent Ultrasound Joins Surgical Science'."
+    },
+    {
+      "names": [
+        "Simbionix",
+        "Mentor Learn",
+        "MentorLearn"
+      ],
+      "domains": [],
+      "belongs_to": "surgicalscience",
+      "why": "Surgical Science brand and product."
+    },
+    {
+      "names": [
+        "CAE Healthcare",
+        "CAE Healthcare Division"
+      ],
+      "domains": [
+        "caehealthcare.com"
+      ],
+      "belongs_to": "elevatehealth",
+      "why": "CAE Healthcare became Elevate Healthcare (documented during discovery, 2026-09-29)."
+    },
+    {
+      "names": [
+        "Meggitt Training Systems",
+        "Meggitt"
+      ],
+      "domains": [
+        "meggitttraining.com"
+      ],
+      "belongs_to": "inveristraining",
+      "why": "Meggitt Training Systems became InVeris (documented during discovery, 2026-09-29)."
+    },
+    {
+      "names": [
+        "Shadow Health",
+        "Elsevier Shadow Health",
+        "Simulation Learning System"
+      ],
+      "domains": [
+        "shadowhealth.com"
+      ],
+      "belongs_to": "evolve-elsevier",
+      "why": "Elsevier products."
+    },
+    {
+      "names": [
+        "vSim for Nursing",
+        "vSim"
+      ],
+      "domains": [],
+      "belongs_to": "laerdal",
+      "why": "Laerdal's virtual simulation page describes vSim for Nursing, co-developed with Wolters Kluwer."
+    },
+    {
+      "names": [
+        "Kaplan i-Human Patients",
+        "iHuman"
+      ],
+      "domains": [],
+      "belongs_to": "i-human",
+      "why": "Same product."
+    },
+    {
+      "names": [
+        "PerSim"
+      ],
+      "domains": [],
+      "belongs_to": "medcognition",
+      "why": "Medcognition's product."
+    },
+    {
+      "names": [
+        "HoloHuman",
+        "HoloPatient",
+        "Immersive Learning Group"
+      ],
+      "domains": [],
+      "belongs_to": "gigxr",
+      "why": "GigXR products; GigXR acquired Immersive Learning Group."
+    },
+    {
+      "names": [
+        "Acadicus"
+      ],
+      "domains": [
+        "acadicus.com"
+      ],
+      "belongs_to": "archvirtual",
+      "why": "Arch Virtual's platform."
+    },
+    {
+      "names": [
+        "Take the Wind"
+      ],
+      "domains": [
+        "takethewind.com"
+      ],
+      "belongs_to": "bodyinteract",
+      "why": "Body Interact's homepage: 'registered trademark of Take The Wind'."
+    },
+    {
+      "names": [
+        "Simlogic",
+        "Simlogic AB"
+      ],
+      "domains": [],
+      "belongs_to": "skillup4u",
+      "why": "Skillup VR's company page: Simlogic introduces SkillupVR."
+    },
+    {
+      "names": [
+        "Fundamental Surgery",
+        "Fundamental XR"
+      ],
+      "domains": [
+        "fundamentalxr.com"
+      ],
+      "belongs_to": "fundamentalvr",
+      "why": "FundamentalVR footer: '© Fundamental XR'."
+    },
+    {
+      "names": [
+        "FLAIM Trainer",
+        "FLAIM"
+      ],
+      "domains": [],
+      "belongs_to": "flaimsystems",
+      "why": "FLAIM Systems product."
+    },
+    {
+      "names": [
+        "XVRSim",
+        "RiVR"
+      ],
+      "domains": [],
+      "belongs_to": "xvrsim",
+      "why": "XVR Simulation brand and product."
+    },
+    {
+      "names": [
+        "Sim X AR",
+        "SimX VR"
+      ],
+      "domains": [
+        "simxar.com"
+      ],
+      "belongs_to": "simx",
+      "why": "Earlier SimX name."
+    },
+    {
+      "names": [
+        "UbiSim VR"
+      ],
+      "domains": [
+        "ubisim.com"
+      ],
+      "belongs_to": "ubisim",
+      "why": "Second domain for UbiSim."
+    },
+    {
+      "names": [
+        "ENGAGE XR",
+        "ENGAGE VR",
+        "VR Education Holdings"
+      ],
+      "domains": [
+        "engagexr.com"
+      ],
+      "belongs_to": "engagevr",
+      "why": "Same company (rejected candidate)."
+    },
+    {
+      "names": [
+        "Skillup",
+        "skillup4u"
+      ],
+      "domains": [
+        "skillup4u.com"
+      ],
+      "belongs_to": "skillup4u",
+      "why": "Earlier website on file; Skillup VR's company page shows its Norwegian start (founded 2021, Folkeinvest campaigns), which matches the skillup4u.com listing. Corrected 2026-10-13."
+    },
+    {
+      "names": [
+        "Lifecast Body Simulation",
+        "Lifecast"
+      ],
+      "domains": [],
+      "belongs_to": "3bscientific",
+      "why": "Acquired: 3B Scientific agreed to acquire Lifecast Body Simulation in 2023 (https://www.aap.com.au/aapreleases/cision20230802ae72304/)."
+    }
+  ]
+}

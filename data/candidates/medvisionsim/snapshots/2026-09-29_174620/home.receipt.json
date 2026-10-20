@@ -1,0 +1,15 @@
+{
+  "competitor": "MedVision",
+  "requested_url": "https://www.medvisionsim.com/",
+  "fetched_at": "2026-09-29T17:46:20-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://medvisionsim.com/",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "Medical Simulation for Training \u2014 Simulators for Healthcare Professionals",
+  "meta_description": "Discover advanced medical simulation and healthcare simulators designed to enhance professional training. MedVision offers innovative solutions to improve clinical skills and decision-making for healthcare professionals.",
+  "html_bytes": 289490,
+  "text_characters": 13780
+}

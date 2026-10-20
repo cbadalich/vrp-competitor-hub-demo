@@ -1,0 +1,76 @@
+{
+  "slug": "labster",
+  "name": "Labster",
+  "website": "https://www.labster.com/",
+  "domain": "labster.com",
+  "aliases": [],
+  "status": "approved",
+  "first_seen": "2026-10-14T10:12:29-06:00",
+  "last_seen": "2026-10-14T11:23:28-06:00",
+  "sightings": [
+    {
+      "source": "web search",
+      "query": "VR nursing simulation startup 2026",
+      "url": "https://www.healthysimulation.com/tag/labster-inc/",
+      "snippet": "CB Insights lists UbiSim was acquired by Labster",
+      "website_from": "search summary",
+      "origin": "topic-search",
+      "found_in": "https://www.cbinsights.com/company/ubisim",
+      "run": "2026-10-14-test",
+      "found_at": "2026-10-14T10:12:29-06:00"
+    }
+  ],
+  "known_from": null,
+  "possible_duplicate_of": [],
+  "snapshot": "data/candidates/labster/snapshots/2026-10-14_101229",
+  "extra_pages": [],
+  "signals": {
+    "healthcare_training": [
+      "nursing",
+      "nurse"
+    ],
+    "headset": [
+      "VR"
+    ],
+    "simulation": [
+      "simulation",
+      "simulations"
+    ]
+  },
+  "suggested_pages": [
+    "https://www.labster.com/simulations/",
+    "https://www.labster.com/simulation-courses/",
+    "https://www.labster.com/simulation-skills/",
+    "https://www.labster.com/about-us/",
+    "https://www.labster.com/pricing/",
+    "https://my.labster.com/ref/c56d1874697045d/simulation/646e30faeb8c158b84f12f86/"
+  ],
+  "classification": {
+    "proposed": "1st Degree",
+    "by": "Claude Code session, model claude-opus-5-5",
+    "at": "2026-10-14T10:14:56-06:00",
+    "snapshot": "data/candidates/labster/snapshots/2026-10-14_101229",
+    "reason": "Mostly STEM virtual labs, but the homepage offers immersive VR simulations for nurse training with hands-on practice. A search summary (CB Insights) says Labster acquired UbiSim, which is already tracked; this may be the same product, so check for a duplicate before approving.",
+    "evidence": [
+      {
+        "page": "home",
+        "quote": "Expand nurse training and institutional success through immersive, customizable VR simulations, offering realistic, safe, and hands-on practice opportunities at scale."
+      }
+    ]
+  },
+  "review": {
+    "decision": "approved",
+    "type": "1st Degree",
+    "at": "2026-10-14T11:31:01-06:00",
+    "reason": "Approved in the review queue",
+    "tracked_slug": "labster",
+    "pages": [
+      "https://www.labster.com/",
+      "https://www.labster.com/simulations/",
+      "https://www.labster.com/simulation-courses/",
+      "https://www.labster.com/simulation-skills/",
+      "https://www.labster.com/about-us/"
+    ]
+  },
+  "name_on_site": true
+}

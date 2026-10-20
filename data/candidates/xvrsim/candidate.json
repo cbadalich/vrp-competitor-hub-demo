@@ -1,0 +1,80 @@
+{
+  "slug": "xvrsim",
+  "name": "XVR Simulation",
+  "website": "https://www.xvrsim.com/",
+  "domain": "xvrsim.com",
+  "aliases": [],
+  "status": "approved",
+  "first_seen": "2026-09-29T17:37:07-06:00",
+  "last_seen": "2026-09-29T17:37:07-06:00",
+  "sightings": [
+    {
+      "source": "earlier research list",
+      "query": "\"XVR Simulation\" official website",
+      "url": "https://pitchbook.com/profiles/company/56076-76",
+      "snippet": "XVR Simulation Overview",
+      "website_from": "search summary",
+      "found_at": "2026-09-29T17:37:07-06:00"
+    }
+  ],
+  "possible_duplicate_of": [],
+  "snapshot": "data/candidates/xvrsim/snapshots/2026-09-29_173907",
+  "extra_pages": [
+    "https://learnprogroup.com/xvr/sectors/ambulance/",
+    "https://learnprogroup.com/xvr/solutions/xvr-on-scene/",
+    "https://learnprogroup.com/xvr/what-is-vr-training/"
+  ],
+  "signals": {
+    "headset": [
+      "virtual reality",
+      "VR"
+    ],
+    "simulation": [
+      "simulation",
+      "simulations"
+    ],
+    "public_safety": [
+      "police",
+      "fire service"
+    ]
+  },
+  "suggested_pages": [
+    "https://info.xvrsim.com/download-product-literature/"
+  ],
+  "classification": {
+    "proposed": "Unclear",
+    "by": "Claude Code session, model claude-opus-5-5",
+    "at": "2026-09-29T17:50:00-06:00",
+    "snapshot": "data/candidates/xvrsim/snapshots/2026-09-29_173907",
+    "reason": "XVR On Scene incident-command simulation trains fire, police and ambulance services, and the ambulance page describes clinical judgement and mass-casualty triage (EMS). The product pages describe 3D virtual scenes without naming a headset; the only head-mounted display quote is one fire-sector customer story, so a person should check whether ambulance training runs on a headset (1st Degree) or not.",
+    "evidence": [
+      {
+        "page": "xvr_sectors_ambulance",
+        "quote": "We work with Ambulance Services & Health Academies to support continuous learning."
+      },
+      {
+        "page": "xvr_sectors_ambulance",
+        "quote": "Mass casualty incidents and triage exercises"
+      },
+      {
+        "page": "xvr_what-is-vr-training",
+        "quote": "Uses VR head‑mounted displays for team‑based reconnaissance and hazard assessment"
+      }
+    ]
+  },
+  "review": {
+    "decision": "approved",
+    "type": "1st Degree",
+    "at": "2026-09-29T18:23:21-06:00",
+    "reason": "",
+    "tracked_slug": "xvrsim",
+    "pages": [
+      "https://www.xvrsim.com/",
+      "https://learnprogroup.com/xvr/sectors/ambulance/",
+      "https://learnprogroup.com/xvr/solutions/xvr-on-scene/",
+      "https://learnprogroup.com/xvr/what-is-vr-training/",
+      "https://info.xvrsim.com/download-product-literature/"
+    ]
+  },
+  "name_on_site": true
+}

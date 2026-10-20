@@ -1,0 +1,21 @@
+{
+  "checked_at": "2026-10-14T11:24:43-06:00",
+  "proposed": "Unclear",
+  "problems": [],
+  "results": [
+    {
+      "page": "home",
+      "quote": "Virtual Patient Simulation",
+      "source_url": "https://kaplan.com/institutions-educators/higher-education/nursing-schools/i-human",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "home",
+      "quote": "Boost your cohort’s skills in clinical judgment for success on both the NCLEX exam and in their future nursing careers.",
+      "source_url": "https://kaplan.com/institutions-educators/higher-education/nursing-schools/i-human",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    }
+  ]
+}

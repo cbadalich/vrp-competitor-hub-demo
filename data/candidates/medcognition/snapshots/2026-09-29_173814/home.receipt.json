@@ -1,0 +1,15 @@
+{
+  "competitor": "Medcognition",
+  "requested_url": "https://medcognition.com/",
+  "fetched_at": "2026-09-29T17:38:14-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://medcognition.com/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "Home - MedCognition",
+  "meta_description": "PerSim\u00ae Holographic Patient Simulation Discover the Augmented Future of Medical Simulation. schedule an online demo Previous Next Augment Your sim training. witness the transformation You work the frontlines of healthcare. We made this for you. Click on the arrow and watch the video to learn more about how PerSim\u00ae can make your patients and team [\u2026]",
+  "html_bytes": 139227,
+  "text_characters": 4541
+}

@@ -1,0 +1,15 @@
+{
+  "competitor": "VRpatients",
+  "requested_url": "https://vrpatients.com/military/",
+  "fetched_at": "2026-09-29T18:39:28-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://vrpatients.com/military/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "Military Medical Simulation & Readiness Training",
+  "meta_description": "VRpatients for Military is a virtual medical simulation training software program that can assess readiness and quickly refresh skills required for deployment",
+  "html_bytes": 230621,
+  "text_characters": 5534
+}

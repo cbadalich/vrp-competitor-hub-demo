@@ -1,0 +1,15 @@
+{
+  "competitor": "Oxford Medical Simulation",
+  "requested_url": "https://oxfordmedicalsimulation.com/services/",
+  "fetched_at": "2026-09-29T18:28:53-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://oxfordmedicalsimulation.com/services/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "Services - Oxford Medical Simulation",
+  "meta_description": "Partner with OMS for implementation, curriculum mapping, faculty support, and ongoing guidance that strengthens simulation, saves time, and drives measurable learning outcomes.",
+  "html_bytes": 505913,
+  "text_characters": 8070
+}

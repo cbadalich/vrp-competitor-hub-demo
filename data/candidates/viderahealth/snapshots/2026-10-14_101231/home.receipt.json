@@ -1,0 +1,15 @@
+{
+  "competitor": "Videra Health",
+  "requested_url": "https://www.viderahealth.com/",
+  "fetched_at": "2026-10-14T10:12:31-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://viderahealth.com/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "Automate the Patient Journey | Videra Health",
+  "meta_description": "AI for behavioral health: automate patient engagement, clinical documentation, and continuous monitoring \u2014 and add capacity without adding headcount.",
+  "html_bytes": 58523,
+  "text_characters": 4659
+}

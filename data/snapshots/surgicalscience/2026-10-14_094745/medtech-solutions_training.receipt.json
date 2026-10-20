@@ -1,0 +1,15 @@
+{
+  "competitor": "Surgical Science",
+  "requested_url": "https://surgicalscience.com/medtech-solutions/training/",
+  "fetched_at": "2026-10-14T09:51:02-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://surgicalscience.com/medtech-solutions/training/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "MedTech - Enhancing Professional Education - Surgical Science",
+  "meta_description": "Offer a comprehensive professional education experience for staff and HCPs. It addresses challenges such as language barriers and engagement.",
+  "html_bytes": 60401,
+  "text_characters": 6017
+}

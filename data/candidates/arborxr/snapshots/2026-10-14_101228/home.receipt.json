@@ -1,0 +1,15 @@
+{
+  "competitor": "ArborXR",
+  "requested_url": "https://arborxr.com/",
+  "fetched_at": "2026-10-14T10:12:28-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://arborxr.com/",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "Manage AR and VR Devices - VR Device Management | ArborXR",
+  "meta_description": "Looking to manage AR and VR devices, or deploy, manage, and update VR & AR apps & files remotely? Try ArborXR Home and Kiosk Mode. Click to learn more.",
+  "html_bytes": 312102,
+  "text_characters": 13874
+}

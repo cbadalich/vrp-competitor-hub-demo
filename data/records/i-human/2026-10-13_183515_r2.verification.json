@@ -1,0 +1,179 @@
+{
+  "record": "data/records/i-human/2026-10-13_183515_r2.json",
+  "checked_at": "2026-10-14T09:18:32-06:00",
+  "results": {
+    "product_category": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "institutions-educators_higher-education_nursing-schools_i-human",
+          "source_url": "https://kaplan.com/institutions-educators/higher-education/nursing-schools/i-human",
+          "quote": "Virtual Patient Simulation\ni-Human Patients\u00ae Bridges the Gap Between Theory and Practice",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "institutions-educators_higher-education_nursing-schools_i-human",
+          "source_url": "https://kaplan.com/institutions-educators/higher-education/nursing-schools/i-human",
+          "quote": "Explore iHuman\u2019s cutting edge virtual medical  simulation offerings and level up your student\u2019s skills to prepare them for the NCLEX exam.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "platforms": {
+      "status": "not_found",
+      "result": "not_found",
+      "problems": [],
+      "evidence": []
+    },
+    "key_capabilities": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "institutions-educators_higher-education_nursing-schools_i-human",
+          "source_url": "https://kaplan.com/institutions-educators/higher-education/nursing-schools/i-human",
+          "quote": "Engage students with a wide variety of avatars, realistic patient scenarios, and tailored feedback",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "institutions-educators_higher-education_nursing-schools_i-human",
+          "source_url": "https://kaplan.com/institutions-educators/higher-education/nursing-schools/i-human",
+          "quote": "robust feedback with rationales personalized to student performance.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "institutions-educators_higher-education_nursing-schools_i-human",
+          "source_url": "https://kaplan.com/institutions-educators/higher-education/nursing-schools/i-human",
+          "quote": "Use comprehensive analytics and reporting tools to gain real-time insights into your students\u2019 performance.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "institutions-educators_higher-education_nursing-schools_i-human",
+          "source_url": "https://kaplan.com/institutions-educators/higher-education/nursing-schools/i-human",
+          "quote": "whether you\u2019re leading group or individual learning experiences",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "institutions-educators_higher-education_nursing-schools_i-human",
+          "source_url": "https://kaplan.com/institutions-educators/higher-education/nursing-schools/i-human",
+          "quote": "Kaplan\u2019s AI Tutor acts as a real-time clinical coach, without adding a single task to your faculty\u2019s workload.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "institutions-educators_higher-education_nursing-schools_i-human",
+          "source_url": "https://kaplan.com/institutions-educators/higher-education/nursing-schools/i-human",
+          "quote": "Provide students with complete case simulations\u2014from history to diagnosis to management plans.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "target_customer": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "institutions-educators_higher-education_nursing-schools_i-human",
+          "source_url": "https://kaplan.com/institutions-educators/higher-education/nursing-schools/i-human",
+          "quote": "Boost your cohort\u2019s skills in clinical judgment for success on both the NCLEX exam and in their future nursing careers.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "institutions-educators_higher-education_nursing-schools_i-human",
+          "source_url": "https://kaplan.com/institutions-educators/higher-education/nursing-schools/i-human",
+          "quote": "Strengthen your students\u2019 diagnostic competency and clinical judgment skills.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "institutions-educators_higher-education_nursing-schools_i-human",
+          "source_url": "https://kaplan.com/institutions-educators/higher-education/nursing-schools/i-human",
+          "quote": "Improve clinical performance by strengthening your commitment to the evidence-based practice of medicine.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "institutions-educators_higher-education_nursing-schools_i-human",
+          "source_url": "https://kaplan.com/institutions-educators/higher-education/nursing-schools/i-human",
+          "quote": "Augment your DO curriculum with comprehensive virtual patient encounters.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "institutions-educators_higher-education_nursing-schools_i-human",
+          "source_url": "https://kaplan.com/institutions-educators/higher-education/nursing-schools/i-human",
+          "quote": "Physician Associate, Athletic Therapy, Hospital Systems",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "institutions-educators_higher-education_nursing-schools_i-human",
+          "source_url": "https://kaplan.com/institutions-educators/higher-education/nursing-schools/i-human",
+          "quote": "Ensure graduates are globally prepared and patient-focused through evidence-based clinical education.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "value_proposition": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "institutions-educators_higher-education_nursing-schools_i-human",
+          "source_url": "https://kaplan.com/institutions-educators/higher-education/nursing-schools/i-human",
+          "quote": "i-Human Patients\u00ae Bridges the Gap Between Theory and Practice",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "institutions-educators_higher-education_nursing-schools_i-human",
+          "source_url": "https://kaplan.com/institutions-educators/higher-education/nursing-schools/i-human",
+          "quote": "With cutting-edge virtual simulation, your students will develop the critical skills they need to excel\u2014from licensure to clinical practice.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "institutions-educators_higher-education_nursing-schools_i-human",
+          "source_url": "https://kaplan.com/institutions-educators/higher-education/nursing-schools/i-human",
+          "quote": "Sharpen Clinical Judgment and Critical Thinking",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "tagline": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "institutions-educators_higher-education_nursing-schools_i-human",
+          "source_url": "https://kaplan.com/institutions-educators/higher-education/nursing-schools/i-human",
+          "quote": "i-Human Patients\u00ae Bridges the Gap Between Theory and Practice",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "pricing": {
+      "status": "not_found",
+      "result": "not_found",
+      "problems": [],
+      "evidence": []
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "competitor": "TI Training",
+  "requested_url": "https://www.titraining.com/",
+  "fetched_at": "2026-10-13T18:37:40-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://titraining.com/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "Ti Training LE - Simulation Training Solutions",
+  "meta_description": "Boost training with Ti Training's simulators. Improve decision-making and awareness for law enforcement, military, and commercial sectors. Contact us.",
+  "html_bytes": 297025,
+  "text_characters": 10397
+}

@@ -1,0 +1,15 @@
+{
+  "competitor": "ORamaVR",
+  "requested_url": "https://oramavr.com/",
+  "fetched_at": "2026-10-13T18:38:01-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://oramavr.com/",
+  "content_type": "text/html",
+  "error": null,
+  "title": "Medical XR training platform for hospitals & MedTech | ORamaVR",
+  "meta_description": "Build, host, and scale clinically validated medical XR simulations. Self-serve plans from \u20ac159/month. Trusted by medical device companies, hospitals, and sim centres worldwide.",
+  "html_bytes": 106808,
+  "text_characters": 5413
+}

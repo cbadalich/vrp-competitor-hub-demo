@@ -1,0 +1,15 @@
+{
+  "competitor": "Aquifer",
+  "requested_url": "https://aquifer.org/student-pricing/",
+  "fetched_at": "2026-09-29T18:46:40-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://aquifer.org/student-pricing",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "Aquifer Student Pricing",
+  "meta_description": "Individual plans offer students direct access to Aquifer's full library of cases, assessment tools and sciences content at an affordable price.",
+  "html_bytes": 147807,
+  "text_characters": 3251
+}

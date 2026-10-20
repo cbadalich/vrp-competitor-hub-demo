@@ -1,0 +1,185 @@
+{
+  "competitor": "Nasco Healthcare",
+  "slug": "nascohealthcare",
+  "snapshot": "data/snapshots/nascohealthcare/2026-10-13_184019",
+  "extracted_at": "2026-09-29T19:48:00-06:00",
+  "extracted_by": "Claude Code session, model claude-opus-5-5",
+  "note": "Two configured URLs redirected to the separate shop site (see receipts' final_url): 'products_our-leading-products' landed on the shop homepage (shop.nascohealthcare.com with a section anchor), and 'products_casualty-care-rescue-randy' landed on the shop product page for SKU 149-6075. Both were read and cited under their saved page names. The earlier snapshot 2026-09-29_182409 has the same pages.",
+  "pages_read": [
+    "home",
+    "about_our-purpose",
+    "products_our-leading-products",
+    "products_casualty-care-rescue-randy",
+    "products_casualty-care-rescue-randy_casualty-care-rescue-randy-training-videos"
+  ],
+  "pages_failed": [],
+  "fields": {
+    "product_category": {
+      "status": "found",
+      "value": "Healthcare simulation and training products (over 4000): manikins, patient simulators, task trainers, moulage and VR medical simulation, from in-hospital care to casualty and rescue/extrication",
+      "evidence": [
+        {
+          "page": "products_our-leading-products",
+          "quote": "Nasco Healthcare is home of over 4000 products from in-hospital care to casualty and rescue/extrication scenarios"
+        },
+        {
+          "page": "home",
+          "quote": "Nasco Healthcare provides healthcare training solutions that allow frontline heroes to BE READY in any situation."
+        }
+      ],
+      "note": "Both quotes are META DESCRIPTION lines. The shop page says 'We're committed to providing innovative products across all fidelity levels.' The footer also links to a separate 'Nasco Nutrition' catalog."
+    },
+    "platforms": {
+      "status": "found",
+      "value": [
+        "VR"
+      ],
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "XR Clinic is an affordable and revolutionary medical training solution using virtual reality with high resolution graphics."
+        }
+      ],
+      "note": "Only XR Clinic is described as digital; the rest of the catalog is physical manikins, simulators and trainers, which do not map to an allowed label. The menu lists 'MVR Technologies' and 'ALEX Gen AI', and the shop has a 'Virtual Patient Care' category, but the pages read do not describe how learners use them."
+    },
+    "key_capabilities": {
+      "status": "found",
+      "value": [
+        "XR Clinic VR medical simulation",
+        "ALEX/AXEL untethered, portable patient simulators",
+        "ALEX Gen AI Patient Communication Simulator",
+        "TERi and DANi patient care platform for nursing",
+        "Casualty Care Rescue Randy trauma manikin with simultaneous bleeding wounds (TCCC/TECC)",
+        "Rescue Randy rescue, extrication and patient handling manikins",
+        "IV, IO, IM training arms and task trainers",
+        "Moulage for realistic training scenarios",
+        "Upgradeable products"
+      ],
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "XR Clinic is an affordable and revolutionary medical training solution using virtual reality with high resolution graphics."
+        },
+        {
+          "page": "home",
+          "quote": "Meet twins ALEX and AXEL – untethered, on-the-go patient simulators – simply unpack, and you’re ready to train – anytime, anywhere!*"
+        },
+        {
+          "page": "products_our-leading-products",
+          "quote": "ALEX Gen AI Patient Communication Simulator"
+        },
+        {
+          "page": "products_our-leading-products",
+          "quote": "NextGen TERi & DANi\nThe Patient Care Platform Built for Nursing"
+        },
+        {
+          "page": "products_casualty-care-rescue-randy",
+          "quote": "A manual foot-powered pumping system simulates blood flow and allows multiple wounds to bleed simultaneously"
+        },
+        {
+          "page": "products_casualty-care-rescue-randy",
+          "quote": "this trainer supports Tactical Combat Casualty Care (TCCC) and Tactical Emergency Casualty Care (TECC) training"
+        },
+        {
+          "page": "products_our-leading-products",
+          "quote": "Durable rescue, extrication, and patient handling manikins trusted by fire, EMS, and military training programs."
+        },
+        {
+          "page": "products_our-leading-products",
+          "quote": "Build injection, infusion, and vascular access skills with realistic training arms and task trainers."
+        },
+        {
+          "page": "products_our-leading-products",
+          "quote": "Create realistic training scenarios for EMS, military, and nursing."
+        },
+        {
+          "page": "about_our-purpose",
+          "quote": "We design upgradeable products to suit your current and future needs"
+        }
+      ],
+      "note": "ALEX Gen AI appears as a product category label on the shop page with no description, so it is weak evidence. The shop page also names a new trauma manikin, 'Trauma Troy'. The training-videos page lists procedure videos (for example cricothyroidotomy, tourniquet, wound packing) hosted on YouTube."
+    },
+    "target_customer": {
+      "status": "found",
+      "value": "Frontline healthcare and rescue professionals and their training programs: nursing, EMS/paramedic, allied health and healthcare education programs, fire, military, law enforcement, disaster response, and simulation centers and training academies.",
+      "evidence": [
+        {
+          "page": "about_our-purpose",
+          "quote": "At Nasco Healthcare, we believe in the frontline healthcare and rescue professionals who stand ready to serve at a moment’s notice."
+        },
+        {
+          "page": "products_our-leading-products",
+          "quote": "Task trainers and simulators for nursing, EMS, allied health, and healthcare education programs."
+        },
+        {
+          "page": "products_casualty-care-rescue-randy",
+          "quote": "Ideal For\n• Military medical training\n• EMS and paramedic education\n• Law enforcement tactical training\n• Disaster response and rescue training\n• Simulation centers and training academies"
+        }
+      ],
+      "note": "The online shop says it is 'only valid for United States of America'; the About page lists sales directors for Europe, Asia Pacific, Latin America, Middle East & Africa and other regions."
+    },
+    "value_proposition": {
+      "status": "found",
+      "value": "Rugged, realistic training products that prepare frontline healthcare and rescue professionals to Be READY for any situation, making medical simulation accessible at affordable prices with long warranties.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Our products prepare frontline healthcare heroes to Be READY® the moment they are called upon."
+        },
+        {
+          "page": "about_our-purpose",
+          "quote": "For over 80 years we have made medical simulation possible and accessible to all."
+        },
+        {
+          "page": "home",
+          "quote": "Rugged, reliable and hyper-realistic\nDesigned in the USA\nCompliant to healthcare guidelines\nUp to 5-year warranty"
+        }
+      ],
+      "note": "About page: 'almost every Nasco Healthcare product comes with a 5-year warranty' and products are made 'at affordable prices'."
+    },
+    "tagline": {
+      "status": "found",
+      "value": "Be READY®",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Be READY®\nFOR ANY SITUATION"
+        },
+        {
+          "page": "about_our-purpose",
+          "quote": "helping prepare them to Be READY® for any situation"
+        },
+        {
+          "page": "products_casualty-care-rescue-randy_casualty-care-rescue-randy-training-videos",
+          "quote": "Casualty Care Rescue Randy trains healthcare heroes on the 3 most preventable causes of death preparing them to Be READY."
+        }
+      ],
+      "note": "Marked with ® and repeated across pages. The homepage rotates endings: 'FOR ANY SITUATION', 'TO DELIVER WHEN IT COUNTS', 'TO MAKE SPLIT SECOND DECISIONS', 'TO ANSWER THE CALL'. Other candidate: training-videos page 'Ready to treat. Ready to act.'"
+    },
+    "pricing": {
+      "status": "found",
+      "value": "Published prices on the U.S. online shop (example: Casualty Care Rescue Randy, $15,299.95 USD); purchase orders accepted; promotional discounts (60% off moulage).",
+      "evidence": [
+        {
+          "page": "products_casualty-care-rescue-randy",
+          "quote": "Regular price\n$15,299.95 USD"
+        },
+        {
+          "page": "products_our-leading-products",
+          "quote": "Yes, you can email your purchase order to orders@nascohealthcare.com. Prepayment may be required."
+        },
+        {
+          "page": "products_our-leading-products",
+          "quote": "Save 60% off Moulage"
+        }
+      ],
+      "note": "Only one price appears on the pages read (a pre-order item). The shop is for U.S. customers; no subscription or plan pricing is mentioned. XR Clinic is called 'affordable' and 'to fit any Budget' with no price. A customer testimonial says 'the prices are competitive'."
+    }
+  },
+  "carried_forward": {
+    "from_record": "data/records/nascohealthcare/2026-09-29_183836.json",
+    "at": "2026-10-13T18:41:03-06:00",
+    "reason": "identical page text",
+    "pages_changed": []
+  }
+}

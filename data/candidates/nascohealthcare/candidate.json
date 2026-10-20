@@ -1,0 +1,85 @@
+{
+  "slug": "nascohealthcare",
+  "name": "Nasco Healthcare",
+  "website": "https://nascohealthcare.com/",
+  "domain": "nascohealthcare.com",
+  "aliases": [],
+  "status": "approved",
+  "first_seen": "2026-09-29T17:18:44-06:00",
+  "last_seen": "2026-09-29T17:18:45-06:00",
+  "sightings": [
+    {
+      "source": "web search",
+      "query": "healthcare simulation manikin manufacturer",
+      "url": "https://nascohealthcare.com/about/quality-and-manufacturing/",
+      "snippet": "Quality & Manufacturing",
+      "found_at": "2026-09-29T17:18:44-06:00"
+    },
+    {
+      "source": "web search",
+      "query": "virtual reality nursing simulation software",
+      "url": "https://shop.nascohealthcare.com/collections/all/products/mvr-nursing-virtual-simulator-sku-mvr-n010-copy",
+      "snippet": "mvr nursing virtual simulator sku mvr n010 copy",
+      "found_at": "2026-09-29T17:18:45-06:00"
+    }
+  ],
+  "possible_duplicate_of": [],
+  "snapshot": "data/candidates/nascohealthcare/snapshots/2026-09-29_175634",
+  "extra_pages": [],
+  "signals": {
+    "healthcare_training": [
+      "healthcare training"
+    ],
+    "headset": [
+      "virtual reality",
+      "VR",
+      "XR"
+    ],
+    "simulation": [
+      "simulation",
+      "simulators"
+    ]
+  },
+  "suggested_pages": [
+    "https://nascohealthcare.com/about/our-purpose/",
+    "https://nascohealthcare.com/products/our-leading-products/",
+    "https://nascohealthcare.com/products/casualty-care-rescue-randy/",
+    "https://nascohealthcare.com/products/casualty-care-rescue-randy/casualty-care-rescue-randy-training-videos/",
+    "https://shop.nascohealthcare.com/products/lf04502/",
+    "https://nascohealthcare.com/products/teri-geriatric-care/",
+    "https://shop.nascohealthcare.com/products/xr-clinic-mobile-virtual-reality-medical-training-solution-sku-xrc-m010-copy/",
+    "https://nascohealthcare.com/products/alex-axel/"
+  ],
+  "classification": {
+    "proposed": "Unclear",
+    "by": "Owner decision 2026-09-29, applied by Claude Code (model claude-opus-5-5)",
+    "at": "2026-09-29T17:57:08-06:00",
+    "snapshot": "data/candidates/nascohealthcare/snapshots/2026-09-29_171844",
+    "reason": "Nasco trains healthcare workers and its homepage calls XR Clinic medical training using virtual reality, but no saved page shows the training is interactive, and both XR Clinic product links on its homepage return 404 (checked 2026-09-29). The product may be discontinued; check it by hand.",
+    "evidence": [
+      {
+        "page": "home",
+        "quote": "Our products prepare frontline healthcare heroes to Be READY® the moment they are called upon."
+      },
+      {
+        "page": "home",
+        "quote": "XR Clinic is an affordable and revolutionary medical training solution using virtual reality with high resolution graphics."
+      }
+    ]
+  },
+  "review": {
+    "decision": "approved",
+    "type": "1st Degree",
+    "at": "2026-09-29T18:16:39-06:00",
+    "reason": "",
+    "tracked_slug": "nascohealthcare",
+    "pages": [
+      "https://nascohealthcare.com/",
+      "https://nascohealthcare.com/about/our-purpose/",
+      "https://nascohealthcare.com/products/our-leading-products/",
+      "https://nascohealthcare.com/products/casualty-care-rescue-randy/",
+      "https://nascohealthcare.com/products/casualty-care-rescue-randy/casualty-care-rescue-randy-training-videos/"
+    ]
+  },
+  "name_on_site": true
+}

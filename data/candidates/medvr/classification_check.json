@@ -1,0 +1,21 @@
+{
+  "checked_at": "2026-10-14T11:24:43-06:00",
+  "proposed": "1st Degree",
+  "problems": [],
+  "results": [
+    {
+      "page": "home",
+      "quote": "designed to provide quality Nursing training in the field of healthcare",
+      "source_url": "https://medvr.education/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "home",
+      "quote": "Access the library on any Android-based headset.",
+      "source_url": "https://medvr.education/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    }
+  ]
+}

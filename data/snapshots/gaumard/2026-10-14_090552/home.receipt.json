@@ -1,0 +1,15 @@
+{
+  "competitor": "Gaumard",
+  "requested_url": "https://www.gaumard.com/",
+  "fetched_at": "2026-10-14T09:05:52-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.gaumard.com/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "Gaumard | Simulators for Health Care Education | Patient simulators, task trainers, scenarios, AV systems, and more.",
+  "meta_description": "Explore Gaumard products for health care education and training. Shop patient simulators, task trainers, scenarios, and more. Our mission is to empower healthcare with innovative training solutions that will accelerate progress toward safer patient care and improved patient outcomes for everyone. We focus on developing state-of-the-art patient simulators, task trainers, learning modules, and mixed reality solutions designed to facilitate safe and effective training opportunities for healthcare students and professionals across nearly all clinical specialties, including pre-hospital care, trauma, nursing, obstetrics and gynecology, pediatrics, and surgery.",
+  "html_bytes": 280812,
+  "text_characters": 7409
+}

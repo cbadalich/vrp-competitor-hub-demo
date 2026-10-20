@@ -1,0 +1,11 @@
+{
+  "competitor": "FLAIM Systems",
+  "requested_url": "https://www.flaimsystems.com/fire-extinguisher-training/",
+  "fetched_at": "2026-10-14T11:15:48-06:00",
+  "ok": false,
+  "robots": "allowed by robots.txt",
+  "http_status": 500,
+  "final_url": "https://www.flaimsystems.com/fire-extinguisher-training/",
+  "content_type": "",
+  "error": "HTTP error 500 INTERNAL SERVER ERROR"
+}

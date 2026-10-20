@@ -1,0 +1,179 @@
+{
+  "competitor": "Vantari VR",
+  "slug": "vantarivr",
+  "snapshot": "data/snapshots/vantarivr/2026-10-13_183515",
+  "extracted_at": "2026-10-13T18:25:00-06:00",
+  "extracted_by": "Claude Code session, model claude-opus-5-5",
+  "note": "Two pairs of duplicate pages. vantari-vr.txt is byte-for-byte identical to home.txt (both receipts keep their own final_url, so this is the same page served at two addresses); all evidence cites 'home'. platform.txt is byte-for-byte identical to vantari-platform.txt: /platform/ redirects to /vantari-platform (see platform.receipt.json final_url); all evidence cites 'vantari-platform'. All four were read. Only two distinct pages were available, so this record rests on little text.",
+  "pages_read": [
+    "home",
+    "vantari-vr",
+    "vantari-platform",
+    "platform"
+  ],
+  "pages_failed": [],
+  "fields": {
+    "product_category": {
+      "status": "found",
+      "value": "Virtual reality procedural training and immersive simulation for healthcare (medicine and surgery), for clinicians, nurses and students",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Virtual Reality for HealthCare"
+        },
+        {
+          "page": "home",
+          "quote": "VR procedural training for clinicians, nurses and students"
+        },
+        {
+          "page": "vantari-platform",
+          "quote": "VR procedural training for medicine and surgery"
+        }
+      ],
+      "note": "The platform has three named parts: Vantari Simulation, Vantari AI and Vantari Connect. The menu also lists 'Hardware' and 'Bespoke' (pages not saved)."
+    },
+    "platforms": {
+      "status": "found",
+      "value": [
+        "VR"
+      ],
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "practice and perfect life saving procedures in a safe, scalable VR environment."
+        },
+        {
+          "page": "vantari-platform",
+          "quote": "Don’t have VR hardware? This is what you need!"
+        }
+      ],
+      "note": "No headset brand or model is named. The platform page lists 'Haptic feedback using vibration'. The Vantari Connect hub and learning dashboard are described without saying whether they run in a browser or app, so Web is not listed."
+    },
+    "key_capabilities": {
+      "status": "found",
+      "value": [
+        "Step-by-step procedural training based on recommended guidelines",
+        "Vantari Virtual trainer that guides each step",
+        "Haptic feedback using vibration",
+        "Detailed, interactive medical equipment and environments",
+        "Data analytics and AI-powered insights; end-to-end performance tracking",
+        "Real-time data feedback and tracking during a procedure",
+        "Profile dashboard / personal logbook of progress and achievements",
+        "Global leaderboard and community (Vantari Connect)",
+        "Available procedures: Central Venous Catheter and Chest Drain Insertion"
+      ],
+      "evidence": [
+        {
+          "page": "vantari-platform",
+          "quote": "Step by step procedural training founded on recommended guidelines"
+        },
+        {
+          "page": "vantari-platform",
+          "quote": "Vantari Virtual trainer to guide you every step of the way"
+        },
+        {
+          "page": "vantari-platform",
+          "quote": "Haptic feedback using vibration"
+        },
+        {
+          "page": "vantari-platform",
+          "quote": "Every piece of medical equipment crafted in detail so it translates to real life"
+        },
+        {
+          "page": "vantari-platform",
+          "quote": "Data analytics and AI powered insights to hone your skills"
+        },
+        {
+          "page": "vantari-platform",
+          "quote": "End-to-end performance tracking"
+        },
+        {
+          "page": "vantari-platform",
+          "quote": "Real-time data feedback and tracking of your procedure"
+        },
+        {
+          "page": "vantari-platform",
+          "quote": "Exciting profile dashboard that logs your progress and achievements"
+        },
+        {
+          "page": "home",
+          "quote": "Your own personalised logbook"
+        },
+        {
+          "page": "vantari-platform",
+          "quote": "Global leaderboard to showcase your skills"
+        },
+        {
+          "page": "vantari-platform",
+          "quote": "Start with our Central Venous Catheter and Chest Drain Insertion software"
+        }
+      ],
+      "note": "Scenarios and complications are stated inconsistently: the home page lists 'Mimic real life with multiple scenarios and complications' under 'Today', while the platform page lists 'Scenarios and complications' under 'Coming soon', so it is not listed as a current feature. Also 'Coming soon': 'Suite of procedures from Fundamentals to Surgery' and 'Collaborative platform'. Listed under 'Tommorow' (spelled so) on the home page: 'AI Rehearsal', 'Create your own case', 'Practice on the exact patient pathology'. A testimonial mentions ultrasound image quality and catheter steering."
+    },
+    "target_customer": {
+      "status": "found",
+      "value": "Hospitals, universities and medical device organisations (US, Australia, Europe, Middle East, India); learners are doctors/clinicians, nurses and students.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "The platform is used by hospitals, universities and medical device organisations across the US, Australia, Europe, Middle East and India."
+        },
+        {
+          "page": "home",
+          "quote": "helping doctors, nurses and students\npractice and perfect life saving procedures"
+        },
+        {
+          "page": "vantari-platform",
+          "quote": "Free trial of our Vantari Platform for hospitals and universities"
+        }
+      ],
+      "note": "The platform page addresses individual learners' careers ('The gold standard for clinical and procedural skills for your career') and a 'community of VR medics around the world'."
+    },
+    "value_proposition": {
+      "status": "found",
+      "value": "Lets clinicians practise procedures safely in VR so they perform in reality, aiming to eliminate medical error and democratise healthcare training, and in future to act as an AI co-pilot for clinicians.",
+      "evidence": [
+        {
+          "page": "vantari-platform",
+          "quote": "Practice Virtually.\nPerform in Reality."
+        },
+        {
+          "page": "home",
+          "quote": "Our vision is to help clinicians practice procedures safely and one day stand beside them as their very own AI Co-Pilot."
+        },
+        {
+          "page": "home",
+          "quote": "Join us on our mission to eliminate medical error and democratise healthcare training."
+        }
+      ],
+      "note": "The platform page also lists 'Cost effective and scalable' and 'Perfect for remote education and training'. The home page calls Vantari 'a global leader in VR healthcare training and education'."
+    },
+    "tagline": {
+      "status": "found",
+      "value": "Virtual Reality for HealthCare",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Virtual Reality for HealthCare"
+        },
+        {
+          "page": "vantari-platform",
+          "quote": "Virtual Reality for HealthCare"
+        }
+      ],
+      "note": "Repeated on both distinct pages just below the menu, and as the home META DESCRIPTION ('Virtual Reality for Healthcare', lower-case c). It may be part of the site header. Other candidates: home headline 'Every clinician needs a Co-Pilot'; platform headline 'Practice Virtually. Perform in Reality.'; 'Vantari is the Guardian Angel for Healthcare.'"
+    },
+    "pricing": {
+      "status": "not_found",
+      "value": null,
+      "evidence": [],
+      "note": "No prices, plans or pricing buttons. The platform page offers a 'FREE TRIAL' for hospitals and universities and a hardware section ('Get yours now'), with no prices. The only call to action on the home page is 'Request a Demo'."
+    }
+  },
+  "carried_forward": {
+    "from_record": "data/records/vantarivr/2026-10-13_182012.json",
+    "at": "2026-10-13T18:39:59-06:00",
+    "reason": "identical page text",
+    "pages_changed": []
+  }
+}

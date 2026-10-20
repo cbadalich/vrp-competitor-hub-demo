@@ -1,0 +1,172 @@
+{
+  "competitor": "TI Training",
+  "slug": "titraining",
+  "snapshot": "data/snapshots/titraining/2026-09-29_183836",
+  "extracted_at": "2026-09-29T19:18:00-06:00",
+  "extracted_by": "Claude Code session, model claude-opus-5-5",
+  "note": "The pages cover firearms and use-of-force simulators for law enforcement, military and commercial shooting ranges; healthcare or medical training is not mentioned. The home page gives two different customer counts ('more than 1,400 customers' and 'exceeding 1,200'), and 'over 17 years of experience' alongside 'Established in 2006'.",
+  "pages_read": [
+    "home",
+    "recon",
+    "ar-glasses",
+    "custom-content-production",
+    "commercial_solutions"
+  ],
+  "pages_failed": [],
+  "fields": {
+    "product_category": {
+      "status": "found",
+      "value": "Immersive simulation training solutions (hardware, software and video scenario content) for law enforcement, military and commercial/retail shooting ranges, centered on use-of-force, de-escalation and firearms training",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Ti Training is a trusted provider of highly interactive and immersive training solutions for law enforcement, military professionals, and retail/commercial industries."
+        },
+        {
+          "page": "home",
+          "quote": "We produce hardware, software, and content for both the classroom and simulation training room."
+        },
+        {
+          "page": "recon",
+          "quote": "Scalable use of force and de-escalation training featuring 900+ real-world scenarios."
+        }
+      ],
+      "note": "The commercial line (Ti Outdoors) is described as recreational games and competitions for shooting ranges. Military products are listed in menus as MVT; the home page news mentions 'Ti Defense's Military Virtual Trainer (MVT)'."
+    },
+    "platforms": {
+      "status": "found",
+      "value": [
+        "AR"
+      ],
+      "evidence": [
+        {
+          "page": "ar-glasses",
+          "quote": "Upgrade your simulation experience with Augmented Reality options."
+        },
+        {
+          "page": "ar-glasses",
+          "quote": "Our AR glasses provide an unparalleled advantage in law enforcement and security training."
+        }
+      ],
+      "note": "The main RECON simulators use large projection screens (single screen up to 360 degrees, 2 to 24 screens in a SimHouse) with laser-equipped training weapons; that delivery does not match any allowed label, so it is not listed. AR glasses are an add-on used 'in conjunction with our RECON simulation system'. The AR page also calls them 'Immersive Reality headsets', which is not treated as VR. Menus list 'VRG Pro' and 'VRG Sport' products with no description on the pages read."
+    },
+    "key_capabilities": {
+      "status": "found",
+      "value": [
+        "Library of 900+ scenarios, with new scenarios delivered twice a year free",
+        "Create your own scenario content",
+        "Scalable screen configurations: single screen, 3-screen, 5-screen 360 degree, 2 to 24 screen SimHouse",
+        "Use of trainees' own firearms, ECW devices, chemical and impact munitions",
+        "Laser hit marking and CO2 recoil devices",
+        "Sensory effects: surround sound, smoke and scents",
+        "Branching scenarios with multiple outcomes",
+        "Debriefing and multi-trainee results tracking",
+        "Multilingual voice-overs and interface",
+        "In-house studio for custom video scenario production"
+      ],
+      "evidence": [
+        {
+          "page": "recon",
+          "quote": "Single screen simulator pre-loaded with 900+ Scenarios, additional scenarios delivered twice a year FREE of CHARGE, and the ability to create your own content!"
+        },
+        {
+          "page": "recon",
+          "quote": "From 2 to 24 active simulation screens, in your existing shoot house, or with our mobile wall system, or throughout your facility rooms"
+        },
+        {
+          "page": "recon",
+          "quote": "This five- screen system can be set up as a 360 degree simulation environment"
+        },
+        {
+          "page": "recon",
+          "quote": "Officers use the firearms, ECW devices, chemical and impact munitions they are already familiar with"
+        },
+        {
+          "page": "recon",
+          "quote": "Internal lasers accurately mark hits and misses on-screen while CO2-powered recoil devices mimic live-fire training"
+        },
+        {
+          "page": "recon",
+          "quote": "surround sound that accurately reproduces real-world sounds, and sensory effects like smoke and scents"
+        },
+        {
+          "page": "recon",
+          "quote": "With multiple outcomes possible depending on the trainee’s decisions"
+        },
+        {
+          "page": "recon",
+          "quote": "Undeniable Debriefing on Trainee Performance"
+        },
+        {
+          "page": "recon",
+          "quote": "Multiple trainees at the same time with tracking of results"
+        },
+        {
+          "page": "recon",
+          "quote": "Voice-overs are available in specific languages, and our graphical user interface can be in any language"
+        },
+        {
+          "page": "custom-content-production",
+          "quote": "we’re proud to offer the only in-house studio and full-time video and editing staff in the simulation industry."
+        }
+      ],
+      "note": "The multi-user AR glasses add-on is covered under platforms and left out here to stay within 10 items. Scenario counts differ: 900+ on the RECON page, 'over 200 games, drills, and action scenarios' for the commercial line. The commercial page also mentions a 'range editor to create your own drills and courses of fire' and a Leaderboard."
+    },
+    "target_customer": {
+      "status": "found",
+      "value": "Law enforcement agencies, military units, and commercial/retail shooting ranges; the RECON line is scaled for agencies of different budgets and space.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Law Enforcement, Military Professionals, and Commercial Industries Training Solutions"
+        },
+        {
+          "page": "commercial_solutions",
+          "quote": "Join the hundreds of other range owners revolutionizing their space"
+        }
+      ],
+      "note": "The home page 'About' text also says 'the broader public'. A testimonial names a college law enforcement training academy as a customer."
+    },
+    "value_proposition": {
+      "status": "found",
+      "value": "Realistic, immersive scenario training that improves officers' real-time decision making, response times and situational awareness and reduces error, delivered as a scalable system that grows with the agency's budget and space.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "With our help, you’ll improve your response times, increase situational awareness, and reduce your risk for error."
+        },
+        {
+          "page": "recon",
+          "quote": "Our family of products can grow with your agency, starting with a single screen system (RECON CORE) and expanding as budget and space permit."
+        }
+      ],
+      "note": "The home page also promises 'free software upgrades and training content for the life of the system, regardless of warranty status'. For ranges, the commercial page pitches revenue growth."
+    },
+    "tagline": {
+      "status": "found",
+      "value": "Law Enforcement, Military Professionals, and Commercial Industries Training Solutions",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Law Enforcement, Military Professionals, and Commercial Industries Training Solutions"
+        }
+      ],
+      "note": "No trademarked or repeated slogan found, so this is the homepage's first headline after the menu. The line repeated across pages is the footer company description ('Ti Training is a trusted provider of highly interactive and immersive training solutions...'), which reads as boilerplate. Other candidates: 'Welcome to Ti Training, where simulation meets reality in unprecedented ways.'; 'Your Partner in Immersive Learning'; RECON page 'A Smart Investment for Your Agency’s Future'."
+    },
+    "pricing": {
+      "status": "found",
+      "value": "Not published; quote on request",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "2. Get a Quote\nWe’ll provide you with a quote with the details on the cost of hardware, software, and any custom content development required."
+        },
+        {
+          "page": "commercial_solutions",
+          "quote": "Receive a free quote tailored to your specific requirements."
+        }
+      ],
+      "note": "No system prices on the pages read. The RECON page gives a running-cost figure ('mimic live-fire training for less than $0.02 per shot'), and the custom content page mentions 'a range of custom scenario creation packages that accommodate various budget levels' without prices. Menus link to an 'Online Store' that was not saved."
+    }
+  }
+}

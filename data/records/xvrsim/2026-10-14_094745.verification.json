@@ -1,0 +1,208 @@
+{
+  "record": "data/records/xvrsim/2026-10-14_094745.json",
+  "checked_at": "2026-10-15T18:59:32-06:00",
+  "results": {
+    "product_category": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://learnprogroup.com/xvr/",
+          "quote": "Train smarter with advanced VR simulation software designed for safety and emergency response teams.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://learnprogroup.com/xvr/",
+          "quote": "XVR combines simulation, immersive learning, and investigation tools in a single, complementary software suite.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "platforms": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://learnprogroup.com/xvr/",
+          "quote": "Enhance the competence and expertise of your staff with our flexible and immersive VR learning and training solutions.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "xvr_what-is-vr-training",
+          "source_url": "https://learnprogroup.com/xvr/what-is-vr-training/",
+          "quote": "Uses VR head\u2011mounted displays for team\u2011based reconnaissance and hazard assessment",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "key_capabilities": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "xvr_solutions_xvr-on-scene",
+          "source_url": "https://learnprogroup.com/xvr/solutions/xvr-on-scene/",
+          "quote": "All training is guided by the instructor, who defines the learning objectives, controls the scenario, and steers the learning experience before, during, and after the exercise.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "xvr_solutions_xvr-on-scene",
+          "source_url": "https://learnprogroup.com/xvr/solutions/xvr-on-scene/",
+          "quote": "Create realistic incident scenes using detailed 3D environments",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "xvr_solutions_xvr-on-scene",
+          "source_url": "https://learnprogroup.com/xvr/solutions/xvr-on-scene/",
+          "quote": "Scalable complexity and flexible command levels",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "xvr_solutions_xvr-on-scene",
+          "source_url": "https://learnprogroup.com/xvr/solutions/xvr-on-scene/",
+          "quote": "allowing instructors to escalate, de-escalate, or redirect events in real time to support learning goals.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "xvr_solutions_xvr-on-scene",
+          "source_url": "https://learnprogroup.com/xvr/solutions/xvr-on-scene/",
+          "quote": "Instructors can build scenarios that reflect local conditions, procedures, and contexts",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "xvr_solutions_xvr-on-scene",
+          "source_url": "https://learnprogroup.com/xvr/solutions/xvr-on-scene/",
+          "quote": "Repeatable scenarios and consistent starting conditions make XVR On Scene suitable for structured assessment, feedback, and capability development over time.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "xvr_solutions_xvr-on-scene",
+          "source_url": "https://learnprogroup.com/xvr/solutions/xvr-on-scene/",
+          "quote": "Different disciplines train together in a single virtual incident",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "xvr_solutions_xvr-on-scene",
+          "source_url": "https://learnprogroup.com/xvr/solutions/xvr-on-scene/",
+          "quote": "Participants and instructors can train together on a secure network from different locations",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "xvr_solutions_xvr-on-scene",
+          "source_url": "https://learnprogroup.com/xvr/solutions/xvr-on-scene/",
+          "quote": "Participants play through an on-rails scenario by themselves",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "xvr_sectors_ambulance",
+          "source_url": "https://learnprogroup.com/xvr/sectors/ambulance/",
+          "quote": "Mass casualty incidents and triage exercises",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "xvr_sectors_ambulance",
+          "source_url": "https://learnprogroup.com/xvr/sectors/ambulance/",
+          "quote": "Control room and dispatch decision-making scenarios",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "target_customer": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://learnprogroup.com/xvr/",
+          "quote": "Designed to train and prepare first responders, emergency services, and other safety-critical professionals worldwide",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "xvr_sectors_ambulance",
+          "source_url": "https://learnprogroup.com/xvr/sectors/ambulance/",
+          "quote": "We work with Ambulance Services & Health Academies to support continuous learning.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://learnprogroup.com/xvr/",
+          "quote": "Fire and Rescue\nLearn More\nPolice & Security\nAmbulance\nAviation, Transport & Energy",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "value_proposition": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "xvr_solutions_xvr-on-scene",
+          "source_url": "https://learnprogroup.com/xvr/solutions/xvr-on-scene/",
+          "quote": "XVR On Scene provides a virtual training environment in which emergency responders and other frontline staff can experience complex situations, practise decision\u2011making, and learn from the consequences \u2013 while the instructor remains in control.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "xvr_what-is-vr-training",
+          "source_url": "https://learnprogroup.com/xvr/what-is-vr-training/",
+          "quote": "Discover how high-fidelity training prepares responders for high-risk, low-frequency events in a safe, realistic, and controlled environment.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "tagline": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://learnprogroup.com/xvr/",
+          "quote": "Virtual Training. Real Experience.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "xvr_solutions_xvr-on-scene",
+          "source_url": "https://learnprogroup.com/xvr/solutions/xvr-on-scene/",
+          "quote": "Virtual training \u2013 real experience.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "pricing": {
+      "status": "not_found",
+      "result": "not_found",
+      "problems": [],
+      "evidence": []
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "competitor": "AvKin",
+  "requested_url": "https://avkin.com/product-resources/",
+  "fetched_at": "2026-10-15T18:02:15-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://avkin.com/product-resources/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "Product Resources - Avkin",
+  "meta_description": "There is no excerpt because this is a protected post.",
+  "html_bytes": 108787,
+  "text_characters": 130,
+  "warning": "only 130 characters of text; the page may be built by JavaScript, so compare page.txt with the live site"
+}

@@ -1,0 +1,15 @@
+{
+  "competitor": "TACMED Australia",
+  "requested_url": "https://tacmed.com.au/pages/simulation",
+  "fetched_at": "2026-09-29T17:42:37-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://tacmedaustralia.com.au/pages/simulation",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "",
+  "meta_description": "Tactical and clinical medical simulation equipment for defence, emergency services and healthcare training. Human simulators, K9 trainers, trauma task trainers and program support \u2014 supplied across Australia.",
+  "html_bytes": 313272,
+  "text_characters": 8747
+}

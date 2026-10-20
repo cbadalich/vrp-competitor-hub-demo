@@ -1,0 +1,15 @@
+{
+  "competitor": "UpSkillAI",
+  "requested_url": "https://upskillai.com/",
+  "fetched_at": "2026-10-13T18:38:07-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://upskillai.com/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "UpSkillAI",
+  "meta_description": "Ai-powered Immersive Training Done Right",
+  "html_bytes": 138033,
+  "text_characters": 1913
+}

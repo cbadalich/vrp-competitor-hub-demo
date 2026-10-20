@@ -1,0 +1,15 @@
+{
+  "competitor": "MedisimVR",
+  "requested_url": "https://medisimvr.com/about-us",
+  "fetched_at": "2026-10-15T18:03:29-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://medisimvr.com/about-us",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "About Us | Future of Virtual Reality in Healthcare EducationWebsite",
+  "meta_description": "Advance your skills with virtual reality in medical training, offering immersive, hands-on learning in a safe, controlled environment.",
+  "html_bytes": 32979,
+  "text_characters": 2860
+}

@@ -1,0 +1,167 @@
+{
+  "competitor": "Skillup VR",
+  "slug": "skillup4u",
+  "snapshot": "data/snapshots/skillup4u/2026-10-14_094745",
+  "extracted_at": "2026-10-13T19:54:28-06:00",
+  "extracted_by": "Claude Code session, model claude-opus-5-5",
+  "note": "Skillup VR is the product name; the company is Simlogic AB (Gothenburg, Sweden) with Simlogic Solutions Pte Ltd in Singapore. The pages read were saved from skillupvr.com, the corrected website (see the type note in config/competitors.csv). The More Products page also lists non-healthcare VR (a crane simulator) and BraveSteps VR for teenagers; these are not part of the medical simulation platform. The homepage outcome figures (for example '40% reduction in medical error') are the company's claims with no source named on the page.",
+  "pages_read": [
+    "home",
+    "product",
+    "moreproducts",
+    "company"
+  ],
+  "pages_failed": [],
+  "fields": {
+    "product_category": {
+      "status": "found",
+      "value": "VR medical simulation platform (a virtual simulation centre) for clinical team training, with a web-based scenario customizer and learning management platform.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "VR Medical Simulation Centre\nFor critical thinking, clinical diagnosis, and collaborative team training"
+        },
+        {
+          "page": "product",
+          "quote": "Run our web-based scenario customizer and learning management platform using Chrome, Edge, Safari web browser."
+        }
+      ],
+      "note": ""
+    },
+    "platforms": {
+      "status": "found",
+      "value": [
+        "VR"
+      ],
+      "evidence": [
+        {
+          "page": "product",
+          "quote": "Download our application onto your VR headset and login with your credentials to start."
+        },
+        {
+          "page": "product",
+          "quote": "Developed for wireless headset to ensure mobility, and simple setup."
+        }
+      ],
+      "note": "The web-based scenario customizer and learning management platform run in a browser, but they are used to set up scenarios and track performance, so Web is not listed for learners. 'Wireless and mobile' refers to the headset, not phones, so Mobile is not listed. No headset brand or model is named."
+    },
+    "key_capabilities": {
+      "status": "found",
+      "value": [
+        "Scenario Customizer: create patient profile, injuries, investigations and lab results",
+        "Virtual Patient with customizable gender, age and ethnicity",
+        "Trainer Station: trainer controls roles and patient condition in real time",
+        "Collaborative team training with up to 8 or more learners",
+        "Training with colleagues at other locations",
+        "Virtual reflection room with real-time simulation log for debriefing",
+        "Performance tracking and learning management system",
+        "Live streaming and recording of simulations",
+        "Scheduler for training sessions and rooms",
+        "Hand interaction with equipment and drugs"
+      ],
+      "evidence": [
+        {
+          "page": "product",
+          "quote": "User friendly dashboard allows you to create patient profile, injuries, investigations, lab results and more within minutes."
+        },
+        {
+          "page": "home",
+          "quote": "Create patient’s profile according to gender, age, and ethnicity."
+        },
+        {
+          "page": "home",
+          "quote": "Manage trainer-trainee communication, role assignment and patient condition on the fly for more dynamic learning experience."
+        },
+        {
+          "page": "product",
+          "quote": "Take your role and train with up to 8 (or more!) for true team training."
+        },
+        {
+          "page": "home",
+          "quote": "The platform makes it possible to train more frequently and even train with colleagues at other locations"
+        },
+        {
+          "page": "home",
+          "quote": "Access real-time simulation log for team reflection and discussion."
+        },
+        {
+          "page": "product",
+          "quote": "Virtual reflection room for seamless learning experience and learning management system to track performance and feedback."
+        },
+        {
+          "page": "product",
+          "quote": "Live streaming and recording of simulation at your fingertips."
+        },
+        {
+          "page": "product",
+          "quote": "Schedule training sessions and scale by creating as many rooms as necessary."
+        },
+        {
+          "page": "product",
+          "quote": "use your hands to interact with the equipment, drugs, etc"
+        }
+      ],
+      "note": "Artificial intelligence is described as 'coming soon' on the Company page, so it is not listed. 'Training with colleagues at other locations' comes from a customer quote on the homepage."
+    },
+    "target_customer": {
+      "status": "found",
+      "value": "Medical teams and healthcare professionals in hospitals (trauma and emergency teams, including medium-sized hospitals) and vocational schools; VR Nurse Sim is for junior healthcare professionals. A Vinnova grant covers team training for civilian and military medics.",
+      "evidence": [
+        {
+          "page": "company",
+          "quote": "to better prepare and equip medical teams for safer patient care"
+        },
+        {
+          "page": "home",
+          "quote": "addresses space constraints and limited resources faced by medium-sized hospitals"
+        },
+        {
+          "page": "moreproducts",
+          "quote": "VR Nurse Sim is designed for junior healthcare professionals to practice their basic nursing skills."
+        },
+        {
+          "page": "company",
+          "quote": "Simlogic awarded Vinnova Grant for Dual Purpose VR Team Training for Civilian and Military Medics."
+        }
+      ],
+      "note": "Customer quotes on the homepage come from Norwegian hospitals and a vocational school (Fagskolen Rogaland)."
+    },
+    "value_proposition": {
+      "status": "found",
+      "value": "Replace or supplement conventional simulation with scalable VR team training that the company says takes less time, costs less than high-fidelity manikin simulation and improves patient safety.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Transform Conventional Simulation, Unleash Scalable Learning Efficiency, Improve Patient Safety"
+        },
+        {
+          "page": "home",
+          "quote": "More than 70% cost savings vs high fidelity manikin simulation."
+        },
+        {
+          "page": "home",
+          "quote": "22% less time than high-fidelity simulation."
+        }
+      ],
+      "note": "The figures are the company's own claims; the page names no study."
+    },
+    "tagline": {
+      "status": "not_found",
+      "value": null,
+      "evidence": [],
+      "note": "No official tagline found: no line is marked ™, ® or ℠, and no slogan repeats on the pages read. Candidates: homepage headline 'VR Medical Simulation Centre' (once); the title suffix 'SKILLUP VR Simulation Centre' on every page is the site name."
+    },
+    "pricing": {
+      "status": "not_found",
+      "value": null,
+      "evidence": [],
+      "note": "No prices or pricing models on the 4 pages read. The product page says 'Contact us for a demo or to find out more about our pilot customer program', a generic contact line."
+    }
+  },
+  "carried_forward": {
+    "from_record": "data/records/skillup4u/2026-10-13_195318_r2.json",
+    "at": "2026-10-14T09:52:04-06:00",
+    "reason": "identical page text",
+    "pages_changed": []
+  }
+}

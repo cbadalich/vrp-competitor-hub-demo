@@ -1,0 +1,15 @@
+{
+  "competitor": "SimX",
+  "requested_url": "https://www.simxvr.com/virtual-reality-simulation-for-nurses/",
+  "fetched_at": "2026-10-14T09:48:57-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.simxvr.com/audiences/virtual-reality-simulation-for-nurses/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "SimX Virtual Reality Simulation for Nurses | SimX VR Medical Simulation",
+  "meta_description": "Virtual Reality Simulation Training Solutions for Pre- and Post-Licensure Nurses",
+  "html_bytes": 143949,
+  "text_characters": 20257
+}

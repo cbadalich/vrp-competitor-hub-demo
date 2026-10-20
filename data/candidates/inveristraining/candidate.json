@@ -1,0 +1,104 @@
+{
+  "slug": "inveristraining",
+  "name": "InVeris Training Solutions",
+  "website": "https://inveristraining.com/",
+  "domain": "inveristraining.com",
+  "aliases": [
+    "InVeris"
+  ],
+  "status": "approved",
+  "first_seen": "2026-09-29T17:37:11-06:00",
+  "last_seen": "2026-09-29T17:37:26-06:00",
+  "sightings": [
+    {
+      "source": "earlier research list",
+      "query": "\"InVeris Training Solutions\" official website",
+      "url": "https://inveristraining.com/about",
+      "snippet": "inveristraining.com",
+      "website_from": "result link",
+      "found_at": "2026-09-29T17:37:11-06:00"
+    },
+    {
+      "source": "earlier research list",
+      "query": "\"Survivr\" VR police training",
+      "url": "https://inveristraining.com/?p=6104",
+      "snippet": "inveristraining.com",
+      "website_from": "result link",
+      "found_at": "2026-09-29T17:37:26-06:00"
+    },
+    {
+      "source": "earlier research list",
+      "query": "\"Meggitt Training Systems\" simulation police renamed",
+      "url": "https://www.businesswire.com/news/home/20201007005137/en/ADDING-MULTIMEDIA-Meggitt-Training-Systems-Announces-Company-Name-Change-to-InVeris-Training-Solutions",
+      "snippet": "ADDING MULTIMEDIA Meggitt Training Systems Announces Company Name Change to InVeris Training Solutions",
+      "website_from": "result link",
+      "found_at": "2026-09-29T17:37:26-06:00"
+    }
+  ],
+  "possible_duplicate_of": [],
+  "snapshot": "data/candidates/inveristraining/snapshots/2026-09-29_174002",
+  "extra_pages": [
+    "https://www.inveristraining.com/virtual-training/military-virtual-tactical-small-arms-training-marksmanship/fats-vr-2/"
+  ],
+  "signals": {
+    "headset": [
+      "virtual reality",
+      "VR",
+      "augmented reality"
+    ],
+    "simulation": [
+      "simulation",
+      "simulations",
+      "simulators"
+    ],
+    "public_safety": [
+      "police",
+      "law enforcement",
+      "military",
+      "defense",
+      "public safety"
+    ]
+  },
+  "suggested_pages": [
+    "https://www.inveristraining.com/about/trade-shows/",
+    "https://www.inveristraining.com/virtual-training/",
+    "https://www.inveristraining.com/virtual-training/military-virtual-tactical-small-arms-training-marksmanship/",
+    "https://www.inveristraining.com/virtual-training/military-virtual-tactical-small-arms-training-marksmanship/military-drone-training/",
+    "https://www.inveristraining.com/virtual-training/military-virtual-tactical-small-arms-training-marksmanship/fats-ar/",
+    "https://www.inveristraining.com/virtual-training/military-virtual-tactical-small-arms-training-marksmanship/fats-vr-2/",
+    "https://www.inveristraining.com/virtual-training/military-virtual-tactical-small-arms-training-marksmanship/fats-100p/",
+    "https://www.inveristraining.com/virtual-training/military-virtual-tactical-small-arms-training-marksmanship/fats-100mil/"
+  ],
+  "classification": {
+    "proposed": "3rd Degree",
+    "by": "Claude Code session, model claude-opus-5-5",
+    "at": "2026-09-29T17:50:00-06:00",
+    "snapshot": "data/candidates/inveristraining/snapshots/2026-09-29_174002",
+    "reason": "fats VR (virtual reality) and fats AR for military and public safety use-of-force and weapons training; projection systems are also sold but are not the headset mode. The saved pages say VR and AR but never 'headset'. Site uses the short name 'InVeris'. No healthcare training shown.",
+    "evidence": [
+      {
+        "page": "home",
+        "quote": "InVeris is the leading supplier of integrated live fire and virtual reality weapons training for public safety, military and shooting ranges."
+      },
+      {
+        "page": "virtual-training_military-virtual-tactical-small-arms-training-marksmanship_fats-vr-2",
+        "quote": "Today, InVeris is the world’s leading provider of technology-driven VR and AR training solutions for the military."
+      }
+    ]
+  },
+  "review": {
+    "decision": "approved",
+    "type": "3rd Degree",
+    "at": "2026-09-29T18:14:58-06:00",
+    "reason": "",
+    "tracked_slug": "inveristraining",
+    "pages": [
+      "https://inveristraining.com/",
+      "https://www.inveristraining.com/virtual-training/military-virtual-tactical-small-arms-training-marksmanship/fats-vr-2/",
+      "https://www.inveristraining.com/about/trade-shows/",
+      "https://www.inveristraining.com/virtual-training/",
+      "https://www.inveristraining.com/virtual-training/military-virtual-tactical-small-arms-training-marksmanship/"
+    ]
+  },
+  "name_on_site": true
+}

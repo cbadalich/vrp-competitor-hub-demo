@@ -1,0 +1,21 @@
+{
+  "checked_at": "2026-10-14T11:24:43-06:00",
+  "proposed": "2nd Degree",
+  "problems": [],
+  "results": [
+    {
+      "page": "home",
+      "quote": "AI Client simulations for better counselor training",
+      "source_url": "https://simcare.ai/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "home",
+      "quote": "It supports a wide range of disciplines including psychology, psychiatry, clinical counseling, social work, school counseling, and behavioral health.",
+      "source_url": "https://simcare.ai/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    }
+  ]
+}

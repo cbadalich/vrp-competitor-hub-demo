@@ -1,0 +1,28 @@
+{
+  "checked_at": "2026-10-14T11:24:43-06:00",
+  "proposed": "Unclear",
+  "problems": [],
+  "results": [
+    {
+      "page": "home",
+      "quote": "Our team works with universities, hospitals, simulation centers, EMS programs, nursing schools, and healthcare training institutions",
+      "source_url": "https://medvisionsim.com/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "medical-simulation-technologies",
+      "quote": "Some of our simulators incorporate AR and VR to simulate environments like operating rooms or emergency response situations, elevating the immersive experience.",
+      "source_url": "https://medvisionsim.com/medical-simulation-technologies",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "medical-manikins-simulators",
+      "quote": "Patient Manikins For Medical Training",
+      "source_url": "https://medvisionsim.com/medical-manikins-simulators",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    }
+  ]
+}

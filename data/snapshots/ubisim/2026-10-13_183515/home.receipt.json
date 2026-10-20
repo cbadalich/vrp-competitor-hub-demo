@@ -1,0 +1,15 @@
+{
+  "competitor": "UbiSim",
+  "requested_url": "https://www.ubisimvr.com/",
+  "fetched_at": "2026-10-13T18:35:15-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.ubisimvr.com/",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "UbiSim VR Simulation for Nursing",
+  "meta_description": "UbiSim is dedicated exclusively to nursing education simulation and virtual reality. Enhance clinical outcomes, reinforce decision-making, and save lives.",
+  "html_bytes": 238061,
+  "text_characters": 5345
+}

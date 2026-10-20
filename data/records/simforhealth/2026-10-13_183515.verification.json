@@ -1,0 +1,244 @@
+{
+  "record": "data/records/simforhealth/2026-10-13_183515.json",
+  "checked_at": "2026-10-14T09:18:32-06:00",
+  "results": {
+    "product_category": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.simforhealth.com/",
+          "quote": "Expert en simulation num\u00e9rique pour la formation initiale et continue des professionnels de sant\u00e9",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.simforhealth.com/",
+          "quote": "D\u00e9couvrez nos simulateurs num\u00e9riques d\u00e9velopp\u00e9s sp\u00e9cialement pour la formation initiale param\u00e9dicale.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.simforhealth.com/",
+          "quote": "Notre \u00e9quipe d'experts est \u00e0 votre \u00e9coute pour r\u00e9aliser votre propre simulateur num\u00e9rique.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "platforms": {
+      "status": "unclear",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "produits_vr-transfu",
+          "source_url": "https://www.simforhealth.com/produits/vr-transfu/",
+          "quote": "Ce simulateur fonctionne exclusivement avec un casque de r\u00e9alit\u00e9 virtuelle (non fourni).",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "produits_vr-transfu",
+          "source_url": "https://www.simforhealth.com/produits/vr-transfu/",
+          "quote": "HTC Vive ou Vive Pro",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "key_capabilities": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.simforhealth.com/",
+          "quote": "Pratiquez avec des patients virtuels r\u00e9alistes, chacun avec son histoire m\u00e9dicale, ses traits distinctifs, et ses \u00e9motions.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.simforhealth.com/",
+          "quote": "Pratiquez dans des environnements 3D fid\u00e8les \u00e0 la r\u00e9alit\u00e9, adapt\u00e9s aux situations professionnelles.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.simforhealth.com/",
+          "quote": "Entra\u00eenez-vous sur des sc\u00e9narios cliniques vari\u00e9s, des cas simples aux plus complexes.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "nos-produits",
+          "source_url": "https://www.simforhealth.com/nos-produits/",
+          "quote": "SIMDOSE, logiciel de calcul de dose",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "nos-produits",
+          "source_url": "https://www.simforhealth.com/nos-produits/",
+          "quote": "Collection Infirmi\u00e8re\nCollection Aide-Soignante",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "notre-expertise",
+          "source_url": "https://www.simforhealth.com/notre-expertise/",
+          "quote": "Suivi des progr\u00e8s en temps r\u00e9el pour optimiser l\u2019apprentissage",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "notre-expertise",
+          "source_url": "https://www.simforhealth.com/notre-expertise/",
+          "quote": "Nous vous proposons de concevoir un outil de simulation num\u00e9rique enti\u00e8rement personnalis\u00e9.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "produits_vr-transfu",
+          "source_url": "https://www.simforhealth.com/produits/vr-transfu/",
+          "quote": "Guid\u00e9 virtuellement par une infirmi\u00e8re, il suit chaque \u00e9tape de la proc\u00e9dure : contr\u00f4les de s\u00e9curit\u00e9, pr\u00e9paration et pose de la transfusion.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "produits_vr-transfu",
+          "source_url": "https://www.simforhealth.com/produits/vr-transfu/",
+          "quote": "L'ordinateur peut \u00eatre connect\u00e9 \u00e0 un \u00e9cran ou \u00e0 un vid\u00e9oprojecteur, permettant \u00e0 tous les apprenants de voir ce que l'utilisateur du casque visualise, facilitant ainsi le d\u00e9briefing.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "notre-expertise",
+          "source_url": "https://www.simforhealth.com/notre-expertise/",
+          "quote": "Validation des sc\u00e9narios par des professionnels de sant\u00e9",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "target_customer": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "nos-produits",
+          "source_url": "https://www.simforhealth.com/nos-produits/",
+          "quote": "Tous\nIFAS\nIFSI\nCollection Douleur",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "notre-expertise",
+          "source_url": "https://www.simforhealth.com/notre-expertise/",
+          "quote": "La simulation num\u00e9rique accompagne la formation des professionnels de sant\u00e9, qu'ils soient en formation initiale ou continue.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "produits_vr-transfu",
+          "source_url": "https://www.simforhealth.com/produits/vr-transfu/",
+          "quote": "adapt\u00e9e au nombre d\u2019\u00e9tudiants de votre institut.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.simforhealth.com/",
+          "quote": "D\u00e9couvrez des exemples de projets con\u00e7us pour r\u00e9pondre aux besoins sp\u00e9cifiques de formation de nos clients.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "produits_vr-transfu",
+          "source_url": "https://www.simforhealth.com/produits/vr-transfu/",
+          "quote": "IFSI\nVR Transfu\nLe simulateur d'entra\u00eenement \u00e0 la proc\u00e9dure de l'acte transfusionnel.\nInfirmier",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "value_proposition": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.simforhealth.com/",
+          "quote": "Choisissez la simulation num\u00e9rique pour compl\u00e9ter vos programmes de formation",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.simforhealth.com/",
+          "quote": "S\u2019entra\u00eener de mani\u00e8re ludique avec des sc\u00e9narios immersifs pour \u00eatre pr\u00eat \u00e0 toute situation r\u00e9elle",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "notre-expertise",
+          "source_url": "https://www.simforhealth.com/notre-expertise/",
+          "quote": "Permet d'apprendre et de se perfectionner sans risque pour les patients, dans un environnement contr\u00f4l\u00e9 et sans cons\u00e9quences r\u00e9elles.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "tagline": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.simforhealth.com/",
+          "quote": "Expert en simulation num\u00e9rique pour la formation initiale et continue des professionnels de sant\u00e9",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "notre-expertise",
+          "source_url": "https://www.simforhealth.com/notre-expertise/",
+          "quote": "Expert en simulation num\u00e9rique pour la formation initiale et continue des professionnels de sant\u00e9",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "pricing": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "produits_vr-transfu",
+          "source_url": "https://www.simforhealth.com/produits/vr-transfu/",
+          "quote": "Devis personnalis\u00e9\nVous souhaitez offrir la r\u00e9alit\u00e9 virtuelle \u00e0 vos \u00e9tudiants pour leurs \u00e9tudes ?",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "produits_vr-transfu",
+          "source_url": "https://www.simforhealth.com/produits/vr-transfu/",
+          "quote": "nous vous proposerons une offre personnalis\u00e9e, adapt\u00e9e au nombre d\u2019\u00e9tudiants de votre institut.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "competitor": "UbiSim",
+  "requested_url": "https://www.ubisimvr.com/intuitive-editor/",
+  "fetched_at": "2026-09-29T18:41:57-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.ubisimvr.com/intuitive-editor",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "UbiSim Intuitive Editor",
+  "meta_description": "UbiSim\u2019s industry-leading scenario editor gives you maximum flexibility without increasing costs or coordination challenges.",
+  "html_bytes": 185099,
+  "text_characters": 5184
+}

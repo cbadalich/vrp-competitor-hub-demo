@@ -1,0 +1,15 @@
+{
+  "competitor": "Skillup VR",
+  "requested_url": "https://skillupvr.com/product/",
+  "fetched_at": "2026-10-14T09:50:24-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://skillupvr.com/product/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "Product - SKILLUP VR Simulation Centre",
+  "meta_description": "Experience the future of medical training with Skillup VR\u2019s immersive virtual simulation center. Create, manage, and conduct personalized medical training scenarios in a fully functional VR environment with real-time collaboration and flexible control.",
+  "html_bytes": 199137,
+  "text_characters": 2707
+}

@@ -1,0 +1,15 @@
+{
+  "competitor": "i-Human Patients",
+  "requested_url": "https://i-human.com/",
+  "fetched_at": "2026-09-29T18:36:29-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://kaplan.com/institutions-educators/higher-education/nursing-schools/i-human",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "iHuman Virtual Simulation - Kaplan",
+  "meta_description": "Explore iHuman\u2019s cutting edge virtual medical  simulation offerings and level up your student\u2019s skills to prepare them for the NCLEX exam.",
+  "html_bytes": 1295448,
+  "text_characters": 7299
+}

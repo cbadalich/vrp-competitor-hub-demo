@@ -1,0 +1,69 @@
+{
+  "slug": "simcare",
+  "name": "SimCare AI",
+  "website": "https://simcare.ai/",
+  "domain": "simcare.ai",
+  "aliases": [],
+  "status": "approved",
+  "first_seen": "2026-09-29T17:37:31-06:00",
+  "last_seen": "2026-09-29T17:37:31-06:00",
+  "sightings": [
+    {
+      "source": "web search",
+      "query": "\"SimCare AI\" official website",
+      "url": "https://www.ycombinator.com/companies/simcare",
+      "snippet": "www.ycombinator.com",
+      "website_from": "search summary",
+      "found_at": "2026-09-29T17:37:31-06:00"
+    }
+  ],
+  "possible_duplicate_of": [],
+  "snapshot": "data/candidates/simcare/snapshots/2026-09-29_173834",
+  "extra_pages": [
+    "https://simcare.ai/course-catalog",
+    "https://simcare.ai/field"
+  ],
+  "signals": {
+    "healthcare_training": [
+      "clinical skills"
+    ],
+    "simulation": [
+      "simulation",
+      "simulations"
+    ],
+    "patient_facing": [
+      "therapeutic"
+    ]
+  },
+  "suggested_pages": [],
+  "classification": {
+    "proposed": "2nd Degree",
+    "by": "Owner decision 2026-09-29, applied by Claude Code (model claude-opus-5-5)",
+    "at": "2026-09-29T17:57:08-06:00",
+    "snapshot": "data/candidates/simcare/snapshots/2026-09-29_173834",
+    "reason": "SimCare AI trains counselors and behavioral-health disciplines with AI client simulations; counseling now counts as healthcare training (owner, 2026-09-29). No headset term on 3 saved pages, so it is 2nd Degree under the definitions. The owner indicated 1st Degree; confirm at approval.",
+    "evidence": [
+      {
+        "page": "home",
+        "quote": "AI Client simulations for better counselor training"
+      },
+      {
+        "page": "home",
+        "quote": "It supports a wide range of disciplines including psychology, psychiatry, clinical counseling, social work, school counseling, and behavioral health."
+      }
+    ]
+  },
+  "review": {
+    "decision": "approved",
+    "type": "2nd Degree",
+    "at": "2026-09-29T18:17:01-06:00",
+    "reason": "",
+    "tracked_slug": "simcare",
+    "pages": [
+      "https://simcare.ai/",
+      "https://simcare.ai/course-catalog",
+      "https://simcare.ai/field"
+    ]
+  },
+  "name_on_site": true
+}

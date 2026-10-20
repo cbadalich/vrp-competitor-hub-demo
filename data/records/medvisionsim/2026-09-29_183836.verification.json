@@ -1,0 +1,244 @@
+{
+  "record": "data/records/medvisionsim/2026-09-29_183836.json",
+  "checked_at": "2026-10-13T18:27:47-06:00",
+  "results": {
+    "product_category": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://medvisionsim.com/",
+          "quote": "Our high-fidelity patient simulators, ultrasound trainers, and anatomy solutions provide realistic, hands-on learning experiences for medical professionals and students.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://medvisionsim.com/",
+          "quote": "Medical Simulators for Advanced Healthcare Training and Education",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "platforms": {
+      "status": "unclear",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "medical-simulation-technologies",
+          "source_url": "https://medvisionsim.com/medical-simulation-technologies",
+          "quote": "Some of our simulators incorporate AR and VR to simulate environments like operating rooms or emergency response situations, elevating the immersive experience.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "medical-simulation-technologies",
+          "source_url": "https://medvisionsim.com/medical-simulation-technologies",
+          "quote": "VR and AR Enhancements: Some models incorporate virtual and augmented reality to simulate environments like operating rooms or ambulances.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "key_capabilities": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "medical-simulation-technologies",
+          "source_url": "https://medvisionsim.com/medical-simulation-technologies",
+          "quote": "Designed for adult, neonatal, and pediatric care, they feature responsive vital signs, dynamic physiological reactions, and anatomical accuracy to replicate critical medical scenarios.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "simulators_female-medical-manikin-lisa",
+          "source_url": "https://medvisionsim.com/simulators/female-medical-manikin-lisa",
+          "quote": "Instructor Controls\nScenario Builder\nDebriefing\nDrug Administration\nCPR Assessment\nPatient Monitor",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "simulators_female-medical-manikin-lisa",
+          "source_url": "https://medvisionsim.com/simulators/female-medical-manikin-lisa",
+          "quote": "Craft your own scenarios using our intuitive software or choose from many others, carefully created by our own manikin simulation specialists.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "simulators_female-medical-manikin-lisa",
+          "source_url": "https://medvisionsim.com/simulators/female-medical-manikin-lisa",
+          "quote": "Monitor and manipulate vital signs, ECG rhythms, heart and lung sounds, pulses, breathing, pupils, speech, and patient responses",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "simulators_female-medical-manikin-lisa",
+          "source_url": "https://medvisionsim.com/simulators/female-medical-manikin-lisa",
+          "quote": "Extensive functionality and the ability to use real medical devices on this lifelike manikin",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "simulators_female-medical-manikin-lisa",
+          "source_url": "https://medvisionsim.com/simulators/female-medical-manikin-lisa",
+          "quote": "Wireless operation\nFull articulation\nLifelike skin\n8h battery",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "medical-simulation-technologies",
+          "source_url": "https://medvisionsim.com/medical-simulation-technologies",
+          "quote": "Embedded sensors allow for real-time feedback, such as detecting improper CPR compressions or medication errors",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "medical-manikins-simulators",
+          "source_url": "https://medvisionsim.com/medical-manikins-simulators",
+          "quote": "Comprehensive library of normal, adventitious and pathologic sounds from real clinical cases",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "medical-manikins-simulators",
+          "source_url": "https://medvisionsim.com/medical-manikins-simulators",
+          "quote": "Simulated physics, haptic feedback, and radiocontrast agent spreading",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "medical-manikins-simulators",
+          "source_url": "https://medvisionsim.com/medical-manikins-simulators",
+          "quote": "Interactive 3D Anatomy Table\nStudying anatomy by layers, systems, and body parts",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "target_customer": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://medvisionsim.com/",
+          "quote": "Our simulators and training solutions are designed for\nMedical universities &colleges",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://medvisionsim.com/",
+          "quote": "Military & tactical\nmedicine\nfor emergency response training\nHospitals & clinics\nfor advanced training of medical personnel\nK12 Schools",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://medvisionsim.com/",
+          "quote": "Our team works with universities, hospitals, simulation centers, EMS programs, nursing schools, and healthcare training institutions to provide advanced medical simulators and immersive training solutions.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://medvisionsim.com/",
+          "quote": "One mission. Three key markets. Advanced medical simulation across the Americas.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "value_proposition": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://medvisionsim.com/",
+          "quote": "We strive to bridge the gap between theory and practice, equipping healthcare professionals with the confidence and skills they need to provide exceptional patient care.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://medvisionsim.com/",
+          "quote": "Ready-to-run solutions\nAll hardware and software included\nRemote Installation and Training",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://medvisionsim.com/",
+          "quote": "No extra charges, it\u2019s all part of the package",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "tagline": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://medvisionsim.com/",
+          "quote": "Elevate Practice with MedVision",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "simulators_female-medical-manikin-lisa",
+          "source_url": "https://medvisionsim.com/simulators/female-medical-manikin-lisa",
+          "quote": "Elevate Practice with MedVision",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "pricing": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://medvisionsim.com/",
+          "quote": "Elevate Practice with MedVision\nGet a quote",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://medvisionsim.com/",
+          "quote": "No, we do not offer an annual subscription. All updates are included as long as your product is under warranty.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://medvisionsim.com/",
+          "quote": "Software included\nNo extra charges, it\u2019s all part of the package",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "medical-manikins-simulators",
+          "source_url": "https://medvisionsim.com/medical-manikins-simulators",
+          "quote": "Pricing varies depending on complexity and features.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    }
+  }
+}

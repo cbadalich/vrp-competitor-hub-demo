@@ -1,0 +1,173 @@
+{
+  "competitor": "ReelDx",
+  "slug": "reeldx",
+  "snapshot": "data/snapshots/reeldx/2026-10-13_183515",
+  "extracted_at": "2026-09-29T19:12:00-06:00",
+  "extracted_by": "Claude Code session, model claude-opus-5-5",
+  "note": "www-reeldx-com_about.txt is a byte-for-byte duplicate of about.txt: both the /about and /about/ URLs end at https://www.reeldx.com/about (see receipts). Both were read; all evidence cites 'about'. The pricing page (https://www.reeldx.com/pricing/) returned HTTP 404 and was not saved. The site menu shows placeholder text ('Lorem ipsum dolor sit amet consectetur elit') under every menu item. An older snapshot folder (2026-09-29_182409) also exists; this record uses the newest one.",
+  "pages_read": [
+    "home",
+    "about",
+    "www-reeldx-com_about",
+    "skills"
+  ],
+  "pages_failed": [
+    "pricing"
+  ],
+  "fields": {
+    "product_category": {
+      "status": "found",
+      "value": "Clinical education platform built on a library of real patient video cases, for nursing, PA, EMS and medical education",
+      "evidence": [
+        {
+          "page": "about",
+          "quote": "Leading clinical education platform with real patient video cases for nursing, PA, and EMS programs."
+        },
+        {
+          "page": "about",
+          "quote": "Over the past decade, ReelDx has evolved from being the Netflix of patient-provider interactions - with over 700 cases - to a robust learning platform."
+        }
+      ],
+      "note": "The first quote is the about page META DESCRIPTION line. The product is video-based case study; the pages do not describe VR or interactive 3D simulation."
+    },
+    "platforms": {
+      "status": "found",
+      "value": [
+        "Web"
+      ],
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Our 700+ real patient cases can be used in-person or online, synchronously or asynchronously."
+        },
+        {
+          "page": "home",
+          "quote": "ReelDx brings the clinic right to your device."
+        }
+      ],
+      "note": "Web is based on 'online' use. The pages do not name a browser, app, or device type; 'right to your device' is not specific enough to add Mobile or Desktop."
+    },
+    "key_capabilities": {
+      "status": "found",
+      "value": [
+        "Library of 700+ real patient video cases covering 1,000+ symptoms and conditions",
+        "Cases searchable by symptoms, specialty, location, demographics",
+        "HIPAA-compliant, patient-consented, peer-reviewed cases",
+        "ReelDx Skills assignments: SOAP notes, SBAR, vital sign interpretation, differential diagnosis",
+        "Custom Skill for faculty-designed questions and assessments",
+        "Faculty grading and feedback inside the platform",
+        "Custom courses and 20+ prebuilt courses aligned to nursing, PA, EMS and medical curricula",
+        "LMS integration (Canvas and Blackboard named)"
+      ],
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Our cases cover 1,000+ symptoms and conditions and include vitals & demographics, differential diagnosis patient workup, and more."
+        },
+        {
+          "page": "home",
+          "quote": "Our library of 700+ real patient cases are HIPAA-compliant, peer-reviewed, and searchable by symptoms, specialty, location, demographics, and more."
+        },
+        {
+          "page": "home",
+          "quote": "Every patient - or their parent/guardian - has given full consent."
+        },
+        {
+          "page": "home",
+          "quote": "Faculty can assign - and grade - student assignments, including SOAP Notes, SBAR, Vital Sign Interpretation, and Differential Diagnosis."
+        },
+        {
+          "page": "skills",
+          "quote": "Design your own question or assessment for your students"
+        },
+        {
+          "page": "skills",
+          "quote": "Faculty can even grade the submissions right in the platform to allow students to make progress asynchronously."
+        },
+        {
+          "page": "home",
+          "quote": "Assign individual cases or add them to a custom course to help our cases fit into your curriculum."
+        },
+        {
+          "page": "home",
+          "quote": "Our courses are aligned to prominent curricula in the nursing, PA, EMS, and medical worlds."
+        },
+        {
+          "page": "about",
+          "quote": "The ReelDx platform introduces LMS integration with Canvas and Blackboard."
+        }
+      ],
+      "note": "EKG Interpretation and Ultrasound Interpretation skills are listed on the skills page as 'Coming Soon', so they are left out. The menu also lists 'ReelDx Classroom', 'Collections', 'Anti-Bias Training' and 'InSitu' with no description on the pages read. The home stats line reads '2018+' 'Faculty Users', which may be a display artifact."
+    },
+    "target_customer": {
+      "status": "found",
+      "value": "Healthcare education institutions and their faculty and students: nursing, physician assistant (PA), EMS and medical programs. The home page says 413+ institutions use ReelDx.",
+      "evidence": [
+        {
+          "page": "about",
+          "quote": "ReelDx has partnered with organizations in the fields of nursing education, physician assistant program, and EMS training to create a more robust learning experience for students."
+        },
+        {
+          "page": "home",
+          "quote": "Institutions Use ReelDx"
+        },
+        {
+          "page": "home",
+          "quote": "Students learn from real patients to better prepare them for their exams, clinical rotations, and health care careers."
+        }
+      ],
+      "note": "The '413+' figure sits on the line before 'Institutions Use ReelDx' in the saved text. Footer navigation has 'For Educators' and 'For Students'."
+    },
+    "value_proposition": {
+      "status": "found",
+      "value": "Lets health professions students start clinical training on day one by learning from real patient video cases on demand, preparing them for exams, clinical rotations and careers without needing a clinic.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "With access to real patient video cases on-demand, students can start clinical training immediately."
+        },
+        {
+          "page": "home",
+          "quote": "Real Patients. Real Skills. No Clinic Necessary."
+        },
+        {
+          "page": "home",
+          "quote": "Students learn from real patients to better prepare them for their exams, clinical rotations, and health care careers."
+        }
+      ],
+      "note": ""
+    },
+    "tagline": {
+      "status": "found",
+      "value": "Improve Clinical Training with Real Patient Cases. Anytime, Anywhere.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Improve Clinical Training with Real Patient Cases. Anytime, Anywhere."
+        }
+      ],
+      "note": "No trademarked or footer slogan on the pages read. This is the homepage's first headline after the menu, and also the page TITLE. Other candidates: 'Real Patients. Real Skills. No Clinic Necessary.' (home section headline); skills page headline 'Build Clinical Skills Without the Clinic'."
+    },
+    "pricing": {
+      "status": "unclear",
+      "value": "No prices published on the pages read; a 30-day free trial is offered, and the menu lists an 'Institutional Plan' and a 'Pricing' link",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "30-day access to our full case library, including InSitu."
+        },
+        {
+          "page": "home",
+          "quote": "For EducatorsFor StudentsPublic CasesPricing"
+        }
+      ],
+      "note": "The 'Pricing' evidence is a footer menu label only; the configured pricing page (/pricing/) returned 404, so its content is unknown. The free trial requires booking a meeting ('Just book a meeting with us'). 'Institutional Plan' appears in the top menu with placeholder text. No quote-request wording, so this is not recorded as 'quote on request'."
+    }
+  },
+  "carried_forward": {
+    "from_record": "data/records/reeldx/2026-09-29_183836.json",
+    "at": "2026-10-13T18:39:59-06:00",
+    "reason": "identical page text",
+    "pages_changed": []
+  }
+}

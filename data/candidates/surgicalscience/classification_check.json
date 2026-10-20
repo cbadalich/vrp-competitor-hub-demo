@@ -1,0 +1,28 @@
+{
+  "checked_at": "2026-10-14T11:24:43-06:00",
+  "proposed": "2nd Degree",
+  "problems": [],
+  "results": [
+    {
+      "page": "home",
+      "quote": "Trusted by surgeons, clinicians, and healthcare teams worldwide, our evidence-based simulations support you in delivering better patient care every day.",
+      "source_url": "https://surgicalscience.com/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "simulators_all-products-gallery",
+      "quote": "Exclusively developed for surgical technologist and surgical assistant training, this simulator helps prepare safe practitioners for the OR.",
+      "source_url": "https://surgicalscience.com/simulators/all-products-gallery/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "simulators_all-products-gallery",
+      "quote": "HeartWorks delivers comprehensive education in cardiac anatomy and echocardiography.",
+      "source_url": "https://surgicalscience.com/simulators/all-products-gallery/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    }
+  ]
+}

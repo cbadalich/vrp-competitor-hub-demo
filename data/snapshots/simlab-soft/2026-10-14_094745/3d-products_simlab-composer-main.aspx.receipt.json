@@ -1,0 +1,11 @@
+{
+  "competitor": "SimLab Soft",
+  "requested_url": "https://www.simlab-soft.com/3d-products/simlab-composer-main.aspx/",
+  "fetched_at": "2026-10-14T09:50:42-06:00",
+  "ok": false,
+  "robots": "allowed by robots.txt",
+  "http_status": 404,
+  "final_url": "https://www.simlab-soft.com/3d-products/simlab-composer-main.aspx/",
+  "content_type": "",
+  "error": "HTTP error 404 Not Found"
+}

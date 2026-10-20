@@ -1,0 +1,89 @@
+{
+  "slug": "archvirtual",
+  "name": "Arch Virtual",
+  "website": "https://archvirtual.com/",
+  "domain": "archvirtual.com",
+  "aliases": [],
+  "status": "approved",
+  "first_seen": "2026-09-29T17:38:15-06:00",
+  "last_seen": "2026-09-29T17:38:15-06:00",
+  "sightings": [
+    {
+      "source": "earlier research list",
+      "query": "\"Arch Virtual\" official website",
+      "url": "https://archvirtual.com/2009/10/14/the-international-arch-network",
+      "snippet": "the international arch network",
+      "website_from": "result link",
+      "found_at": "2026-09-29T17:38:15-06:00"
+    }
+  ],
+  "possible_duplicate_of": [],
+  "snapshot": "data/candidates/archvirtual/snapshots/2026-09-29_173951",
+  "extra_pages": [
+    "https://archvirtual.com/virtual-reality-medical/"
+  ],
+  "signals": {
+    "healthcare_training": [
+      "nursing",
+      "paramedic",
+      "medical education",
+      "healthcare simulation",
+      "healthcare training"
+    ],
+    "headset": [
+      "virtual reality",
+      "VR"
+    ],
+    "simulation": [
+      "simulation",
+      "simulations",
+      "training platform"
+    ]
+  },
+  "suggested_pages": [
+    "https://archvirtual.com/virtual-reality-medical/",
+    "https://archvirtual.com/project/assp-fall-protection-vr-experience/",
+    "https://archvirtual.com/about/",
+    "https://archvirtual.com/project/airway-lab-medical-training-adtalem-global-education/",
+    "https://archvirtual.com/project/ge-healthcare-senographe-pristina-mammography-system/",
+    "https://archvirtual.com/project/envision-a-surgery-virtually-with-immersive-healthcare-simulation/",
+    "https://archvirtual.com/project/embryo-tempus-vr-learning-experience/",
+    "https://archvirtual.com/project/vr-bone-facture-reduction/"
+  ],
+  "classification": {
+    "proposed": "1st Degree",
+    "by": "Claude Code session, model claude-opus-5-5",
+    "at": "2026-09-29T17:48:00-06:00",
+    "snapshot": "data/candidates/archvirtual/snapshots/2026-09-29_173951",
+    "reason": "Arch Virtual's own Acadicus platform is VR simulation compatible with Oculus Rift, and the medical page markets VR training to nursing schools and paramedic programs. Much of the site is client project work, and the footer reads 2019 with the latest update dated 2020.",
+    "evidence": [
+      {
+        "page": "virtual-reality-medical",
+        "quote": "Deploy virtual reality training in sim labs, nursing schools, paramedic programs and more."
+      },
+      {
+        "page": "home",
+        "quote": "Acadicus provides an expansive library of simulation content. It can be downloaded free, and is compatible with Oculus Rift."
+      },
+      {
+        "page": "home",
+        "quote": "© Copyright 2019 Arch Virtual"
+      }
+    ]
+  },
+  "review": {
+    "decision": "approved",
+    "type": "1st Degree",
+    "at": "2026-09-29T18:06:25-06:00",
+    "reason": "",
+    "tracked_slug": "archvirtual",
+    "pages": [
+      "https://archvirtual.com/",
+      "https://archvirtual.com/virtual-reality-medical/",
+      "https://archvirtual.com/project/assp-fall-protection-vr-experience/",
+      "https://archvirtual.com/about/",
+      "https://archvirtual.com/project/airway-lab-medical-training-adtalem-global-education/"
+    ]
+  },
+  "name_on_site": true
+}

@@ -1,0 +1,15 @@
+{
+  "competitor": "Elevate Healthcare",
+  "requested_url": "https://elevatehealth.net/product/evo-aura-auscultation-training/",
+  "fetched_at": "2026-09-29T17:41:02-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://elevatehealth.net/product/evo-aura-auscultation-training/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "Wearable Auscultation Simulator for Realistic Practice - Elevate Healthcare",
+  "meta_description": "Train clinical auscultation skills with Evo AuRA, a wearable auscultation training simulator that delivers realistic heart, lung, and bowel sounds for standardized patient and healthcare education.",
+  "html_bytes": 246485,
+  "text_characters": 8413
+}

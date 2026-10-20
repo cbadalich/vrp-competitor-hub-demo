@@ -1,0 +1,15 @@
+{
+  "competitor": "HQSoftwareLab",
+  "requested_url": "https://hqsoftwarelab.com/",
+  "fetched_at": "2026-10-14T10:12:24-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://hqsoftwarelab.com/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "Custom Software Development Company - HQSoftware",
+  "meta_description": "HQSoftware is a business software development company with a pool of 125+ experts focused on Java, .NET, PHP, Node.js and with offices in Europe and USA. Full-cycle custom software development services delivered on-demand. Visit us now",
+  "html_bytes": 145829,
+  "text_characters": 8139
+}

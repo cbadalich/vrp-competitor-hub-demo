@@ -1,0 +1,21 @@
+{
+  "checked_at": "2026-10-14T11:24:43-06:00",
+  "proposed": "1st Degree",
+  "problems": [],
+  "results": [
+    {
+      "page": "home",
+      "quote": "Spark is a virtual AI-driven simulated patient platform designed to enhance healthcare education by providing immersive and interactive learning opportunities through either a screen-based interface or a VR headset.",
+      "source_url": "https://www.pcs.ai/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "home",
+      "quote": "Solutions for Nursing Education",
+      "source_url": "https://www.pcs.ai/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    }
+  ]
+}

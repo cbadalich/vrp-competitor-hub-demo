@@ -1,0 +1,87 @@
+{
+  "slug": "virti",
+  "name": "Virti",
+  "website": "https://www.virti.com/",
+  "domain": "virti.com",
+  "aliases": [],
+  "status": "approved",
+  "first_seen": "2026-10-13T18:13:37-06:00",
+  "last_seen": "2026-10-13T18:13:37-06:00",
+  "sightings": [
+    {
+      "source": "earlier research list",
+      "query": "",
+      "url": "",
+      "snippet": "",
+      "website_from": "earlier research list",
+      "found_at": "2026-10-13T18:13:37-06:00"
+    }
+  ],
+  "possible_duplicate_of": [],
+  "snapshot": "data/candidates/virti/snapshots/2026-10-13_181514",
+  "extra_pages": [
+    "https://www.virti.com/ai-role-play-platform/",
+    "https://www.virti.com/ai-role-play-platform/learn/",
+    "https://www.virti.com/ai-role-play-platform/scale/"
+  ],
+  "signals": {
+    "healthcare_training": [
+      "clinical training",
+      "clinical skills"
+    ],
+    "headset": [
+      "VR",
+      "headset"
+    ],
+    "simulation": [
+      "simulations",
+      "training platform"
+    ]
+  },
+  "suggested_pages": [
+    "https://www.virti.com/ai-role-play-platform/",
+    "https://www.virti.com/ai-role-play-platform/create/",
+    "https://www.virti.com/ai-role-play-platform/learn/",
+    "https://www.virti.com/ai-role-play-platform/analyze/",
+    "https://www.virti.com/ai-role-play-platform/scale/",
+    "https://www.virti.com/platform/ai-coaching/",
+    "https://www.virti.com/solutions/sales-training/",
+    "https://www.virti.com/solutions/ai-customer-service-training/"
+  ],
+  "classification": {
+    "proposed": "1st Degree",
+    "by": "Claude Code session, model claude-opus-5-5",
+    "at": "2026-10-13T18:30:00-06:00",
+    "snapshot": "data/candidates/virti/snapshots/2026-10-13_181514",
+    "reason": "Virti's AI role-play platform lists Medical training as one of four use cases (with sales, customer service and leadership), with spoken practice with Virtual Human patients, and the platform runs on mobile, desktop or VR headset. Headset delivery is stated for the platform as a whole; no saved page is specific to the medical product, so a person may want to confirm the medical content runs in VR.",
+    "evidence": [
+      {
+        "page": "home",
+        "quote": "Medical trainingEnhance clinical skills with AI-powered simulations."
+      },
+      {
+        "page": "ai-role-play-platform_learn",
+        "quote": "Bridge theory and practice with Virtual Human patient consultations and immersive medical simulations."
+      },
+      {
+        "page": "ai-role-play-platform",
+        "quote": "Mobile, desktop or VR headset. Learners train whenever it fits their schedule"
+      }
+    ]
+  },
+  "review": {
+    "decision": "approved",
+    "type": "1st Degree",
+    "at": "2026-10-13T18:19:32-06:00",
+    "reason": "",
+    "tracked_slug": "virti",
+    "pages": [
+      "https://www.virti.com/",
+      "https://www.virti.com/ai-role-play-platform/",
+      "https://www.virti.com/ai-role-play-platform/learn/",
+      "https://www.virti.com/ai-role-play-platform/scale/",
+      "https://www.virti.com/ai-role-play-platform/create/"
+    ]
+  },
+  "name_on_site": true
+}

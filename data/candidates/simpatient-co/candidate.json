@@ -1,0 +1,79 @@
+{
+  "slug": "simpatient-co",
+  "name": "SimPatient",
+  "website": "https://simpatient.co.uk/",
+  "domain": "simpatient.co.uk",
+  "aliases": [],
+  "status": "approved",
+  "first_seen": "2026-10-14T10:12:29-06:00",
+  "last_seen": "2026-10-14T11:23:28-06:00",
+  "sightings": [
+    {
+      "source": "web search",
+      "query": "AI virtual patient simulation launches",
+      "url": "https://andrewomalley.substack.com/p/introducing-simpatient-ai-powered",
+      "snippet": "we're officially launching SimPatient.co.uk",
+      "website_from": "search summary",
+      "origin": "topic-search",
+      "found_in": "https://andrewomalley.substack.com/p/introducing-simpatient-ai-powered",
+      "run": "2026-10-14-test",
+      "found_at": "2026-10-14T10:12:29-06:00"
+    }
+  ],
+  "known_from": null,
+  "possible_duplicate_of": [],
+  "snapshot": "data/candidates/simpatient-co/snapshots/2026-10-14_101339",
+  "extra_pages": [
+    "https://simpatient.co.uk/pricing/",
+    "https://simpatient.co.uk/about/"
+  ],
+  "signals": {
+    "healthcare_training": [
+      "medical education",
+      "patient simulation",
+      "virtual patients"
+    ],
+    "simulation": [
+      "simulation",
+      "simulators"
+    ]
+  },
+  "suggested_pages": [
+    "https://simpatient.co.uk/pricing/",
+    "https://simpatient.co.uk/about/"
+  ],
+  "classification": {
+    "proposed": "2nd Degree",
+    "by": "Claude Code session, model claude-opus-5-5",
+    "at": "2026-10-14T10:14:56-06:00",
+    "snapshot": "data/candidates/simpatient-co/snapshots/2026-10-14_101339",
+    "reason": "AI simulated patients for communication training at medical schools, by text, voice and video. No headset term on 3 saved pages (home, pricing, about).",
+    "evidence": [
+      {
+        "page": "home",
+        "quote": "For Universities, Medical Schools & Training Bodies"
+      },
+      {
+        "page": "home",
+        "quote": "AI-simulated communication training, at scale."
+      },
+      {
+        "page": "pricing",
+        "quote": "Text, voice & video modes"
+      }
+    ]
+  },
+  "review": {
+    "decision": "approved",
+    "type": "2nd Degree",
+    "at": "2026-10-14T11:31:01-06:00",
+    "reason": "Approved in the review queue",
+    "tracked_slug": "simpatient-co",
+    "pages": [
+      "https://simpatient.co.uk/",
+      "https://simpatient.co.uk/pricing/",
+      "https://simpatient.co.uk/about/"
+    ]
+  },
+  "name_on_site": true
+}

@@ -1,0 +1,15 @@
+{
+  "competitor": "Osso VR",
+  "requested_url": "https://www.ossovr.com/health-systems/",
+  "fetched_at": "2026-09-29T18:42:00-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.ossovr.com/health-systems",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "Osso Nurse Training",
+  "meta_description": "Osso Nurse Training helps health systems onboard faster with immersive VR skills training, independent and multiuser modes, and performance analytics to assess proficiency and improve patient care.",
+  "html_bytes": 56796,
+  "text_characters": 7925
+}

@@ -1,0 +1,15 @@
+{
+  "competitor": "FLAIM Systems",
+  "requested_url": "https://www.flaimsystems.com/fire-extinguisher-training/",
+  "fetched_at": "2026-10-13T18:36:29-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.flaimsystems.com/fire-extinguisher-training",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "Fire Extinguisher Training Simulator | Hands-On VR Practice",
+  "meta_description": "Master fire extinguisher use with immersive VR training. FLAIM's simulator offers safe, repeatable fire safety practice for all workplaces.",
+  "html_bytes": 94524,
+  "text_characters": 9311
+}

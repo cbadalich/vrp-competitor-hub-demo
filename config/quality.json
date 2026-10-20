@@ -1,0 +1,12 @@
+{
+  "_about": "Rules for the profile status (quality.py). Approved by the owner 2026-10-15. Rules are checked in this order and the first match wins: Needs Review, Stale, Partial, Strong. Edit the numbers here; the rules themselves are in quality.py.",
+  "stale_after_days": 45,
+  "_stale_about": "Days since the profile's pages were last downloaded and its quotes confirmed (the snapshot the profile uses), not since it was first extracted. A monthly refresh plus two weeks of slack.",
+  "thin_profile_at_most_pages": 2,
+  "_thin_about": "Counts distinct pages: addresses that redirect to the same page count once.",
+  "core_fields": ["product_category", "platforms", "key_capabilities", "target_customer", "value_proposition"],
+  "_core_fields_about": "Fields every profile should state. Pricing and tagline are left out on purpose: most companies do not publish them, so a missing value says nothing about the profile's quality.",
+  "partial_if_core_unclear_at_least": 2,
+  "partial_if_failed_or_weak_pages_at_least": 1,
+  "_failed_or_weak_about": "Currently tracked pages that failed to download, or downloaded with too little text, in the company's latest fetch. Pages no longer tracked are ignored."
+}

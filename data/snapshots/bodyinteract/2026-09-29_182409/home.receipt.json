@@ -1,0 +1,11 @@
+{
+  "competitor": "Body Interact",
+  "requested_url": "https://bodyinteract.com/",
+  "fetched_at": "2026-09-29T18:33:20-06:00",
+  "ok": false,
+  "robots": "allowed by robots.txt",
+  "http_status": 403,
+  "final_url": "https://bodyinteract.com/",
+  "content_type": "",
+  "error": "HTTP error 403 Forbidden"
+}

@@ -1,0 +1,83 @@
+{
+  "slug": "fundamentalvr",
+  "name": "FundamentalVR",
+  "website": "https://www.fundamentalvr.com/",
+  "domain": "fundamentalvr.com",
+  "aliases": [
+    "Fundamental XR"
+  ],
+  "status": "approved",
+  "first_seen": "2026-09-29T17:37:26-06:00",
+  "last_seen": "2026-09-29T17:37:26-06:00",
+  "sightings": [
+    {
+      "source": "web search",
+      "query": "\"FundamentalVR\" official website",
+      "url": "https://craft.co/fundamentalvr",
+      "snippet": "craft.co",
+      "website_from": "search summary",
+      "found_at": "2026-09-29T17:37:26-06:00"
+    }
+  ],
+  "possible_duplicate_of": [],
+  "snapshot": "data/candidates/fundamentalvr/snapshots/2026-09-29_173918",
+  "extra_pages": [
+    "https://www.fundamentalvr.com/clinical-areas",
+    "https://www.fundamentalvr.com/case-studies"
+  ],
+  "signals": {
+    "healthcare_training": [
+      "medical education"
+    ],
+    "headset": [
+      "virtual reality",
+      "VR",
+      "augmented reality",
+      "mixed reality",
+      "XR",
+      "headset"
+    ],
+    "simulation": [
+      "simulation"
+    ]
+  },
+  "suggested_pages": [],
+  "classification": {
+    "proposed": "1st Degree",
+    "by": "Claude Code session, model claude-opus-5-5",
+    "at": "2026-09-29T17:41:28-06:00",
+    "snapshot": "data/candidates/fundamentalvr/snapshots/2026-09-29_173918",
+    "reason": "Classified by its immersive clinical training platform. The pages describe training for clinical teams (ophthalmology, robotics, medical education) with a mixed-reality headset mode and haptic VR. Note: the site names itself Fundamental XR, and the name FundamentalVR does not appear on the saved text; the owner should confirm it is the same company.",
+    "evidence": [
+      {
+        "page": "clinical-areas",
+        "quote": "Haptic VR for cataract, retina and gene therapy training."
+      },
+      {
+        "page": "home",
+        "quote": "We are the complete training solution for clinical, manufacturing, and growth teams in MedTech"
+      },
+      {
+        "page": "home",
+        "quote": "MR uses a headset to mix virtual content with real-world settings."
+      },
+      {
+        "page": "case-studies",
+        "quote": "Evidence from immersive training programmes in ophthalmology and medical education"
+      }
+    ]
+  },
+  "review": {
+    "decision": "approved",
+    "type": "1st Degree",
+    "at": "2026-09-29T18:13:19-06:00",
+    "reason": "",
+    "tracked_slug": "fundamentalvr",
+    "pages": [
+      "https://www.fundamentalvr.com/",
+      "https://www.fundamentalvr.com/clinical-areas",
+      "https://www.fundamentalvr.com/case-studies"
+    ]
+  },
+  "name_on_site": true
+}

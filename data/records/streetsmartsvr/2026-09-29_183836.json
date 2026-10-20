@@ -1,0 +1,140 @@
+{
+  "competitor": "Street Smarts VR",
+  "slug": "streetsmartsvr",
+  "snapshot": "data/snapshots/streetsmartsvr/2026-09-29_183836",
+  "extracted_at": "2026-09-29T19:10:00-06:00",
+  "extracted_by": "Claude Code session, model claude-opus-5-5",
+  "note": "Only one page (home) is configured and saved for this company, so several fields rest on a single page. The home page is aimed at defense and law enforcement; it does not mention healthcare or medical training.",
+  "pages_read": [
+    "home"
+  ],
+  "pages_failed": [],
+  "fields": {
+    "product_category": {
+      "status": "found",
+      "value": "XR-based, first-person, hands-on training platform for defense and public safety (weapons, use of force, tactical decision making), configured to the customer's requirements",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "XR-based training platform for defense and public safety"
+        },
+        {
+          "page": "home",
+          "quote": "A first-person, hands-on training platform configured to your requirements."
+        }
+      ],
+      "note": "The first quote is the META DESCRIPTION line. Scenario tiles cover weapons sustainment (M4 rifle, M18 pistol), use of force certification and tactical decision making."
+    },
+    "platforms": {
+      "status": "found",
+      "value": [
+        "VR"
+      ],
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "XR-based training platform for defense and public safety"
+        },
+        {
+          "page": "home",
+          "quote": "XR training in action"
+        }
+      ],
+      "note": "The page says XR, which counts as VR under EXTRACTION.md. No headset brand or model is named, and the page does not say whether learners use headsets, screens or both. It also mentions 'Deployable kits' and weapon replicas as accessories."
+    },
+    "key_capabilities": {
+      "status": "found",
+      "value": [
+        "Commercial off-the-shelf (COTS) scenario library for defense and law enforcement",
+        "Creator: author scenarios, map them to standards, deploy them",
+        "Performance data capture (live telemetry: accuracy, grouping, engagement time)",
+        "Standards mapping and structured evidence of readiness",
+        "Deployable kits",
+        "Mission-configured weapon replica accessories",
+        "Mission-configured content matched to doctrine and standards"
+      ],
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "// Select COTS-Available Scenarios"
+        },
+        {
+          "page": "home",
+          "quote": "Author any scenario, map it to your standards, deploy to your force"
+        },
+        {
+          "page": "home",
+          "quote": "Train to standard, capture every rep, and prove readiness with performance data."
+        },
+        {
+          "page": "home",
+          "quote": "Live Telemetry\nAccuracy"
+        },
+        {
+          "page": "home",
+          "quote": "Deployable kits\n·\nStandards mapping\n·\nStructured evidence"
+        },
+        {
+          "page": "home",
+          "quote": "Weapon replicas configured for your platform and mission requirements."
+        },
+        {
+          "page": "home",
+          "quote": "Training scenarios configured to your doctrine, standards, and environment."
+        }
+      ],
+      "note": "Scenario topics listed: C-UAS (hard and soft kill), integrated base defense, CBRN / post-attack recovery, small boat attack, use of force / de-escalation, traffic stop escalation, domestic disturbance, school safety / lockdown, insider threat / active shooter, marksmanship sustainment. The telemetry panel shows sample values (Accuracy 94%, Grouping 3.2cm) that read as an illustration."
+    },
+    "target_customer": {
+      "status": "found",
+      "value": "Defense (military) and law enforcement / public safety agencies.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "XR-based training platform for defense and public safety"
+        },
+        {
+          "page": "home",
+          "quote": "Show:\nAll\nDefense\nLaw Enforcement"
+        },
+        {
+          "page": "home",
+          "quote": "50+ agencies\n·\n100+ locations\n·\n10,000+ users"
+        }
+      ],
+      "note": "The page also refers to 'The Department of War' and has a Procurement menu (Contract Vehicles, CAGE Code, Grant Assistance), which point to government buyers."
+    },
+    "value_proposition": {
+      "status": "found",
+      "value": "Train to standard, capture every rep, and prove readiness with performance data, at scale, so readiness is continuous rather than a single qualification day.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Train to standard, capture every rep, and prove readiness with performance data."
+        },
+        {
+          "page": "home",
+          "quote": "Qualification is a 1-day snapshot.\nReadiness is a 365-day requirement."
+        }
+      ],
+      "note": "Closing call to action: 'Let's discuss how SSVR can deliver certified readiness at scale.'"
+    },
+    "tagline": {
+      "status": "found",
+      "value": "Train to standard. Prove readiness. At scale.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Train to standard.\nProve readiness.\nAt scale."
+        }
+      ],
+      "note": "No trademarked line, and only one page was saved, so nothing can be seen repeating across pages. Used the homepage's first headline after the menu. Other candidates: footer 'Better Training. Better Performance. Better Outcomes.'; page title 'Training Readiness at Scale'."
+    },
+    "pricing": {
+      "status": "not_found",
+      "value": null,
+      "evidence": [],
+      "note": "No prices or quote/pricing buttons on the one page read. The footer has Procurement links (Contract Vehicles, CAGE Code, Grant Assistance) and the call to action is 'Start a Conversation'; neither counts as pricing under EXTRACTION.md."
+    }
+  }
+}

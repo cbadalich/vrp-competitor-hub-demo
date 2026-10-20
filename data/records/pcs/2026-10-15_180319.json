@@ -1,0 +1,159 @@
+{
+  "competitor": "PCS",
+  "slug": "pcs",
+  "snapshot": "data/snapshots/pcs/2026-10-15_180319",
+  "extracted_at": "2026-10-15T18:04:42-06:00",
+  "extracted_by": "Claude Code session, model claude-opus-5-5",
+  "note": "Company name on its pages: PCS / PCS.AI. ALEX is also listed by Nasco Healthcare (tracked) as 'ALEX Gen AI'; the pages do not say who makes which part.",
+  "pages_read": [
+    "home",
+    "spark",
+    "spark_for-nursing"
+  ],
+  "pages_failed": [],
+  "fields": {
+    "product_category": {
+      "status": "found",
+      "value": "AI-driven virtual patient simulation for healthcare education (Spark), plus AI voice add-ons for physical patient simulators (SimVox, ALEX).",
+      "evidence": [
+        {
+          "page": "spark",
+          "quote": "PCS Spark is an AI-driven virtual healthcare simulation platform designed to enhance the clinical skills training experience for medical and nursing schools."
+        },
+        {
+          "page": "home",
+          "quote": "SimVox is an AI-driven smart speaker designed to enhance your existing simulation manikins, bringing them to life with interactive, voice-enabled capabilities."
+        }
+      ],
+      "note": ""
+    },
+    "platforms": {
+      "status": "found",
+      "value": [
+        "Web",
+        "VR",
+        "Physical hardware"
+      ],
+      "evidence": [
+        {
+          "page": "spark",
+          "quote": "PCS Spark is available in both a cloud screen-based experience, and virtual reality headset formats."
+        },
+        {
+          "page": "home",
+          "quote": "ALEX is a high-fidelity simulator with seamlessly integrated AI to enable realistic, interactive patient communication."
+        }
+      ],
+      "note": "Web is based on 'cloud screen-based experience'; no browser is named. Physical hardware covers SimVox (a smart speaker added to existing manikins) and ALEX (a high-fidelity simulator). No headset brand is named."
+    },
+    "key_capabilities": {
+      "status": "found",
+      "value": [
+        "AI-driven patient conversations using custom-trained language models (AI/Speech)",
+        "Head-to-toe physical exam, vital signs and diagnostic instruments on virtual patients",
+        "Automated AI assessment against a scenario checklist (AI/Assessment)",
+        "Multi-player mode for learners in different locations (TeamSpace)",
+        "Model-driven physiology with responses to drug treatments",
+        "AI scenario authoring from short text descriptions (AI/Scenarios, Pro level)",
+        "Library of 50+ PCS-authored scenarios",
+        "Available in 15 languages (AI/Translate)",
+        "Two-way LMS integration (Canvas, Moodle, Blackboard, LTI 1.3)",
+        "SimVox smart speaker that adds AI voice to existing manikins"
+      ],
+      "evidence": [
+        {
+          "page": "spark",
+          "quote": "Spark leverages a bespoke AI and speech technology to deliver a higher level of conversational fluency during patient health interviews"
+        },
+        {
+          "page": "spark",
+          "quote": "Learners can perform head-to-toe assessments on virtual patients, conduct vital signs assessments, use various diagnostic instruments"
+        },
+        {
+          "page": "spark",
+          "quote": "AI/Assessment provides AI-based automated evaluation of learner performance on both specific actions and generic communication frameworks."
+        },
+        {
+          "page": "spark",
+          "quote": "TeamSpace enables learners from different locations to collaborate seamlessly on a single patient encounter."
+        },
+        {
+          "page": "spark",
+          "quote": "Experience life-like responses to drug treatments, enhancing the realism of training."
+        },
+        {
+          "page": "spark",
+          "quote": "Scenarios AI-generated from brief textual descriptions of the patient, making patient authoring streamlined, effortless, and efficient."
+        },
+        {
+          "page": "spark",
+          "quote": "Over 50 PCS Authored Scenarios (including future releases)"
+        },
+        {
+          "page": "spark",
+          "quote": "Spark is available in English, Arabic, German, Spanish, French, Hebrew, Hindi, Indonesian, Italian, Japanese, Portuguese, Russian, Tagalog, Turkish, Vietnamese"
+        },
+        {
+          "page": "spark",
+          "quote": "Two-way Integration with Canvas, Moodle, Blackboard and other LTI 1.3 compliant LMS platforms"
+        },
+        {
+          "page": "home",
+          "quote": "SimVox is an AI-driven smart speaker designed to enhance your existing simulation manikins"
+        }
+      ],
+      "note": ""
+    },
+    "target_customer": {
+      "status": "found",
+      "value": "Healthcare education: medical, nursing and allied health students and schools, simulation centers, standardized patient programs and EMS. Nursing use covers Fundamentals of Nursing and Clinical Nursing courses.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Solutions for Medical Education\nSolutions for Nursing Education\nSolutions for Simulation Centers\nSolutions for Standardized Patient Programs\nSolutions for Emergency Medical Services\nSolutions for Allied Health"
+        },
+        {
+          "page": "spark_for-nursing",
+          "quote": "Used in both Fundamentals of Nursing and Clinical Nursing courses"
+        }
+      ],
+      "note": ""
+    },
+    "value_proposition": {
+      "status": "found",
+      "value": "AI-driven virtual patients that let healthcare students practice clinical interviews, exams and decisions with realistic responses and instant feedback, building confidence, competence and critical thinking.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Powers virtual patients with lifelike, responsive behavior, enabling realistic practice in diagnosing, treating, and communicating with simulated patients."
+        },
+        {
+          "page": "spark",
+          "quote": "Integrating Spark into healthcare education and clinical skills courses help learners build confidence, enhance competence, and strengthen critical thinking skills during simulated patient assessments."
+        }
+      ],
+      "note": ""
+    },
+    "tagline": {
+      "status": "not_found",
+      "value": null,
+      "evidence": [],
+      "note": "No official tagline found: no line is marked ™, ® or ℠ as a slogan (™ marks product names such as AI/Assessment™), and no slogan repeats across pages. 'Intelligent Virtual Patients' appears on home and the nursing page, but as a product heading. Homepage headline: 'The Premiere Virtual Simulation Platform' / 'Built for Healthcare Education'."
+    },
+    "pricing": {
+      "status": "found",
+      "value": "Not published; priced per student per year with minimums; quote on request. Two service levels (Spark and Spark Pro).",
+      "evidence": [
+        {
+          "page": "spark",
+          "quote": "Spark pricing is based on a per-student, per-year model, with minimums in place. Contact our knowledgeable and collaborative sales team for a personalized quote."
+        },
+        {
+          "page": "spark",
+          "quote": "PCS Spark service levels"
+        }
+      ],
+      "note": ""
+    }
+  }
+}

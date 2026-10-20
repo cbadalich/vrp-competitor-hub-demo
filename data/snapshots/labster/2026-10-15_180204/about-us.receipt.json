@@ -1,0 +1,15 @@
+{
+  "competitor": "Labster",
+  "requested_url": "https://www.labster.com/about-us/",
+  "fetched_at": "2026-10-15T18:02:46-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.labster.com/about-us",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "About Us",
+  "meta_description": "Labster is redefining STEM and nursing education with evidence-based immersive learning experiences. Contact us to start a conversation about how we can work together to empower the world with knowledge.",
+  "html_bytes": 209398,
+  "text_characters": 10162
+}

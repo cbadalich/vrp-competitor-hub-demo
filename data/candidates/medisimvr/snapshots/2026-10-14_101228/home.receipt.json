@@ -1,0 +1,15 @@
+{
+  "competitor": "MedisimVR",
+  "requested_url": "https://medisimvr.com/",
+  "fetched_at": "2026-10-14T10:12:28-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://medisimvr.com/",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "VR applications in healthcare | MediSim VRWebsite",
+  "meta_description": "Explore the Future of Virtual Reality in Healthcare Education. Our AI-powered platform offers immersive experiences for healthcare professionals to learn.",
+  "html_bytes": 56381,
+  "text_characters": 4398
+}

@@ -1,0 +1,71 @@
+{
+  "slug": "arborxr",
+  "name": "ArborXR",
+  "website": "https://arborxr.com/",
+  "domain": "arborxr.com",
+  "aliases": [],
+  "status": "deferred",
+  "first_seen": "2026-10-14T10:12:28-06:00",
+  "last_seen": "2026-10-14T11:23:28-06:00",
+  "sightings": [
+    {
+      "source": "web search",
+      "query": "VR police training simulator",
+      "url": "https://arborxr.com/blog/transforming-police-training-with-virtual-reality",
+      "snippet": "Transforming Police Training with Virtual Reality (blog)",
+      "website_from": "result link",
+      "origin": "topic-search",
+      "found_in": "",
+      "run": "2026-10-14-test",
+      "found_at": "2026-10-14T10:12:28-06:00"
+    }
+  ],
+  "known_from": null,
+  "possible_duplicate_of": [],
+  "snapshot": "data/candidates/arborxr/snapshots/2026-10-14_101228",
+  "extra_pages": [],
+  "signals": {
+    "headset": [
+      "virtual reality",
+      "VR",
+      "XR",
+      "headset",
+      "headsets",
+      "Meta Quest",
+      "HTC VIVE",
+      "Pico"
+    ],
+    "public_safety": [
+      "police"
+    ]
+  },
+  "suggested_pages": [
+    "https://arborxr.com/product/connected-worker-platform/",
+    "https://arborxr.com/product/manage-xr-devices/",
+    "https://arborxr.com/product/install-apps-remotely/",
+    "https://arborxr.com/product/remote-assistance/",
+    "https://arborxr.com/product/insights/",
+    "https://arborxr.com/product/kiosk-experience/",
+    "https://arborxr.com/product/admin-account-users/",
+    "https://arborxr.com/product/enterprise-security/"
+  ],
+  "classification": {
+    "proposed": "Not Relevant",
+    "by": "Claude Code session, model claude-opus-5-5",
+    "at": "2026-10-14T10:14:56-06:00",
+    "snapshot": "data/candidates/arborxr/snapshots/2026-10-14_101228",
+    "reason": "Device management software for AR and VR headsets; it runs other companies' training content and does not train anyone itself.",
+    "evidence": [
+      {
+        "page": "home",
+        "quote": "Looking to manage AR and VR devices, or deploy, manage, and update VR & AR apps & files remotely?"
+      }
+    ]
+  },
+  "review": {
+    "decision": "deferred",
+    "at": "2026-10-14T11:31:01-06:00",
+    "reason": ""
+  },
+  "name_on_site": true
+}

@@ -1,0 +1,208 @@
+{
+  "record": "data/records/immertec/2026-09-29_183836.json",
+  "checked_at": "2026-10-13T18:27:47-06:00",
+  "results": {
+    "product_category": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.immertec.com/",
+          "quote": "Immertec helps healthcare professionals connect, communicate, and collaborate in challenging environments where details matter",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "solutions",
+          "source_url": "https://www.immertec.com/solutions",
+          "quote": "A technology enabled Healthcare platform that covers all the needs of Healthcare Professionals and Medical Device Companies",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.immertec.com/",
+          "quote": "We help medical device companies virtually access the OR to enhance education, drive sales, improve R&D and support successful product launches",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "platforms": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "solutions_live-broadcast",
+          "source_url": "https://www.immertec.com/solutions/live-broadcast",
+          "quote": "Watch live broadcasts in VR or Immersive 2D from anywhere in the world",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "products_vr-viewer",
+          "source_url": "https://www.immertec.com/products/vr-viewer",
+          "quote": "If you already own a Meta VR headset, including Quest 1, 2, or 3, Immertec supports access\nthrough the Meta Quest AppLab.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "solutions_live-broadcast",
+          "source_url": "https://www.immertec.com/solutions/live-broadcast",
+          "quote": "the convenience of joining through the browser-based Immersive 2D viewer",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "key_capabilities": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "solutions",
+          "source_url": "https://www.immertec.com/solutions",
+          "quote": "Enable real-time sharing of surgical workflows in an immersive environment",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "solutions",
+          "source_url": "https://www.immertec.com/solutions",
+          "quote": "Capture detailed procedures to build a library of immersive, on-demand content",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "solutions",
+          "source_url": "https://www.immertec.com/solutions",
+          "quote": "Presenters can guide participants through recorded cases, highlight key moments, and answer\nquestions in real time",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "solutions_live-broadcast",
+          "source_url": "https://www.immertec.com/solutions/live-broadcast",
+          "quote": "Facilitate real-time peer-to-peer communication during live broadcasts",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "industries_physicians",
+          "source_url": "https://www.immertec.com/industries/physicians",
+          "quote": "Highlight and replay key moments for deeper analysis",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "industries_physicians",
+          "source_url": "https://www.immertec.com/industries/physicians",
+          "quote": "Pause, zoom, and enlarge visuals to focus on details",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "products_vr-viewer",
+          "source_url": "https://www.immertec.com/products/vr-viewer",
+          "quote": "Delivered directly with MDM software for focused, case-specific use",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "solutions_live-broadcast",
+          "source_url": "https://www.immertec.com/solutions/live-broadcast",
+          "quote": "Receive a detailed engagement report with attendance, watch time, and viewer roles.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "solutions_live-broadcast",
+          "source_url": "https://www.immertec.com/solutions/live-broadcast",
+          "quote": "Immertec\u2019s on-site team manages setup and live production with minimal disruption.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "target_customer": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.immertec.com/",
+          "quote": "Our comprehensive solutions provide medical device companies with the platform to train physicians and sales reps more effectively",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "industries_physicians",
+          "source_url": "https://www.immertec.com/industries/physicians",
+          "quote": "Immertec connects you to cutting-edge techniques, devices, and peer insights through immersive training solutions",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.immertec.com/",
+          "quote": "Medical Device Companies Physicians Medical Schools Animal Health Veterinarians Veterinary Schools Government",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "value_proposition": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.immertec.com/",
+          "quote": "We help medical device companies virtually access the OR to enhance education, drive sales, improve R&D and support successful product launches",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "solutions_live-broadcast",
+          "source_url": "https://www.immertec.com/solutions/live-broadcast",
+          "quote": "Real-Time Access to the OR, Without the Travel",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "tagline": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.immertec.com/",
+          "quote": "Immersive Training & Awareness Platform",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "solutions",
+          "source_url": "https://www.immertec.com/solutions",
+          "quote": "Immersive Training & Awareness Platform",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "pricing": {
+      "status": "not_found",
+      "result": "not_found",
+      "problems": [],
+      "evidence": []
+    }
+  }
+}

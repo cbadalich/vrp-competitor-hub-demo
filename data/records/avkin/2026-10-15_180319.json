@@ -1,0 +1,140 @@
+{
+  "competitor": "AvKin",
+  "slug": "avkin",
+  "snapshot": "data/snapshots/avkin/2026-10-15_180319",
+  "extracted_at": "2026-10-15T18:06:02-06:00",
+  "extracted_by": "Claude Code session, model claude-opus-5-5",
+  "note": "Founded in 2016 by a nurse educator and incubated at the University of Delaware, per the company page. The product-resources page is password-protected and is no longer tracked.",
+  "pages_read": [
+    "home",
+    "nursing-simulation-company",
+    "simulation-consulting",
+    "simulation-training-and-certificate"
+  ],
+  "pages_failed": [],
+  "fields": {
+    "product_category": {
+      "status": "found",
+      "value": "Wearable healthcare simulators worn by live people, plus standardized patient (SP) program consulting and an online SP training certificate.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Avkin creates wearable healthcare simulators for realistic clinical training that improves communication, teamwork, and patient safety."
+        },
+        {
+          "page": "nursing-simulation-company",
+          "quote": "expanding product lines beyond wearable simulators and into standardized patient methodology and consulting"
+        }
+      ],
+      "note": ""
+    },
+    "platforms": {
+      "status": "found",
+      "value": [
+        "Physical hardware"
+      ],
+      "evidence": [
+        {
+          "page": "nursing-simulation-company",
+          "quote": "Technology that can be worn by a live person that protects them from invasive procedures."
+        }
+      ],
+      "note": "Physical hardware covers the wearable simulators. The SP certificate is an 'Online module training certificate' for standardized patients (actors), not for the healthcare learners, so Web is not listed. No headset mode is mentioned."
+    },
+    "key_capabilities": {
+      "status": "found",
+      "value": [
+        "Wearable simulators worn by live people, with embedded haptics that cue the wearer",
+        "Avbirth automated wearable birthing simulator",
+        "Two complimentary simulations with each wearable simulator",
+        "Integration calls and customer success support after purchase",
+        "Diverse skin tones on wearable simulators",
+        "Standardized patient program consulting (needs assessment, policies, faculty training)",
+        "Online training certificate for standardized patients",
+        "Free downloadable simulation scenarios"
+      ],
+      "evidence": [
+        {
+          "page": "nursing-simulation-company",
+          "quote": "Inside each device, haptic technology is embedded that can cue the wearer to react to the care that is being provided."
+        },
+        {
+          "page": "home",
+          "quote": "Avbirth: The only automated wearable birthing simulator"
+        },
+        {
+          "page": "home",
+          "quote": "Each of our wearable simulators is supported with two complimentary simulations."
+        },
+        {
+          "page": "home",
+          "quote": "After purchase, Avkin's customer success team walks alongside you to ensure successful integration."
+        },
+        {
+          "page": "home",
+          "quote": "Avkin has put much thought and energy into diverse skin tones for their wearable simulators."
+        },
+        {
+          "page": "simulation-consulting",
+          "quote": "our experts will start with an in-depth needs assessment to ensure your program meets ASPE standards of best practice"
+        },
+        {
+          "page": "simulation-training-and-certificate",
+          "quote": "Online module training certificate for standardized patients"
+        },
+        {
+          "page": "home",
+          "quote": "Free Simulation Download"
+        }
+      ],
+      "note": "The skin-tone item comes from a customer quote on the homepage."
+    },
+    "target_customer": {
+      "status": "found",
+      "value": "Healthcare simulation programs and simulationists, especially nursing schools; SP consulting serves nursing, medicine, allied health, first responders and other disciplines.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Most simulationists struggle to incorporate communication objectives, non-verbal cues, and authentic diversity simulations."
+        },
+        {
+          "page": "simulation-consulting",
+          "quote": "Nursing | Medicine | Allied Health | Criminal Justice | First Responders"
+        }
+      ],
+      "note": "Customer quotes come from nursing schools and universities."
+    },
+    "value_proposition": {
+      "status": "found",
+      "value": "Adds live people wearing simulators to simulation, for more realistic training of communication and non-verbal cues than manikins, with dependable equipment and support.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Increase student engagement with live people in simulation"
+        },
+        {
+          "page": "home",
+          "quote": "STEP TWO: INTRODUCE WEARABLE SIMULATORS FOR MAXIMUM FIDELITY."
+        }
+      ],
+      "note": ""
+    },
+    "tagline": {
+      "status": "unclear",
+      "value": "Bring Your Simulations To Life",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Bring Your Simulations To Life"
+        }
+      ],
+      "note": "Best guess: the homepage headline, with a close variant on the company page ('Bring Simulation to Life One Sim Experience at a Time'). Not an exact repeat and not marked ™, so unclear. Also on the homepage: 'Make Simulation Fun!'"
+    },
+    "pricing": {
+      "status": "not_found",
+      "value": null,
+      "evidence": [],
+      "note": "No prices or pricing models on the 4 pages read."
+    }
+  }
+}

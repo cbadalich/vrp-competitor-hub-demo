@@ -1,0 +1,15 @@
+{
+  "competitor": "TACMED Australia",
+  "requested_url": "https://tacmed.com.au/",
+  "fetched_at": "2026-09-29T17:38:41-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://tacmedaustralia.com.au/",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "",
+  "meta_description": "Australia's trauma and tactical medical specialist. Tourniquets, IFAKs, trauma kits and chest seals. TGA-compliant. Trusted by first responders and defence.",
+  "html_bytes": 339946,
+  "text_characters": 4163
+}

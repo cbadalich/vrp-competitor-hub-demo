@@ -1,0 +1,15 @@
+{
+  "competitor": "InVeris Training Solutions",
+  "requested_url": "https://inveristraining.com/",
+  "fetched_at": "2026-10-13T18:36:33-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.inveristraining.com/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "Live Fire and VR Weapons Training Systems | InVeris",
+  "meta_description": "InVeris is the leading supplier of integrated live fire and virtual reality weapons training for public safety, military and shooting ranges.",
+  "html_bytes": 229932,
+  "text_characters": 4270
+}

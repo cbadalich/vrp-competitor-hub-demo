@@ -1,0 +1,15 @@
+{
+  "competitor": "Virti",
+  "requested_url": "https://www.virti.com/ai-role-play-platform/create/",
+  "fetched_at": "2026-10-14T09:51:50-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://virti.com/ai-role-play-platform/create",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "Create Immersive Learning and AI Role-Play Scenarios | Virti",
+  "meta_description": "Create AI role-play scenarios and immersive video training with Virti's no-code builder. Generate lifelike Virtual Humans, branching coaching scenarios and interactive 360-degree video in minutes.",
+  "html_bytes": 95675,
+  "text_characters": 6806
+}

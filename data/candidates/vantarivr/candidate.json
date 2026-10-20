@@ -1,0 +1,85 @@
+{
+  "slug": "vantarivr",
+  "name": "Vantari VR",
+  "website": "https://www.vantarivr.com/",
+  "domain": "vantarivr.com",
+  "aliases": [],
+  "status": "approved",
+  "first_seen": "2026-10-13T18:13:39-06:00",
+  "last_seen": "2026-10-13T18:13:39-06:00",
+  "sightings": [
+    {
+      "source": "earlier research list",
+      "query": "",
+      "url": "",
+      "snippet": "",
+      "website_from": "earlier research list",
+      "found_at": "2026-10-13T18:13:39-06:00"
+    }
+  ],
+  "possible_duplicate_of": [],
+  "snapshot": "data/candidates/vantarivr/snapshots/2026-10-13_181554",
+  "extra_pages": [
+    "https://www.vantarivr.com/vantari-platform/",
+    "https://www.vantarivr.com/vantari-vr/",
+    "https://www.vantarivr.com/platform/"
+  ],
+  "signals": {
+    "healthcare_training": [
+      "nurses",
+      "healthcare training"
+    ],
+    "headset": [
+      "virtual reality",
+      "VR",
+      "mixed reality"
+    ],
+    "simulation": [
+      "simulation"
+    ]
+  },
+  "suggested_pages": [
+    "https://www.vantarivr.com/vantari-platform/",
+    "https://www.vantarivr.com/platform/",
+    "https://www.vantarivr.com/vantari-vr/"
+  ],
+  "classification": {
+    "proposed": "1st Degree",
+    "by": "Claude Code session, model claude-opus-5-5",
+    "at": "2026-10-13T18:30:00-06:00",
+    "snapshot": "data/candidates/vantarivr/snapshots/2026-10-13_181554",
+    "reason": "Vantari Simulation is VR procedural training for clinicians, nurses and students where learners perform procedures and interact with the environment, with haptic feedback. The pages say VR and VR hardware without naming a headset model. The home and vantari-vr pages are identical, as are platform and vantari-platform (redirect).",
+    "evidence": [
+      {
+        "page": "home",
+        "quote": "VR procedural training for clinicians, nurses and students"
+      },
+      {
+        "page": "vantari-platform",
+        "quote": "Life like environment to perform procedures"
+      },
+      {
+        "page": "vantari-platform",
+        "quote": "Interact with your surroundings to learn and train"
+      },
+      {
+        "page": "vantari-platform",
+        "quote": "Don’t have VR hardware? This is what you need!"
+      }
+    ]
+  },
+  "review": {
+    "decision": "approved",
+    "type": "1st Degree",
+    "at": "2026-10-13T18:19:26-06:00",
+    "reason": "",
+    "tracked_slug": "vantarivr",
+    "pages": [
+      "https://www.vantarivr.com/",
+      "https://www.vantarivr.com/vantari-platform/",
+      "https://www.vantarivr.com/vantari-vr/",
+      "https://www.vantarivr.com/platform/"
+    ]
+  },
+  "name_on_site": true
+}

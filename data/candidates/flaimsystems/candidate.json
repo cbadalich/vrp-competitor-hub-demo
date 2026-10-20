@@ -1,0 +1,84 @@
+{
+  "slug": "flaimsystems",
+  "name": "FLAIM Systems",
+  "website": "https://www.flaimsystems.com/",
+  "domain": "flaimsystems.com",
+  "aliases": [
+    "FLAIM"
+  ],
+  "status": "approved",
+  "first_seen": "2026-09-29T17:37:04-06:00",
+  "last_seen": "2026-09-29T17:37:04-06:00",
+  "sightings": [
+    {
+      "source": "earlier research list",
+      "query": "\"FLAIM Systems\" official website",
+      "url": "https://builtin.com/company/flaim-systems",
+      "snippet": "FLAIM Systems",
+      "website_from": "search summary",
+      "found_at": "2026-09-29T17:37:04-06:00"
+    }
+  ],
+  "possible_duplicate_of": [],
+  "snapshot": "data/candidates/flaimsystems/snapshots/2026-09-29_173946",
+  "extra_pages": [
+    "https://www.flaimsystems.com/firefighter-training/"
+  ],
+  "signals": {
+    "headset": [
+      "virtual reality",
+      "VR",
+      "mixed reality",
+      "XR"
+    ],
+    "simulation": [
+      "simulation",
+      "simulations",
+      "simulator"
+    ],
+    "public_safety": [
+      "firefighter",
+      "firefighters",
+      "fire service"
+    ]
+  },
+  "suggested_pages": [
+    "https://www.flaimsystems.com/firefighter-training/",
+    "https://www.flaimsystems.com/fire-extinguisher-training/",
+    "https://www.flaimsystems.com/about-us/",
+    "https://flaimsystems.com/eod-training/",
+    "https://www.flaimsystems.com/https://flaimsystems.com/fire-extinguisher-training/"
+  ],
+  "classification": {
+    "proposed": "3rd Degree",
+    "by": "Claude Code session, model claude-opus-5-5",
+    "at": "2026-09-29T17:50:00-06:00",
+    "snapshot": "data/candidates/flaimsystems/snapshots/2026-09-29_173946",
+    "reason": "FLAIM Trainer (FTS) is a VR fire training simulator for firefighters, emergency services and defence; no healthcare training shown. Site uses the short name 'FLAIM', not 'FLAIM Systems'.",
+    "evidence": [
+      {
+        "page": "firefighter-training",
+        "quote": "The FLAIM Trainer is the world's leading VR fire training simulator."
+      },
+      {
+        "page": "home",
+        "quote": "so firefighters, emergency responders, defence personnel, and high-risk industrial workforces are ready when it matters most"
+      }
+    ]
+  },
+  "review": {
+    "decision": "approved",
+    "type": "3rd Degree",
+    "at": "2026-09-29T18:13:08-06:00",
+    "reason": "",
+    "tracked_slug": "flaimsystems",
+    "pages": [
+      "https://www.flaimsystems.com/",
+      "https://www.flaimsystems.com/firefighter-training/",
+      "https://www.flaimsystems.com/fire-extinguisher-training/",
+      "https://www.flaimsystems.com/about-us/",
+      "https://flaimsystems.com/eod-training/"
+    ]
+  },
+  "name_on_site": true
+}

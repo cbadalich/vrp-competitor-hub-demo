@@ -1,0 +1,15 @@
+{
+  "competitor": "Simulaids",
+  "requested_url": "https://www.simulaids.co.uk/",
+  "fetched_at": "2026-09-29T17:21:42-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.simulaids.co.uk/",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "Simulaids: Medical Simulation & Clinical Skills Training",
+  "meta_description": "Simulaids is a trusted provider of medical and emergency training equipment, delivering realistic simulation manikins and tools for lifesaving education.",
+  "html_bytes": 120179,
+  "text_characters": 7422
+}

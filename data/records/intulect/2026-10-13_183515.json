@@ -1,0 +1,189 @@
+{
+  "competitor": "Intulect",
+  "slug": "intulect",
+  "snapshot": "data/snapshots/intulect/2026-10-13_183515",
+  "extracted_at": "2026-10-13T18:25:00-06:00",
+  "extracted_by": "Claude Code session, model claude-opus-5-5",
+  "note": "The About page body is mostly the team list, repeated many times in the saved text (a carousel). Several product lines are saved with no space between items (for example 'AI-Facilitated VR & PC SimulationsNCLEX Prep & Quiz Bank...'); quotes keep that spacing exactly.",
+  "pages_read": [
+    "home",
+    "pages_simulations",
+    "pages_about"
+  ],
+  "pages_failed": [],
+  "fields": {
+    "product_category": {
+      "status": "found",
+      "value": "Nursing education platform with an education-to-employment suite: AI-facilitated VR and PC nursing simulations, NCLEX prep and quiz bank, competency management, EHR training and recruiting",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Intulect - A Nursing Education Platform that delivers an education-to-employment suite to healthcare institutions and professionals"
+        },
+        {
+          "page": "home",
+          "quote": "AI-Facilitated VR & PC SimulationsNCLEX Prep & Quiz BankCompetency Management SystemRecruiting & Applicant ToolEHR Training Platform"
+        },
+        {
+          "page": "pages_simulations",
+          "quote": "Intulect | AI-Facilitated Nursing Simulations"
+        }
+      ],
+      "note": "Nursing-specific. The third quote is the TITLE line of the Simulations page."
+    },
+    "platforms": {
+      "status": "found",
+      "value": [
+        "VR",
+        "Desktop"
+      ],
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Available in both Virtual Reality (VR) & Computer-based (PC)."
+        },
+        {
+          "page": "pages_simulations",
+          "quote": "Intulect can be used in either VR where you do everything hands-on or on PC where there are still no menus so students can truly practice clinical judgment."
+        },
+        {
+          "page": "pages_simulations",
+          "quote": "Whether you are in a VR headset or a computer, you get the same realism"
+        }
+      ],
+      "note": "'PC' and 'Computer-based' are recorded as Desktop: the pages describe computer use and never mention a browser. Whether the PC version is an installed app is not stated. No headset brand or model is named. The EHR Training Platform is described as integrated with simulations; the pages do not say how learners reach it."
+    },
+    "key_capabilities": {
+      "status": "found",
+      "value": [
+        "Facilitator-free simulation: AI facilitation of hundreds of simulations at once",
+        "AI patients with responsive physiology",
+        "150+ pre-built scenario library plus no-code custom scenarios",
+        "Automated performance and competency reports",
+        "Scenarios mapped to competency frameworks (AACN Essentials, QSEN, NCJMM)",
+        "Multi-patient, multi-player and IPE simulations",
+        "Competency-based curriculum: courses, quizzes, exams, checklists, clinical evaluations",
+        "NCLEX prep: 3,000+ question bank, study guides, lectures",
+        "Scenario-based educational EHR with interactive AI standardized patients",
+        "Recruiting and job platform using learner competency analytics"
+      ],
+      "evidence": [
+        {
+          "page": "pages_simulations",
+          "quote": "Intulect allows educators to facilitate, evaluate, and moderate hundreds of simulations simultaneously without being physically present by using our one-of-a-kind AI facilitation tools"
+        },
+        {
+          "page": "home",
+          "quote": "Facilitate & Evaluate Students without being physically present - AI Patients & Responsive Physiology."
+        },
+        {
+          "page": "pages_simulations",
+          "quote": "Utilize Intulect's off-the-shelf 150+ simulation library covering every specialty or create your own to match your curriculum needs. Fast & no coding skills needed."
+        },
+        {
+          "page": "pages_simulations",
+          "quote": "Facilitated hundreds of simulations at once and gather all of your performance and competency reports automatically."
+        },
+        {
+          "page": "pages_simulations",
+          "quote": "Every pre-built scenario is mapped to the competency framework of your choosing such as AACN Essentials, QSEN, & NCJMM or customize your own"
+        },
+        {
+          "page": "pages_simulations",
+          "quote": "Multi-Patient\nScalable IPE\nMulti-Player"
+        },
+        {
+          "page": "pages_simulations",
+          "quote": "Intulect has pre-built courses, quizzes, exams, simulations, competency checklists, and clinical evaluations ready to go with just a click of a button."
+        },
+        {
+          "page": "home",
+          "quote": "Gain access to 3,000+ New-Gen NCLEX Quiz Bank, 1,700+ pages of study guides, & 60+ lectures on-demand for students."
+        },
+        {
+          "page": "home",
+          "quote": "A scenario-based educational Electronic Health Record integrated with virtual or manikin-based simulations. Interactive AI SPs playing any role."
+        },
+        {
+          "page": "home",
+          "quote": "View deep competency analytics before enrolling or hiring into your sites. In-app recruiting, job posting, & applying platform to make the right decision on every hire.."
+        }
+      ],
+      "note": "The multi-patient/IPE/multi-player item comes from a short list of labels under 'Our Simulations', with no further description. Other features stated but not listed: custom competency checklists and clinical pathways, a learner resume and clinical profile built during training, use of the competency system for onboarding, up-training, cross-training and audit surveys, and 'Prioritization & Delegation' as a simulation label. The home page recruiting sentence ends in two periods ('hire..') in the saved text; the Simulations page version has one."
+    },
+    "target_customer": {
+      "status": "found",
+      "value": "Nursing schools (programs covering ADN-BSN courses) and healthcare systems/institutions, for nursing students and healthcare professionals; hospital uses include onboarding, up-training and cross-training.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Intulect helps nursing schools & healthcare systems deliver education & clinical practice at scale."
+        },
+        {
+          "page": "home",
+          "quote": "delivers an education-to-employment suite to healthcare institutions and professionals"
+        },
+        {
+          "page": "pages_simulations",
+          "quote": "Covers every course in a traditional ADN-BSN program."
+        },
+        {
+          "page": "home",
+          "quote": "Use for onboarding, up-training, cross-training, and audit surveys."
+        }
+      ],
+      "note": "The menu has a 'For Institutions' item. Home also states '10,000+' students and '80+' institutions. The About page says Intulect 'was founded by a Nurse in 2021'."
+    },
+    "value_proposition": {
+      "status": "found",
+      "value": "On-demand clinical experience for nurses and healthcare professionals: more clinical practice and scaled clinical hours without more educators, space or expense, with competency tracking done automatically.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Deliver on-demand clinical experience for healthcare professionals to improve patient outcomes."
+        },
+        {
+          "page": "pages_simulations",
+          "quote": "Intulect allows you to give your learners more clinical practice without requiring more educators, physical space, or expenses."
+        },
+        {
+          "page": "pages_simulations",
+          "quote": "Utilize Intulect's high-fidelity simulations to replace needed clinical hours, provide personalized remediation, and reduce costs without sacrificing realism"
+        }
+      ],
+      "note": "The Simulations page also states 'Stop tracking competencies by hand. We do it automatically.' and stresses realism without menus ('we don't believe nurses should be training with menus')."
+    },
+    "tagline": {
+      "status": "found",
+      "value": "Education to Employment for Nurses",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Education to Employment for Nurses"
+        },
+        {
+          "page": "pages_about",
+          "quote": "Education to Employment for Nurses"
+        }
+      ],
+      "note": "No trademarked line. This line is repeated across pages, but only as the META DESCRIPTION of the home and About pages (it may be a site-wide default description). The homepage's first headline after the menu is 'Where training becomes instinct.' Another candidate: Simulations page headline 'Competency-Based Simulations'."
+    },
+    "pricing": {
+      "status": "found",
+      "value": "Not published; quote on request",
+      "evidence": [
+        {
+          "page": "pages_simulations",
+          "quote": "Book a Demo\nGet Pricing\nWhy Intulect"
+        }
+      ],
+      "note": "No prices on any page read. 'Get Pricing' appears as a button on the Simulations page and in the menu of every page; the footer also links to 'Pricing' (not saved). The header shows 'Cart' and the footer links to 'Refunds' and 'Subscriptions', with no prices given."
+    }
+  },
+  "carried_forward": {
+    "from_record": "data/records/intulect/2026-10-13_182012.json",
+    "at": "2026-10-13T18:39:59-06:00",
+    "reason": "identical page text",
+    "pages_changed": []
+  }
+}

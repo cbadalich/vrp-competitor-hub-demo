@@ -1,0 +1,15 @@
+{
+  "competitor": "AvKin",
+  "requested_url": "https://avkin.com/",
+  "fetched_at": "2026-10-15T18:03:19-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://avkin.com/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "Healthcare Simulation Training & Wearable Simulators | AvkinHover Zoom EffectAvkin Testimonials Carousel",
+  "meta_description": "Avkin creates wearable healthcare simulators for realistic clinical training that improves communication, teamwork, and patient safety.",
+  "html_bytes": 214551,
+  "text_characters": 3881
+}

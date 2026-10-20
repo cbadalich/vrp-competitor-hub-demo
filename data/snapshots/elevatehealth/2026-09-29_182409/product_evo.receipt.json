@@ -1,0 +1,15 @@
+{
+  "competitor": "Elevate Healthcare",
+  "requested_url": "https://elevatehealth.net/product/evo/",
+  "fetched_at": "2026-09-29T18:33:42-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://elevatehealth.net/product/evo/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "Modular Patient Simulator for Advanced Clinical Training | Evo - Elevate Healthcare",
+  "meta_description": "Evo is a high-fidelity adult patient simulator designed for healthcare training, featuring realistic physiological responses, modular anatomy, wireless operation, and real equipment integration.",
+  "html_bytes": 205769,
+  "text_characters": 8706
+}

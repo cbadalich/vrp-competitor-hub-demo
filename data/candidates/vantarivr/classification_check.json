@@ -1,0 +1,35 @@
+{
+  "checked_at": "2026-10-14T11:24:43-06:00",
+  "proposed": "1st Degree",
+  "problems": [],
+  "results": [
+    {
+      "page": "home",
+      "quote": "VR procedural training for clinicians, nurses and students",
+      "source_url": "https://www.vantarivr.com/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "vantari-platform",
+      "quote": "Life like environment to perform procedures",
+      "source_url": "https://www.vantarivr.com/vantari-platform/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "vantari-platform",
+      "quote": "Interact with your surroundings to learn and train",
+      "source_url": "https://www.vantarivr.com/vantari-platform/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "vantari-platform",
+      "quote": "Don’t have VR hardware? This is what you need!",
+      "source_url": "https://www.vantarivr.com/vantari-platform/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "competitor": "SimX",
+  "requested_url": "https://www.simxvr.com/platform/scenario-editor/",
+  "fetched_at": "2026-10-13T18:35:47-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.simxvr.com/platform/scenario-editor/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "Scenario Editor: Customize VR Simulations | SimX",
+  "meta_description": "Customize VR medical simulation scenarios in your browser. No code, no development queue. Edit dialogue, EMR data, and critical actions in hours, not weeks.",
+  "html_bytes": 86208,
+  "text_characters": 5261
+}

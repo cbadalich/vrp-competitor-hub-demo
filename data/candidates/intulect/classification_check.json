@@ -1,0 +1,28 @@
+{
+  "checked_at": "2026-10-14T11:24:43-06:00",
+  "proposed": "1st Degree",
+  "problems": [],
+  "results": [
+    {
+      "page": "home",
+      "quote": "Intulect helps nursing schools & healthcare systems deliver education & clinical practice at scale.",
+      "source_url": "https://intulect.com/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "pages_simulations",
+      "quote": "Intulect can be used in either VR where you do everything hands-on",
+      "source_url": "https://intulect.com/pages/simulations/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    },
+    {
+      "page": "pages_simulations",
+      "quote": "Whether you are in a VR headset or a computer, you get the same realism, making real clinical decisions without being directed by a menu.",
+      "source_url": "https://intulect.com/pages/simulations/",
+      "passed": true,
+      "reason": "quote found in the saved page"
+    }
+  ]
+}
