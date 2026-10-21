@@ -1,0 +1,15 @@
+{
+  "competitor": "Virti",
+  "requested_url": "https://www.virti.com/",
+  "fetched_at": "2026-10-20T16:41:54-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://virti.com/",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "Virti: AI Roleplay & Coaching Platform | Real Practice, Instant Feedback",
+  "meta_description": "AI roleplay training and AI coaching for sales enablement, customer service, leadership and medical teams. Practice real conversations with AI Virtual Humans, get instant coaching feedback, and upskill 40% faster. Trusted by Amazon, NHS, Deloitte, Verizon and more.",
+  "html_bytes": 171048,
+  "text_characters": 10208
+}

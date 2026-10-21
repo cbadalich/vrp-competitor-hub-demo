@@ -1,0 +1,15 @@
+{
+  "competitor": "UbiSim",
+  "requested_url": "https://www.ubisimvr.com/about-us/",
+  "fetched_at": "2026-10-20T16:40:12-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.ubisimvr.com/about-us",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "About Us | Why UbiSim is the Most Trusted Solution in VR for Nursing",
+  "meta_description": "Learn how UbiSim became the industry's leader in VR dedicated to nursing excellence.",
+  "html_bytes": 193683,
+  "text_characters": 5173
+}

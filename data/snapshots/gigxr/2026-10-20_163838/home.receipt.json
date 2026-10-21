@@ -1,0 +1,15 @@
+{
+  "competitor": "GigXR",
+  "requested_url": "https://www.gigxr.com/",
+  "fetched_at": "2026-10-20T16:39:51-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.gigxr.com/",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "GigXR \u2014 Immersive medical & clinical training platform",
+  "meta_description": "Mixed-reality training for medical and nursing education: hyperrealistic holographic patients, full-body anatomy, and AI patient conversations \u2014 on the devices your program already uses.",
+  "html_bytes": 50790,
+  "text_characters": 4635
+}

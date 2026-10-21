@@ -1,0 +1,15 @@
+{
+  "competitor": "UbiSim",
+  "requested_url": "https://www.ubisimvr.com/scenarios/",
+  "fetched_at": "2026-10-20T16:38:59-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.ubisimvr.com/scenarios",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "Scenarios | Browse our Catalog",
+  "meta_description": "Browse our catalog! UbiSim's core catalog can be extended either by creating your own scenarios with our intuitive editor, or by using scenarios created in the community.",
+  "html_bytes": 265085,
+  "text_characters": 3668
+}

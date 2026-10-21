@@ -1,0 +1,300 @@
+{
+  "record": "data/records/virti/2026-10-20_163838.json",
+  "checked_at": "2026-10-20T18:14:00-06:00",
+  "results": {
+    "product_category": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://virti.com/",
+          "quote": "AI roleplay training and AI coaching for sales enablement, customer service, leadership and medical teams.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "ai-role-play-platform",
+          "source_url": "https://virti.com/ai-role-play-platform",
+          "quote": "One no-code platform to build AI role-play scenarios, immerse learners, measure performance and roll out to every corner of your organisation.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "ai-role-play-platform_create",
+          "source_url": "https://virti.com/ai-role-play-platform/create",
+          "quote": "Create AI role-play scenarios and immersive video training with Virti's no-code builder.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "platforms": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "ai-role-play-platform_scale",
+          "source_url": "https://virti.com/ai-role-play-platform/scale",
+          "quote": "Virti runs right in the browser on desktop or mobile - no app to install, no headset required.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "ai-role-play-platform",
+          "source_url": "https://virti.com/ai-role-play-platform",
+          "quote": "Mobile, desktop or VR headset. Learners train whenever it fits their schedule",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://virti.com/",
+          "quote": "Deliver on mobile, desktop and VR, and plug straight into your existing LMS.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "key_capabilities": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "ai-role-play-platform",
+          "source_url": "https://virti.com/ai-role-play-platform",
+          "quote": "Design branching scenarios and full conversation trees without writing a single line of code.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "ai-role-play-platform",
+          "source_url": "https://virti.com/ai-role-play-platform",
+          "quote": "Generate Virtual Humans from a simple text prompt",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "ai-role-play-platform",
+          "source_url": "https://virti.com/ai-role-play-platform",
+          "quote": "Choose between lifelike 3D Virtual Humans and stylised 2D CGI",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "ai-role-play-platform",
+          "source_url": "https://virti.com/ai-role-play-platform",
+          "quote": "Paste a text prompt or upload your existing training materials - Virti's AI builds a complete, customised scenario in seconds.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "ai-role-play-platform",
+          "source_url": "https://virti.com/ai-role-play-platform",
+          "quote": "Learners have real-time spoken conversations with Virtual Humans.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "ai-role-play-platform_learn",
+          "source_url": "https://virti.com/ai-role-play-platform/learn",
+          "quote": "Natural speech-to-speech practice with no avatars or distractions",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "ai-role-play-platform",
+          "source_url": "https://virti.com/ai-role-play-platform",
+          "quote": "Practice real conversations without avatars - ideal for roles where messaging is the primary channel, like customer support teams.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "ai-role-play-platform",
+          "source_url": "https://virti.com/ai-role-play-platform",
+          "quote": "Every session is scored automatically \u2014 empathy, clarity, confidence, pacing.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://virti.com/",
+          "quote": "Virti's AI Coach is a learning companion that learners can talk to about what they're learning, where they're struggling and what to try next.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "ai-role-play-platform",
+          "source_url": "https://virti.com/ai-role-play-platform",
+          "quote": "Track learner progress across your entire team in real time",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "ai-role-play-platform",
+          "source_url": "https://virti.com/ai-role-play-platform",
+          "quote": "Identify skill gaps before they become performance problems",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "ai-role-play-platform_create",
+          "source_url": "https://virti.com/ai-role-play-platform/create",
+          "quote": "Exportable reports to share with stakeholders and leadership",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "ai-role-play-platform_create",
+          "source_url": "https://virti.com/ai-role-play-platform/create",
+          "quote": "Immersive environments with interactive hotspots and branching paths",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "ai-role-play-platform_learn",
+          "source_url": "https://virti.com/ai-role-play-platform/learn",
+          "quote": "Train global teams in their native language with 35+ supported languages.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "ai-role-play-platform",
+          "source_url": "https://virti.com/ai-role-play-platform",
+          "quote": "Works with any LMS out of the box \u2014 SCORM 1.2, SCORM 2004, xAPI (Tin Can) and native connectors for major platforms.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "ai-role-play-platform",
+          "source_url": "https://virti.com/ai-role-play-platform",
+          "quote": "Connect Virti to your identity provider via SAML 2.0",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "target_customer": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://virti.com/",
+          "quote": "Virti is trusted by enterprise teams in healthcare, financial services and global retail.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "ai-role-play-platform",
+          "source_url": "https://virti.com/ai-role-play-platform",
+          "quote": "Our no-code platform is designed for training designers, L&D managers and subject matter experts - not engineers.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "ai-role-play-platform_learn",
+          "source_url": "https://virti.com/ai-role-play-platform/learn",
+          "quote": "Bridge theory and practice with Virtual Human patient consultations and immersive medical simulations.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "ai-role-play-platform",
+          "source_url": "https://virti.com/ai-role-play-platform",
+          "quote": "Whether you're training 10 people or 10,000, Virti plugs straight into your existing learning infrastructure.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "value_proposition": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://virti.com/",
+          "quote": "Give every person a safe place to practise the conversations that matter, with the data to prove they're ready.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://virti.com/",
+          "quote": "Upskill your people 40% faster",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "tagline": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://virti.com/",
+          "quote": "AI Roleplay, Coaching & Sales Enablement",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "ai-role-play-platform_scale",
+          "source_url": "https://virti.com/ai-role-play-platform/scale",
+          "quote": "AI Roleplay, Coaching & Sales Enablement",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "pricing": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "pricing",
+          "source_url": "https://virti.com/pricing",
+          "quote": "$359per month\nBilled annually at $4,308",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pricing",
+          "source_url": "https://virti.com/pricing",
+          "quote": "$1,079per month\nBilled annually at $12,948",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pricing",
+          "source_url": "https://virti.com/pricing",
+          "quote": "Annual commitment from:\n$25,000per year\nCustom pricing & multi-year discounts",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pricing",
+          "source_url": "https://virti.com/pricing",
+          "quote": "14-day free trial \u00b7 No credit card required \u00b7 Cancel any time",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pricing",
+          "source_url": "https://virti.com/pricing",
+          "quote": "we offer discounted pricing for verified non-profit organisations, universities, and NHS-affiliated institutions",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    }
+  }
+}

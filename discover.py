@@ -17,6 +17,12 @@ discover.py: commands for finding possible new competitors.
         --found-in URL: where the name was seen first. Every result is logged in
         data/discovery_runs/RUN.json, whether it turns out new, known or ignored.
 
+    python3 discover.py tip "Company Name" --website https://company.com --note "where I heard of it"
+    python3 discover.py tips
+        Adds an owner's lead to the tip inbox (data/tip_inbox.json), after an instant
+        check against everything already known; lists the tips waiting. Tips are
+        processed in the next discovery run (DISCOVERY.md, step 0).
+
     python3 discover.py add-batch RESULTS.json --run RUN
         The same for a list of results (see DISCOVERY.md for the file format).
 
@@ -138,15 +144,20 @@ def record_result(item, run):
                                     "found_in": item.get("found_in", ""), "outcome": "no-website",
                                     "detail": "own website not found", "slug": None})
         print(f"{'NO WEBSITE':<11} {item['name']}: new to us, but its own website was not found; logged only")
+        if item.get("tip_id"):
+            candidates.close_tip(item["tip_id"], run, "no-website", "own website not found")
         return "no-website"
     sighting = {"source": item.get("source", ""), "query": item.get("query", ""), "url": item.get("url", ""),
                 "snippet": item.get("snippet", ""), "website_from": item.get("website_from", "result link"),
-                "origin": origin, "found_in": item.get("found_in", ""), "run": run}
+                "origin": origin, "found_in": item.get("found_in", ""), "run": run,
+                **({"tip_id": item["tip_id"], "tip_note": item.get("tip_note", "")} if item.get("tip_id") else {})}
     outcome, detail, hit = candidates.add_sighting(item["name"], item.get("website", ""), sighting)
     slug = detail if outcome in ("new", "known-new") else (hit or {}).get("slug")
     candidates.log_result(run, {"name": item["name"], "website": item.get("website", ""), "origin": origin,
                                 "source": sighting["source"], "query": sighting["query"], "url": sighting["url"],
                                 "found_in": sighting["found_in"], "outcome": outcome, "detail": detail, "slug": slug})
+    if item.get("tip_id"):
+        candidates.close_tip(item["tip_id"], run, outcome, detail, slug)
     label = {"known-new": "NEW (KNOWN)"}.get(outcome, outcome.upper())
     print(f"{label:<11} {item['name']} ({item.get('website', '')}) -> {detail}")
     if outcome in ("new", "known-new"):
@@ -158,6 +169,28 @@ def record_result(item, run):
         if c["possible_duplicate_of"]:
             print(f"  WARNING: name looks like {', '.join(c['possible_duplicate_of'])}; check for a duplicate.")
     return outcome
+
+
+def cmd_tip(args):
+    """Adds a lead to the tip inbox from Terminal (the Discovery page does the same)."""
+    check = candidates.tip_check(args.name, args.website)
+    if check["outcome"] != "new" and not args.anyway:
+        print(f"ALREADY KNOWN  {args.name or args.website}: {check['outcome']} ({check['match'] or check['how']}). "
+              "Not added; use --anyway to add it regardless.")
+        return 1
+    tip = candidates.add_tip(args.name, args.website, args.note)
+    print(f"ADDED  {tip['id']}: {tip['name'] or tip['website']} ({check['outcome']}). It will be processed in the next discovery run.")
+    return 0
+
+
+def cmd_tips(args):
+    """Lists the tips waiting for the next discovery run."""
+    waiting = candidates.waiting_tips()
+    for tip in waiting:
+        print(f"{tip['id']}  {tip['name'] or '(no name)'}  {tip['website'] or '(no website)'}  "
+              f"[{tip['check']['outcome']}]  {tip['note']}")
+    print(f"{len(waiting)} tip(s) waiting.")
+    return 0
 
 
 def cmd_add(args):
@@ -388,6 +421,13 @@ def main():
                    help="how the website was found: 'result link' or 'search summary'")
     p.add_argument("--snippet", default="", help="the text shown there, copied as written")
     p.set_defaults(run_cmd=cmd_add)
+    p = sub.add_parser("tip")
+    p.add_argument("name", nargs="?", default="")
+    p.add_argument("--website", default="")
+    p.add_argument("--note", default="")
+    p.add_argument("--anyway", action="store_true", help="add even if it matches a known company")
+    p.set_defaults(run_cmd=cmd_tip)
+    sub.add_parser("tips").set_defaults(run_cmd=cmd_tips)
     p = sub.add_parser("add-batch")
     p.add_argument("file")
     p.add_argument("--run", required=True)

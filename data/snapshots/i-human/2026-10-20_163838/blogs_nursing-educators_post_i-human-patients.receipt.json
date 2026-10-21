@@ -1,0 +1,15 @@
+{
+  "competitor": "i-Human Patients",
+  "requested_url": "https://www.kaptest.com/blogs/nursing-educators/post/i-human-patients",
+  "fetched_at": "2026-10-20T16:40:08-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.kaptest.com/blogs/nursing-educators/post/i-human-patients",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "Virtual Simulation for Undergraduate Nursing with i-Human Patients by Kaplan | Kaplan Test Prep",
+  "meta_description": "i-Human Patients by Kaplan is a cloud-based program that simulates a complete client encounter\u2014 from taking a history and performing a physical exam, to documenting findings and prioritizing actions.",
+  "html_bytes": 160767,
+  "text_characters": 3338
+}

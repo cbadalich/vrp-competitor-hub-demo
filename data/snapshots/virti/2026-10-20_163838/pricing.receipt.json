@@ -1,0 +1,15 @@
+{
+  "competitor": "Virti",
+  "requested_url": "https://www.virti.com/pricing",
+  "fetched_at": "2026-10-20T16:42:49-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://virti.com/pricing",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "Pricing - AI Roleplay & Coaching Plans | Virti",
+  "meta_description": "Choose the right Virti AI roleplay and coaching plan for your team. Annual billing saves 10% on Teams and Business plans; Enterprise pricing is tailored to your organisation. Start your 14-day free trial - no credit card required.",
+  "html_bytes": 152812,
+  "text_characters": 6711
+}

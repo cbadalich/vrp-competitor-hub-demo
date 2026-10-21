@@ -1,0 +1,243 @@
+{
+  "record": "data/records/upskillai/2026-10-20_163838.json",
+  "checked_at": "2026-10-20T18:14:00-06:00",
+  "results": {
+    "product_category": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "what-is-ai-powered-xr-training",
+          "source_url": "https://upskillai.com/what-is-ai-powered-xr-training/",
+          "quote": "UpSkillAI combines Extended Reality (XR)\u2014including Virtual, Augmented, and Mixed Reality\u2014with the precision of Artificial Intelligence to create deeply immersive, adaptive training environments.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "about",
+          "source_url": "https://upskillai.com/about/",
+          "quote": "That\u2019s why we build AI-powered XR experiences that help people learn faster, retain more, and perform under pressure.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "what-is-ai-powered-xr-training",
+          "source_url": "https://upskillai.com/what-is-ai-powered-xr-training/",
+          "quote": "Whether you\u2019re training a medic in triage protocol or onboarding a technician to complex equipment",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "platforms": {
+      "status": "unclear",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "what-is-ai-powered-xr-training",
+          "source_url": "https://upskillai.com/what-is-ai-powered-xr-training/",
+          "quote": "UpSkillAI combines Extended Reality (XR)\u2014including Virtual, Augmented, and Mixed Reality\u2014with the precision of Artificial Intelligence",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "ems",
+          "source_url": "https://upskillai.com/ems/",
+          "quote": "Practice high-stress scenarios, team leadership, pediatric emergencies, overdoses - all in one headset.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://upskillai.com/",
+          "quote": "Want to run a quick test with VR headsets?",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "key_capabilities": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://upskillai.com/",
+          "quote": "Hands-on, voice powered training. No keyboards. No drop-downs.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "what-is-ai-powered-xr-training",
+          "source_url": "https://upskillai.com/what-is-ai-powered-xr-training/",
+          "quote": "our AI-powered XR training responds to each learner in real-time\u2014adapting content, pace, and feedback based on performance, behavior, and decision-making patterns.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://upskillai.com/",
+          "quote": "Rapid customized and co-developed content options.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "healthcare",
+          "source_url": "https://upskillai.com/healthcare/",
+          "quote": "Rapidly customized VR simulation for OB Hemorrhage response, matching exact system protocols",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://upskillai.com/",
+          "quote": "No instructor, no extra equipment, no limits.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "ems",
+          "source_url": "https://upskillai.com/ems/",
+          "quote": "Go from compliance to true competency with in-headset debriefs, learning insights, and cohort analysis that turn practice into measurable skills.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "healthcare",
+          "source_url": "https://upskillai.com/healthcare/",
+          "quote": "VR simulation providing learners hands-on practice evaluating and talking to multiple virtual patients with guided coaching, feedback, and assessments",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "healthcare",
+          "source_url": "https://upskillai.com/healthcare/",
+          "quote": "with voice technology calibrated in real time to accommodate varying accents",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "ems",
+          "source_url": "https://upskillai.com/ems/",
+          "quote": "Practice high-stress scenarios, team leadership, pediatric emergencies, overdoses - all in one headset.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://upskillai.com/",
+          "quote": "Discovery & Planning\nHardware & IT Integration\nDeployment & Onboarding\nCustomization & Co-development\nReporting & Optimization\nOngoing Support",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "target_customer": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "about",
+          "source_url": "https://upskillai.com/about/",
+          "quote": "We serve clients across sectors, from hospitals and first responders to tech companies and government agencies.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "healthcare",
+          "source_url": "https://upskillai.com/healthcare/",
+          "quote": "Major U.S. Hospital System",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "ems",
+          "source_url": "https://upskillai.com/ems/",
+          "quote": "IMR & Ukraine\u2019s Largest Medical School",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "ems",
+          "source_url": "https://upskillai.com/ems/",
+          "quote": "UC San Diego Medical Students",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "value_proposition": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "what-is-ai-powered-xr-training",
+          "source_url": "https://upskillai.com/what-is-ai-powered-xr-training/",
+          "quote": "UpSkillAI helps people learn faster, retain more, and perform better, when it matters most.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://upskillai.com/",
+          "quote": "AI and XR to supercharge learning, retention, and results.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://upskillai.com/",
+          "quote": "50%\nFaster Learning Times",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://upskillai.com/",
+          "quote": "83%\nLower Training Costs",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://upskillai.com/",
+          "quote": "17X\nHigher Knowledge Retention",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "tagline": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://upskillai.com/",
+          "quote": "Ai-powered Immersive Training Done Right",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "about",
+          "source_url": "https://upskillai.com/about/",
+          "quote": "Ai-powered Immersive Training Done Right",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "pricing": {
+      "status": "not_found",
+      "result": "not_found",
+      "problems": [],
+      "evidence": []
+    }
+  }
+}

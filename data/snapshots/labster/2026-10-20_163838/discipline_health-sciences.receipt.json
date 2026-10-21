@@ -1,0 +1,15 @@
+{
+  "competitor": "Labster",
+  "requested_url": "https://www.labster.com/discipline/health-sciences",
+  "fetched_at": "2026-10-20T16:42:48-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.labster.com/discipline/health-sciences",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "Health Sciences",
+  "meta_description": "Virtual science labs engage students and improve outcomes in gateway courses.",
+  "html_bytes": 253773,
+  "text_characters": 11016
+}

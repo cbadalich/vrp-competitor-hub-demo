@@ -1,0 +1,15 @@
+{
+  "competitor": "Virti",
+  "requested_url": "https://www.virti.com/ai-role-play-platform/scale/",
+  "fetched_at": "2026-10-20T16:42:27-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://virti.com/ai-role-play-platform/scale",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "Scale Employee Learning Globally | Virti",
+  "meta_description": "Scale training globally with Virti. Deliver high-quality, multilingual immersive video learning across your entire organisation - 35+ languages, seamless LMS integration, and enterprise-grade security for fast, frictionless rollout.",
+  "html_bytes": 86705,
+  "text_characters": 5433
+}

@@ -1,0 +1,15 @@
+{
+  "competitor": "GigXR",
+  "requested_url": "https://www.gigxr.com/products/holopatient/",
+  "fetched_at": "2026-10-20T16:40:02-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.gigxr.com/products/holopatient",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "HoloPatient \u2014 Holographic standardized patients | GigXR",
+  "meta_description": "Volumetric-captured standardized patients that deteriorate and improve in real time, now with real-time AI patient conversations. 17+ clinical presentations, editable vitals, and evidence-based facilitator guides \u2014 no manikins required.",
+  "html_bytes": 48740,
+  "text_characters": 6104
+}

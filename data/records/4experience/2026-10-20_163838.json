@@ -1,0 +1,215 @@
+{
+  "competitor": "4Experience",
+  "slug": "4experience",
+  "snapshot": "data/snapshots/4experience/2026-10-20_163838",
+  "extracted_at": "2026-09-29T19:24:00-06:00",
+  "extracted_by": "Claude Code session, model claude-opus-5-5",
+  "note": "4Experience presents itself mainly as a custom VR/AR/3D/AI software developer for many sectors, plus two licensed products (Firefighting VR Simulator, VR Soft Skills Training). Healthcare is one sector among several; the one nursing item is a client project ('VR Nursing Training'), not a 4Experience product. The homepage contains one paragraph in Polish about a state-cofunded defense research project (PERUN); it is not quoted. The menu also links a Polish-language firefighting page ('[PL] Symulator VR dla Straży Pożarnej') that was not saved.",
+  "pages_read": [
+    "home",
+    "vr-solutions",
+    "vr-technology-in-medicine",
+    "vr-projects_inspiring-ar-vr-projects",
+    "firefighting-vr-simulator"
+  ],
+  "pages_failed": [],
+  "fields": {
+    "product_category": {
+      "status": "found",
+      "value": "Custom VR, AR, 3D and AI software development for businesses and institutions across sectors (military, emergency services, healthcare, education, engineering, construction), plus licensed VR training products such as a firefighting simulator",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "We deliver extraordinary VR, AR, 3D and AI apps for businesses & institutions."
+        },
+        {
+          "page": "vr-solutions",
+          "quote": "We create custom, fully tailored to your goals, AR and VR solutions for various sectors to help businesses & institutions grow."
+        },
+        {
+          "page": "vr-technology-in-medicine",
+          "quote": "Custom-made XR innovative healthcare solutions for researchers and the medical industry."
+        },
+        {
+          "page": "firefighting-vr-simulator",
+          "quote": "VR Simulator for Firefighters"
+        }
+      ],
+      "note": "The first and third quotes are META DESCRIPTION lines. The portfolio page says 'We have developed over 200 projects so far.'"
+    },
+    "platforms": {
+      "status": "found",
+      "value": [
+        "VR",
+        "AR",
+        "MR",
+        "Web",
+        "Desktop"
+      ],
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Virtual Reality Augmented Reality Web & Desktop 3D Artificial Intelligence"
+        },
+        {
+          "page": "vr-projects_inspiring-ar-vr-projects",
+          "quote": "Technical Support – Mixed Reality\nMixed Reality, AR, Training, Industrial"
+        },
+        {
+          "page": "vr-projects_inspiring-ar-vr-projects",
+          "quote": "CruiserMaxx – AR Web App\nAR, Marketing, Web"
+        },
+        {
+          "page": "firefighting-vr-simulator",
+          "quote": "Hardware\n(VR headset + desktop)"
+        }
+      ],
+      "note": "Platforms vary by custom project; these are the platforms the company says it builds for. The only healthcare items (VR Nursing Training, VR Stroke Rehabilitation, VR Bike Ride, driving simulator) are all VR. Mobile is not listed: it appears only as the menu label 'Mobile Development'. 'WebXR / WebAR' also appears as a menu label. The firefighting simulator ships with a VR headset and a desktop computer, and the Extended Version adds an 'Omni treadmill Cyberith Virtualizer Elite 2'."
+    },
+    "key_capabilities": {
+      "status": "found",
+      "value": [
+        "Custom VR, AR, MR, 3D and AI application development",
+        "In-house R&D team",
+        "Integration of medical and peripheral hardware (pulse oximeters, blood pressure monitors, glucometers, bikes, treadmills, motion sensors)",
+        "3D product configurators and web 3D solutions",
+        "3D AI chatbots and avatars",
+        "Multiplayer VR with full-body tracking and haptics",
+        "Firefighting VR Simulator: 3 scenarios, training and exam mode, adjustable time of day and weather, team cooperation",
+        "VR soft skills training (teamwork, communication, decision-making)",
+        "Free 60-minute consultation"
+      ],
+      "evidence": [
+        {
+          "page": "vr-technology-in-medicine",
+          "quote": "With XR & 3D technologies and our amazing Research&Development team in-house, we can provide you with custom-made software for treating patients, rehabilitating them, and providing them with a better experience during the healing process."
+        },
+        {
+          "page": "vr-technology-in-medicine",
+          "quote": "Despite traditional medical devices like pulse oximeters, blood pressure monitors, scales or glucometers, we can also integrate other hardware like stationary bikes or treadmills"
+        },
+        {
+          "page": "vr-projects_inspiring-ar-vr-projects",
+          "quote": "From augmented and virtual reality through 3D web solutions and product configurators to 3D AI chatbots."
+        },
+        {
+          "page": "home",
+          "quote": "A shooting multiplayer game including full-body tracking and haptic equipment."
+        },
+        {
+          "page": "firefighting-vr-simulator",
+          "quote": "3 scenarios for varied training."
+        },
+        {
+          "page": "firefighting-vr-simulator",
+          "quote": "Training and exam mode."
+        },
+        {
+          "page": "firefighting-vr-simulator",
+          "quote": "Possibility to adjust the time of day, weather conditions and duration of the scenario."
+        },
+        {
+          "page": "firefighting-vr-simulator",
+          "quote": "Possibility of cooperation within the fire brigade."
+        },
+        {
+          "page": "home",
+          "quote": "Teamwork, communication and decision-making training."
+        },
+        {
+          "page": "home",
+          "quote": "That’s why we offer a free 60-minutes consultation."
+        }
+      ],
+      "note": "Healthcare portfolio items: 'VR Nursing Training' (built for a client), 'VR Stroke Rehabilitation' (for AppAttic), 'VR Bike Ride' research app for Wayne State University, and a driving simulator that 'assesses if patients with reduced cognitive functions can drive a vehicle.' The firefighting simulator was built 'in close cooperation with firefighters from one of the units of the State Fire Service.'"
+    },
+    "target_customer": {
+      "status": "found",
+      "value": "Businesses and institutions in military, emergency services (firefighters, law enforcement, medical first responders), healthcare and medical research, education, engineering (oil and gas, manufacturing), and construction and real estate. The firefighting simulator is aimed at fire departments, schools and municipalities.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "What We Have to Offer For Your Sector"
+        },
+        {
+          "page": "vr-solutions",
+          "quote": "Everyone can join the change, from firefighters and law enforcement to medical first responders."
+        },
+        {
+          "page": "vr-solutions",
+          "quote": "VR simulations & training help improve doctors’ and nurses’ medical skills."
+        },
+        {
+          "page": "vr-technology-in-medicine",
+          "quote": "Custom-made XR innovative healthcare solutions for researchers and the medical industry."
+        },
+        {
+          "page": "firefighting-vr-simulator",
+          "quote": "We recommend the VR simulator to single institutions, Fire Departments units and schools to conduct internal training and to municipalities and units that want to train other entities as part of commercial training."
+        }
+      ],
+      "note": "The sector list comes from the homepage section after 'What We Have to Offer For Your Sector' (Military, Emergency Services, Healthcare, Education, Engineering, Construction & Real Estate), which also appears in the menu."
+    },
+    "value_proposition": {
+      "status": "found",
+      "value": "Custom XR and 3D solutions that bring measurable value to businesses and institutions, including safe, realistic training where people can practice critical skills and make mistakes without real-world risk.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Powering your success with solutions that bring measurable value."
+        },
+        {
+          "page": "home",
+          "quote": "allowing emergency personnel\nto practice critical skills in a safe and controlled environment."
+        },
+        {
+          "page": "vr-technology-in-medicine",
+          "quote": "The VR applications are designed precisely to let trainees make mistakes while training."
+        }
+      ],
+      "note": "The first quote is from the homepage META DESCRIPTION. The medicine page also cites third-party statistics (Cedars-Sinai, St George's Hospital, ScienceSoft, Accenture) about VR in patient care."
+    },
+    "tagline": {
+      "status": "found",
+      "value": "Power your success with solutions that bring measurable value.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Power your success with solutions\nthat bring measurable value."
+        }
+      ],
+      "note": "No trademarked or footer slogan. This is the homepage's first headline after the menu and a rotating word list ('Virtual Reality Augmented Reality Web & Desktop 3D Artificial Intelligence'); the META DESCRIPTION repeats it as 'Powering your success with solutions that bring measurable value.' Other candidates: 'We’ve got you covered.' (home); firefighting page 'Fire&Flames'; medicine page 'Innovative Healthcare Solutions For the Better Future'."
+    },
+    "pricing": {
+      "status": "found",
+      "value": "No prices published. Firefighting VR Simulator is sold as a 1-year license bundled with hardware, in a Standard Version (VR headset + desktop) and an Extended Version (adds an omnidirectional treadmill); purchase through contact. Custom projects: free 60-minute consultation and project estimates on request.",
+      "evidence": [
+        {
+          "page": "firefighting-vr-simulator",
+          "quote": "Standard Version\nIncludes:\nHardware\n(VR headset + desktop)\n1-year license"
+        },
+        {
+          "page": "firefighting-vr-simulator",
+          "quote": "Extended Version\nIncludes\nOmni treadmill Cyberith Virtualizer Elite 2"
+        },
+        {
+          "page": "firefighting-vr-simulator",
+          "quote": "Explore the possiblities of our firefighting VR simulator. Buy your license today."
+        },
+        {
+          "page": "vr-solutions",
+          "quote": "estimate a project"
+        }
+      ],
+      "note": "'estimate a project' is an option in the contact form's 'I'm contacting regarding:' dropdown. The 'Buy your license today.' quote is from the firefighting page's META DESCRIPTION (with the page's spelling 'possiblities'). The page's buy button reads 'I want to buy it!'."
+    }
+  },
+  "carried_forward": {
+    "from_record": "data/records/4experience/2026-10-14_094745.json",
+    "at": "2026-10-20T18:12:06-06:00",
+    "reason": "identical page text",
+    "pages_changed": [],
+    "pages_dropped": [],
+    "pages_not_yet_read": []
+  }
+}

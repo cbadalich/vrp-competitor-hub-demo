@@ -1,0 +1,194 @@
+{
+  "record": "data/records/pcs/2026-10-20_163838.json",
+  "checked_at": "2026-10-20T18:14:00-06:00",
+  "results": {
+    "product_category": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "spark",
+          "source_url": "https://www.pcs.ai/spark",
+          "quote": "PCS Spark is an AI-driven virtual healthcare simulation platform designed to enhance the clinical skills training experience for medical and nursing schools.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.pcs.ai/",
+          "quote": "SimVox is an AI-driven smart speaker designed to enhance your existing simulation manikins, bringing them to life with interactive, voice-enabled capabilities.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "platforms": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "spark",
+          "source_url": "https://www.pcs.ai/spark",
+          "quote": "PCS Spark is available in both a cloud screen-based experience, and virtual reality headset formats.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.pcs.ai/",
+          "quote": "ALEX is a high-fidelity simulator with seamlessly integrated AI to enable realistic, interactive patient communication.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "key_capabilities": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "spark",
+          "source_url": "https://www.pcs.ai/spark",
+          "quote": "Spark leverages a bespoke AI and speech technology to deliver a higher level of conversational fluency during patient health interviews",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "spark",
+          "source_url": "https://www.pcs.ai/spark",
+          "quote": "Learners can perform head-to-toe assessments on virtual patients, conduct vital signs assessments, use various diagnostic instruments",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "spark",
+          "source_url": "https://www.pcs.ai/spark",
+          "quote": "AI/Assessment provides AI-based automated evaluation of learner performance on both specific actions and generic communication frameworks.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "spark",
+          "source_url": "https://www.pcs.ai/spark",
+          "quote": "TeamSpace enables learners from different locations to collaborate seamlessly on a single patient encounter.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "spark",
+          "source_url": "https://www.pcs.ai/spark",
+          "quote": "Experience life-like responses to drug treatments, enhancing the realism of training.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "spark",
+          "source_url": "https://www.pcs.ai/spark",
+          "quote": "Scenarios AI-generated from brief textual descriptions of the patient, making patient authoring streamlined, effortless, and efficient.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "spark",
+          "source_url": "https://www.pcs.ai/spark",
+          "quote": "Over 50 PCS Authored Scenarios (including future releases)",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "spark",
+          "source_url": "https://www.pcs.ai/spark",
+          "quote": "Spark is available in English, Arabic, German, Spanish, French, Hebrew, Hindi, Indonesian, Italian, Japanese, Portuguese, Russian, Tagalog, Turkish, Vietnamese",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "spark",
+          "source_url": "https://www.pcs.ai/spark",
+          "quote": "Two-way Integration with Canvas, Moodle, Blackboard and other LTI 1.3 compliant LMS platforms",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.pcs.ai/",
+          "quote": "SimVox is an AI-driven smart speaker designed to enhance your existing simulation manikins",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "target_customer": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.pcs.ai/",
+          "quote": "Solutions for Medical Education\nSolutions for Nursing Education\nSolutions for Simulation Centers\nSolutions for Standardized Patient Programs\nSolutions for Emergency Medical Services\nSolutions for Allied Health",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "spark_for-nursing",
+          "source_url": "https://www.pcs.ai/spark/for-nursing",
+          "quote": "Used in both Fundamentals of Nursing and Clinical Nursing courses",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "value_proposition": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.pcs.ai/",
+          "quote": "Powers virtual patients with lifelike, responsive behavior, enabling realistic practice in diagnosing, treating, and communicating with simulated patients.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "spark",
+          "source_url": "https://www.pcs.ai/spark",
+          "quote": "Integrating Spark into healthcare education and clinical skills courses help learners build confidence, enhance competence, and strengthen critical thinking skills during simulated patient assessments.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "tagline": {
+      "status": "not_found",
+      "result": "not_found",
+      "problems": [],
+      "evidence": []
+    },
+    "pricing": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "spark",
+          "source_url": "https://www.pcs.ai/spark",
+          "quote": "Spark pricing is based on a per-student, per-year model, with minimums in place. Contact our knowledgeable and collaborative sales team for a personalized quote.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "spark",
+          "source_url": "https://www.pcs.ai/spark",
+          "quote": "PCS Spark service levels",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    }
+  }
+}

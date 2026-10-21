@@ -1,0 +1,209 @@
+{
+  "record": "data/records/archvirtual/2026-10-20_163838.json",
+  "checked_at": "2026-10-20T18:14:00-06:00",
+  "results": {
+    "product_category": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://archvirtual.com/",
+          "quote": "Arch Virtual\u2019s experienced team of developers create AR and VR training and simulation for enterprise and education using our Acadicus platform.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "virtual-reality-medical",
+          "source_url": "https://archvirtual.com/virtual-reality-medical/",
+          "quote": "Arch Virtual creates quality VR training applications for medical education.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "about",
+          "source_url": "https://archvirtual.com/about/",
+          "quote": "started Arch Virtual as a development agency specifically geared toward creating high quality VR applications for business.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "platforms": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://archvirtual.com/",
+          "quote": "Arch Virtual\u2019s experienced team of developers create AR and VR training and simulation for enterprise and education using our Acadicus platform.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://archvirtual.com/",
+          "quote": "It can be downloaded free, and is compatible with Oculus Rift.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "key_capabilities": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://archvirtual.com/",
+          "quote": "Acadicus provides an expansive library of simulation content.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://archvirtual.com/",
+          "quote": "It provides multi-user access, 3D spatial recordings, live patient interaction, scene editing and more.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "project_airway-lab-medical-training-adtalem-global-education",
+          "source_url": "https://archvirtual.com/project/airway-lab-medical-training-adtalem-global-education/",
+          "quote": "The VR Airway Lab, developed for Adtalem Global Education, is an immersive 3D virtual reality experience that creates an engaging and effective means of prepare learners for sim lab or mannequin-based training.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "project_assp-fall-protection-vr-experience",
+          "source_url": "https://archvirtual.com/project/assp-fall-protection-vr-experience/",
+          "quote": "Upon completion, each learner\u2019s performance is assessed.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "virtual-reality-medical",
+          "source_url": "https://archvirtual.com/virtual-reality-medical/",
+          "quote": "We guide you through the steps of deploying this training in your lab, assist with technical setup and help troubleshoot any issues that arise.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "virtual-reality-medical",
+          "source_url": "https://archvirtual.com/virtual-reality-medical/",
+          "quote": "We gather feedback throughout deployment to gain a better understanding of how the application can be refined and improved with user feedback, exit polls and analytics.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "target_customer": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "virtual-reality-medical",
+          "source_url": "https://archvirtual.com/virtual-reality-medical/",
+          "quote": "Deploy virtual reality training in sim labs, nursing schools, paramedic programs and more.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://archvirtual.com/",
+          "quote": "VR training and simulation for enterprise and education",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "about",
+          "source_url": "https://archvirtual.com/about/",
+          "quote": "Arch Virtual develops virtual reality applications and tools for business and education.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "value_proposition": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://archvirtual.com/",
+          "quote": "Acadicus provides a foundation for fast, efficient development and implementation of measurably effective VR training.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "virtual-reality-medical",
+          "source_url": "https://archvirtual.com/virtual-reality-medical/",
+          "quote": "VR allows students to rehearse medical simulations as many times as needed in order to make the most efficient use of their time in the sim lab.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "virtual-reality-medical",
+          "source_url": "https://archvirtual.com/virtual-reality-medical/",
+          "quote": "Research indicates greater learning retention from VR-based training over traditional methods [link].",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "tagline": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://archvirtual.com/",
+          "quote": "Home - Arch Virtual VR Training and Simulation for Education and Enterprise",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "about",
+          "source_url": "https://archvirtual.com/about/",
+          "quote": "About - Arch Virtual VR Training and Simulation for Education and Enterprise",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "pricing": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://archvirtual.com/",
+          "quote": "It can be downloaded free, and is compatible with Oculus Rift.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "virtual-reality-medical",
+          "source_url": "https://archvirtual.com/virtual-reality-medical/",
+          "quote": "We Prepare a Cost Estimate for You",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "virtual-reality-medical",
+          "source_url": "https://archvirtual.com/virtual-reality-medical/",
+          "quote": "Send us a note to learn more or for a free estimate to create your VR training application.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    }
+  }
+}

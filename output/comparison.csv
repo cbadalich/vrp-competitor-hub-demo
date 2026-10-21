@@ -1,5 +1,5 @@
 ﻿name,website,type,type_note,checked_at,record,product_category,product_category_status,product_category_sources,platforms,platforms_status,platforms_sources,key_capabilities,key_capabilities_status,key_capabilities_sources,target_customer,target_customer_status,target_customer_sources,value_proposition,value_proposition_status,value_proposition_sources,tagline,tagline_status,tagline_sources,pricing,pricing_status,pricing_sources
-VRpatients,https://vrpatients.com/,Self,Our company; tracked as the baseline for comparison,2026-10-14T09:47:45-06:00,data/records/vrpatients/2026-10-14_094745.json,"No-code platform for creating immersive, AI-driven VR, MR and web-based patient simulations, for EMS and nursing education (plus military medical training)",found,"https://vrpatients.com/
+VRpatients,https://vrpatients.com/,Self,Our company; tracked as the baseline for comparison,2026-10-20T16:38:38-06:00,data/records/vrpatients/2026-10-20_163838.json,"No-code platform for creating immersive, AI-driven VR, MR and web-based patient simulations, for EMS and nursing education (plus military medical training)",found,"https://vrpatients.com/
 https://vrpatients.com/military/","- Web
 - VR
 - MR",found,"https://vrpatients.com/
@@ -28,7 +28,7 @@ https://vrpatients.com/about-us/","- Not published
 - Described as a known yearly cost, sized to the organization, with subscription seats
 - SAVVIK members can buy at pre-negotiated pricing",found,"https://vrpatients.com/emergency-responders/
 https://vrpatients.com/faqs/"
-SimX,https://www.simxvr.com/,1st Degree,,2026-10-14T09:47:45-06:00,data/records/simx/2026-10-14_094745.json,"VR medical simulation training platform for multiple healthcare disciplines (nurses, physicians, first responders and others), positioned as built for teams",found,"https://www.simxvr.com/
+SimX,https://www.simxvr.com/,1st Degree,,2026-10-20T16:38:38-06:00,data/records/simx/2026-10-20_163838.json,"VR medical simulation training platform for multiple healthcare disciplines (nurses, physicians, first responders and others), positioned as built for teams",found,"https://www.simxvr.com/
 https://www.simxvr.com/platform/",- VR,found,"https://www.simxvr.com/platform/
 https://www.simxvr.com/platform/scenario-editor/","- Patented multiplayer, co-located and remote (4+ learners per patient)
 - SimX Marketplace library of pre-built patient encounters
@@ -53,7 +53,7 @@ https://www.simxvr.com/platform/offline-mode/","Immersive, multiplayer VR simula
 https://www.simxvr.com/platform/","LOAD, LEARN, REPEAT TM",found,"https://www.simxvr.com/
 https://www.simxvr.com/platform/","- Not published
 - Quote on request",found,https://www.simxvr.com/platform/virtual-manikin/
-UbiSim,https://www.ubisimvr.com/,1st Degree,,2026-10-14T09:47:45-06:00,data/records/ubisim/2026-10-14_094745.json,"Immersive VR simulation platform dedicated to nursing education and nurse training, built by nurses for nurses",found,"https://www.ubisimvr.com/
+UbiSim,https://www.ubisimvr.com/,1st Degree,,2026-10-20T16:38:38-06:00,data/records/ubisim/2026-10-20_163838.json,"Immersive VR simulation platform dedicated to nursing education and nurse training, built by nurses for nurses",found,"https://www.ubisimvr.com/
 https://www.ubisimvr.com/about-us",- VR,found,"https://www.ubisimvr.com/onboarding-setup
 https://www.ubisimvr.com/pricing
 https://www.ubisimvr.com/solutions/academic-institutions","- Catalog of peer-reviewed, standards-aligned scenarios included with every subscription
@@ -81,7 +81,7 @@ https://www.ubisimvr.com/pricing","- Custom pricing by quote, based on learner v
 - Licensed at institution or program level
 - Free trials for qualified buyers
 - Headsets procured separately",found,https://www.ubisimvr.com/pricing
-Oxford Medical Simulation,https://oxfordmedicalsimulation.com/,1st Degree,,2026-10-14T09:47:45-06:00,data/records/oms/2026-10-14_094745.json,"Immersive, AI-driven VR (and screen-based) clinical simulation training for healthcare education, covering nursing, medicine and allied health",found,https://oxfordmedicalsimulation.com/,"- VR
+Oxford Medical Simulation,https://oxfordmedicalsimulation.com/,1st Degree,,2026-10-20T16:38:38-06:00,data/records/oms/2026-10-20_163838.json,"Immersive, AI-driven VR (and screen-based) clinical simulation training for healthcare education, covering nursing, medicine and allied health",found,https://oxfordmedicalsimulation.com/,"- VR
 - Desktop",found,"https://oxfordmedicalsimulation.com/medical-schools/
 https://oxfordmedicalsimulation.com/platform/","- AI-powered patient and team conversations
 - Scenario library across nursing, medicine and allied health
@@ -98,7 +98,7 @@ https://oxfordmedicalsimulation.com/medical-schools/
 https://oxfordmedicalsimulation.com/nursing-programs/
 https://oxfordmedicalsimulation.com/onboarding-practice-transition-support/","VR simulation combined with AI, analytics and hands-on partnership that builds learners' clinical readiness, confidence and competence, while giving programs a scalable way to deliver repeatable, consistent training without adding faculty workload.",found,"https://oxfordmedicalsimulation.com/
 https://oxfordmedicalsimulation.com/platform/",,not_found,,,not_found,
-360 Immersive,https://360immersive.com/,3rd Degree,Added from discovery 2026-09-29; evidence in data/candidates/360immersive/,2026-10-14T09:47:45-06:00,data/records/360immersive/2026-10-14_094745.json,"Immersive safety training (interactive eLearning, VR simulations and gamified content) for construction and general industry, including OSHA-aligned compliance courses",found,https://www.360immersive.com/,"- Desktop
+360 Immersive,https://360immersive.com/,3rd Degree,Added from discovery 2026-09-29; evidence in data/candidates/360immersive/,2026-10-20T16:38:38-06:00,data/records/360immersive/2026-10-20_163838.json,"Immersive safety training (interactive eLearning, VR simulations and gamified content) for construction and general industry, including OSHA-aligned compliance courses",found,https://www.360immersive.com/,"- Desktop
 - Mobile
 - VR",found,https://www.360immersive.com/,"- My Virtual Safety Trainer (MVST) off-the-shelf microlearning course library
 - Interactive simulations, gamification and VR in each course
@@ -113,7 +113,7 @@ https://oxfordmedicalsimulation.com/platform/",,not_found,,,not_found,
 https://www.360immersive.com/about-us/","Affordable, engaging immersive safety training that improves engagement and retention over traditional methods (PowerPoint, VHS, DVDs, click-through eLearning), with custom content at a fraction of the usual cost.",found,"https://www.360immersive.com/
 https://www.360immersive.com/about-us/",Total Worker Safety™,found,https://www.360immersive.com/about-us/,"- Not published
 - Quote on request",found,https://www.360immersive.com/
-3B Scientific,https://www.3bscientific.com/,2nd Degree,Added from discovery 2026-09-29; evidence in data/candidates/3bscientific/,2026-10-14T09:47:45-06:00,data/records/3bscientific/2026-10-14_094745.json,"Medical simulators and task trainers for clinical education (manikins, skills trainers, simulated medications, ultrasound and patient-monitor simulation, immersive interactive rooms), alongside anatomy models, science education, therapy and veterinary simulation products",found,"https://www.3bscientific.com/
+3B Scientific,https://www.3bscientific.com/,2nd Degree,Added from discovery 2026-09-29; evidence in data/candidates/3bscientific/,2026-10-20T16:38:38-06:00,data/records/3bscientific/2026-10-20_163838.json,"Medical simulators and task trainers for clinical education (manikins, skills trainers, simulated medications, ultrasound and patient-monitor simulation, immersive interactive rooms), alongside anatomy models, science education, therapy and veterinary simulation products",found,"https://www.3bscientific.com/
 https://www.3bscientific.com/us/medical-simulation,pg_1181.html","- VR
 - MR
 - Web
@@ -137,7 +137,7 @@ https://www.3bscientific.com/us/immersive-interactive,imm.html
 https://www.3bscientific.com/us/medical-simulation,pg_1181.html","Realistic, anatomically precise simulators that close the gap between theory and patient care, now combined with immersive learning environments so educators can build more engaging, hands-on and experiential training.",found,"https://www.3bscientific.com/us/immersive-interactive,imm.html
 https://www.3bscientific.com/us/medical-simulation,pg_1181.html",,not_found,,"- Per-product list prices published in the online shop (for example ultrasound models at $762.00 and $863.00, simulated medications from $2.95)
 - Some items, such as Lifecast manikins and Immersive Interactive Rooms, are listed without a price",found,"https://www.3bscientific.com/us/medical-simulation,pg_1181.html"
-4Experience,https://4experience.co/,3rd Degree,Added from discovery 2026-09-29; evidence in data/candidates/4experience/,2026-10-14T09:47:45-06:00,data/records/4experience/2026-10-14_094745.json,"Custom VR, AR, 3D and AI software development for businesses and institutions across sectors (military, emergency services, healthcare, education, engineering, construction), plus licensed VR training products such as a firefighting simulator",found,"https://4experience.co/
+4Experience,https://4experience.co/,3rd Degree,Added from discovery 2026-09-29; evidence in data/candidates/4experience/,2026-10-20T16:38:38-06:00,data/records/4experience/2026-10-20_163838.json,"Custom VR, AR, 3D and AI software development for businesses and institutions across sectors (military, emergency services, healthcare, education, engineering, construction), plus licensed VR training products such as a firefighting simulator",found,"https://4experience.co/
 https://4experience.co/firefighting-vr-simulator/
 https://4experience.co/vr-solutions/
 https://4experience.co/vr-technology-in-medicine/","- VR
@@ -167,7 +167,7 @@ https://4experience.co/vr-technology-in-medicine/",Power your success with solut
 - Purchase through contact
 - Custom projects: free 60-minute consultation and project estimates on request",found,"https://4experience.co/firefighting-vr-simulator/
 https://4experience.co/vr-solutions/"
-Aquifer,https://aquifer.org/,2nd Degree,Added from discovery 2026-09-29; evidence in data/candidates/aquifer/,2026-10-14T09:47:45-06:00,data/records/aquifer/2026-10-14_094745.json,"AI-enhanced online virtual patient case platform and clinical curriculum for health professions education (clinical reasoning), from a non-profit organization",found,"https://aquifer.org/about-aquifer
+Aquifer,https://aquifer.org/,2nd Degree,Added from discovery 2026-09-29; evidence in data/candidates/aquifer/,2026-10-20T16:38:38-06:00,data/records/aquifer/2026-10-20_163838.json,"AI-enhanced online virtual patient case platform and clinical curriculum for health professions education (clinical reasoning), from a non-profit organization",found,"https://aquifer.org/about-aquifer
 https://aquifer.org/how-it-works","- Web
 - Mobile",found,"https://aquifer.org/
 https://aquifer.org/institutional-pricing","- Virtual patient encounters (250+ cases across core disciplines)
@@ -188,7 +188,7 @@ https://aquifer.org/student-pricing","Helps health professions students master f
 https://aquifer.org/how-it-works","- Individual student plan: Yearly Access $125
 - Institutional subscriptions (Curricular Partner, Limited Subscription with per-course pricing, separate subscriptions for some case sets): prices not published, quote on request",found,"https://aquifer.org/institutional-pricing
 https://aquifer.org/student-pricing"
-Arch Virtual,https://archvirtual.com/,1st Degree,Added from discovery 2026-09-29; evidence in data/candidates/archvirtual/,2026-10-14T09:47:58-06:00,data/records/archvirtual/2026-10-14_094745.json,"Custom VR (and AR) training and simulation development agency for enterprise and education, including medical and healthcare education, built on its Acadicus VR training platform; also safety training and architectural visualization",found,"https://archvirtual.com/
+Arch Virtual,https://archvirtual.com/,1st Degree,Added from discovery 2026-09-29; evidence in data/candidates/archvirtual/,2026-10-20T16:38:51-06:00,data/records/archvirtual/2026-10-20_163838.json,"Custom VR (and AR) training and simulation development agency for enterprise and education, including medical and healthcare education, built on its Acadicus VR training platform; also safety training and architectural visualization",found,"https://archvirtual.com/
 https://archvirtual.com/about/
 https://archvirtual.com/virtual-reality-medical/","- VR
 - AR",found,https://archvirtual.com/,"- Acadicus VR training platform with a library of simulation content
@@ -220,7 +220,7 @@ Body Interact,https://bodyinteract.com/,2nd Degree,"Added from discovery 2026-09
 - Educator tools to measure competence and debrief
 - Curriculum-aligned scenarios for medicine, nursing, high school and CTE, and EMS",found,https://bodyinteract.com/,"- Current and future healthcare professionals in education: medicine (MD, DO), physician assistants, nursing (LPN, LVN, RN, NP), high school health science and CTE programs, and EMS (EMT, paramedics)
 - Universities and schools",found,https://bodyinteract.com/,"Help current and future healthcare professionals improve critical thinking, clinical reasoning and decision-making with virtual patients that respond like real ones.",found,https://bodyinteract.com/,,not_found,,,not_found,
-Elevate Healthcare,https://elevatehealth.net/,2nd Degree,Added from discovery 2026-09-29; evidence in data/candidates/elevatehealth/,2026-10-14T09:48:28-06:00,data/records/elevatehealth/2026-10-14_094745.json,"Healthcare simulation ecosystem: high-fidelity patient simulators (manikins), task trainers, ultrasound simulators and simulation-center management software (LearningSpace) for nursing programs, hospitals and emergency services",found,"https://elevatehealth.net/
+Elevate Healthcare,https://elevatehealth.net/,2nd Degree,Added from discovery 2026-09-29; evidence in data/candidates/elevatehealth/,2026-10-20T16:39:21-06:00,data/records/elevatehealth/2026-10-20_163838.json,"Healthcare simulation ecosystem: high-fidelity patient simulators (manikins), task trainers, ultrasound simulators and simulation-center management software (LearningSpace) for nursing programs, hospitals and emergency services",found,"https://elevatehealth.net/
 https://elevatehealth.net/about-us/","- AR
 - Physical hardware",unclear,"https://elevatehealth.net/
 https://elevatehealth.net/product/evo-aura-auscultation-training/","- Modular high-fidelity adult patient simulator (Evo) with replaceable head, arms, torso and legs
@@ -244,11 +244,11 @@ https://elevatehealth.net/product/evo-aura-auscultation-training/","Realistic si
 - A Financing link is offered",found,"https://elevatehealth.net/
 https://elevatehealth.net/product/evo-aura-auscultation-training/
 https://elevatehealth.net/product/evo/"
-Elsevier,https://evolve.elsevier.com/,1st Degree,Added from discovery 2026-09-29; evidence in data/candidates/evolve-elsevier/,2026-10-14T09:48:32-06:00,data/records/evolve-elsevier/2026-10-14_094745.json,"Nursing virtual reality simulation (Simulation Learning System with Virtual Reality, SLS with VR), built in partnership with SimX and paired with the SimChart for Nursing electronic health record",found,https://elsevierresources.com/nhe-faculty-training/simulation-learning-system-with-virtual-reality/,- VR,found,https://elsevierresources.com/nhe-faculty-training/simulation-learning-system-with-virtual-reality/,"- VR nursing simulations run through the SimX VR app on Meta Quest
+Elsevier,https://evolve.elsevier.com/,1st Degree,Added from discovery 2026-09-29; evidence in data/candidates/evolve-elsevier/,2026-10-20T16:39:25-06:00,data/records/evolve-elsevier/2026-10-20_163838.json,"Nursing virtual reality simulation (Simulation Learning System with Virtual Reality, SLS with VR), built in partnership with SimX and paired with the SimChart for Nursing electronic health record",found,https://elsevierresources.com/nhe-faculty-training/simulation-learning-system-with-virtual-reality/,- VR,found,https://elsevierresources.com/nhe-faculty-training/simulation-learning-system-with-virtual-reality/,"- VR nursing simulations run through the SimX VR app on Meta Quest
 - SimX Moderator program for running and moderating simulations
 - Group sessions: start or join a SimX Sim Group
 - SimChart for Nursing EHR holding patient records for scenarios and skills drills",found,https://elsevierresources.com/nhe-faculty-training/simulation-learning-system-with-virtual-reality/,"- Nursing students, through nursing programs and their faculty (the page is a faculty training resource)",found,https://elsevierresources.com/nhe-faculty-training/simulation-learning-system-with-virtual-reality/,"Builds student clinical judgment through immersive, hands-on nursing VR simulation so students are ready for practice.",found,https://elsevierresources.com/nhe-faculty-training/simulation-learning-system-with-virtual-reality/,,not_found,,,not_found,
-FLAIM Systems,https://www.flaimsystems.com/,3rd Degree,Added from discovery 2026-09-29; evidence in data/candidates/flaimsystems/,2026-10-13T18:36:04-06:00,data/records/flaimsystems/2026-10-13_183515.json,"Immersive extended-reality (XR) training systems for firefighters, emergency responders, defense personnel and high-risk industry workers: firefighter training (FTS), fire extinguisher training (FEX) and explosive ordnance disposal training (EOD), plus a learning analytics platform (Capture)",found,"https://www.flaimsystems.com/
+FLAIM Systems,https://www.flaimsystems.com/,3rd Degree,Added from discovery 2026-09-29; evidence in data/candidates/flaimsystems/,2026-10-20T16:39:35-06:00,data/records/flaimsystems/2026-10-20_163838.json,"Immersive extended-reality (XR) training systems for firefighters, emergency responders, defense personnel and high-risk industry workers: firefighter training (FTS), fire extinguisher training (FEX) and explosive ordnance disposal training (EOD), plus a learning analytics platform (Capture)",found,"https://www.flaimsystems.com/
 https://www.flaimsystems.com/about-us",- VR,found,"https://flaimsystems.com/eod-training
 https://www.flaimsystems.com/
 https://www.flaimsystems.com/fire-extinguisher-training","- Multisensory immersion: heat, hose drag, smoke and haptics
@@ -272,7 +272,7 @@ https://www.flaimsystems.com/firefighter-training","- Fire, rescue and emergency
 https://www.flaimsystems.com/about-us
 https://www.flaimsystems.com/firefighter-training","Simulation that replicates the conditions, pressure and unpredictability of real incidents so responders are ready when it matters, delivered safely, repeatably and on demand without the cost, logistics and hazards of live fire or live ordnance training.",found,https://www.flaimsystems.com/,Training for a better tomorrow,found,"https://www.flaimsystems.com/
 https://www.flaimsystems.com/about-us",,not_found,
-FundamentalVR,https://www.fundamentalvr.com/,1st Degree,Added from discovery 2026-09-29; evidence in data/candidates/fundamentalvr/,2026-10-14T09:48:44-06:00,data/records/fundamentalvr/2026-10-14_094745.json,"Immersive (XR) training solutions for knowledge acquisition and skills development in the medical sector, aimed at MedTech clinical, manufacturing and growth teams, with a learning platform; clinical areas include ophthalmology and robotics",found,"https://www.fundamentalxr.com/
+FundamentalVR,https://www.fundamentalvr.com/,1st Degree,Added from discovery 2026-09-29; evidence in data/candidates/fundamentalvr/,2026-10-20T16:39:39-06:00,data/records/fundamentalvr/2026-10-20_163838.json,"Immersive (XR) training solutions for knowledge acquisition and skills development in the medical sector, aimed at MedTech clinical, manufacturing and growth teams, with a learning platform; clinical areas include ophthalmology and robotics",found,"https://www.fundamentalxr.com/
 https://www.fundamentalxr.com/clinical-areas","- VR
 - MR
 - AR
@@ -300,7 +300,7 @@ Gaumard,https://www.gaumard.com/,2nd Degree,"Added from discovery 2026-09-29; ev
 - Scenarios and learning modules
 - Moulage wound kits",found,https://www.gaumard.com/,"- Healthcare students and professionals across nearly all clinical specialties, including pre-hospital care, trauma, nursing, obstetrics and gynecology, pediatrics and surgery",found,https://www.gaumard.com/,"Innovative training solutions that accelerate progress toward safer patient care and improved outcomes, backed by over 75 years of simulation experience.",found,https://www.gaumard.com/,,not_found,,"- Not published
 - Quote on request",found,https://www.gaumard.com/
-GigXR,https://www.gigxr.com/,1st Degree,Added from discovery 2026-09-29; evidence in data/candidates/gigxr/,2026-10-14T09:48:57-06:00,data/records/gigxr/2026-10-14_094745.json,"Mixed-reality immersive medical and clinical training platform for nursing, health professions, and military medicine education: holographic standardized patients (HoloPatient), holographic anatomy (HoloHuman+), and browser-based AI patient conversations (AI Conversations)",found,https://www.gigxr.com/,"- MR
+GigXR,https://www.gigxr.com/,1st Degree,Added from discovery 2026-09-29; evidence in data/candidates/gigxr/,2026-10-20T16:39:51-06:00,data/records/gigxr/2026-10-20_163838.json,"Mixed-reality immersive medical and clinical training platform for nursing, health professions, and military medicine education: holographic standardized patients (HoloPatient), holographic anatomy (HoloHuman+), and browser-based AI patient conversations (AI Conversations)",found,https://www.gigxr.com/,"- MR
 - Mobile
 - Web",found,"https://www.gigxr.com/
 https://www.gigxr.com/products/ai-conversations
@@ -322,7 +322,7 @@ https://www.gigxr.com/products/holopatient","- Nursing programs, health professi
 https://www.gigxr.com/solutions/nursing","Evidence-based, curriculum-driven mixed-reality practice that builds clinical skills (assessment, clinical reasoning, communication, anatomy) through safe, repeatable practice, and lets educators standardize, cut prep time, and scale across large cohorts at a fraction of the cost of manikins and skills trainers.",found,"https://www.gigxr.com/
 https://www.gigxr.com/solutions/nursing","Redefining education, medicine, and training through seamless mixed reality.",found,"https://www.gigxr.com/
 https://www.gigxr.com/products/holopatient",,not_found,
-i-Human Patients,https://i-human.com/,2nd Degree,"Added from discovery 2026-09-29; evidence in data/candidates/i-human/; pages changed 2026-10-15: every i-human.com address now redirects to one Kaplan page, so the tracked pages are that Kaplan page and two i-Human posts on Kaplan's kaptest.com",2026-10-15T18:14:24-06:00,data/records/i-human/2026-10-15_181424_r2.json,"Virtual patient simulation for nursing and medical education, offered by Kaplan",found,https://kaplan.com/institutions-educators/higher-education/nursing-schools/i-human,- Web,found,https://www.kaptest.com/blogs/nursing-educators/post/i-human-patients,"- Virtual patient cases with a variety of avatars and realistic scenarios
+i-Human Patients,https://i-human.com/,2nd Degree,"Added from discovery 2026-09-29; evidence in data/candidates/i-human/; pages changed 2026-10-15: every i-human.com address now redirects to one Kaplan page, so the tracked pages are that Kaplan page and two i-Human posts on Kaplan's kaptest.com",2026-10-20T16:39:56-06:00,data/records/i-human/2026-10-20_163838.json,"Virtual patient simulation for nursing and medical education, offered by Kaplan",found,https://kaplan.com/institutions-educators/higher-education/nursing-schools/i-human,- Web,found,https://www.kaptest.com/blogs/nursing-educators/post/i-human-patients,"- Virtual patient cases with a variety of avatars and realistic scenarios
 - Tailored feedback with rationales
 - Analytics and reporting on student performance
 - Group or individual learning use
@@ -333,7 +333,7 @@ i-Human Patients,https://i-human.com/,2nd Degree,"Added from discovery 2026-09-2
 https://www.kaptest.com/blogs/nursing-educators/post/virtual-simulation-nursing-education","- Undergraduate and graduate nursing programs, allopathic and osteopathic medical schools, international medical schools, and physician associate, athletic therapy and hospital system programs",found,"https://kaplan.com/institutions-educators/higher-education/nursing-schools/i-human
 https://www.kaptest.com/blogs/nursing-educators/post/i-human-patients",Bridges the gap between theory and practice: virtual simulation that helps students develop clinical judgment and critical thinking for licensure exams (such as NCLEX) and clinical practice.,found,"https://kaplan.com/institutions-educators/higher-education/nursing-schools/i-human
 https://www.kaptest.com/blogs/nursing-educators/post/i-human-patients",,not_found,,,not_found,
-Immertec,https://www.immertec.com/,2nd Degree,Added from discovery 2026-09-29; evidence in data/candidates/immertec/,2026-10-14T09:49:08-06:00,data/records/immertec/2026-10-14_094745.json,"Immersive training and awareness platform that gives virtual access to the operating room (live broadcasts, recordings, presenter mode) for healthcare professionals and medical device companies",found,"https://www.immertec.com/
+Immertec,https://www.immertec.com/,2nd Degree,Added from discovery 2026-09-29; evidence in data/candidates/immertec/,2026-10-20T16:40:00-06:00,data/records/immertec/2026-10-20_163838.json,"Immersive training and awareness platform that gives virtual access to the operating room (live broadcasts, recordings, presenter mode) for healthcare professionals and medical device companies",found,"https://www.immertec.com/
 https://www.immertec.com/solutions","- VR
 - Web",found,"https://www.immertec.com/products/vr-viewer
 https://www.immertec.com/solutions/live-broadcast","- Live broadcasting of surgical procedures from the OR
@@ -352,7 +352,7 @@ https://www.immertec.com/solutions/live-broadcast","- Medical device companies (
 https://www.immertec.com/industries/physicians","Virtual, real-time access to the operating room so medical device companies can train physicians and sales reps, drive sales and R&D, and reach global audiences without travel.",found,"https://www.immertec.com/
 https://www.immertec.com/solutions/live-broadcast",Immersive Training & Awareness Platform,found,"https://www.immertec.com/
 https://www.immertec.com/solutions",,not_found,
-InVeris Training Solutions,https://inveristraining.com/,3rd Degree,Added from discovery 2026-09-29; evidence in data/candidates/inveristraining/,2026-10-14T09:49:08-06:00,data/records/inveristraining/2026-10-14_094745.json,"Integrated live-fire and virtual (VR, AR, projection) weapons and scenario training systems for public safety and defense",found,"https://www.inveristraining.com/
+InVeris Training Solutions,https://inveristraining.com/,3rd Degree,Added from discovery 2026-09-29; evidence in data/candidates/inveristraining/,2026-10-20T16:40:03-06:00,data/records/inveristraining/2026-10-20_163838.json,"Integrated live-fire and virtual (VR, AR, projection) weapons and scenario training systems for public safety and defense",found,"https://www.inveristraining.com/
 https://www.inveristraining.com/virtual-training/","- VR
 - AR
 - Projection or immersive room",found,https://www.inveristraining.com/virtual-training/military-virtual-tactical-small-arms-training-marksmanship/,"- Real-time feedback and After-Action Review with multi-angle replay
@@ -370,7 +370,7 @@ https://www.inveristraining.com/virtual-training/military-virtual-tactical-small
 - Also paramilitary and security agencies), federal, state, local and international public safety and law enforcement agencies, and shooting ranges / commercial customers",found,"https://www.inveristraining.com/
 https://www.inveristraining.com/virtual-training/","Realistic, immersive weapons and scenario simulation, combined with live fire, that advances human performance, improves combat readiness and safety, and lowers the cost and logistics of training compared with live exercises.",found,"https://www.inveristraining.com/virtual-training/military-virtual-tactical-small-arms-training-marksmanship/
 https://www.inveristraining.com/virtual-training/military-virtual-tactical-small-arms-training-marksmanship/fats-vr-2/",,not_found,,,not_found,
-Laerdal Medical,https://laerdal.com/,2nd Degree,"Added from discovery 2026-09-29; evidence in data/candidates/laerdal/; tracked pages point at the US site (/us/) since 2026-10-14, after laerdal.com stopped redirecting there; removed the Canadian virtual-simulation page 2026-10-14 (404, not used in the profile)",2026-10-14T11:04:10-06:00,data/records/laerdal/2026-10-14_110410.json,"Training, educational and therapy products for lifesaving and emergency medical care: medical simulators and manikins, simulation software, resuscitation/CPR training, virtual simulation (including vSim for Nursing), medical devices and services",found,"https://www.laerdal.com/us/
+Laerdal Medical,https://laerdal.com/,2nd Degree,"Added from discovery 2026-09-29; evidence in data/candidates/laerdal/; tracked pages point at the US site (/us/) since 2026-10-14, after laerdal.com stopped redirecting there; removed the Canadian virtual-simulation page 2026-10-14 (404, not used in the profile)",2026-10-20T16:40:03-06:00,data/records/laerdal/2026-10-20_163838.json,"Training, educational and therapy products for lifesaving and emergency medical care: medical simulators and manikins, simulation software, resuscitation/CPR training, virtual simulation (including vSim for Nursing), medical devices and services",found,"https://www.laerdal.com/us/
 https://www.laerdal.com/us/products/courses-learning/virtual-simulation/","- Web
 - Physical hardware",found,"https://www.laerdal.com/us/
 https://www.laerdal.com/us/information/help-nursing-students-develop-clinical-reasoning-skills-competence-and-confidence-with-vsim-for-nursing/
@@ -406,7 +406,7 @@ https://medcognition.com/about-us/","- Holographic patients projected into the r
 https://medcognition.com/about-us/","Affordable, portable and realistic patient simulation for frontline healthcare providers, showing signs such as facial expression and skin color that mechanical manikins cannot, in the place where teams work.",found,"https://medcognition.com/
 https://medcognition.com/about-us/",Discover the Augmented Future of Medical Simulation.,found,https://medcognition.com/,"- Not published
 - Quote on request",found,https://medcognition.com/
-MedVision,https://www.medvisionsim.com/,2nd Degree,Added from discovery 2026-09-29; evidence in data/candidates/medvisionsim/,2026-10-14T09:49:31-06:00,data/records/medvisionsim/2026-10-14_094745.json,"Physical medical simulators: patient simulators (manikins), task trainers and anatomy tables, plus ultrasound and surgical simulators, for healthcare and nursing education",found,https://medvisionsim.com/,"- VR
+MedVision,https://www.medvisionsim.com/,2nd Degree,Added from discovery 2026-09-29; evidence in data/candidates/medvisionsim/,2026-10-20T16:40:20-06:00,data/records/medvisionsim/2026-10-20_163838.json,"Physical medical simulators: patient simulators (manikins), task trainers and anatomy tables, plus ultrasound and surgical simulators, for healthcare and nursing education",found,https://medvisionsim.com/,"- VR
 - AR
 - Physical hardware",unclear,"https://medvisionsim.com/
 https://medvisionsim.com/medical-simulation-technologies","- High-fidelity adult, pediatric and neonatal patient simulators
@@ -426,7 +426,7 @@ https://medvisionsim.com/simulators/female-medical-manikin-lisa","- Not publishe
 - Quote on request
 - One quote lists hardware, software, remote setup, online training and 1-year warranty
 - No annual subscription",found,https://medvisionsim.com/
-MedVR Education,https://medvr.education/,1st Degree,Added from discovery 2026-09-29; evidence in data/candidates/medvr/,2026-10-14T09:49:34-06:00,data/records/medvr/2026-10-14_094745.json,"Off-the-shelf and customized XR (VR) healthcare simulation training, focused on nursing, with a clinical skills library and AI-driven virtual humans",found,https://medvr.education/,"- VR
+MedVR Education,https://medvr.education/,1st Degree,Added from discovery 2026-09-29; evidence in data/candidates/medvr/,2026-10-20T16:40:23-06:00,data/records/medvr/2026-10-20_163838.json,"Off-the-shelf and customized XR (VR) healthcare simulation training, focused on nursing, with a clinical skills library and AI-driven virtual humans",found,https://medvr.education/,"- VR
 - MR
 - Desktop",found,https://medvr.education/,"- AI-driven virtual patients/humans for conversation (LLM, ML)
 - Independent simulations without a moderator or instructor
@@ -439,7 +439,7 @@ MedVR Education,https://medvr.education/,1st Degree,Added from discovery 2026-09
 - LMS integration, white labeling and customization
 - Remote headset app management with web-based dashboard",found,https://medvr.education/,"- Nursing learners and programs (universities and training institutes), healthcare professionals, and enterprises / B2B clients deploying healthcare training",found,https://medvr.education/,"Independent, immersive XR simulations let learners train anytime and anywhere without an instructor, building critical thinking, teamwork and decision-making, delivered as a scalable subscription.",found,https://medvr.education/,,not_found,,"- Pricing model: annual subscription with unlimited sessions
 - No prices published",found,https://medvr.education/
-Nasco Healthcare,https://nascohealthcare.com/,1st Degree,Added from discovery 2026-09-29; evidence in data/candidates/nascohealthcare/,2026-10-14T09:49:35-06:00,data/records/nascohealthcare/2026-10-14_094745.json,"Healthcare simulation and training products (over 4000): manikins, patient simulators, task trainers, moulage and VR medical simulation, from in-hospital care to casualty and rescue/extrication",found,"https://nascohealthcare.com/
+Nasco Healthcare,https://nascohealthcare.com/,1st Degree,Added from discovery 2026-09-29; evidence in data/candidates/nascohealthcare/,2026-10-20T16:40:24-06:00,data/records/nascohealthcare/2026-10-20_163838.json,"Healthcare simulation and training products (over 4000): manikins, patient simulators, task trainers, moulage and VR medical simulation, from in-hospital care to casualty and rescue/extrication",found,"https://nascohealthcare.com/
 https://shop.nascohealthcare.com/#section-template--15234389901367__collection_list_TMafzB","- VR
 - Physical hardware",found,"https://nascohealthcare.com/
 https://shop.nascohealthcare.com/products/149-6075","- XR Clinic VR medical simulation
@@ -462,13 +462,13 @@ https://nascohealthcare.com/products/casualty-care-rescue-randy/casualty-care-re
 - Purchase orders accepted
 - Promotional discounts (60% off moulage)",found,"https://shop.nascohealthcare.com/#section-template--15234389901367__collection_list_TMafzB
 https://shop.nascohealthcare.com/products/149-6075"
-Osso VR,https://www.ossovr.com/,1st Degree,Added from discovery 2026-09-29; evidence in data/candidates/ossovr/,2026-10-14T09:49:37-06:00,data/records/ossovr/2026-10-14_094745.json,"Immersive VR procedural-skills training and assessment platform for healthcare; current lead product is Osso Nurse Training for health systems, alongside Osso Enterprise (custom VR modules for healthcare companies) and Osso Academy (early-career HCP VR training)",found,"https://www.ossovr.com/
+Osso VR,https://www.ossovr.com/,1st Degree,Added from discovery 2026-09-29; evidence in data/candidates/ossovr/,2026-10-20T16:40:29-06:00,data/records/ossovr/2026-10-20_163838.json,"Immersive VR procedural-skills training and assessment platform for healthcare; current lead product is Osso Nurse Training for health systems, alongside Osso Enterprise (custom VR modules for healthcare companies) and Osso Academy (early-career HCP VR training)",found,"https://www.ossovr.com/
 https://www.ossovr.com/health-systems","- VR
 - Web",found,"https://www.ossovr.com/
 https://www.ossovr.com/health-systems","- Clinically accurate VR procedural skills scenarios (Osso VR Nursing Series)
 - Test Mode: unguided, scored independent assessment
 - Practice Mode: guided mode with a virtual preceptor
-- Multiuser Mode for cohort training, with educators able to join and lead sessions
+- Collaborative Mode (multiuser) for cohort training, with educators able to join and lead sessions
 - Osso Loop web-based hub with prebriefings, structured debriefing and learner and supervisor dashboards
 - Scored performance data and analytics mapped to clinical domains
 - 6 Domains of Excellence methodology aligning training to quality and accreditation standards
@@ -476,17 +476,18 @@ https://www.ossovr.com/health-systems","- Clinically accurate VR procedural skil
 - Custom-developed VR modules for any product, procedure or specialty (Osso Enterprise), with multiple-language localization
 - Osso Analytics for real-time proficiency benchmarking and performance tracking",found,"https://www.ossovr.com/
 https://www.ossovr.com/health-systems
-https://www.ossovr.com/osso-enterprise","- Hospitals and health systems onboarding new-graduate nurses (primary focus of Osso Nurse Training)
+https://www.ossovr.com/osso-enterprise","- Hospitals and health systems training their nurses (Osso Nurse Training)
+- The home page description still names new grad nurses and onboarding
 - Also pharma, nursing programs and sales teams
 - Medical device and other healthcare companies (Osso Enterprise)
 - Academic medical centers and residency programs (Osso Academy)",found,"https://www.ossovr.com/
 https://www.ossovr.com/about
 https://www.ossovr.com/health-systems
-https://www.ossovr.com/osso-enterprise","Helps hospitals and health systems develop confident, independent nurses faster by scaling new-nurse onboarding in procedural skills through VR practice and assessment, giving supervisors objective performance data while reducing educator time and supply costs.",found,"https://www.ossovr.com/
+https://www.ossovr.com/osso-enterprise","Helps hospitals and health systems train, assess and scale nurses' procedural skills through VR practice, for confident, consistent care, giving supervisors objective performance data while reducing educator time and supply costs.",found,"https://www.ossovr.com/
 https://www.ossovr.com/health-systems",Purposeful Practice. Confident Care.,found,"https://www.ossovr.com/
 https://www.ossovr.com/health-systems","- Not published
 - Quote on request",found,https://www.ossovr.com/
-ReelDx,https://www.reeldx.com/,2nd Degree,Added from discovery 2026-09-29; evidence in data/candidates/reeldx/,2026-10-14T09:49:40-06:00,data/records/reeldx/2026-10-14_094745.json,"Clinical education platform built on a library of real patient video cases, for nursing, PA, EMS and medical education",found,https://www.reeldx.com/about,- Web,found,https://www.reeldx.com/,"- Library of 700+ real patient video cases covering 1,000+ symptoms and conditions
+ReelDx,https://www.reeldx.com/,2nd Degree,Added from discovery 2026-09-29; evidence in data/candidates/reeldx/,2026-10-20T16:40:31-06:00,data/records/reeldx/2026-10-20_163838.json,"Clinical education platform built on a library of real patient video cases, for nursing, PA, EMS and medical education",found,https://www.reeldx.com/about,- Web,found,https://www.reeldx.com/,"- Library of 700+ real patient video cases covering 1,000+ symptoms and conditions
 - Cases searchable by symptoms, specialty, location, demographics
 - HIPAA-compliant, patient-consented, peer-reviewed cases
 - ReelDx Skills assignments: SOAP notes, SBAR, vital sign interpretation, differential diagnosis
@@ -499,7 +500,7 @@ https://www.reeldx.com/skills","- Healthcare education institutions and their fa
 - The home page says 413+ institutions use ReelDx",found,"https://www.reeldx.com/
 https://www.reeldx.com/about","Lets health professions students start clinical training on day one by learning from real patient video cases on demand, preparing them for exams, clinical rotations and careers without needing a clinic.",found,https://www.reeldx.com/,"Improve Clinical Training with Real Patient Cases. Anytime, Anywhere.",found,https://www.reeldx.com/,"- No prices published on the pages read
 - A 30-day free trial is offered, and the menu lists an 'Institutional Plan' and a 'Pricing' link",unclear,https://www.reeldx.com/
-Sentinel U,https://www.sentinelu.com/,2nd Degree,Added from discovery 2026-09-29; evidence in data/candidates/sentinelu/,2026-10-14T09:49:51-06:00,data/records/sentinelu/2026-10-14_094745.json,"Virtual nursing simulation and nursing education platform: virtual clinicals plus digital teaching resources, debriefing tools and performance analytics for nurse educators",found,"https://www.sentinelu.com/
+Sentinel U,https://www.sentinelu.com/,2nd Degree,Added from discovery 2026-09-29; evidence in data/candidates/sentinelu/,2026-10-20T16:40:34-06:00,data/records/sentinelu/2026-10-20_163838.json,"Virtual nursing simulation and nursing education platform: virtual clinicals plus digital teaching resources, debriefing tools and performance analytics for nurse educators",found,"https://www.sentinelu.com/
 https://www.sentinelu.com/about",- Desktop,unclear,"https://www.sentinelu.com/
 https://www.sentinelu.com/learn/medical-surgical","- Virtual clinical simulations organized by content area, from undergraduate to advanced practice
 - ALIGN digital teaching resources: pre- and post-simulation materials, course module maps, competency mapping
@@ -517,7 +518,7 @@ https://www.sentinelu.com/learn/telehealth-nursing","- Nurse educators and nursi
 https://www.sentinelu.com/about
 https://www.sentinelu.com/about/history","Helps nurse educators teach, assess and scale learning more efficiently through virtual simulations, digital teaching resources and outcome data, producing confident, practice-ready nurses and bridging gaps in clinical placements.",found,"https://www.sentinelu.com/
 https://www.sentinelu.com/about",Providing Learners With The Best Practice℠,found,https://www.sentinelu.com/,,not_found,
-SimCare AI,https://simcare.ai/,2nd Degree,Added from discovery 2026-09-29; evidence in data/candidates/simcare/,2026-10-14T09:49:55-06:00,data/records/simcare/2026-10-14_094745.json,"AI client (avatar) simulations for counselor training and other interpersonal, counseling and diagnostic skills training; the company also offers FieldX, a free field-experience management platform",found,"https://simcare.ai/
+SimCare AI,https://simcare.ai/,2nd Degree,Added from discovery 2026-09-29; evidence in data/candidates/simcare/,2026-10-20T16:40:38-06:00,data/records/simcare/2026-10-20_163838.json,"AI client (avatar) simulations for counselor training and other interpersonal, counseling and diagnostic skills training; the company also offers FieldX, a free field-experience management platform",found,"https://simcare.ai/
 https://simcare.ai/field",- Web,found,https://simcare.ai/course-catalog,"- Full counseling sessions with 500+ counselor-designed AI clients, children to older adults
 - Spoken conversation with AI client avatars
 - Instant feedback on tone, empathy, communication, nonverbal cues, diagnostic accuracy and clinical skills
@@ -537,7 +538,7 @@ https://simcare.ai/course-catalog","Gives every counseling student realistic, re
 - Grant-based funding supported
 - FieldX is described as free",found,"https://simcare.ai/
 https://simcare.ai/field"
-SimForHealth,https://simforhealth.fr/,2nd Degree,Added from discovery 2026-09-29; evidence in data/candidates/simforhealth/,2026-10-14T09:49:58-06:00,data/records/simforhealth/2026-10-14_094745.json,"Digital simulation (VR named for one product) for the initial and continuing training of health professionals, with a product catalog for initial paramedical training (including nurse and nursing-assistant collections) and custom simulator development",found,https://www.simforhealth.com/,- VR,unclear,https://www.simforhealth.com/produits/vr-transfu/,"- Virtual patients with their own medical history, traits and emotions
+SimForHealth,https://simforhealth.fr/,2nd Degree,Added from discovery 2026-09-29; evidence in data/candidates/simforhealth/,2026-10-20T16:40:43-06:00,data/records/simforhealth/2026-10-20_163838.json,"Digital simulation (VR named for one product) for the initial and continuing training of health professionals, with a product catalog for initial paramedical training (including nurse and nursing-assistant collections) and custom simulator development",found,https://www.simforhealth.com/,- VR,unclear,https://www.simforhealth.com/produits/vr-transfu/,"- Virtual patients with their own medical history, traits and emotions
 - 3D environments modeled on real professional settings
 - Clinical scenarios from simple to complex
 - Product catalog by collection: nursing (IFSI), nursing assistant (IFAS), pain, 'room of errors', transfusion (VR Transfu), psychiatry (PSY VR), SIMDOSE dose-calculation software
@@ -557,7 +558,7 @@ https://www.simforhealth.com/produits/vr-transfu/","Complements training program
 https://www.simforhealth.com/notre-expertise/",Expert en simulation numérique pour la formation initiale et continue des professionnels de santé,found,"https://www.simforhealth.com/
 https://www.simforhealth.com/notre-expertise/","- Not published
 - Quote on request",found,https://www.simforhealth.com/produits/vr-transfu/
-SimLab Soft,https://www.simlab-soft.com/,3rd Degree,Added from discovery 2026-09-29; evidence in data/candidates/simlab-soft/,2026-10-14T09:49:58-06:00,data/records/simlab-soft/2026-10-14_094745.json,"No-code VR creation and 3D visualization software (SimLab Composer, VR Studio, VR Viewer, plugins, CADVRter converter, VR Store); SimLab Composer is presented on the use-case page as firefighter VR training software that departments use to build their own training",found,"https://www.simlab-soft.com/
+SimLab Soft,https://www.simlab-soft.com/,3rd Degree,Added from discovery 2026-09-29; evidence in data/candidates/simlab-soft/,2026-10-20T16:40:53-06:00,data/records/simlab-soft/2026-10-20_163838.json,"No-code VR creation and 3D visualization software (SimLab Composer, VR Studio, VR Viewer, plugins, CADVRter converter, VR Store); SimLab Composer is presented on the use-case page as firefighter VR training software that departments use to build their own training",found,"https://www.simlab-soft.com/
 https://www.simlab-soft.com/use_cases/simlab-vr-fire-fighting.aspx","- VR
 - Desktop
 - Mobile",found,"https://www.simlab-soft.com/
@@ -579,7 +580,7 @@ https://www.simlab-soft.com/use_cases/simlab-vr-fire-fighting.aspx","Lets organi
 - SimLab VR Viewer free
 - 21-day free trial of Composer Ultimate
 - Detailed pricing on request",found,https://www.simlab-soft.com/use_cases/simlab-vr-fire-fighting.aspx
-Skillup VR,https://skillupvr.com/,1st Degree,Added from discovery 2026-09-29; evidence in data/candidates/skillup4u/; website corrected 2026-10-13 from skillup4u.com (most likely the company's earlier Norwegian site; the domain no longer resolves) to skillupvr.com (matches the HealthySimulation vendor listing),2026-10-14T09:50:04-06:00,data/records/skillup4u/2026-10-14_094745.json,"VR medical simulation platform (a virtual simulation centre) for clinical team training, with a web-based scenario customizer and learning management platform.",found,"https://skillupvr.com/
+Skillup VR,https://skillupvr.com/,1st Degree,Added from discovery 2026-09-29; evidence in data/candidates/skillup4u/; website corrected 2026-10-13 from skillup4u.com (most likely the company's earlier Norwegian site; the domain no longer resolves) to skillupvr.com (matches the HealthySimulation vendor listing),2026-10-20T16:40:55-06:00,data/records/skillup4u/2026-10-20_163838.json,"VR medical simulation platform (a virtual simulation centre) for clinical team training, with a web-based scenario customizer and learning management platform.",found,"https://skillupvr.com/
 https://skillupvr.com/product/",- VR,found,https://skillupvr.com/product/,"- Scenario Customizer: create patient profile, injuries, investigations and lab results
 - Virtual Patient with customizable gender, age and ethnicity
 - Trainer Station: trainer controls roles and patient condition in real time
@@ -595,14 +596,14 @@ https://skillupvr.com/product/","- Medical teams and healthcare professionals in
 - A Vinnova grant covers team training for civilian and military medics",found,"https://skillupvr.com/
 https://skillupvr.com/company/
 https://skillupvr.com/moreproducts/","Replace or supplement conventional simulation with scalable VR team training that the company says takes less time, costs less than high-fidelity manikin simulation and improves patient safety.",found,https://skillupvr.com/,,not_found,,,not_found,
-Street Smarts VR,https://www.streetsmartsvr.com/,3rd Degree,Added from discovery 2026-09-29; evidence in data/candidates/streetsmartsvr/,2026-10-14T09:50:17-06:00,data/records/streetsmartsvr/2026-10-14_094745.json,"XR-based, first-person, hands-on training platform for defense and public safety (weapons, use of force, tactical decision making), configured to the customer's requirements",found,https://streetsmartsvr.com/,- VR,found,https://streetsmartsvr.com/,"- Commercial off-the-shelf (COTS) scenario library for defense and law enforcement
+Street Smarts VR,https://www.streetsmartsvr.com/,3rd Degree,Added from discovery 2026-09-29; evidence in data/candidates/streetsmartsvr/,2026-10-20T16:41:00-06:00,data/records/streetsmartsvr/2026-10-20_163838.json,"XR-based, first-person, hands-on training platform for defense and public safety (weapons, use of force, tactical decision making), configured to the customer's requirements",found,https://streetsmartsvr.com/,- VR,found,https://streetsmartsvr.com/,"- Commercial off-the-shelf (COTS) scenario library for defense and law enforcement
 - Creator: author scenarios, map them to standards, deploy them
 - Performance data capture (live telemetry: accuracy, grouping, engagement time)
 - Standards mapping and structured evidence of readiness
 - Deployable kits
 - Mission-configured weapon replica accessories
 - Mission-configured content matched to doctrine and standards",found,https://streetsmartsvr.com/,- Defense (military) and law enforcement / public safety agencies,found,https://streetsmartsvr.com/,"Train to standard, capture every rep, and prove readiness with performance data, at scale, so readiness is continuous rather than a single qualification day.",found,https://streetsmartsvr.com/,,not_found,,,not_found,
-Surgical Science,https://www.surgicalscience.com/,2nd Degree,Added from discovery 2026-09-29; evidence in data/candidates/surgicalscience/; ultrasound simulation page added 2026-10-14 after Intelligent Ultrasound joined Surgical Science,2026-10-14T09:50:18-06:00,data/records/surgicalscience/2026-10-14_094745.json,"Medical simulation training and software: evidence-based simulators for surgical, endovascular, endoscopic and ultrasound procedures (including robotic surgery simulation), plus custom simulation solutions for MedTech companies",found,"https://smarterscanning.surgicalscience.com/
+Surgical Science,https://www.surgicalscience.com/,2nd Degree,Added from discovery 2026-09-29; evidence in data/candidates/surgicalscience/; ultrasound simulation page added 2026-10-14 after Intelligent Ultrasound joined Surgical Science,2026-10-20T16:41:02-06:00,data/records/surgicalscience/2026-10-20_163838.json,"Medical simulation training and software: evidence-based simulators for surgical, endovascular, endoscopic and ultrasound procedures (including robotic surgery simulation), plus custom simulation solutions for MedTech companies",found,"https://smarterscanning.surgicalscience.com/
 https://surgicalscience.com/
 https://surgicalscience.com/medtech-solutions/
 https://surgicalscience.com/simulators/all-products-gallery/","- Physical hardware
@@ -625,7 +626,7 @@ https://surgicalscience.com/medtech-solutions/training/","- Healthcare professio
 https://surgicalscience.com/medtech-solutions/
 https://surgicalscience.com/simulators/all-products-gallery/","Evidence-based, customized simulation that lets clinicians safely advance skills without putting patients at risk, to improve clinical proficiency and performance and enhance patient safety and outcomes.",found,https://surgicalscience.com/,Improve Clinical Proficiency and Performance,found,"https://surgicalscience.com/
 https://surgicalscience.com/medtech-solutions/training/",,not_found,
-TACMED Australia,https://tacmed.com.au/,2nd Degree,Added from discovery 2026-09-29; evidence in data/candidates/tacmed-com/,2026-10-14T09:50:20-06:00,data/records/tacmed-com/2026-10-14_094745.json,"Tactical and emergency medical equipment supplier (tourniquets, IFAKs, trauma kits) that also supplies tactical and clinical medical simulation equipment (human and K9 simulators, trauma task trainers, program support) and, through TacMed Training, accredited tactical medical courses",found,"https://tacmedaustralia.com.au/
+TACMED Australia,https://tacmed.com.au/,2nd Degree,Added from discovery 2026-09-29; evidence in data/candidates/tacmed-com/,2026-10-20T16:41:08-06:00,data/records/tacmed-com/2026-10-20_163838.json,"Tactical and emergency medical equipment supplier (tourniquets, IFAKs, trauma kits) that also supplies tactical and clinical medical simulation equipment (human and K9 simulators, trauma task trainers, program support) and, through TacMed Training, accredited tactical medical courses",found,"https://tacmedaustralia.com.au/
 https://tacmedaustralia.com.au/pages/simulation
 https://training.tacmed.com.au/",- Physical hardware,found,https://tacmedaustralia.com.au/pages/simulation,"- Full-body human simulators (TOMManikin series, Tacmed Solutions Simulators)
 - K9 simulators
@@ -643,7 +644,7 @@ https://tacmedaustralia.com.au/pages/simulation","- Simulation equipment: not pu
 - Quote on request
 - Retail medical supplies and bags have published prices in the online store (for example $66.95 for a SOF Tourniquet)",found,"https://tacmedaustralia.com.au/
 https://tacmedaustralia.com.au/pages/simulation"
-TI Training,https://www.titraining.com/,3rd Degree,Added from discovery 2026-09-29; evidence in data/candidates/titraining/,2026-10-14T11:02:02-06:00,data/records/titraining/2026-10-14_110202.json,"Immersive simulation training solutions (hardware, software and video scenario content) for law enforcement, military and commercial/retail shooting ranges, centered on use-of-force, de-escalation and firearms training",found,"https://titraining.com/
+TI Training,https://www.titraining.com/,3rd Degree,Added from discovery 2026-09-29; evidence in data/candidates/titraining/,2026-10-20T16:41:12-06:00,data/records/titraining/2026-10-20_163838.json,"Immersive simulation training solutions (hardware, software and video scenario content) for law enforcement, military and commercial/retail shooting ranges, centered on use-of-force, de-escalation and firearms training",found,"https://titraining.com/
 https://titraining.com/recon/","- AR
 - Projection or immersive room",found,"https://titraining.com/ar-glasses/
 https://titraining.com/recon/","- Library of 900+ scenarios, with new scenarios delivered twice a year free
@@ -662,7 +663,7 @@ https://titraining.com/commercial/solutions/","Realistic, immersive scenario tra
 https://titraining.com/recon/",,not_found,,"- Not published
 - Quote on request",found,"https://titraining.com/
 https://titraining.com/commercial/solutions/"
-VirTra,https://www.virtra.com/,3rd Degree,Added from discovery 2026-09-29; evidence in data/candidates/virtra/,2026-10-14T09:50:22-06:00,data/records/virtra/2026-10-14_094745.json,"Immersive scenario simulation training (screen-based and headset simulators, weapon recoil kits, curriculum) for law enforcement, military and public-safety professionals, focused on judgment, de-escalation and use of force",found,https://www.virtra.com/,"- VR
+VirTra,https://www.virtra.com/,3rd Degree,Added from discovery 2026-09-29; evidence in data/candidates/virtra/,2026-10-20T16:41:13-06:00,data/records/virtra/2026-10-20_163838.json,"Immersive scenario simulation training (screen-based and headset simulators, weapon recoil kits, curriculum) for law enforcement, military and public-safety professionals, focused on judgment, de-escalation and use of force",found,https://www.virtra.com/,"- VR
 - Projection or immersive room",found,"https://www.virtra.com/
 https://www.virtra.com/healthcare/
 https://www.virtra.com/simulator/vxr/","- Screen simulators from single-screen to 5-screen (V-100, V-180, V-300)
@@ -684,7 +685,7 @@ https://www.virtra.com/simulator/vxr/","Realistic, repeatable immersive scenario
 https://www.virtra.com/training/",Real-World Readiness,found,"https://www.virtra.com/
 https://www.virtra.com/simulator/vxr/","- No product prices published
 - One course discount is stated",unclear,https://www.virtra.com/training/
-XVR Simulation,https://www.xvrsim.com/,1st Degree,Added from discovery 2026-09-29; evidence in data/candidates/xvrsim/,2026-10-14T09:50:35-06:00,data/records/xvrsim/2026-10-14_094745.json,"VR simulation and immersive learning software suite for training emergency services and other safety-critical professionals (fire and rescue, police and security, ambulance, aviation, transport and energy)",found,https://learnprogroup.com/xvr/,- VR,found,"https://learnprogroup.com/xvr/
+XVR Simulation,https://www.xvrsim.com/,1st Degree,Added from discovery 2026-09-29; evidence in data/candidates/xvrsim/,2026-10-20T16:41:17-06:00,data/records/xvrsim/2026-10-20_163838.json,"VR simulation and immersive learning software suite for training emergency services and other safety-critical professionals (fire and rescue, police and security, ambulance, aviation, transport and energy)",found,https://learnprogroup.com/xvr/,- VR,found,"https://learnprogroup.com/xvr/
 https://learnprogroup.com/xvr/what-is-vr-training/","- Instructor-led simulation with instructor control of the scenario
 - High-fidelity 3D incident environments
 - Scalable scenario complexity and command levels
@@ -700,7 +701,7 @@ https://learnprogroup.com/xvr/solutions/xvr-on-scene/","- Emergency services and
 https://learnprogroup.com/xvr/sectors/ambulance/","Safe, repeatable virtual experience of complex, high-risk, low-frequency incidents, so responders practise decision-making and learn from consequences before such incidents happen, with the instructor in control.",found,"https://learnprogroup.com/xvr/solutions/xvr-on-scene/
 https://learnprogroup.com/xvr/what-is-vr-training/",Virtual Training. Real Experience.,found,"https://learnprogroup.com/xvr/
 https://learnprogroup.com/xvr/solutions/xvr-on-scene/",,not_found,
-Intulect,https://intulect.com/,1st Degree,Added from discovery 2026-10-13; evidence in data/candidates/intulect/,2026-10-14T09:50:35-06:00,data/records/intulect/2026-10-14_094745.json,"Nursing education platform with an education-to-employment suite: AI-facilitated VR and PC nursing simulations, NCLEX prep and quiz bank, competency management, EHR training and recruiting",found,"https://intulect.com/
+Intulect,https://intulect.com/,1st Degree,Added from discovery 2026-10-13; evidence in data/candidates/intulect/,2026-10-20T16:41:20-06:00,data/records/intulect/2026-10-20_163838.json,"Nursing education platform with an education-to-employment suite: AI-facilitated VR and PC nursing simulations, NCLEX prep and quiz bank, competency management, EHR training and recruiting",found,"https://intulect.com/
 https://intulect.com/pages/simulations/","- VR
 - Desktop",found,"https://intulect.com/
 https://intulect.com/pages/simulations/","- Facilitator-free simulation: AI facilitation of hundreds of simulations at once
@@ -719,7 +720,7 @@ https://intulect.com/pages/simulations/","On-demand clinical experience for nurs
 https://intulect.com/pages/simulations/",Education to Employment for Nurses,found,"https://intulect.com/
 https://intulect.com/pages/about/","- Not published
 - Quote on request",found,https://intulect.com/pages/simulations/
-ORamaVR,https://oramavr.com/,1st Degree,Added from discovery 2026-10-13; evidence in data/candidates/oramavr/,2026-10-14T09:50:42-06:00,data/records/oramavr/2026-10-14_094745.json,"End-to-end computational medical XR training platform (simulation authoring, AI proctoring, VR training delivery, analytics) for procedural and surgical training",found,"https://oramavr.com/
+ORamaVR,https://oramavr.com/,1st Degree,Added from discovery 2026-10-13; evidence in data/candidates/oramavr/,2026-10-20T16:41:34-06:00,data/records/oramavr/2026-10-20_163838.json,"End-to-end computational medical XR training platform (simulation authoring, AI proctoring, VR training delivery, analytics) for procedural and surgical training",found,"https://oramavr.com/
 https://oramavr.com/about
 https://oramavr.com/platform",- VR,found,"https://oramavr.com/
 https://oramavr.com/platform","- Creator: authoring toolkit for building XR simulations in-house, 100% IP ownership
@@ -734,7 +735,7 @@ https://oramavr.com/platform","- Medical device and MedTech companies (surgeon t
 https://oramavr.com/about","- Self-serve plans from €159/month
 - Virtual Training Center sold on CCU plans with unlimited registered users
 - SIM Library titles licensed individually",found,https://oramavr.com/
-UpSkillAI,https://upskillai.com/,1st Degree,Added from discovery 2026-10-13; evidence in data/candidates/upskillai/,2026-10-14T09:50:47-06:00,data/records/upskillai/2026-10-14_094745.json,"AI-powered XR (immersive) training, delivered as a full-service solution, with content areas in EMS, stroke, healthcare and defense; not limited to healthcare",found,"https://upskillai.com/about/
+UpSkillAI,https://upskillai.com/,1st Degree,Added from discovery 2026-10-13; evidence in data/candidates/upskillai/,2026-10-20T16:41:37-06:00,data/records/upskillai/2026-10-20_163838.json,"AI-powered XR (immersive) training, delivered as a full-service solution, with content areas in EMS, stroke, healthcare and defense; not limited to healthcare",found,"https://upskillai.com/about/
 https://upskillai.com/what-is-ai-powered-xr-training/","- VR
 - AR
 - MR",unclear,"https://upskillai.com/
@@ -756,7 +757,7 @@ https://upskillai.com/ems/
 https://upskillai.com/healthcare/","AI-powered XR training that helps people learn faster, retain more and perform better under pressure, citing published research: 50% faster learning, 83% lower training costs, 17X higher knowledge retention.",found,"https://upskillai.com/
 https://upskillai.com/what-is-ai-powered-xr-training/",Ai-powered Immersive Training Done Right,found,"https://upskillai.com/
 https://upskillai.com/about/",,not_found,
-Vantari VR,https://www.vantarivr.com/,1st Degree,Added from discovery 2026-10-13; evidence in data/candidates/vantarivr/,2026-10-14T09:50:57-06:00,data/records/vantarivr/2026-10-14_094745.json,"Virtual reality procedural training and immersive simulation for healthcare (medicine and surgery), for clinicians, nurses and students",found,"https://www.vantarivr.com/
+Vantari VR,https://www.vantarivr.com/,1st Degree,Added from discovery 2026-10-13; evidence in data/candidates/vantarivr/,2026-10-20T16:41:41-06:00,data/records/vantarivr/2026-10-20_163838.json,"Virtual reality procedural training and immersive simulation for healthcare (medicine and surgery), for clinicians, nurses and students",found,"https://www.vantarivr.com/
 https://www.vantarivr.com/vantari-platform/",- VR,found,"https://www.vantarivr.com/
 https://www.vantarivr.com/vantari-platform/","- Step-by-step procedural training based on recommended guidelines
 - Vantari Virtual trainer that guides each step
@@ -772,7 +773,7 @@ https://www.vantarivr.com/vantari-platform/","- Hospitals, universities and medi
 https://www.vantarivr.com/vantari-platform/","Lets clinicians practise procedures safely in VR so they perform in reality, aiming to eliminate medical error and democratise healthcare training, and in future to act as an AI co-pilot for clinicians.",found,"https://www.vantarivr.com/
 https://www.vantarivr.com/vantari-platform/",Virtual Reality for HealthCare,found,"https://www.vantarivr.com/
 https://www.vantarivr.com/vantari-platform/",,not_found,
-Virti,https://www.virti.com/,1st Degree,Added from discovery 2026-10-13; evidence in data/candidates/virti/,2026-10-14T09:51:04-06:00,data/records/virti/2026-10-14_094745.json,"No-code AI role-play and AI coaching platform with immersive video training, for sales enablement, customer service, leadership and medical teams",found,"https://virti.com/
+Virti,https://www.virti.com/,1st Degree,Added from discovery 2026-10-13; evidence in data/candidates/virti/,2026-10-20T16:41:54-06:00,data/records/virti/2026-10-20_163838.json,"No-code AI role-play and AI coaching platform with immersive video training, for sales enablement, customer service, leadership and medical teams",found,"https://virti.com/
 https://virti.com/ai-role-play-platform
 https://virti.com/ai-role-play-platform/create","- Web
 - Mobile
@@ -800,7 +801,7 @@ https://virti.com/ai-role-play-platform/scale","- Published plans, billed yearly
 - Business $1,079 per month ($12,948 a year)
 - Enterprise from $25,000 a year with custom pricing. 14-day free trial with no credit card
 - Discounted pricing for non-profits, universities and NHS-affiliated institutions on request",found,https://virti.com/pricing
-AvKin,https://avkin.com/,2nd Degree,Added from discovery 2026-10-14; evidence in data/candidates/avkin/; product-resources page dropped 2026-10-15 (password-protected),2026-10-15T18:03:19-06:00,data/records/avkin/2026-10-15_180319.json,"Wearable healthcare simulators worn by live people, plus standardized patient (SP) program consulting and an online SP training certificate.",found,"https://avkin.com/
+AvKin,https://avkin.com/,2nd Degree,Added from discovery 2026-10-14; evidence in data/candidates/avkin/; product-resources page dropped 2026-10-15 (password-protected),2026-10-20T16:41:54-06:00,data/records/avkin/2026-10-20_163838.json,"Wearable healthcare simulators worn by live people, plus standardized patient (SP) program consulting and an online SP training certificate.",found,"https://avkin.com/
 https://avkin.com/nursing-simulation-company/",- Physical hardware,found,https://avkin.com/nursing-simulation-company/,"- Wearable simulators worn by live people, with embedded haptics that cue the wearer
 - Avbirth automated wearable birthing simulator
 - Two complimentary simulations with each wearable simulator
@@ -814,7 +815,7 @@ https://avkin.com/simulation-consulting/
 https://avkin.com/simulation-training-and-certificate/","- Healthcare simulation programs and simulationists, especially nursing schools
 - SP consulting serves nursing, medicine, allied health, first responders and other disciplines",found,"https://avkin.com/
 https://avkin.com/simulation-consulting/","Adds live people wearing simulators to simulation, for more realistic training of communication and non-verbal cues than manikins, with dependable equipment and support.",found,https://avkin.com/,Bring Your Simulations To Life,unclear,https://avkin.com/,,not_found,
-Labster,https://www.labster.com/,2nd Degree,"Added from discovery 2026-10-14; evidence in data/candidates/labster/; changed from 1st to 2nd Degree 2026-10-15 by the owner: its only headset product is UbiSim (tracked separately as 1st Degree); its own virtual labs are screen-based science training, including for nursing and allied health students",2026-10-15T18:02:04-06:00,data/records/labster/2026-10-15_180204.json,"Virtual lab simulations for STEM education (biology, chemistry, physics, health sciences), and VR nursing simulation through its UbiSim product.",found,"https://www.labster.com/about-us
+Labster,https://www.labster.com/,2nd Degree,"Added from discovery 2026-10-14; evidence in data/candidates/labster/; changed from 1st to 2nd Degree 2026-10-15 by the owner: its only headset product is UbiSim (tracked separately as 1st Degree); its own virtual labs are screen-based science training, including for nursing and allied health students",2026-10-20T16:41:56-06:00,data/records/labster/2026-10-20_163838.json,"Virtual lab simulations for STEM education (biology, chemistry, physics, health sciences), and VR nursing simulation through its UbiSim product.",found,"https://www.labster.com/about-us
 https://www.labster.com/simulation-courses","- Web
 - VR",found,"https://www.labster.com/
 https://www.labster.com/about-us","- Catalog of 300+ virtual lab simulations
@@ -832,7 +833,7 @@ https://www.labster.com/simulations","- Higher education and high school STEM pr
 - Nursing programs through UbiSim",found,"https://www.labster.com/
 https://www.labster.com/discipline/health-sciences","Immersive virtual labs at scale that build STEM students' confidence and real-world skills, help them persist, and extend hands-on learning beyond lab capacity.",found,https://www.labster.com/,,not_found,,"- Not published
 - Subscription plans, including Labster Advanced and Labster Elite",found,https://www.labster.com/simulations
-MedisimVR,https://medisimvr.com/,1st Degree,Added from discovery 2026-10-14; evidence in data/candidates/medisimvr/,2026-10-15T18:03:19-06:00,data/records/medisimvr/2026-10-15_180319.json,"VR medical simulation platform and managed VR simulation labs for nursing, allied health and medical education, with skill training (STRIV), patient diagnosis practice (DIVE) and anatomy and physiology modules (StudySim).",found,"https://medisimvr.com/
+MedisimVR,https://medisimvr.com/,1st Degree,Added from discovery 2026-10-14; evidence in data/candidates/medisimvr/,2026-10-20T16:41:58-06:00,data/records/medisimvr/2026-10-20_163838.json,"VR medical simulation platform and managed VR simulation labs for nursing, allied health and medical education, with skill training (STRIV), patient diagnosis practice (DIVE) and anatomy and physiology modules (StudySim).",found,"https://medisimvr.com/
 https://medisimvr.com/vr-in-medical-training",- VR,found,https://medisimvr.com/about-us,"- STRIV skill training with a guided mode and an evaluation mode
 - DIVE patient simulations for history taking, clinical exam and diagnosis
 - StudySim VR anatomy and physiology modules
@@ -848,7 +849,7 @@ https://medisimvr.com/vr-in-medical-training","- Healthcare education institutio
 https://medisimvr.com/simulation-lab-for-nursing-students
 https://medisimvr.com/vr-in-medical-training","Competency-based VR training, with labs set up and supported by the company, to close healthcare skill gaps, build confidence and reduce medical errors.",found,"https://medisimvr.com/
 https://medisimvr.com/vr-in-healthcare",,not_found,,,not_found,
-PCS,https://www.pcs.ai/,1st Degree,Added from discovery 2026-10-14; evidence in data/candidates/pcs/,2026-10-15T18:03:19-06:00,data/records/pcs/2026-10-15_180319.json,"AI-driven virtual patient simulation for healthcare education (Spark), plus AI voice add-ons for physical patient simulators (SimVox, ALEX).",found,"https://www.pcs.ai/
+PCS,https://www.pcs.ai/,1st Degree,Added from discovery 2026-10-14; evidence in data/candidates/pcs/,2026-10-20T16:41:59-06:00,data/records/pcs/2026-10-20_163838.json,"AI-driven virtual patient simulation for healthcare education (Spark), plus AI voice add-ons for physical patient simulators (SimVox, ALEX).",found,"https://www.pcs.ai/
 https://www.pcs.ai/spark","- Web
 - VR
 - Physical hardware",found,"https://www.pcs.ai/
@@ -869,7 +870,7 @@ https://www.pcs.ai/spark",,not_found,,"- Not published
 - Priced per student per year with minimums
 - Quote on request
 - Two service levels (Spark and Spark Pro)",found,https://www.pcs.ai/spark
-SimPatient,https://simpatient.co.uk/,2nd Degree,Added from discovery 2026-10-14; evidence in data/candidates/simpatient-co/,2026-10-15T18:02:04-06:00,data/records/simpatient-co/2026-10-15_180204.json,"AI-simulated patient platform for communication and history-taking training in medical education, with scenario authoring and rubric-based grading.",found,https://simpatient.co.uk/,,not_found,,"- Text, voice and live video avatar consultations with AI patients
+SimPatient,https://simpatient.co.uk/,2nd Degree,Added from discovery 2026-10-14; evidence in data/candidates/simpatient-co/,2026-10-20T16:42:07-06:00,data/records/simpatient-co/2026-10-20_163838.json,"AI-simulated patient platform for communication and history-taking training in medical education, with scenario authoring and rubric-based grading.",found,https://simpatient.co.uk/,,not_found,,"- Text, voice and live video avatar consultations with AI patients
 - Scenario authoring in guided steps, or a full patient generated from a single line
 - Diversity Engine for representative patient personas
 - Grading against Calgary-Cambridge, CRI-HT or the educator's own rubric, with transcript-cited justification

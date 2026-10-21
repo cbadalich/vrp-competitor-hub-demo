@@ -1,0 +1,15 @@
+{
+  "competitor": "VRpatients",
+  "requested_url": "https://vrpatients.com/faqs/",
+  "fetched_at": "2026-10-20T16:39:42-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://vrpatients.com/faqs/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "FAQs - VRpatients",
+  "meta_description": "VRpatients FAQs.",
+  "html_bytes": 213484,
+  "text_characters": 5703
+}

@@ -1,0 +1,293 @@
+{
+  "record": "data/records/ubisim/2026-10-20_163838.json",
+  "checked_at": "2026-10-20T18:14:00-06:00",
+  "results": {
+    "product_category": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.ubisimvr.com/",
+          "quote": "UbiSim is dedicated exclusively to nursing education simulation and virtual reality.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "about-us",
+          "source_url": "https://www.ubisimvr.com/about-us",
+          "quote": "The UbiSim immersive virtual reality simulation platform is built by nurses, for nurses to meet the evolving needs of nurse learners in higher education and healthcare institutions.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "platforms": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "solutions_academic-institutions",
+          "source_url": "https://www.ubisimvr.com/solutions/academic-institutions",
+          "quote": "UbiSim works on the entire wireless Quest family of headsets, including Meta Quest 2, Meta Quest 3 and Meta Quest Pro.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pricing",
+          "source_url": "https://www.ubisimvr.com/pricing",
+          "quote": "VR application with full visual and haptic immersion",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "onboarding-setup",
+          "source_url": "https://www.ubisimvr.com/onboarding-setup",
+          "quote": "Just create a Meta account, follow our step-by-step headset setup guide, and install the UbiSim app.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "key_capabilities": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "how-it-works",
+          "source_url": "https://www.ubisimvr.com/how-it-works",
+          "quote": "Every subscription comes with access to the growing UbiSim catalog of peer-reviewed scenarios, plus all custom scenarios shared from the UbiSim Community.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "intuitive-editor",
+          "source_url": "https://www.ubisimvr.com/intuitive-editor",
+          "quote": "Included at no extra charge, UbiSim\u2019s industry-leading scenario editor gives you maximum flexibility without increasing costs or coordination challenges.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "intuitive-editor",
+          "source_url": "https://www.ubisimvr.com/intuitive-editor",
+          "quote": "No coding is needed. Drag and drop elements such as lab results, X-rays, EKGs, and even conversational dialogue into the scenario.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "solutions_healthcare-systems",
+          "source_url": "https://www.ubisimvr.com/solutions/healthcare-systems",
+          "quote": "Share, edit and re-use custom scenarios with fellow educators in the UbiSim Community",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "ai-supported-capabilities",
+          "source_url": "https://www.ubisimvr.com/ai-supported-capabilities",
+          "quote": "Learners speak naturally with patients, family members, and physicians in the headset, and characters respond in real time with nurse-validated responses.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "ai-supported-capabilities",
+          "source_url": "https://www.ubisimvr.com/ai-supported-capabilities",
+          "quote": "A complete dialogue transcript sits alongside performance data, so you can see what learners did and what they said.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "ai-supported-capabilities",
+          "source_url": "https://www.ubisimvr.com/ai-supported-capabilities",
+          "quote": "Performance is organized by NCLEX Client Needs categories, which makes it easy to target teaching where it counts.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pricing",
+          "source_url": "https://www.ubisimvr.com/pricing",
+          "quote": "Instant, AI-enhanced performance reports",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "how-it-works",
+          "source_url": "https://www.ubisimvr.com/how-it-works",
+          "quote": "Up to 3 active learners can collaborate together in the same simulation",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "onboarding-setup",
+          "source_url": "https://www.ubisimvr.com/onboarding-setup",
+          "quote": "UbiSim supports flexible facilitation methods \u2014 from peer-to-peer role rotation and team-based multiplayer to educator-led and observation",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pricing",
+          "source_url": "https://www.ubisimvr.com/pricing",
+          "quote": "Facilitator-led & independent, with AI-assisted options",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.ubisimvr.com/",
+          "quote": "Sessions are captured automatically, so you can review learners' decisions, timing, and actions, then lead data-informed debriefs that turn practice into competency.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pricing",
+          "source_url": "https://www.ubisimvr.com/pricing",
+          "quote": "End-to-end pre-brief, sim, and debrief",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pricing",
+          "source_url": "https://www.ubisimvr.com/pricing",
+          "quote": "Campus and cohort management tools",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pricing",
+          "source_url": "https://www.ubisimvr.com/pricing",
+          "quote": "UbiSim supports single sign-on via Microsoft Entra ID",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "target_customer": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "about-us",
+          "source_url": "https://www.ubisimvr.com/about-us",
+          "quote": "to meet the evolving needs of nurse learners in higher education and healthcare institutions.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.ubisimvr.com/",
+          "quote": "Support new-graduate Transition to Practice and ongoing competency development",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.ubisimvr.com/",
+          "quote": "Provide a consistent foundation that helps learners progress and programs retain them",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "intuitive-editor",
+          "source_url": "https://www.ubisimvr.com/intuitive-editor",
+          "quote": "whether pre-licensure nursing students or practicing nurses.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "value_proposition": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.ubisimvr.com/",
+          "quote": "Give every learner unlimited, realistic clinical practice in VR, and the performance data to prove they're ready for the bedside.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.ubisimvr.com/",
+          "quote": "Expand simulation capacity beyond the limits of clinical placements and lab time without adding faculty workload.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "tagline": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.ubisimvr.com/",
+          "quote": "Where Nursing Practice Gets Real\u2122.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pricing",
+          "source_url": "https://www.ubisimvr.com/pricing",
+          "quote": "Where Nursing Practice Gets Real\u2122.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "pricing": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "pricing",
+          "source_url": "https://www.ubisimvr.com/pricing",
+          "quote": "Yes. Annual engagements typically begin at $5,000 USD, depending on the solution and implementation requirements.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pricing",
+          "source_url": "https://www.ubisimvr.com/pricing",
+          "quote": "Learner volume discounts\nTerm length options\nImplementation tiers",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pricing",
+          "source_url": "https://www.ubisimvr.com/pricing",
+          "quote": "Implementation is a separate one-time package. UbiSim offers three tiers: Basic (~5 weeks), Essentials (~6 weeks), and Custom (scoped pricing and timing).",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pricing",
+          "source_url": "https://www.ubisimvr.com/pricing",
+          "quote": "No. UbiSim is licensed at the institution or program level, so your institution covers access and learners don't pay out of pocket.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pricing",
+          "source_url": "https://www.ubisimvr.com/pricing",
+          "quote": "Yes, UbiSim offers free trials for qualified buyers.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pricing",
+          "source_url": "https://www.ubisimvr.com/pricing",
+          "quote": "headsets are typically procured separately from your software license.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    }
+  }
+}

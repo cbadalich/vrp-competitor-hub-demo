@@ -1,0 +1,272 @@
+{
+  "record": "data/records/ossovr/2026-10-20_163838.json",
+  "checked_at": "2026-10-20T18:14:00-06:00",
+  "results": {
+    "product_category": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.ossovr.com/",
+          "quote": "Osso VR is the leading immersive procedural-skills training platform in healthcare.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "health-systems",
+          "source_url": "https://www.ossovr.com/health-systems",
+          "quote": "Proven VR procedural skills training that empowers healthcare systems to rapidly scale nurse development",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.ossovr.com/",
+          "quote": "Custom-developed VR modules for healthcare companies",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.ossovr.com/",
+          "quote": "Early-career HCP VR training",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "platforms": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "health-systems",
+          "source_url": "https://www.ossovr.com/health-systems",
+          "quote": "no training equipment beyond a headset and no need for an educator to stand by",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.ossovr.com/",
+          "quote": "Web-based platform that guides users in and out of VR",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "health-systems",
+          "source_url": "https://www.ossovr.com/health-systems",
+          "quote": "Osso Loop\u2122 is the web-based companion to your VR training program, giving learners and educators one place to access scenarios, prepare for training, and review performance.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "key_capabilities": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.ossovr.com/",
+          "quote": "Clinically accurate VR procedural skills scenarios",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "health-systems",
+          "source_url": "https://www.ossovr.com/health-systems",
+          "quote": "With all workflow guidance removed, this mode evaluates independent performance in real time.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "health-systems",
+          "source_url": "https://www.ossovr.com/health-systems",
+          "quote": "This guided mode simulates a virtual preceptor, offering consistent support and educational insight through each critical step.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "health-systems",
+          "source_url": "https://www.ossovr.com/health-systems",
+          "quote": "This mode brings learners together virtually to support cohort-based training and gives educators the ability to join and lead group training sessions.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.ossovr.com/",
+          "quote": "Digital-first prebriefings and structured debriefing assessments",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.ossovr.com/",
+          "quote": "Comprehensive learner and supervisor dashboards",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "health-systems",
+          "source_url": "https://www.ossovr.com/health-systems",
+          "quote": "Each VR run builds skills while generating objective performance data to track competency requirements",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.ossovr.com/",
+          "quote": "Our 6 Domains of Excellence\u2122 methodology organizes critical quality and accreditation standards into an easy-to-use framework",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "health-systems",
+          "source_url": "https://www.ossovr.com/health-systems",
+          "quote": "whether you deploy through fleet management tools, integrate with select existing LMS platforms, or manage access centrally",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "how-it-works",
+          "source_url": "https://www.ossovr.com/osso-enterprise",
+          "quote": "Osso can create custom training experiences for any product, procedure or specialty.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "how-it-works",
+          "source_url": "https://www.ossovr.com/osso-enterprise",
+          "quote": "Customize your surgical and procedural modules to include multiple languages",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "how-it-works",
+          "source_url": "https://www.ossovr.com/osso-enterprise",
+          "quote": "Benchmark proficiency and track performance with Osso Analytics, the single global solution for managing real-time data.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "target_customer": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "health-systems",
+          "source_url": "https://www.ossovr.com/health-systems",
+          "quote": "Osso Nurse Training helps health systems maximize training outcomes while minimizing resource strain.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.ossovr.com/",
+          "quote": "The VR healthcare training and assessment platform that gives new grad nurses and healthcare systems radically better ways to scale onboarding",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "about",
+          "source_url": "https://www.ossovr.com/about",
+          "quote": "Today, the platform serves pharma, hospital systems, nursing programs, and sales teams in over 50 countries",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "how-it-works",
+          "source_url": "https://www.ossovr.com/osso-enterprise",
+          "quote": "Osso Enterprise empowers medical device companies with a scalable collaboration platform",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "about",
+          "source_url": "https://www.ossovr.com/about",
+          "quote": "Osso Academy is officially introduced as a VR training offering for academic medical centers and residency programs.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.ossovr.com/",
+          "quote": "gives new grad nurses and healthcare systems radically better ways to scale onboarding",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "value_proposition": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.ossovr.com/",
+          "quote": "Empowering nursing teams to deliver confident, consistent care",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.ossovr.com/",
+          "quote": "Train, assess and scale the procedural skills that matter most across your hospitals and health systems",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "health-systems",
+          "source_url": "https://www.ossovr.com/health-systems",
+          "quote": "Give your nurses a safe, standardized and cost-effective way to practice their skills and give supervisors actionable performance data.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "tagline": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.ossovr.com/",
+          "quote": "Purposeful Practice.\nConfident Care.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "health-systems",
+          "source_url": "https://www.ossovr.com/health-systems",
+          "quote": "Purposeful Practice.\nConfident Care.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "pricing": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.ossovr.com/",
+          "quote": "Contact UsRequest pricing",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    }
+  }
+}

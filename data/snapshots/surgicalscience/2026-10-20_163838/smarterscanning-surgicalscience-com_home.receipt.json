@@ -1,0 +1,15 @@
+{
+  "competitor": "Surgical Science",
+  "requested_url": "https://smarterscanning.surgicalscience.com/",
+  "fetched_at": "2026-10-20T16:41:58-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://smarterscanning.surgicalscience.com/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "Medical ultrasound training simulators",
+  "meta_description": "Explore ultrasound simulators for POCUS, echocardiography, obstetrics, gynaecology, pediatric imaging and ultrasound-guided needling.",
+  "html_bytes": 78771,
+  "text_characters": 5264
+}

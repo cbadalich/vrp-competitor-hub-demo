@@ -1,0 +1,175 @@
+{
+  "competitor": "Arch Virtual",
+  "slug": "archvirtual",
+  "snapshot": "data/snapshots/archvirtual/2026-10-20_163838",
+  "extracted_at": "2026-09-29T19:37:00-06:00",
+  "extracted_by": "Claude Code session, model claude-opus-5-5",
+  "note": "The site appears old: every page footer reads '© Copyright 2019 Arch Virtual', the newest 'Latest Updates' item is dated February 25, 2020, and the hardware named is the Oculus Rift. Values describe what the saved pages say, which may not reflect the company's current offering. Four of the five pages (all but virtual-reality-medical) have an empty META DESCRIPTION. Arch Virtual presents itself as a VR development agency; Acadicus is named as its platform.",
+  "pages_read": [
+    "home",
+    "about",
+    "virtual-reality-medical",
+    "project_airway-lab-medical-training-adtalem-global-education",
+    "project_assp-fall-protection-vr-experience"
+  ],
+  "pages_failed": [],
+  "fields": {
+    "product_category": {
+      "status": "found",
+      "value": "Custom VR (and AR) training and simulation development agency for enterprise and education, including medical and healthcare education, built on its Acadicus VR training platform; also safety training and architectural visualization",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Arch Virtual’s experienced team of developers create AR and VR training and simulation for enterprise and education using our Acadicus platform."
+        },
+        {
+          "page": "virtual-reality-medical",
+          "quote": "Arch Virtual creates quality VR training applications for medical education."
+        },
+        {
+          "page": "about",
+          "quote": "started Arch Virtual as a development agency specifically geared toward creating high quality VR applications for business."
+        }
+      ],
+      "note": "The second quote is the medical page META DESCRIPTION. The about page lists work across 'medical, retail, educational, manufacturing, marketing, engineering, game development and more.'"
+    },
+    "platforms": {
+      "status": "found",
+      "value": [
+        "VR",
+        "AR"
+      ],
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Arch Virtual’s experienced team of developers create AR and VR training and simulation for enterprise and education using our Acadicus platform."
+        },
+        {
+          "page": "home",
+          "quote": "It can be downloaded free, and is compatible with Oculus Rift."
+        }
+      ],
+      "note": "Every project named on the pages read is VR; AR appears only in the homepage sentence quoted above, with no AR project shown. The only headset named is the Oculus Rift (Acadicus and several past projects). The medical page says students can use VR training 'from outside the sim lab or classroom' but names no web or mobile access."
+    },
+    "key_capabilities": {
+      "status": "found",
+      "value": [
+        "Acadicus VR training platform with a library of simulation content",
+        "Multi-user access",
+        "3D spatial recordings",
+        "Live patient interaction",
+        "Scene editing",
+        "Custom VR training app development (for example VR Airway Lab for Adtalem Global Education)",
+        "Learner performance assessment (ASSP Fall Protection VR Experience)",
+        "Deployment support, technical setup, and analytics-driven iteration"
+      ],
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Acadicus provides an expansive library of simulation content."
+        },
+        {
+          "page": "home",
+          "quote": "It provides multi-user access, 3D spatial recordings, live patient interaction, scene editing and more."
+        },
+        {
+          "page": "project_airway-lab-medical-training-adtalem-global-education",
+          "quote": "The VR Airway Lab, developed for Adtalem Global Education, is an immersive 3D virtual reality experience that creates an engaging and effective means of prepare learners for sim lab or mannequin-based training."
+        },
+        {
+          "page": "project_assp-fall-protection-vr-experience",
+          "quote": "Upon completion, each learner’s performance is assessed."
+        },
+        {
+          "page": "virtual-reality-medical",
+          "quote": "We guide you through the steps of deploying this training in your lab, assist with technical setup and help troubleshoot any issues that arise."
+        },
+        {
+          "page": "virtual-reality-medical",
+          "quote": "We gather feedback throughout deployment to gain a better understanding of how the application can be refined and improved with user feedback, exit polls and analytics."
+        }
+      ],
+      "note": "Healthcare projects listed: Airway Lab (Adtalem), GE Healthcare Senographe Pristina mammography, Envision surgery simulation, Embryo Tempus, VR Bone Fracture Reduction (spelled 'Facture' on the page), dental equipment visualization, medical environments. The medical page says the Airway Lab won 'Best in Show at IMSH 2018'. It also mentions 'a revenue share for applications we distribute in our store, coming soon.'"
+    },
+    "target_customer": {
+      "status": "found",
+      "value": "Enterprise and education, with medical education deployments in sim labs, nursing schools and paramedic programs; also safety training organizations, architecture and real estate, and companies needing VR sales and marketing experiences.",
+      "evidence": [
+        {
+          "page": "virtual-reality-medical",
+          "quote": "Deploy virtual reality training in sim labs, nursing schools, paramedic programs and more."
+        },
+        {
+          "page": "home",
+          "quote": "VR training and simulation for enterprise and education"
+        },
+        {
+          "page": "about",
+          "quote": "Arch Virtual develops virtual reality applications and tools for business and education."
+        }
+      ],
+      "note": "The first quote is from the medical page META DESCRIPTION. The second is part of the homepage sentence ('create AR and VR training and simulation for enterprise and education'). Named clients include Adtalem Global Education, GE Healthcare, American Society of Safety Professionals, Texas A&M University and the Sacramento Kings."
+    },
+    "value_proposition": {
+      "status": "found",
+      "value": "Fast, efficient development of measurably effective VR training that lets learners rehearse procedures before the sim lab, saving time and money, supporting remote learning and improving retention.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Acadicus provides a foundation for fast, efficient development and implementation of measurably effective VR training."
+        },
+        {
+          "page": "virtual-reality-medical",
+          "quote": "VR allows students to rehearse medical simulations as many times as needed in order to make the most efficient use of their time in the sim lab."
+        },
+        {
+          "page": "virtual-reality-medical",
+          "quote": "Research indicates greater learning retention from VR-based training over traditional methods [link]."
+        }
+      ],
+      "note": "The Airway Lab page summarizes a pilot study presented at IMSH 2019 that found VR 'on par if not better than' a traditional teaching lab."
+    },
+    "tagline": {
+      "status": "found",
+      "value": "VR Training and Simulation for Education and Enterprise",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Home - Arch Virtual VR Training and Simulation for Education and Enterprise"
+        },
+        {
+          "page": "about",
+          "quote": "About - Arch Virtual VR Training and Simulation for Education and Enterprise"
+        }
+      ],
+      "note": "Repeated as the site-wide TITLE suffix on all five pages; no footer slogan or trademark line exists. Other candidates: homepage first headline after the menu 'VR Training & Simulation'; medical page headline 'VR Training: Medical & Healthcare'."
+    },
+    "pricing": {
+      "status": "found",
+      "value": "Acadicus can be downloaded free. Custom VR development: prices not published; free cost estimate on request.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "It can be downloaded free, and is compatible with Oculus Rift."
+        },
+        {
+          "page": "virtual-reality-medical",
+          "quote": "We Prepare a Cost Estimate for You"
+        },
+        {
+          "page": "virtual-reality-medical",
+          "quote": "Send us a note to learn more or for a free estimate to create your VR training application."
+        }
+      ],
+      "note": "A news item title mentions an 'Acadicus July Sale' (July 9, 2019), which implies paid content or licenses, but no prices are shown. The ASSP Fall Protection app is sold through the ASSP store ('Buy the ASSP Fall Safety App'); no price is shown."
+    }
+  },
+  "carried_forward": {
+    "from_record": "data/records/archvirtual/2026-10-14_094745.json",
+    "at": "2026-10-20T18:12:06-06:00",
+    "reason": "identical page text",
+    "pages_changed": [],
+    "pages_dropped": [],
+    "pages_not_yet_read": []
+  }
+}

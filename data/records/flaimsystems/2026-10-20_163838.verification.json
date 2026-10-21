@@ -1,0 +1,271 @@
+{
+  "record": "data/records/flaimsystems/2026-10-20_163838.json",
+  "checked_at": "2026-10-20T18:14:00-06:00",
+  "results": {
+    "product_category": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "about-us",
+          "source_url": "https://www.flaimsystems.com/about-us",
+          "quote": "FLAIM creates immersive eXtended-Reality (XR) training systems to help first responders, defense teams, and high-risk industry workers prepare more effectively and confidently for real-world emergencies and life-threatening situations",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.flaimsystems.com/",
+          "quote": "Immersive technology training for high-risk environments",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "platforms": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.flaimsystems.com/",
+          "quote": "Powered by high-fidelity VR, multisensory immersion (heat, hose drag, smoke, and haptics), and real-world fire science, FLAIM FTS delivers realistic scenario-based training.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "eod-training",
+          "source_url": "https://flaimsystems.com/eod-training",
+          "quote": "Combine VR headsets, haptic feedback, and real-world replica tools for tactile training.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "fire-extinguisher-training",
+          "source_url": "https://www.flaimsystems.com/fire-extinguisher-training",
+          "quote": "Create a playlist of scenarios relevant to your workplace and assign it the headset.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "key_capabilities": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.flaimsystems.com/",
+          "quote": "multisensory immersion (heat, hose drag, smoke, and haptics)",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "firefighter-training",
+          "source_url": "https://www.flaimsystems.com/firefighter-training",
+          "quote": "Training systems that blends high-fidelity virtual fire scenarios with industry-standard equipment",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.flaimsystems.com/",
+          "quote": "FLAIM FEX incorporates Virtual Reality scenarios, audio and industry replica equipment",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "firefighter-training",
+          "source_url": "https://www.flaimsystems.com/firefighter-training",
+          "quote": "When set-up in multi-user mode FTS can train up to five roles; primary and secondary firefighters and an incident command role.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "firefighter-training",
+          "source_url": "https://www.flaimsystems.com/firefighter-training",
+          "quote": "The team can also share the same scenario from different locations",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.flaimsystems.com/",
+          "quote": "FLAIM\u2019s solutions are connected with Capture, a web-based learner record and analytics platform that enables organizations to capture data and report on training.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "fire-extinguisher-training",
+          "source_url": "https://www.flaimsystems.com/fire-extinguisher-training",
+          "quote": "Capture can be seamlessly integrated into your LMS to support your objectives.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.flaimsystems.com/",
+          "quote": "Achieve objective and repeatable training with live feedback, performance tracking, and After-Action Reviews.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "firefighter-training",
+          "source_url": "https://www.flaimsystems.com/firefighter-training",
+          "quote": "Delivered in 2 rugged cases with only 10 minutes required to set up",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "fire-extinguisher-training",
+          "source_url": "https://www.flaimsystems.com/fire-extinguisher-training",
+          "quote": "\u2714 Sub 2-minute set up",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "fire-extinguisher-training",
+          "source_url": "https://www.flaimsystems.com/fire-extinguisher-training",
+          "quote": "Create a playlist of scenarios relevant to your workplace and assign it the headset.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "about-us",
+          "source_url": "https://www.flaimsystems.com/about-us",
+          "quote": "180+Immersive scenarios",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.flaimsystems.com/",
+          "quote": "Languages\n180+\nImmersive Scenarios",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "eod-training",
+          "source_url": "https://flaimsystems.com/eod-training",
+          "quote": "Scenarios adapt based on trainee decisions, creating unique learning moments every run.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.flaimsystems.com/",
+          "quote": "With real-time performance tracking, After-Action-Review, and dynamic threat placement",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.flaimsystems.com/",
+          "quote": "FLAIM EOD supports industry-standard detectors like the Minelab F3",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "target_customer": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.flaimsystems.com/",
+          "quote": "so firefighters, emergency responders, defense personnel, and high-risk industrial workforces are ready when it matters most",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "about-us",
+          "source_url": "https://www.flaimsystems.com/about-us",
+          "quote": "Our main focus areas include fire and emergency response, defense, resources, energy oil and gas, transportation, and workplace safety",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "firefighter-training",
+          "source_url": "https://www.flaimsystems.com/firefighter-training",
+          "quote": "Advanced extended reality training for mission-critical operations across Army, Navy, and Air Force",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "firefighter-training",
+          "source_url": "https://www.flaimsystems.com/firefighter-training",
+          "quote": "High-fidelity firefighting training for mining, oil & gas, manufacturing, and heavy industry",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "firefighter-training",
+          "source_url": "https://www.flaimsystems.com/firefighter-training",
+          "quote": "Realistic emergency response and fire safety training for aviation, rail, and maritime sectors",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.flaimsystems.com/",
+          "quote": "Immersive XR training solutions for defense and humanitarian demining operations",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "value_proposition": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.flaimsystems.com/",
+          "quote": "FLAIM designs, develops, and deploys immersive technology training systems that use simulation to replicate the conditions of real incidents - so firefighters, emergency responders, defense personnel, and high-risk industrial workforces are ready when it matters most",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.flaimsystems.com/",
+          "quote": "with the skills and confidence to respond to fire emergencies without the logistics, cost, or hazards of traditional live fire training",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "tagline": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.flaimsystems.com/",
+          "quote": "Training for a better tomorrow",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "about-us",
+          "source_url": "https://www.flaimsystems.com/about-us",
+          "quote": "Training for a better tomorrow",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "pricing": {
+      "status": "not_found",
+      "result": "not_found",
+      "problems": [],
+      "evidence": []
+    }
+  }
+}

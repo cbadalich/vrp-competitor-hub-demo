@@ -1,0 +1,175 @@
+{
+  "competitor": "XVR Simulation",
+  "slug": "xvrsim",
+  "snapshot": "data/snapshots/xvrsim/2026-10-20_163838",
+  "extracted_at": "2026-09-29T19:25:00-06:00",
+  "extracted_by": "Claude Code session, model claude-opus-5-5",
+  "note": "www.xvrsim.com redirects to learnprogroup.com/xvr/ (see home.receipt.json final_url); the footer names 'XVR Simulation B.V.' and 'LearnPro eFireservice Limited' and the pages refer to 'LearnPro Group'. The download-product-literature page is a short form page with little content. The track-record counters on home and ambulance pages saved as '0' ('0 K+', '0 +'), so the real figures are not in the saved text.",
+  "pages_read": [
+    "home",
+    "xvr_solutions_xvr-on-scene",
+    "xvr_sectors_ambulance",
+    "xvr_what-is-vr-training",
+    "download-product-literature"
+  ],
+  "pages_failed": [],
+  "fields": {
+    "product_category": {
+      "status": "found",
+      "value": "VR simulation and immersive learning software suite for training emergency services and other safety-critical professionals (fire and rescue, police and security, ambulance, aviation, transport and energy)",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Train smarter with advanced VR simulation software designed for safety and emergency response teams."
+        },
+        {
+          "page": "home",
+          "quote": "XVR combines simulation, immersive learning, and investigation tools in a single, complementary software suite."
+        }
+      ],
+      "note": "Products in the menu: XVR On Scene, RiVR Link, RiVR Fire Investigation & CSI, XVR Expo. Only XVR On Scene has a saved page. The first quote is the homepage META DESCRIPTION."
+    },
+    "platforms": {
+      "status": "found",
+      "value": [
+        "VR"
+      ],
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Enhance the competence and expertise of your staff with our flexible and immersive VR learning and training solutions."
+        },
+        {
+          "page": "xvr_what-is-vr-training",
+          "quote": "Uses VR head‑mounted displays for team‑based reconnaissance and hazard assessment"
+        }
+      ],
+      "note": "The head-mounted display quote describes one customer (Safety Region Drenthe). The XVR On Scene page describes a 'virtual simulation environment' with classroom-based and 'Remote and distributed training' on 'a secure network', but does not say whether learners use headsets, desktop computers or a browser, so Desktop and Web are not listed. The What is VR Training page distinguishes 'passive' and 'active' VR."
+    },
+    "key_capabilities": {
+      "status": "found",
+      "value": [
+        "Instructor-led simulation with instructor control of the scenario",
+        "High-fidelity 3D incident environments",
+        "Scalable scenario complexity and command levels",
+        "Dynamic scenario progression, adjusted in real time by the instructor",
+        "Scenario localisation and customisation by instructors",
+        "Support for assessment and evaluation with repeatable scenarios",
+        "Team and multi-agency exercises in one virtual incident",
+        "Remote and distributed training over a secure network",
+        "Self-led on-rails scenarios",
+        "Ambulance scenarios including mass casualty triage and dispatch"
+      ],
+      "evidence": [
+        {
+          "page": "xvr_solutions_xvr-on-scene",
+          "quote": "All training is guided by the instructor, who defines the learning objectives, controls the scenario, and steers the learning experience before, during, and after the exercise."
+        },
+        {
+          "page": "xvr_solutions_xvr-on-scene",
+          "quote": "Create realistic incident scenes using detailed 3D environments"
+        },
+        {
+          "page": "xvr_solutions_xvr-on-scene",
+          "quote": "Scalable complexity and flexible command levels"
+        },
+        {
+          "page": "xvr_solutions_xvr-on-scene",
+          "quote": "allowing instructors to escalate, de-escalate, or redirect events in real time to support learning goals."
+        },
+        {
+          "page": "xvr_solutions_xvr-on-scene",
+          "quote": "Instructors can build scenarios that reflect local conditions, procedures, and contexts"
+        },
+        {
+          "page": "xvr_solutions_xvr-on-scene",
+          "quote": "Repeatable scenarios and consistent starting conditions make XVR On Scene suitable for structured assessment, feedback, and capability development over time."
+        },
+        {
+          "page": "xvr_solutions_xvr-on-scene",
+          "quote": "Different disciplines train together in a single virtual incident"
+        },
+        {
+          "page": "xvr_solutions_xvr-on-scene",
+          "quote": "Participants and instructors can train together on a secure network from different locations"
+        },
+        {
+          "page": "xvr_solutions_xvr-on-scene",
+          "quote": "Participants play through an on-rails scenario by themselves"
+        },
+        {
+          "page": "xvr_sectors_ambulance",
+          "quote": "Mass casualty incidents and triage exercises"
+        },
+        {
+          "page": "xvr_sectors_ambulance",
+          "quote": "Control room and dispatch decision-making scenarios"
+        }
+      ],
+      "note": "Other scenario types listed on the On Scene page: residential, commercial and high-rise fires, wildfire, CBRN, energy transition fires, road traffic accidents, flooding, terrorism attacks. The home page mentions LearnPro Group's related platforms (ERP, e-learning creation, competency tracking) as separate products."
+    },
+    "target_customer": {
+      "status": "found",
+      "value": "Emergency services and safety-critical organisations worldwide: fire and rescue, police and security, ambulance services and health academies, and aviation, transport and energy; public and private sector.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Designed to train and prepare first responders, emergency services, and other safety-critical professionals worldwide"
+        },
+        {
+          "page": "xvr_sectors_ambulance",
+          "quote": "We work with Ambulance Services & Health Academies to support continuous learning."
+        },
+        {
+          "page": "home",
+          "quote": "Fire and Rescue\nLearn More\nPolice & Security\nAmbulance\nAviation, Transport & Energy"
+        }
+      ],
+      "note": "Named users in testimonials and examples include UK fire and rescue services, Royal Netherlands Marechaussee, Singapore Civil Defence, Airservices Australia, Ottawa International Airport, a German police university and an Estonian security academy."
+    },
+    "value_proposition": {
+      "status": "found",
+      "value": "Safe, repeatable virtual experience of complex, high-risk, low-frequency incidents, so responders practise decision-making and learn from consequences before such incidents happen, with the instructor in control.",
+      "evidence": [
+        {
+          "page": "xvr_solutions_xvr-on-scene",
+          "quote": "XVR On Scene provides a virtual training environment in which emergency responders and other frontline staff can experience complex situations, practise decision‑making, and learn from the consequences – while the instructor remains in control."
+        },
+        {
+          "page": "xvr_what-is-vr-training",
+          "quote": "Discover how high-fidelity training prepares responders for high-risk, low-frequency events in a safe, realistic, and controlled environment."
+        }
+      ],
+      "note": "The What is VR Training page also lists cost and resource benefits ('Reduce reliance on physical training environments, resources, and travel.')."
+    },
+    "tagline": {
+      "status": "found",
+      "value": "Virtual Training. Real Experience.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Virtual Training. Real Experience."
+        },
+        {
+          "page": "xvr_solutions_xvr-on-scene",
+          "quote": "Virtual training – real experience."
+        }
+      ],
+      "note": "Homepage first headline after the menu; the same words recur on the XVR On Scene page with different punctuation and case. Not marked as a trademark. Other candidates: 'Experience it before it happens.' (home); page title 'Training Software For Emergency Services'."
+    },
+    "pricing": {
+      "status": "not_found",
+      "value": null,
+      "evidence": [],
+      "note": "No prices, plans or quote/pricing buttons on the pages read. Calls to action are 'Request a Demo', 'Contact Us' and a literature download form. The What is VR Training page lists 'Cost‑Effective and Resource‑Efficient' as a benefit without figures."
+    }
+  },
+  "carried_forward": {
+    "from_record": "data/records/xvrsim/2026-10-14_094745.json",
+    "at": "2026-10-20T18:12:06-06:00",
+    "reason": "identical page text",
+    "pages_changed": [],
+    "pages_dropped": [],
+    "pages_not_yet_read": []
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "record": "data/records/oms/2026-10-20_163838.json",
+  "checked_at": "2026-10-20T18:14:00-06:00",
+  "results": {
+    "product_category": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://oxfordmedicalsimulation.com/",
+          "quote": "OMS delivers immersive, AI-driven VR healthcare training",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://oxfordmedicalsimulation.com/",
+          "quote": "OMS combines clinical VR training simulations with AI, analytics and hands-on partnership",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://oxfordmedicalsimulation.com/",
+          "quote": "Extensive scenario library covers key competencies across nursing, medicine, and allied health.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "platforms": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "platform",
+          "source_url": "https://oxfordmedicalsimulation.com/platform/",
+          "quote": "Train learners using virtual reality headsets or traditional computer screens",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "platform",
+          "source_url": "https://oxfordmedicalsimulation.com/platform/",
+          "quote": "Compatible with both Mac and Windows operating systems",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "medical-schools",
+          "source_url": "https://oxfordmedicalsimulation.com/medical-schools/",
+          "quote": "It\u2019s particularly beneficial that candidates can engage with desktop scenarios repeatedly.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "key_capabilities": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "platform",
+          "source_url": "https://oxfordmedicalsimulation.com/platform/",
+          "quote": "Advanced communication skills through AI-powered patient and team interactions that build empathy and confidence",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://oxfordmedicalsimulation.com/",
+          "quote": "Extensive scenario library covers key competencies across nursing, medicine, and allied health.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "platform",
+          "source_url": "https://oxfordmedicalsimulation.com/platform/",
+          "quote": "Interprofessional teamwork through collaborative, multi-learner scenarios that support role clarity and coordination",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "platform",
+          "source_url": "https://oxfordmedicalsimulation.com/platform/",
+          "quote": "Procedural and psychomotor skills using precision hand control and haptic feedback to build accuracy and muscle memory",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "platform",
+          "source_url": "https://oxfordmedicalsimulation.com/platform/",
+          "quote": "The platform provides learners with instant feedback when they complete a simulation, enhancing the value of each experience.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "platform",
+          "source_url": "https://oxfordmedicalsimulation.com/platform/",
+          "quote": "Every action is objectively ranked, tracked and explained, with scoring protocols mapped to set skills",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "platform",
+          "source_url": "https://oxfordmedicalsimulation.com/platform/",
+          "quote": "In-depth dashboards allow you to monitor progress toward readiness at the individual, cohort, and site level.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "platform",
+          "source_url": "https://oxfordmedicalsimulation.com/platform/",
+          "quote": "Automatically track alignment with clinical and educational frameworks, providing auditable proof of readiness for practice.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "platform",
+          "source_url": "https://oxfordmedicalsimulation.com/platform/",
+          "quote": "AI-driven scenarios create dynamic, repeatable training experiences with no facilitator input required",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "platform",
+          "source_url": "https://oxfordmedicalsimulation.com/platform/",
+          "quote": "Create new scenarios with OMS Create\u2019s intuitive authoring tools",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "platform",
+          "source_url": "https://oxfordmedicalsimulation.com/platform/",
+          "quote": "SSO Access | LMS Integration | ISO 27001 Compliance",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "target_customer": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "nursing-programs",
+          "source_url": "https://oxfordmedicalsimulation.com/nursing-programs/",
+          "quote": "Get nursing students ready for the real world.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "medical-schools",
+          "source_url": "https://oxfordmedicalsimulation.com/medical-schools/",
+          "quote": "OMS supports medical schools as they work with students to close the gap between theory and practice.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "allied-health-programs",
+          "source_url": "https://oxfordmedicalsimulation.com/allied-health-programs/",
+          "quote": "OMS partners with allied health programs to bridge the gap between classroom instruction and real-world practice.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "onboarding-practice-transition-support",
+          "source_url": "https://oxfordmedicalsimulation.com/onboarding-practice-transition-support/",
+          "quote": "OMS partners with your health system to give new graduates and recent hires the experience they need before they reach the bedside.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "value_proposition": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://oxfordmedicalsimulation.com/",
+          "quote": "OMS combines clinical VR training simulations with AI, analytics and hands-on partnership to ensure your learners build the skills and mindset to meet your clinical reality head-on.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "platform",
+          "source_url": "https://oxfordmedicalsimulation.com/platform/",
+          "quote": "We deliver immersive, flexible simulations that strengthen competence and confidence while giving you a simple, scalable way to offer meaningful, repeatable, consistent training across programs and locations.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "platform",
+          "source_url": "https://oxfordmedicalsimulation.com/platform/",
+          "quote": "Increased training capacity without increasing faculty bandwidth or consuming additional resources",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "tagline": {
+      "status": "not_found",
+      "result": "not_found",
+      "problems": [],
+      "evidence": []
+    },
+    "pricing": {
+      "status": "not_found",
+      "result": "not_found",
+      "problems": [],
+      "evidence": []
+    }
+  }
+}

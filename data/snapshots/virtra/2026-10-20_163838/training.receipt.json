@@ -1,0 +1,15 @@
+{
+  "competitor": "VirTra",
+  "requested_url": "https://www.virtra.com/training/",
+  "fetched_at": "2026-10-20T16:41:44-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.virtra.com/training/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "Training - VirTra Simulated Training",
+  "meta_description": "VirTra Law Enforcement Training courses & Certifications VirTra-Led Courses Available VirTra Training Programs Real-World Training. Real Results. VirTra\u2019s immersive training programs go beyond simulation. We build confident, capable professionals ready for real-life challenges. From law enforcement officers and corrections personnel to military and security professionals, VirTra\u2019s curriculum-based training prepares trainees with the critical skills, decision-making [\u2026]",
+  "html_bytes": 305881,
+  "text_characters": 9350
+}

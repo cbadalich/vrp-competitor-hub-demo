@@ -1,0 +1,15 @@
+{
+  "competitor": "ReelDx",
+  "requested_url": "https://www.reeldx.com/",
+  "fetched_at": "2026-10-20T16:40:31-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.reeldx.com/",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "ReelDx | Improve Clinical Training with Real Patient Cases. Anytime, Anywhere.",
+  "meta_description": "ReelDx brings the clinic right to your device. Students learn from real patients to better prepare them for their exams, clinical rotations, and health care careers.",
+  "html_bytes": 97603,
+  "text_characters": 5985
+}

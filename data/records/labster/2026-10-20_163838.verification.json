@@ -1,0 +1,187 @@
+{
+  "record": "data/records/labster/2026-10-20_163838.json",
+  "checked_at": "2026-10-20T18:14:00-06:00",
+  "results": {
+    "product_category": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "about-us",
+          "source_url": "https://www.labster.com/about-us",
+          "quote": "Labster\u2019s immersive learning platforms for STEM education and nursing simulation allow students to engage in real-world scenarios safely and repeatedly",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "simulation-courses",
+          "source_url": "https://www.labster.com/simulation-courses",
+          "quote": "Enhance nurse training and outcomes through UbiSim's immersive virtual reality.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "platforms": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.labster.com/",
+          "quote": "Higher education STEM programs use Labster to replace passive learning with hands-on virtual labs that improve retention, scale online courses, and prove outcomes.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "about-us",
+          "source_url": "https://www.labster.com/about-us",
+          "quote": "Now, Labster is also redefining nursing education with its virtual reality (VR) nursing simulation product",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "key_capabilities": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "simulations",
+          "source_url": "https://www.labster.com/simulations",
+          "quote": "Browse Our Catalog of 300+ Virtual Labs",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.labster.com/",
+          "quote": "Assign Labster right from your LMS. Explore and select content, and monitor student results, all without having to leave your course page.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "simulations",
+          "source_url": "https://www.labster.com/simulations",
+          "quote": "Syllabus Matching Tool\nFind Your Textbook",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.labster.com/",
+          "quote": "Labster's real-time performance and assessment reports are highlighted as key",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.labster.com/",
+          "quote": "customize quizzes, automate grading, and boost student engagement with interactive labs",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "simulation-skills",
+          "source_url": "https://www.labster.com/simulation-skills",
+          "quote": "Find virtual labs matched to competencies from common frameworks like NGSS, ACS, and AAPT.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "simulations",
+          "source_url": "https://www.labster.com/simulations",
+          "quote": "Our Labster Advanced and Labster Elite plans include a dedicated Customer Success Manager who will work with you to match course syllabi to relevant simulations.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "simulation-courses",
+          "source_url": "https://www.labster.com/simulation-courses",
+          "quote": "Enhance nurse training and outcomes through UbiSim's immersive virtual reality.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.labster.com/",
+          "quote": "Our support team is ready to help you and your students at every step of the process via Live Chat, Help Center, and training courses and guides.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "target_customer": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.labster.com/",
+          "quote": "Higher education STEM programs use Labster",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "discipline_health-sciences",
+          "source_url": "https://www.labster.com/discipline/health-sciences",
+          "quote": "Explore virtual labs for Nursing students, Allied Health students, and Health Sciences students.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "value_proposition": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.labster.com/",
+          "quote": "Labster delivers immersive learning at scale, building the confidence and real-world skills STEM students need to persist, succeed, and thrive beyond the classroom.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.labster.com/",
+          "quote": "Scale hands-on learning beyond lab capacity.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "tagline": {
+      "status": "not_found",
+      "result": "not_found",
+      "problems": [],
+      "evidence": []
+    },
+    "pricing": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "simulations",
+          "source_url": "https://www.labster.com/simulations",
+          "quote": "Every subscription includes access to choose virtual lab simulations that best fit your curriculum.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "simulations",
+          "source_url": "https://www.labster.com/simulations",
+          "quote": "Our Labster Advanced and Labster Elite plans include a dedicated Customer Success Manager",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    }
+  }
+}

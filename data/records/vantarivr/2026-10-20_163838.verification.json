@@ -1,0 +1,222 @@
+{
+  "record": "data/records/vantarivr/2026-10-20_163838.json",
+  "checked_at": "2026-10-20T18:14:00-06:00",
+  "results": {
+    "product_category": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.vantarivr.com/",
+          "quote": "Virtual Reality for HealthCare",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.vantarivr.com/",
+          "quote": "VR procedural training for clinicians, nurses and students",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "vantari-platform",
+          "source_url": "https://www.vantarivr.com/vantari-platform/",
+          "quote": "VR procedural training for medicine and surgery",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "platforms": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.vantarivr.com/",
+          "quote": "practice and perfect life saving procedures in a safe, scalable VR environment.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "vantari-platform",
+          "source_url": "https://www.vantarivr.com/vantari-platform/",
+          "quote": "Don\u2019t have VR hardware? This is what you need!",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "key_capabilities": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "vantari-platform",
+          "source_url": "https://www.vantarivr.com/vantari-platform/",
+          "quote": "Step by step procedural training founded on recommended guidelines",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "vantari-platform",
+          "source_url": "https://www.vantarivr.com/vantari-platform/",
+          "quote": "Vantari Virtual trainer to guide you every step of the way",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "vantari-platform",
+          "source_url": "https://www.vantarivr.com/vantari-platform/",
+          "quote": "Haptic feedback using vibration",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "vantari-platform",
+          "source_url": "https://www.vantarivr.com/vantari-platform/",
+          "quote": "Every piece of medical equipment crafted in detail so it translates to real life",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "vantari-platform",
+          "source_url": "https://www.vantarivr.com/vantari-platform/",
+          "quote": "Data analytics and AI powered insights to hone your skills",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "vantari-platform",
+          "source_url": "https://www.vantarivr.com/vantari-platform/",
+          "quote": "End-to-end performance tracking",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "vantari-platform",
+          "source_url": "https://www.vantarivr.com/vantari-platform/",
+          "quote": "Real-time data feedback and tracking of your procedure",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "vantari-platform",
+          "source_url": "https://www.vantarivr.com/vantari-platform/",
+          "quote": "Exciting profile dashboard that logs your progress and achievements",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.vantarivr.com/",
+          "quote": "Your own personalised logbook",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "vantari-platform",
+          "source_url": "https://www.vantarivr.com/vantari-platform/",
+          "quote": "Global leaderboard to showcase your skills",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "vantari-platform",
+          "source_url": "https://www.vantarivr.com/vantari-platform/",
+          "quote": "Start with our Central Venous Catheter and Chest Drain Insertion software",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "target_customer": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.vantarivr.com/",
+          "quote": "The platform is used by hospitals, universities and medical device organisations across the US, Australia, Europe, Middle East and India.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.vantarivr.com/",
+          "quote": "helping doctors, nurses and students\npractice and perfect life saving procedures",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "vantari-platform",
+          "source_url": "https://www.vantarivr.com/vantari-platform/",
+          "quote": "Free trial of our Vantari Platform for hospitals and universities",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "value_proposition": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "vantari-platform",
+          "source_url": "https://www.vantarivr.com/vantari-platform/",
+          "quote": "Practice Virtually.\nPerform in Reality.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.vantarivr.com/",
+          "quote": "Our vision is to help clinicians practice procedures safely and one day stand beside them as their very own AI Co-Pilot.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.vantarivr.com/",
+          "quote": "Join us on our mission to eliminate medical error and democratise healthcare training.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "tagline": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.vantarivr.com/",
+          "quote": "Virtual Reality for HealthCare",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "vantari-platform",
+          "source_url": "https://www.vantarivr.com/vantari-platform/",
+          "quote": "Virtual Reality for HealthCare",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "pricing": {
+      "status": "not_found",
+      "result": "not_found",
+      "problems": [],
+      "evidence": []
+    }
+  }
+}

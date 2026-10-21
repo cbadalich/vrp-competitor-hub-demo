@@ -1,0 +1,15 @@
+{
+  "competitor": "TI Training",
+  "requested_url": "https://titraining.com/recon/",
+  "fetched_at": "2026-10-20T16:41:35-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://titraining.com/recon/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "RECON Tactical Simulation Training | Ti Training",
+  "meta_description": "Empower your agency with RECON interactive simulators. Scalable use of force and de-escalation training featuring 900+ real-world scenarios. Book now.",
+  "html_bytes": 257368,
+  "text_characters": 6943
+}

@@ -1,0 +1,15 @@
+{
+  "competitor": "GigXR",
+  "requested_url": "https://www.gigxr.com/products/holohuman-plus/",
+  "fetched_at": "2026-10-20T16:40:12-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.gigxr.com/products/holohuman-plus",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "HoloHuman+ \u2014 Full holographic anatomy | GigXR",
+  "meta_description": "Male and female holographic anatomy with 12 layered systems and ~2,500 structures. Walk around, zoom, and isolate structures \u2014 from foundational anatomy to clinical application, with curriculum-mapped session plans.",
+  "html_bytes": 43871,
+  "text_characters": 4826
+}

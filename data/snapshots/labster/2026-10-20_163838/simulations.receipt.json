@@ -1,0 +1,15 @@
+{
+  "competitor": "Labster",
+  "requested_url": "https://www.labster.com/simulations/",
+  "fetched_at": "2026-10-20T16:42:06-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.labster.com/simulations",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "Virtual Lab Simulation Catalog | Labster",
+  "meta_description": "Discover Labster's award-winning virtual lab catalog for skills training and science theory. Browse simulations in Biology, Chemistry, Physics and more.",
+  "html_bytes": 513113,
+  "text_characters": 36747
+}

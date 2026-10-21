@@ -1,0 +1,186 @@
+{
+  "record": "data/records/simpatient-co/2026-10-20_163838.json",
+  "checked_at": "2026-10-20T18:14:00-06:00",
+  "results": {
+    "product_category": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://simpatient.co.uk/",
+          "quote": "AI-simulated communication training, at scale.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://simpatient.co.uk/",
+          "quote": "Author realistic scenarios. GP consultations, interviews, difficult conversations. Grade every interaction against your own rubric.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "platforms": {
+      "status": "not_found",
+      "result": "not_found",
+      "problems": [],
+      "evidence": []
+    },
+    "key_capabilities": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://simpatient.co.uk/",
+          "quote": "The learner consults the patient by text, voice, or live video avatar, and every moment is recorded.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://simpatient.co.uk/",
+          "quote": "Build a simulated scenario in a few guided steps, or generate a complete patient from a single line.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://simpatient.co.uk/",
+          "quote": "So we built the Diversity Engine: a custom model that injects real demographic distributions into the generation pipeline.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://simpatient.co.uk/",
+          "quote": "Calgary-Cambridge and CRI-HT are built in, or tutors can publish and grade against their own, and every section score comes with transcript-cited justification",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pricing",
+          "source_url": "https://simpatient.co.uk/pricing",
+          "quote": "Tutor-in-the-loop review",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://simpatient.co.uk/",
+          "quote": "Each turn is transcribed in full alongside the reflection the learner completes afterwards",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://simpatient.co.uk/",
+          "quote": "Publish the scenario across your organisation, assign it to the right student cohort, and decide exactly who practises what.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pricing",
+          "source_url": "https://simpatient.co.uk/pricing",
+          "quote": "Cohort isolation & SSO",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pricing",
+          "source_url": "https://simpatient.co.uk/pricing",
+          "quote": "Seed scenario library",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pricing",
+          "source_url": "https://simpatient.co.uk/pricing",
+          "quote": "Educator analytics",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "target_customer": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://simpatient.co.uk/",
+          "quote": "For Universities, Medical Schools & Training Bodies",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pricing",
+          "source_url": "https://simpatient.co.uk/pricing",
+          "quote": "Tailored pricing for medical schools, postgraduate training programmes and clinical-skills departments.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "value_proposition": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://simpatient.co.uk/",
+          "quote": "giving every learner an unlimited supply of structured, rubric-graded practice",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://simpatient.co.uk/",
+          "quote": "Simulated patients carry a real per-session cost that scales with every cohort.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "tagline": {
+      "status": "not_found",
+      "result": "not_found",
+      "problems": [],
+      "evidence": []
+    },
+    "pricing": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "pricing",
+          "source_url": "https://simpatient.co.uk/pricing",
+          "quote": "SimPatient is priced per institution, not per seat.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pricing",
+          "source_url": "https://simpatient.co.uk/pricing",
+          "quote": "Users are charged based on the sessions they take, not seats.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "about",
+          "source_url": "https://simpatient.co.uk/about",
+          "quote": "All pricing is per-organisation and includes unlimited learners. Get tailored pricing on the call.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    }
+  }
+}

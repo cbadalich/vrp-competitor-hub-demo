@@ -1,0 +1,15 @@
+{
+  "competitor": "VRpatients",
+  "requested_url": "https://vrpatients.com/emergency-responders/",
+  "fetched_at": "2026-10-20T16:39:17-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://vrpatients.com/emergency-responders/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "Virtual Reality EMS Education | EMS Simulation Platform",
+  "meta_description": "Transform EMS education with virtual reality simulation. Train EMTs and paramedics with realistic scenarios anytime using VRpatients platform.",
+  "html_bytes": 273930,
+  "text_characters": 6324
+}

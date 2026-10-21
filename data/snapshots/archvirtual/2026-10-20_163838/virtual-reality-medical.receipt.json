@@ -1,0 +1,15 @@
+{
+  "competitor": "Arch Virtual",
+  "requested_url": "https://archvirtual.com/virtual-reality-medical/",
+  "fetched_at": "2026-10-20T16:38:56-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://archvirtual.com/virtual-reality-medical/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "VR Training \u2013 Medical - Arch Virtual VR Training and Simulation for Education and Enterprise",
+  "meta_description": "Arch Virtual creates quality VR training applications for medical education. Deploy virtual reality training in sim labs, nursing schools, paramedic programs and more.",
+  "html_bytes": 379586,
+  "text_characters": 6924
+}

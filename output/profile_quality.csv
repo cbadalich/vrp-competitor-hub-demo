@@ -1,48 +1,48 @@
 ﻿company,type,status,reasons,confirmed_at,age_days,extracted_at,found,unclear,not_found,pages_read,failed_or_weak,check,notes,record
-VRpatients,Self,Strong,,2026-10-14T09:47:45-06:00,6,2026-09-23T10:12:34-06:00,7,0,0,7,0,passed,,data/records/vrpatients/2026-10-14_094745.json
-SimX,1st Degree,Strong,,2026-10-14T09:47:45-06:00,6,2026-09-23T10:12:52-0600,7,0,0,9,0,passed,,data/records/simx/2026-10-14_094745.json
-UbiSim,1st Degree,Strong,,2026-10-14T09:47:45-06:00,6,2026-10-13T18:45:00-06:00,7,0,0,10,0,passed,,data/records/ubisim/2026-10-14_094745.json
-Oxford Medical Simulation,1st Degree,Strong,,2026-10-14T09:47:45-06:00,6,2026-09-23T10:13:02-06:00,5,0,2,8,0,passed,,data/records/oms/2026-10-14_094745.json
-360 Immersive,3rd Degree,Partial,only 2 distinct pages read,2026-10-14T09:47:45-06:00,6,2026-09-29T19:12:00-06:00,7,0,0,2,0,passed,,data/records/360immersive/2026-10-14_094745.json
-3B Scientific,2nd Degree,Strong,,2026-10-14T09:47:45-06:00,6,2026-09-29T19:18:00-06:00,5,1,1,5,0,passed,,data/records/3bscientific/2026-10-14_094745.json
-4Experience,3rd Degree,Strong,,2026-10-14T09:47:45-06:00,6,2026-09-29T19:24:00-06:00,7,0,0,5,0,passed,,data/records/4experience/2026-10-14_094745.json
-Aquifer,2nd Degree,Strong,,2026-10-14T09:47:45-06:00,6,2026-09-29T19:31:00-06:00,6,1,0,5,0,passed,,data/records/aquifer/2026-10-14_094745.json
-Arch Virtual,1st Degree,Strong,,2026-10-14T09:47:58-06:00,6,2026-09-29T19:37:00-06:00,7,0,0,5,0,passed,,data/records/archvirtual/2026-10-14_094745.json
+VRpatients,Self,Strong,,2026-10-20T16:38:38-06:00,0,2026-09-23T10:12:34-06:00,7,0,0,7,0,passed,,data/records/vrpatients/2026-10-20_163838.json
+SimX,1st Degree,Strong,,2026-10-20T16:38:38-06:00,0,2026-09-23T10:12:52-0600,7,0,0,9,0,passed,,data/records/simx/2026-10-20_163838.json
+UbiSim,1st Degree,Strong,,2026-10-20T16:38:38-06:00,0,2026-10-20T18:13:52-06:00,7,0,0,10,0,passed,,data/records/ubisim/2026-10-20_163838.json
+Oxford Medical Simulation,1st Degree,Strong,,2026-10-20T16:38:38-06:00,0,2026-09-23T10:13:02-06:00,5,0,2,8,0,passed,,data/records/oms/2026-10-20_163838.json
+360 Immersive,3rd Degree,Partial,only 2 distinct pages read,2026-10-20T16:38:38-06:00,0,2026-09-29T19:12:00-06:00,7,0,0,2,0,passed,,data/records/360immersive/2026-10-20_163838.json
+3B Scientific,2nd Degree,Strong,,2026-10-20T16:38:38-06:00,0,2026-09-29T19:18:00-06:00,5,1,1,5,0,passed,,data/records/3bscientific/2026-10-20_163838.json
+4Experience,3rd Degree,Strong,,2026-10-20T16:38:38-06:00,0,2026-09-29T19:24:00-06:00,7,0,0,5,0,passed,,data/records/4experience/2026-10-20_163838.json
+Aquifer,2nd Degree,Strong,,2026-10-20T16:38:38-06:00,0,2026-09-29T19:31:00-06:00,6,1,0,5,0,passed,,data/records/aquifer/2026-10-20_163838.json
+Arch Virtual,1st Degree,Strong,,2026-10-20T16:38:51-06:00,0,2026-09-29T19:37:00-06:00,7,0,0,5,0,passed,,data/records/archvirtual/2026-10-20_163838.json
 Body Interact,2nd Degree,Partial,"only 1 distinct page read; 5 tracked pages failed or saved little text in the latest fetch (app-download, blog_ai-driven-conversations-virtual-patient, home, nursing, virtual-patient-simulator)",2026-10-14T09:05:52-06:00,6,2026-10-14T09:09:47-06:00,4,1,2,1,5,passed,,data/records/bodyinteract/2026-10-14_090552_r2.json
-Elevate Healthcare,2nd Degree,Strong,,2026-10-14T09:48:28-06:00,6,2026-09-29T19:45:00-06:00,5,1,1,5,0,passed,,data/records/elevatehealth/2026-10-14_094745.json
-Elsevier,1st Degree,Partial,only 2 distinct pages read; 1 tracked page failed or saved little text in the latest fetch (home),2026-10-14T09:48:32-06:00,6,2026-09-29T19:09:51-06:00,5,0,2,2,1,passed,,data/records/evolve-elsevier/2026-10-14_094745.json
-FLAIM Systems,3rd Degree,Partial,1 tracked page failed or saved little text in the latest fetch (fire-extinguisher-training),2026-10-13T18:36:04-06:00,6,2026-10-13T18:52:00-06:00,6,0,1,5,1,passed,,data/records/flaimsystems/2026-10-13_183515.json
-FundamentalVR,1st Degree,Strong,,2026-10-14T09:48:44-06:00,6,2026-10-13T18:58:00-06:00,6,0,1,3,0,passed,,data/records/fundamentalvr/2026-10-14_094745.json
+Elevate Healthcare,2nd Degree,Strong,,2026-10-20T16:39:21-06:00,0,2026-09-29T19:45:00-06:00,5,1,1,5,0,passed,,data/records/elevatehealth/2026-10-20_163838.json
+Elsevier,1st Degree,Partial,only 2 distinct pages read; 1 tracked page failed or saved little text in the latest fetch (home),2026-10-20T16:39:25-06:00,0,2026-09-29T19:09:51-06:00,5,0,2,2,1,passed,,data/records/evolve-elsevier/2026-10-20_163838.json
+FLAIM Systems,3rd Degree,Strong,,2026-10-20T16:39:35-06:00,0,2026-10-13T18:52:00-06:00,6,0,1,5,0,passed,,data/records/flaimsystems/2026-10-20_163838.json
+FundamentalVR,1st Degree,Strong,,2026-10-20T16:39:39-06:00,0,2026-10-13T18:58:00-06:00,6,0,1,3,0,passed,,data/records/fundamentalvr/2026-10-20_163838.json
 Gaumard,2nd Degree,Partial,"only 1 distinct page read; 5 tracked pages failed or saved little text in the latest fetch (about, gaumard-software, hal-s5301, home, obstetric-mr)",2026-10-14T09:05:52-06:00,6,2026-10-14T09:09:47-06:00,5,1,1,1,5,passed,,data/records/gaumard/2026-10-14_090552_r2.json
-GigXR,1st Degree,Strong,,2026-10-14T09:48:57-06:00,6,2026-09-29T19:11:04-06:00,6,0,1,5,0,passed,,data/records/gigxr/2026-10-14_094745.json
-i-Human Patients,2nd Degree,Strong,,2026-10-15T18:14:24-06:00,4,2026-10-15T18:59:30-06:00,5,0,2,3,0,passed,,data/records/i-human/2026-10-15_181424_r2.json
-Immertec,2nd Degree,Strong,,2026-10-14T09:49:08-06:00,6,2026-09-29T19:11:04-06:00,6,0,1,5,0,passed,,data/records/immertec/2026-10-14_094745.json
-InVeris Training Solutions,3rd Degree,Strong,,2026-10-14T09:49:08-06:00,6,2026-09-29T19:15:00-06:00,5,0,2,5,0,passed,,data/records/inveristraining/2026-10-14_094745.json
-Laerdal Medical,2nd Degree,Strong,,2026-10-14T11:04:10-06:00,6,2026-09-29T19:32:00-06:00,5,0,2,4,0,passed,,data/records/laerdal/2026-10-14_110410.json
-Medcognition,1st Degree,Partial,only 2 distinct pages read,2026-10-14T09:49:20-06:00,6,2026-09-29T19:20:00-06:00,7,0,0,2,0,passed,,data/records/medcognition/2026-10-14_094745.json
-MedVision,2nd Degree,Strong,,2026-10-14T09:49:31-06:00,6,2026-10-13T19:05:00-06:00,6,1,0,4,0,passed,,data/records/medvisionsim/2026-10-14_094745.json
-MedVR Education,1st Degree,Partial,only 1 distinct page read,2026-10-14T09:49:34-06:00,6,2026-09-29T19:25:00-06:00,6,0,1,1,0,passed,,data/records/medvr/2026-10-14_094745.json
-Nasco Healthcare,1st Degree,Strong,,2026-10-14T09:49:35-06:00,6,2026-09-29T19:48:00-06:00,7,0,0,5,0,passed,,data/records/nascohealthcare/2026-10-14_094745.json
-Osso VR,1st Degree,Strong,,2026-10-14T09:49:37-06:00,6,2026-09-29T19:10:00-06:00,7,0,0,5,0,passed,,data/records/ossovr/2026-10-14_094745.json
-ReelDx,2nd Degree,Partial,1 tracked page failed or saved little text in the latest fetch (pricing),2026-10-14T09:49:40-06:00,6,2026-09-29T19:12:00-06:00,6,1,0,3,1,passed,,data/records/reeldx/2026-10-14_094745.json
-Sentinel U,2nd Degree,Strong,,2026-10-14T09:49:51-06:00,6,2026-09-29T19:14:00-06:00,5,1,1,5,0,passed,,data/records/sentinelu/2026-10-14_094745.json
-SimCare AI,2nd Degree,Strong,,2026-10-14T09:49:55-06:00,6,2026-09-29T19:16:00-06:00,7,0,0,3,0,passed,,data/records/simcare/2026-10-14_094745.json
-SimForHealth,2nd Degree,Strong,,2026-10-14T09:49:58-06:00,6,2026-09-29T19:18:00-06:00,6,1,0,4,0,passed,,data/records/simforhealth/2026-10-14_094745.json
-SimLab Soft,3rd Degree,Partial,"only 2 distinct pages read; 3 tracked pages failed or saved little text in the latest fetch (3d-products_simlab-composer-15-whats-new.aspx, 3d-products_simlab-composer-main.aspx, 3d-products_vr-studio-15-whats-new.aspx)",2026-10-14T09:49:58-06:00,6,2026-09-29T19:22:00-06:00,7,0,0,2,3,passed,,data/records/simlab-soft/2026-10-14_094745.json
-Skillup VR,1st Degree,Strong,,2026-10-14T09:50:04-06:00,6,2026-10-13T19:54:28-06:00,5,0,2,4,0,passed,,data/records/skillup4u/2026-10-14_094745.json
-Street Smarts VR,3rd Degree,Partial,only 1 distinct page read,2026-10-14T09:50:17-06:00,6,2026-09-29T19:10:00-06:00,5,0,2,1,0,passed,,data/records/streetsmartsvr/2026-10-14_094745.json
-Surgical Science,2nd Degree,Strong,,2026-10-14T09:50:18-06:00,6,2026-10-14T09:07:33-06:00,6,0,1,6,0,passed,,data/records/surgicalscience/2026-10-14_094745.json
-TACMED Australia,2nd Degree,Strong,,2026-10-14T09:50:20-06:00,6,2026-09-29T19:15:00-06:00,7,0,0,5,0,passed,,data/records/tacmed-com/2026-10-14_094745.json
-TI Training,3rd Degree,Strong,,2026-10-14T11:02:02-06:00,6,2026-09-29T19:18:00-06:00,6,0,1,5,0,passed,,data/records/titraining/2026-10-14_110202.json
-VirTra,3rd Degree,Strong,,2026-10-14T09:50:22-06:00,6,2026-09-29T19:22:00-06:00,6,1,0,5,0,passed,,data/records/virtra/2026-10-14_094745.json
-XVR Simulation,1st Degree,Partial,1 tracked page failed or saved little text in the latest fetch (download-product-literature),2026-10-14T09:50:35-06:00,6,2026-09-29T19:25:00-06:00,6,0,1,5,1,passed,,data/records/xvrsim/2026-10-14_094745.json
-Intulect,1st Degree,Strong,,2026-10-14T09:50:35-06:00,6,2026-10-13T18:25:00-06:00,7,0,0,3,0,passed,,data/records/intulect/2026-10-14_094745.json
-ORamaVR,1st Degree,Strong,,2026-10-14T09:50:42-06:00,6,2026-10-13T18:25:00-06:00,7,0,0,3,0,passed,,data/records/oramavr/2026-10-14_094745.json
-UpSkillAI,1st Degree,Strong,,2026-10-14T09:50:47-06:00,6,2026-10-13T18:25:00-06:00,5,1,1,5,0,passed,,data/records/upskillai/2026-10-14_094745.json
-Vantari VR,1st Degree,Strong,,2026-10-14T09:50:57-06:00,6,2026-10-13T18:25:00-06:00,6,0,1,4,0,passed,,data/records/vantarivr/2026-10-14_094745.json
-Virti,1st Degree,Strong,,2026-10-14T09:51:04-06:00,6,2026-10-13T18:25:00-06:00,7,0,0,6,0,passed,,data/records/virti/2026-10-14_094745.json
-AvKin,2nd Degree,Strong,,2026-10-15T18:03:19-06:00,4,2026-10-15T18:06:02-06:00,5,1,1,4,0,passed,,data/records/avkin/2026-10-15_180319.json
-Labster,2nd Degree,Strong,,2026-10-15T18:02:04-06:00,4,2026-10-15T18:06:40-06:00,6,0,1,6,0,passed,,data/records/labster/2026-10-15_180204.json
-MedisimVR,1st Degree,Strong,,2026-10-15T18:03:19-06:00,4,2026-10-15T18:05:10-06:00,5,0,2,5,0,passed,,data/records/medisimvr/2026-10-15_180319.json
-PCS,1st Degree,Strong,,2026-10-15T18:03:19-06:00,4,2026-10-15T18:04:42-06:00,6,0,1,3,0,passed,,data/records/pcs/2026-10-15_180319.json
-SimPatient,2nd Degree,Partial,not stated on the pages checked: platforms,2026-10-15T18:02:04-06:00,4,2026-10-15T18:05:36-06:00,5,0,2,3,0,passed,,data/records/simpatient-co/2026-10-15_180204.json
+GigXR,1st Degree,Strong,,2026-10-20T16:39:51-06:00,0,2026-09-29T19:11:04-06:00,6,0,1,5,0,passed,,data/records/gigxr/2026-10-20_163838.json
+i-Human Patients,2nd Degree,Strong,,2026-10-20T16:39:56-06:00,0,2026-10-15T18:59:30-06:00,5,0,2,3,0,passed,,data/records/i-human/2026-10-20_163838.json
+Immertec,2nd Degree,Strong,,2026-10-20T16:40:00-06:00,0,2026-09-29T19:11:04-06:00,6,0,1,5,0,passed,,data/records/immertec/2026-10-20_163838.json
+InVeris Training Solutions,3rd Degree,Strong,,2026-10-20T16:40:03-06:00,0,2026-09-29T19:15:00-06:00,5,0,2,5,0,passed,,data/records/inveristraining/2026-10-20_163838.json
+Laerdal Medical,2nd Degree,Strong,,2026-10-20T16:40:03-06:00,0,2026-09-29T19:32:00-06:00,5,0,2,4,0,passed,,data/records/laerdal/2026-10-20_163838.json
+Medcognition,1st Degree,Partial,"only 2 distinct pages read; 2 tracked pages failed or saved little text in the latest fetch (about-us, home)",2026-10-14T09:49:20-06:00,6,2026-09-29T19:20:00-06:00,7,0,0,2,2,passed,,data/records/medcognition/2026-10-14_094745.json
+MedVision,2nd Degree,Strong,,2026-10-20T16:40:20-06:00,0,2026-10-13T19:05:00-06:00,6,1,0,4,0,passed,,data/records/medvisionsim/2026-10-20_163838.json
+MedVR Education,1st Degree,Partial,only 1 distinct page read,2026-10-20T16:40:23-06:00,0,2026-09-29T19:25:00-06:00,6,0,1,1,0,passed,,data/records/medvr/2026-10-20_163838.json
+Nasco Healthcare,1st Degree,Strong,,2026-10-20T16:40:24-06:00,0,2026-09-29T19:48:00-06:00,7,0,0,5,0,passed,,data/records/nascohealthcare/2026-10-20_163838.json
+Osso VR,1st Degree,Strong,,2026-10-20T16:40:29-06:00,0,2026-10-20T18:13:52-06:00,7,0,0,5,0,passed,,data/records/ossovr/2026-10-20_163838.json
+ReelDx,2nd Degree,Partial,1 tracked page failed or saved little text in the latest fetch (pricing),2026-10-20T16:40:31-06:00,0,2026-09-29T19:12:00-06:00,6,1,0,3,1,passed,,data/records/reeldx/2026-10-20_163838.json
+Sentinel U,2nd Degree,Strong,,2026-10-20T16:40:34-06:00,0,2026-09-29T19:14:00-06:00,5,1,1,5,0,passed,,data/records/sentinelu/2026-10-20_163838.json
+SimCare AI,2nd Degree,Strong,,2026-10-20T16:40:38-06:00,0,2026-09-29T19:16:00-06:00,7,0,0,3,0,passed,,data/records/simcare/2026-10-20_163838.json
+SimForHealth,2nd Degree,Strong,,2026-10-20T16:40:43-06:00,0,2026-09-29T19:18:00-06:00,6,1,0,4,0,passed,,data/records/simforhealth/2026-10-20_163838.json
+SimLab Soft,3rd Degree,Partial,"only 2 distinct pages read; 3 tracked pages failed or saved little text in the latest fetch (3d-products_simlab-composer-15-whats-new.aspx, 3d-products_simlab-composer-main.aspx, 3d-products_vr-studio-15-whats-new.aspx)",2026-10-20T16:40:53-06:00,0,2026-09-29T19:22:00-06:00,7,0,0,2,3,passed,,data/records/simlab-soft/2026-10-20_163838.json
+Skillup VR,1st Degree,Strong,,2026-10-20T16:40:55-06:00,0,2026-10-13T19:54:28-06:00,5,0,2,4,0,passed,,data/records/skillup4u/2026-10-20_163838.json
+Street Smarts VR,3rd Degree,Partial,only 1 distinct page read,2026-10-20T16:41:00-06:00,0,2026-09-29T19:10:00-06:00,5,0,2,1,0,passed,,data/records/streetsmartsvr/2026-10-20_163838.json
+Surgical Science,2nd Degree,Strong,,2026-10-20T16:41:02-06:00,0,2026-10-14T09:07:33-06:00,6,0,1,6,0,passed,,data/records/surgicalscience/2026-10-20_163838.json
+TACMED Australia,2nd Degree,Strong,,2026-10-20T16:41:08-06:00,0,2026-09-29T19:15:00-06:00,7,0,0,5,0,passed,,data/records/tacmed-com/2026-10-20_163838.json
+TI Training,3rd Degree,Strong,,2026-10-20T16:41:12-06:00,0,2026-09-29T19:18:00-06:00,6,0,1,5,0,passed,,data/records/titraining/2026-10-20_163838.json
+VirTra,3rd Degree,Strong,,2026-10-20T16:41:13-06:00,0,2026-09-29T19:22:00-06:00,6,1,0,5,0,passed,,data/records/virtra/2026-10-20_163838.json
+XVR Simulation,1st Degree,Partial,1 tracked page failed or saved little text in the latest fetch (download-product-literature),2026-10-20T16:41:17-06:00,0,2026-09-29T19:25:00-06:00,6,0,1,5,1,passed,,data/records/xvrsim/2026-10-20_163838.json
+Intulect,1st Degree,Strong,,2026-10-20T16:41:20-06:00,0,2026-10-13T18:25:00-06:00,7,0,0,3,0,passed,,data/records/intulect/2026-10-20_163838.json
+ORamaVR,1st Degree,Strong,,2026-10-20T16:41:34-06:00,0,2026-10-13T18:25:00-06:00,7,0,0,3,0,passed,,data/records/oramavr/2026-10-20_163838.json
+UpSkillAI,1st Degree,Strong,,2026-10-20T16:41:37-06:00,0,2026-10-13T18:25:00-06:00,5,1,1,5,0,passed,,data/records/upskillai/2026-10-20_163838.json
+Vantari VR,1st Degree,Strong,,2026-10-20T16:41:41-06:00,0,2026-10-13T18:25:00-06:00,6,0,1,4,0,passed,,data/records/vantarivr/2026-10-20_163838.json
+Virti,1st Degree,Strong,,2026-10-20T16:41:54-06:00,0,2026-10-13T18:25:00-06:00,7,0,0,6,0,passed,,data/records/virti/2026-10-20_163838.json
+AvKin,2nd Degree,Strong,,2026-10-20T16:41:54-06:00,0,2026-10-15T18:06:02-06:00,5,1,1,4,0,passed,,data/records/avkin/2026-10-20_163838.json
+Labster,2nd Degree,Strong,,2026-10-20T16:41:56-06:00,0,2026-10-15T18:06:40-06:00,6,0,1,6,0,passed,,data/records/labster/2026-10-20_163838.json
+MedisimVR,1st Degree,Strong,,2026-10-20T16:41:58-06:00,0,2026-10-15T18:05:10-06:00,5,0,2,5,0,passed,,data/records/medisimvr/2026-10-20_163838.json
+PCS,1st Degree,Strong,,2026-10-20T16:41:59-06:00,0,2026-10-15T18:04:42-06:00,6,0,1,3,0,passed,,data/records/pcs/2026-10-20_163838.json
+SimPatient,2nd Degree,Partial,not stated on the pages checked: platforms,2026-10-20T16:42:07-06:00,0,2026-10-15T18:05:36-06:00,5,0,2,3,0,passed,,data/records/simpatient-co/2026-10-20_163838.json

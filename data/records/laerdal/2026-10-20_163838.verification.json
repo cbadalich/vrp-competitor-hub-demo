@@ -1,0 +1,200 @@
+{
+  "record": "data/records/laerdal/2026-10-20_163838.json",
+  "checked_at": "2026-10-20T18:14:00-06:00",
+  "results": {
+    "product_category": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "us",
+          "source_url": "https://www.laerdal.com/us/",
+          "quote": "Laerdal Medical is a world leading provider of training, educational and therapy products for lifesaving and emergency medical care.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "us",
+          "source_url": "https://www.laerdal.com/us/",
+          "quote": "Medical simulators\nEverything needed to plan, operate, and scale simulation.\nSimulation software\nManage, assess, and debrief simulation training.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "us_products_courses-learning_virtual-simulation",
+          "source_url": "https://www.laerdal.com/us/products/courses-learning/virtual-simulation/",
+          "quote": "Laerdal's virtual healthcare simulation solutions offer interactive, realistic experiences that help students achieve these goals.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "platforms": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "us_products_courses-learning_virtual-simulation",
+          "source_url": "https://www.laerdal.com/us/products/courses-learning/virtual-simulation/",
+          "quote": "Allows for learners to interact in a safe, virtual, and realistic online environment with our virtual simulation solutions.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "us_information_help-nursing-students-develop-clinical-reasoning-skills-competence-and-confidence-with-vsim-for-nursing",
+          "source_url": "https://www.laerdal.com/us/information/help-nursing-students-develop-clinical-reasoning-skills-competence-and-confidence-with-vsim-for-nursing/",
+          "quote": "virtual simulation, a method of treating patients via eLearning",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "us",
+          "source_url": "https://www.laerdal.com/us/",
+          "quote": "Manikins for high-performance CPR and community responders.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "key_capabilities": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "us_information_help-nursing-students-develop-clinical-reasoning-skills-competence-and-confidence-with-vsim-for-nursing",
+          "source_url": "https://www.laerdal.com/us/information/help-nursing-students-develop-clinical-reasoning-skills-competence-and-confidence-with-vsim-for-nursing/",
+          "quote": "vSim for Nursing, co-developed by Laerdal Medical and Wolters Kluwer, helps prepare for and reinforce the lessons of high-fidelity patient simulators.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "us_information_help-nursing-students-develop-clinical-reasoning-skills-competence-and-confidence-with-vsim-for-nursing",
+          "source_url": "https://www.laerdal.com/us/information/help-nursing-students-develop-clinical-reasoning-skills-competence-and-confidence-with-vsim-for-nursing/",
+          "quote": "Featuring scenarios authored by the NLN, vSim for Nursing provides virtual simulation solutions for:",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "us_information_help-nursing-students-develop-clinical-reasoning-skills-competence-and-confidence-with-vsim-for-nursing",
+          "source_url": "https://www.laerdal.com/us/information/help-nursing-students-develop-clinical-reasoning-skills-competence-and-confidence-with-vsim-for-nursing/",
+          "quote": "Let us guide you through the different vSim for Nursing courses, instructor tools, and usage models.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "us_products_courses-learning_virtual-simulation",
+          "source_url": "https://www.laerdal.com/us/products/courses-learning/virtual-simulation/",
+          "quote": "Designed for individual and team-based learning, these tools present a variety of clinical scenarios that mirror real-world challenges in a safe, controlled environment.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "us",
+          "source_url": "https://www.laerdal.com/us/",
+          "quote": "Meet our new SimJunior\u00ae\nClinically real. Easy to run. Built to last.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "us",
+          "source_url": "https://www.laerdal.com/us/",
+          "quote": "Simulation software\nManage, assess, and debrief simulation training.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "us",
+          "source_url": "https://www.laerdal.com/us/",
+          "quote": "Manikins for high-performance CPR and community responders.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "us",
+          "source_url": "https://www.laerdal.com/us/",
+          "quote": "Samaritan brings clarity, efficiency, and intelligence to our products by seamlessly integrating the right AI solutions.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "us",
+          "source_url": "https://www.laerdal.com/us/",
+          "quote": "From on-site training to installation, maintenance, and more.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "target_customer": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "us",
+          "source_url": "https://www.laerdal.com/us/",
+          "quote": "Laerdal products and solutions are used by hospitals, universities, first responders, and laypeople to help save lives and improve patient outcomes.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "us_information_help-nursing-students-develop-clinical-reasoning-skills-competence-and-confidence-with-vsim-for-nursing",
+          "source_url": "https://www.laerdal.com/us/information/help-nursing-students-develop-clinical-reasoning-skills-competence-and-confidence-with-vsim-for-nursing/",
+          "quote": "In a safe, realistic environment, nursing students hone their prioritization, clinical reasoning, and decision-making skills.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "us_solutions",
+          "source_url": "https://www.laerdal.com/us/solutions/",
+          "quote": "empower your learners \u2013 whether they\u2019re bystanders or professional responders \u2013 with the lifesaving skills",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "value_proposition": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "us_products_courses-learning_virtual-simulation",
+          "source_url": "https://www.laerdal.com/us/products/courses-learning/virtual-simulation/",
+          "quote": "High-quality patient care requires comprehensive, diverse, and repeated training to develop clinical reasoning and skills.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "us_information_help-nursing-students-develop-clinical-reasoning-skills-competence-and-confidence-with-vsim-for-nursing",
+          "source_url": "https://www.laerdal.com/us/information/help-nursing-students-develop-clinical-reasoning-skills-competence-and-confidence-with-vsim-for-nursing/",
+          "quote": "Engaging in virtual simulation scenarios, students develop clinical reasoning skills, competence, and confidence as they care for the patient.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "us_solutions",
+          "source_url": "https://www.laerdal.com/us/solutions/",
+          "quote": "Prepare learners to be practice-ready by equipping them with the crucial knowledge, skills, and attitudes required for real-world healthcare environments.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "tagline": {
+      "status": "not_found",
+      "result": "not_found",
+      "problems": [],
+      "evidence": []
+    },
+    "pricing": {
+      "status": "not_found",
+      "result": "not_found",
+      "problems": [],
+      "evidence": []
+    }
+  }
+}

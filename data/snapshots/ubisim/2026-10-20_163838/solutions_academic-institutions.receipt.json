@@ -1,0 +1,15 @@
+{
+  "competitor": "UbiSim",
+  "requested_url": "https://www.ubisimvr.com/solutions/academic-institutions/",
+  "fetched_at": "2026-10-20T16:39:41-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.ubisimvr.com/solutions/academic-institutions",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "VR Nursing Simulation for BSN Programs | UbiSim",
+  "meta_description": "See how BSN programs use UbiSim VR to scale hands-on clinical practice, build clinical judgment, and prepare students for the NCLEX-RN\u00ae. Built by nurses.",
+  "html_bytes": 199710,
+  "text_characters": 5118
+}

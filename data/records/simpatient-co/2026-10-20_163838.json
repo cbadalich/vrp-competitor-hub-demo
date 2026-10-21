@@ -1,0 +1,160 @@
+{
+  "competitor": "SimPatient",
+  "slug": "simpatient-co",
+  "snapshot": "data/snapshots/simpatient-co/2026-10-20_163838",
+  "extracted_at": "2026-10-15T18:05:36-06:00",
+  "extracted_by": "Claude Code session, model claude-opus-5-5",
+  "note": "Built at the University of St Andrews School of Medicine, per the homepage ('Backed by University of St Andrews'). Research cited on the homepage is the company's own; papers are linked but not saved.",
+  "pages_read": [
+    "about",
+    "home",
+    "pricing"
+  ],
+  "pages_failed": [],
+  "fields": {
+    "product_category": {
+      "status": "found",
+      "value": "AI-simulated patient platform for communication and history-taking training in medical education, with scenario authoring and rubric-based grading.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "AI-simulated communication training, at scale."
+        },
+        {
+          "page": "home",
+          "quote": "Author realistic scenarios. GP consultations, interviews, difficult conversations. Grade every interaction against your own rubric."
+        }
+      ],
+      "note": ""
+    },
+    "platforms": {
+      "status": "not_found",
+      "value": null,
+      "evidence": [],
+      "note": "The pages describe text, voice and live video avatar modes ('The learner consults the patient by text, voice, or live video avatar') and 'PRACTICE ANYWHERE, ANY TIME', but do not say whether learners use a browser, an app or a headset. No headset term appears on the 3 pages read."
+    },
+    "key_capabilities": {
+      "status": "found",
+      "value": [
+        "Text, voice and live video avatar consultations with AI patients",
+        "Scenario authoring in guided steps, or a full patient generated from a single line",
+        "Diversity Engine for representative patient personas",
+        "Grading against Calgary-Cambridge, CRI-HT or the educator's own rubric, with transcript-cited justification",
+        "Tutor-in-the-loop review",
+        "Full transcripts and learner reflections captured for grading",
+        "Assign scenarios to cohorts and groups; drafts stay private until published",
+        "Cohort isolation and SSO",
+        "Seed scenario library",
+        "Educator analytics"
+      ],
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "The learner consults the patient by text, voice, or live video avatar, and every moment is recorded."
+        },
+        {
+          "page": "home",
+          "quote": "Build a simulated scenario in a few guided steps, or generate a complete patient from a single line."
+        },
+        {
+          "page": "home",
+          "quote": "So we built the Diversity Engine: a custom model that injects real demographic distributions into the generation pipeline."
+        },
+        {
+          "page": "home",
+          "quote": "Calgary-Cambridge and CRI-HT are built in, or tutors can publish and grade against their own, and every section score comes with transcript-cited justification"
+        },
+        {
+          "page": "pricing",
+          "quote": "Tutor-in-the-loop review"
+        },
+        {
+          "page": "home",
+          "quote": "Each turn is transcribed in full alongside the reflection the learner completes afterwards"
+        },
+        {
+          "page": "home",
+          "quote": "Publish the scenario across your organisation, assign it to the right student cohort, and decide exactly who practises what."
+        },
+        {
+          "page": "pricing",
+          "quote": "Cohort isolation & SSO"
+        },
+        {
+          "page": "pricing",
+          "quote": "Seed scenario library"
+        },
+        {
+          "page": "pricing",
+          "quote": "Educator analytics"
+        }
+      ],
+      "note": ""
+    },
+    "target_customer": {
+      "status": "found",
+      "value": "Universities, medical schools, postgraduate training programmes, clinical-skills departments and training bodies; students practise history-taking and consultations.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "For Universities, Medical Schools & Training Bodies"
+        },
+        {
+          "page": "pricing",
+          "quote": "Tailored pricing for medical schools, postgraduate training programmes and clinical-skills departments."
+        }
+      ],
+      "note": ""
+    },
+    "value_proposition": {
+      "status": "found",
+      "value": "Gives every learner unlimited, structured, rubric-graded consultation practice between simulated-patient sessions, which the company says are expensive, hard to scale, time-consuming and not standardised.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "giving every learner an unlimited supply of structured, rubric-graded practice"
+        },
+        {
+          "page": "home",
+          "quote": "Simulated patients carry a real per-session cost that scales with every cohort."
+        }
+      ],
+      "note": "The company says it does not replace simulated patients for high-stakes assessment."
+    },
+    "tagline": {
+      "status": "not_found",
+      "value": null,
+      "evidence": [],
+      "note": "No official tagline found: no slogan is marked ™, ® or ℠, and no slogan repeats across the pages read. Homepage headline: 'AI-simulated communication training, at scale.'; also 'Built by educators, for educators.'"
+    },
+    "pricing": {
+      "status": "found",
+      "value": "Not published; tailored proposal on request. Priced per institution with unlimited learners; the same page also describes session-based charging, with yearly or multi-year subscriptions and onboarding included.",
+      "evidence": [
+        {
+          "page": "pricing",
+          "quote": "SimPatient is priced per institution, not per seat."
+        },
+        {
+          "page": "pricing",
+          "quote": "Users are charged based on the sessions they take, not seats."
+        },
+        {
+          "page": "about",
+          "quote": "All pricing is per-organisation and includes unlimited learners. Get tailored pricing on the call."
+        }
+      ],
+      "note": "The pricing page mentions both a per-institution price and session-based charging; both are recorded as written."
+    }
+  },
+  "carried_forward": {
+    "from_record": "data/records/simpatient-co/2026-10-15_180204.json",
+    "at": "2026-10-20T18:12:07-06:00",
+    "reason": "page text changed, every quote still present",
+    "pages_changed": [
+      "pricing"
+    ],
+    "pages_dropped": [],
+    "pages_not_yet_read": []
+  }
+}

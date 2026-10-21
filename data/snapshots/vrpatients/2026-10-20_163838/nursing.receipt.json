@@ -1,0 +1,15 @@
+{
+  "competitor": "VRpatients",
+  "requested_url": "https://vrpatients.com/nursing/",
+  "fetched_at": "2026-10-20T16:39:03-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://vrpatients.com/nursing/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "Virtual Reality Nursing Education | VR Simulation Training Platform",
+  "meta_description": "Transform nursing education with virtual reality simulation. Create patient scenarios, train students anytime, and improve clinical outcomes with VRpatients.",
+  "html_bytes": 261936,
+  "text_characters": 5211
+}

@@ -1,0 +1,230 @@
+{
+  "record": "data/records/simcare/2026-10-20_163838.json",
+  "checked_at": "2026-10-20T18:14:00-06:00",
+  "results": {
+    "product_category": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://simcare.ai/",
+          "quote": "AI Client simulations for better counselor training",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://simcare.ai/",
+          "quote": "SimCare is designed and built exclusively for training that develops interpersonal, counseling, and diagnostic skills.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "field",
+          "source_url": "https://simcare.ai/field",
+          "quote": "FieldX unifies placements, evaluations, and accreditation tracking for your program.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "platforms": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "course-catalog",
+          "source_url": "https://simcare.ai/course-catalog",
+          "quote": "In the SimCare web app, click Course Catalog in the sidebar.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "key_capabilities": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://simcare.ai/",
+          "quote": "From children to older adults, practice real counseling sessions with 500+ counselor-designed clients across a range of unique presenting problems.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://simcare.ai/",
+          "quote": "Speak directly with avatars to practice counseling skills, explore different scenarios, and get instant feedback.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://simcare.ai/",
+          "quote": "Get instant feedback on tone, empathy, communication, nonverbal cues, diagnostic accuracy, and clinical skills.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://simcare.ai/",
+          "quote": "Review Session Video\nReview Skills Assessment\nView Transcript",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://simcare.ai/",
+          "quote": "Keep working with the same client over time. Schedule follow-ups, send messages, and get updates from them about progress or setbacks.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://simcare.ai/",
+          "quote": "Automated scoring removes grading bottlenecks",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "course-catalog",
+          "source_url": "https://simcare.ai/course-catalog",
+          "quote": "Each course includes prebuilt modules, Focused Scenarios, optional full-session practice assignments, learning outcomes, and CACREP mapping.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "course-catalog",
+          "source_url": "https://simcare.ai/course-catalog",
+          "quote": "Faculty can set time limits in SimCare.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://simcare.ai/",
+          "quote": "We align client cases with your specialty (e.g., CMHC, MFT, school counseling) and can create custom modules or integrate into your LMS.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "field",
+          "source_url": "https://simcare.ai/field",
+          "quote": "Ask questions about placements, hours, evaluations, and competencies in plain English.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "field",
+          "source_url": "https://simcare.ai/field",
+          "quote": "Generate competency and placement reports by student or cohort, with exports built for accreditation evidence and outcomes tracking.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "target_customer": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "course-catalog",
+          "source_url": "https://simcare.ai/course-catalog",
+          "quote": "A library of prebuilt simulation courses for counseling programs.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://simcare.ai/",
+          "quote": "It supports a wide range of disciplines including psychology, psychiatry, clinical counseling, social work, school counseling, and behavioral health.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://simcare.ai/",
+          "quote": "The platform is built to scale\u2014whether you're a university, government agency, training organization, or private company.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "value_proposition": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://simcare.ai/",
+          "quote": "SimCare gives every student realistic, full counseling sessions with virtual clients, so they can practice skills and get feedback without needing a live partner.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://simcare.ai/",
+          "quote": "Most counseling students get no real practice before practicum. SimCare makes it possible from day one.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://simcare.ai/",
+          "quote": "Turning limited, occasional practice into safe, scalable training across the entire program.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "tagline": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://simcare.ai/",
+          "quote": "AI Client simulations for better counselor training",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "pricing": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://simcare.ai/",
+          "quote": "We offer flexible billing. Some institutions pay directly. Others pass the cost to students as a lab fee or tech fee, a common model.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://simcare.ai/",
+          "quote": "We also support grant-based funding, whether through Title V, HRSA, or department-level budgets.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "field",
+          "source_url": "https://simcare.ai/field",
+          "quote": "A free platform for field experience",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    }
+  }
+}

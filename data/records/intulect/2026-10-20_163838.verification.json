@@ -1,0 +1,237 @@
+{
+  "record": "data/records/intulect/2026-10-20_163838.json",
+  "checked_at": "2026-10-20T18:14:00-06:00",
+  "results": {
+    "product_category": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://intulect.com/",
+          "quote": "Intulect - A Nursing Education Platform that delivers an education-to-employment suite to healthcare institutions and professionals",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://intulect.com/",
+          "quote": "AI-Facilitated VR & PC SimulationsNCLEX Prep & Quiz BankCompetency Management SystemRecruiting & Applicant ToolEHR Training Platform",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pages_simulations",
+          "source_url": "https://intulect.com/pages/simulations/",
+          "quote": "Intulect | AI-Facilitated Nursing Simulations",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "platforms": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://intulect.com/",
+          "quote": "Available in both Virtual Reality (VR) & Computer-based (PC).",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pages_simulations",
+          "source_url": "https://intulect.com/pages/simulations/",
+          "quote": "Intulect can be used in either VR where you do everything hands-on or on PC where there are still no menus so students can truly practice clinical judgment.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pages_simulations",
+          "source_url": "https://intulect.com/pages/simulations/",
+          "quote": "Whether you are in a VR headset or a computer, you get the same realism",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "key_capabilities": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "pages_simulations",
+          "source_url": "https://intulect.com/pages/simulations/",
+          "quote": "Intulect allows educators to facilitate, evaluate, and moderate hundreds of simulations simultaneously without being physically present by using our one-of-a-kind AI facilitation tools",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://intulect.com/",
+          "quote": "Facilitate & Evaluate Students without being physically present - AI Patients & Responsive Physiology.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pages_simulations",
+          "source_url": "https://intulect.com/pages/simulations/",
+          "quote": "Utilize Intulect's off-the-shelf 150+ simulation library covering every specialty or create your own to match your curriculum needs. Fast & no coding skills needed.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pages_simulations",
+          "source_url": "https://intulect.com/pages/simulations/",
+          "quote": "Facilitated hundreds of simulations at once and gather all of your performance and competency reports automatically.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pages_simulations",
+          "source_url": "https://intulect.com/pages/simulations/",
+          "quote": "Every pre-built scenario is mapped to the competency framework of your choosing such as AACN Essentials, QSEN, & NCJMM or customize your own",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pages_simulations",
+          "source_url": "https://intulect.com/pages/simulations/",
+          "quote": "Multi-Patient\nScalable IPE\nMulti-Player",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pages_simulations",
+          "source_url": "https://intulect.com/pages/simulations/",
+          "quote": "Intulect has pre-built courses, quizzes, exams, simulations, competency checklists, and clinical evaluations ready to go with just a click of a button.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://intulect.com/",
+          "quote": "Gain access to 3,000+ New-Gen NCLEX Quiz Bank, 1,700+ pages of study guides, & 60+ lectures on-demand for students.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://intulect.com/",
+          "quote": "A scenario-based educational Electronic Health Record integrated with virtual or manikin-based simulations. Interactive AI SPs playing any role.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://intulect.com/",
+          "quote": "View deep competency analytics before enrolling or hiring into your sites. In-app recruiting, job posting, & applying platform to make the right decision on every hire..",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "target_customer": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://intulect.com/",
+          "quote": "Intulect helps nursing schools & healthcare systems deliver education & clinical practice at scale.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://intulect.com/",
+          "quote": "delivers an education-to-employment suite to healthcare institutions and professionals",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pages_simulations",
+          "source_url": "https://intulect.com/pages/simulations/",
+          "quote": "Covers every course in a traditional ADN-BSN program.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://intulect.com/",
+          "quote": "Use for onboarding, up-training, cross-training, and audit surveys.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "value_proposition": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://intulect.com/",
+          "quote": "Deliver on-demand clinical experience for healthcare professionals to improve patient outcomes.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pages_simulations",
+          "source_url": "https://intulect.com/pages/simulations/",
+          "quote": "Intulect allows you to give your learners more clinical practice without requiring more educators, physical space, or expenses.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pages_simulations",
+          "source_url": "https://intulect.com/pages/simulations/",
+          "quote": "Utilize Intulect's high-fidelity simulations to replace needed clinical hours, provide personalized remediation, and reduce costs without sacrificing realism",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "tagline": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://intulect.com/",
+          "quote": "Education to Employment for Nurses",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "pages_about",
+          "source_url": "https://intulect.com/pages/about/",
+          "quote": "Education to Employment for Nurses",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "pricing": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "pages_simulations",
+          "source_url": "https://intulect.com/pages/simulations/",
+          "quote": "Book a Demo\nGet Pricing\nWhy Intulect",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    }
+  }
+}

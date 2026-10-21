@@ -1,0 +1,15 @@
+{
+  "competitor": "SimForHealth",
+  "requested_url": "https://www.simforhealth.com/produits/vr-transfu/",
+  "fetched_at": "2026-10-20T16:41:19-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.simforhealth.com/produits/vr-transfu/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "VR TRANSFU - SimforHealth",
+  "meta_description": "IFSI VR Transfu Le simulateur d'entra\u00eenement \u00e0 la proc\u00e9dure de l'acte transfusionnel. Infirmier Formation initiale R\u00e9alit\u00e9 virtuelle 1 simulateur Non commercialis\u00e9 actuellementCompatible avec : \ud83d\udc40 Coup d'oeil Un outil de formation proc\u00e9durale Ce simulateur plonge l\u2019utilisateur dans la chambre d\u2019une patiente pour une exp\u00e9rience immersive de pose de transfusion sanguine. Guid\u00e9 virtuellement par une infirmi\u00e8re,",
+  "html_bytes": 148768,
+  "text_characters": 4552
+}

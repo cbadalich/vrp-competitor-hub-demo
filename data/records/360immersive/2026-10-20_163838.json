@@ -1,0 +1,166 @@
+{
+  "competitor": "360 Immersive",
+  "slug": "360immersive",
+  "snapshot": "data/snapshots/360immersive/2026-10-20_163838",
+  "extracted_at": "2026-09-29T19:12:00-06:00",
+  "extracted_by": "Claude Code session, model claude-opus-5-5",
+  "note": "Only two pages were saved (home, about-us), so this record is thin. Both pages describe workplace safety training for construction and general industry; neither mentions healthcare, nursing, or medical simulation. About half of each .txt file is cookie-banner text, which was ignored.",
+  "pages_read": [
+    "home",
+    "about-us"
+  ],
+  "pages_failed": [],
+  "fields": {
+    "product_category": {
+      "status": "found",
+      "value": "Immersive safety training (interactive eLearning, VR simulations and gamified content) for construction and general industry, including OSHA-aligned compliance courses",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Affordable Immersive Training for Construction and General Industry, featuring VR training simulations that offer a higher level of engagement and learning retention!"
+        },
+        {
+          "page": "home",
+          "quote": "Put the FUN back into fundamental safety training using interactive eLearning, VR simulations, and gamified content."
+        },
+        {
+          "page": "home",
+          "quote": "Each course is about 20 minutes in length and supports training requirements for OSHA 10-hour certification."
+        }
+      ],
+      "note": "The first quote is the homepage META DESCRIPTION line. The discipline served is occupational safety, not healthcare."
+    },
+    "platforms": {
+      "status": "found",
+      "value": [
+        "Desktop",
+        "Mobile",
+        "VR"
+      ],
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "The simulations can be viewed on desktop (PC & Mac) and current mobile devices (iOS and Android) and for a more immersive experience support is offered for the Meta Quest 2 & 3 VR Headsets."
+        }
+      ],
+      "note": "Desktop is listed because the page says 'desktop (PC & Mac)' without mentioning a browser. Web is not listed: the pages mention eLearning, SCORM and an LMS but never say the courses run in a browser. The FAQ points to a support page (360immersive.com/support/) for current hardware details; that page was not saved."
+    },
+    "key_capabilities": {
+      "status": "found",
+      "value": [
+        "My Virtual Safety Trainer (MVST) off-the-shelf microlearning course library",
+        "Interactive simulations, gamification and VR in each course",
+        "Full courses, Short Sprint courses and Simulation Only modules",
+        "SCORM-compliant courses for LMS integration",
+        "Own secure LMS for customers without one",
+        "Self-paced, instructor-led or virtual instructor-led use",
+        "Custom VR simulations and gamified content on a proprietary platform, typically within 2 to 3 weeks",
+        "Mix-and-match course purchasing",
+        "Free trial"
+      ],
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "MVST consists of 60+ microlearning courses that incorporate interactive simulations, gamification, and virtual reality technology."
+        },
+        {
+          "page": "home",
+          "quote": "Our comprehensive course library consists of Full Courses, ranging from 15 to 20 minutes in duration, Short Sprint Courses that are approximately 7 to 10 minutes long, and Simulation Only modules."
+        },
+        {
+          "page": "home",
+          "quote": "Each MVST course is SCORM compliant to ensure ease of compatibility and integration into your Learning Management System (LMS)."
+        },
+        {
+          "page": "home",
+          "quote": "We have you covered with our own secure LMS to assign MVST to your learners."
+        },
+        {
+          "page": "home",
+          "quote": "every eLearning course can be used as a self-paced, instructor-led, or virtual instructor-led training aid."
+        },
+        {
+          "page": "home",
+          "quote": "We develop our VR simulations and gamified content using a proprietary gamification platform that allows our team to quickly customize training experiences – typically within 2 to 3 weeks."
+        },
+        {
+          "page": "home",
+          "quote": "Feel free to mix and match eLearning courses to meet your training and budgetary needs."
+        },
+        {
+          "page": "home",
+          "quote": "Start Free Trial"
+        }
+      ],
+      "note": "Course counts differ on the same page: 'MVST consists of 60+ microlearning courses' versus 'We have currently launched more than 130 safety training courses.' The FAQ also says the team can integrate simulations into existing eLearning or 'develop a custom software application'. The 'FREE TRIAL' label also appears in the menu."
+    },
+    "target_customer": {
+      "status": "found",
+      "value": "Companies and organizations of any size in construction and general industry that run safety onboarding, refresher and upskilling training; workers preparing for OSHA 10-hour certification.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Affordable Immersive Training\nfor Construction and General Industry"
+        },
+        {
+          "page": "home",
+          "quote": "Let’s work together to ensure your onboarding, refresher training, and upskilling programs are engaging, educational, and entertaining."
+        },
+        {
+          "page": "about-us",
+          "quote": "ensure any organization, regardless of its size, can easily access the best safety training possible"
+        }
+      ],
+      "note": "No healthcare, school, or nursing customers are named on the pages read."
+    },
+    "value_proposition": {
+      "status": "found",
+      "value": "Affordable, engaging immersive safety training that improves engagement and retention over traditional methods (PowerPoint, VHS, DVDs, click-through eLearning), with custom content at a fraction of the usual cost.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "VR training simulations that offer a higher level of engagement and learning retention!"
+        },
+        {
+          "page": "home",
+          "quote": "Say goodbye to expensive pilot projects, and hello to custom training solutions at a fraction of the cost!"
+        },
+        {
+          "page": "about-us",
+          "quote": "We create experiences that capture the perspective of the worker to generate an emotional connection that increases engagement, retention, and enjoyment of training materials."
+        }
+      ],
+      "note": "The first quote is from the homepage META DESCRIPTION."
+    },
+    "tagline": {
+      "status": "found",
+      "value": "Total Worker Safety™",
+      "evidence": [
+        {
+          "page": "about-us",
+          "quote": "Total Worker Safety™"
+        }
+      ],
+      "note": "The only phrase marked ™ on the pages read; it is used as the name of a concept ('embrace the concept of Total Worker Safety™') rather than as a banner slogan, so this is a best guess. Other candidates: homepage headline 'Safety Training With an Added Dose of Reality'; 'Compliance safety training, reimagined' (home)."
+    },
+    "pricing": {
+      "status": "found",
+      "value": "Not published; quote on request",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Please contact us for volume discounts and any other pricing questions!"
+        }
+      ],
+      "note": "No prices on either page. The FAQ says courses can be bought individually ('Can I purchase only the courses that I need?' 'Yes!'), and there is a free trial. The about-us page mentions giving training away 'for FREE' as an aspiration, not a plan."
+    }
+  },
+  "carried_forward": {
+    "from_record": "data/records/360immersive/2026-10-14_094745.json",
+    "at": "2026-10-20T18:12:06-06:00",
+    "reason": "identical page text",
+    "pages_changed": [],
+    "pages_dropped": [],
+    "pages_not_yet_read": []
+  }
+}

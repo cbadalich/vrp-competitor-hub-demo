@@ -1,0 +1,250 @@
+{
+  "record": "data/records/gigxr/2026-10-20_163838.json",
+  "checked_at": "2026-10-20T18:14:00-06:00",
+  "results": {
+    "product_category": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.gigxr.com/",
+          "quote": "Mixed-reality training for medical and nursing education: hyperrealistic holographic patients, full-body anatomy, and AI patient conversations",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.gigxr.com/",
+          "quote": "A teaching platform, not just an app.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "platforms": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.gigxr.com/",
+          "quote": "Run the same session on a mixed-reality headset, on a device already in students' hands, or with no headset at all",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "products_holopatient",
+          "source_url": "https://www.gigxr.com/products/holopatient",
+          "quote": "HoloPatient runs on mixed-reality headsets and on the phones and tablets students already carry",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "products_holohuman-plus",
+          "source_url": "https://www.gigxr.com/products/holohuman-plus",
+          "quote": "HoloHuman+ runs on mixed-reality headsets and on tablets and phones, with collaborative cross-device sessions.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "products_ai-conversations",
+          "source_url": "https://www.gigxr.com/products/ai-conversations",
+          "quote": "AI Conversations runs in any modern web browser on PC or Mac",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "key_capabilities": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "products_holopatient",
+          "source_url": "https://www.gigxr.com/products/holopatient",
+          "quote": "HoloPatient turns volumetric-captured, hyperrealistic patients into repeatable encounters",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "products_holopatient",
+          "source_url": "https://www.gigxr.com/products/holopatient",
+          "quote": "3\u20136 staged clips per case, linear and branching, showing realistic deterioration and improvement.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "products_holopatient",
+          "source_url": "https://www.gigxr.com/products/holopatient",
+          "quote": "Adjust vitals in real time to match difficulty to a learner's level or your objectives.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "products_holopatient",
+          "source_url": "https://www.gigxr.com/products/holopatient",
+          "quote": "Pause, fast-forward, and skip clips, and edit vitals from one place.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "products_ai-conversations",
+          "source_url": "https://www.gigxr.com/products/ai-conversations",
+          "quote": "AI Conversations lets learners hold free-form, natural conversations with more than 65 AI patients",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "products_ai-conversations",
+          "source_url": "https://www.gigxr.com/products/ai-conversations",
+          "quote": "Beginner (guided) \u2192 intermediate (independent) \u2192 advanced (complex cases).",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "products_ai-conversations",
+          "source_url": "https://www.gigxr.com/products/ai-conversations",
+          "quote": "Downloadable, time-stamped transcripts and ISBARR-style summaries",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "products_holohuman-plus",
+          "source_url": "https://www.gigxr.com/products/holohuman-plus",
+          "quote": "With 12 systems and roughly 2,500 structures",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "products_holopatient",
+          "source_url": "https://www.gigxr.com/products/holopatient",
+          "quote": "Expert-created objectives, step-by-step questions, red-flag cues, and differential-diagnosis prompts",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "products_holohuman-plus",
+          "source_url": "https://www.gigxr.com/products/holohuman-plus",
+          "quote": "Ready-to-use objectives, prompts, and clinical tie-ins; use as-is or adapt.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.gigxr.com/",
+          "quote": "Cross-device sessions let a whole group join one hologram together.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.gigxr.com/",
+          "quote": "From device choice and MDM to faculty onboarding and ongoing support",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "target_customer": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.gigxr.com/",
+          "quote": "Help every student build clinical reasoning and assessment skills",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.gigxr.com/",
+          "quote": "For nursing programs",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.gigxr.com/",
+          "quote": "For health professions educators",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.gigxr.com/",
+          "quote": "For defense medical training",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "solutions_nursing",
+          "source_url": "https://www.gigxr.com/solutions/nursing",
+          "quote": "Nursing programs need hands-on practice for large groups, in limited space, without the cost of high-fidelity manikins",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "value_proposition": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.gigxr.com/",
+          "quote": "GigXR delivers evidence-based, curriculum-driven mixed-reality training that helps students build real clinical skills \u2014 assessment, clinical reasoning, communication, and anatomy \u2014 through safe, repeatable practice.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.gigxr.com/",
+          "quote": "let educators standardize that practice, cut prep time, and scale it across large cohorts.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "solutions_nursing",
+          "source_url": "https://www.gigxr.com/solutions/nursing",
+          "quote": "A fraction of the cost of manikins and skills trainers \u2014 and no dedicated simulation suite required.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "tagline": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.gigxr.com/",
+          "quote": "Redefining education, medicine, and training through seamless mixed reality.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "products_holopatient",
+          "source_url": "https://www.gigxr.com/products/holopatient",
+          "quote": "Redefining education, medicine, and training through seamless mixed reality.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "pricing": {
+      "status": "not_found",
+      "result": "not_found",
+      "problems": [],
+      "evidence": []
+    }
+  }
+}

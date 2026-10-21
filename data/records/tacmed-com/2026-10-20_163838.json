@@ -1,0 +1,187 @@
+{
+  "competitor": "TACMED Australia",
+  "slug": "tacmed-com",
+  "snapshot": "data/snapshots/tacmed-com/2026-10-20_163838",
+  "extracted_at": "2026-09-29T19:15:00-06:00",
+  "extracted_by": "Claude Code session, model claude-opus-5-5",
+  "note": "The configured tacmed.com.au URLs redirect to tacmedaustralia.com.au (see receipts' final_url); one page is the separate training.tacmed.com.au course site (TacMed Training). Most of the site is an online store for first aid and tactical medical supplies; simulation appears on pages_simulation only. Two store collection pages (radio harnesses, medical backpacks) contain no simulation content. The saved text of the four tacmedaustralia.com.au pages has an empty TITLE line; a page title appears as the last line instead.",
+  "pages_read": [
+    "home",
+    "pages_simulation",
+    "training-tacmed-com-au_home",
+    "collections_ems-radio-harnesses",
+    "collections_medical-backpacks"
+  ],
+  "pages_failed": [],
+  "fields": {
+    "product_category": {
+      "status": "found",
+      "value": "Tactical and emergency medical equipment supplier (tourniquets, IFAKs, trauma kits) that also supplies tactical and clinical medical simulation equipment (human and K9 simulators, trauma task trainers, program support) and, through TacMed Training, accredited tactical medical courses",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Australia's trauma and tactical medical specialist. Tourniquets, IFAKs, trauma kits and chest seals."
+        },
+        {
+          "page": "pages_simulation",
+          "quote": "Tactical and clinical medical simulation equipment for defence, emergency services and healthcare training. Human simulators, K9 trainers, trauma task trainers and program support"
+        },
+        {
+          "page": "training-tacmed-com-au_home",
+          "quote": "TacMed Training delivers scenario-driven, nationally accredited medical courses for military, mining, law enforcement, and first responders across Australia."
+        }
+      ],
+      "note": "The simulation page presents TacMed as a supplier and program partner for simulation products ('We Design Programs, Not Just Supply Equipment.'), naming platforms such as the TOMManikin series and 'Tacmed Solutions Simulators'. It lists '6' 'Global Simulation Suppliers/ Manufacturers'."
+    },
+    "platforms": {
+      "status": "found",
+      "value": [
+        "Physical hardware"
+      ],
+      "evidence": [
+        {
+          "page": "pages_simulation",
+          "quote": "Human simulators, K9 trainers, trauma task trainers and program support"
+        }
+      ],
+      "note": "Simulation products are physical (full-body manikins, K9 simulators, task trainers, wearable wound systems, moulage, simulated evacuation platforms), recorded as Physical hardware. The quote is the simulation page's META DESCRIPTION. No Web, VR, AR, MR, Mobile or Desktop delivery is described. 'Environmental Sensory Simulation' is listed without detail."
+    },
+    "key_capabilities": {
+      "status": "found",
+      "value": [
+        "Full-body human simulators (TOMManikin series, Tacmed Solutions Simulators)",
+        "K9 simulators",
+        "Ruggedised, weather-resistant, untethered simulators for field use",
+        "Physiological feedback: vital signs that respond to interventions",
+        "Trauma, airway and procedural task trainers",
+        "Wearable wound systems and moulage for live-actor scenarios",
+        "Simulated evacuation platforms (UH-60 / MH-6)",
+        "Simulation-as-a-Service",
+        "Program design, facility planning and procurement support",
+        "Lifecycle support: maintenance, repair, consumables, operator and train-the-trainer programs"
+      ],
+      "evidence": [
+        {
+          "page": "pages_simulation",
+          "quote": "TOMManikin® Series Tacmed Solutions Simulators K9 Simulators"
+        },
+        {
+          "page": "pages_simulation",
+          "quote": "Ruggedised construction, weather-resistant materials, and untethered operation mean training doesn't stop when the environment gets difficult."
+        },
+        {
+          "page": "pages_simulation",
+          "quote": "Realistic anatomical presentations. Vital signs that shift. Interventions that either stabilise or accelerate deterioration."
+        },
+        {
+          "page": "pages_simulation",
+          "quote": "Trauma Task Trainers\nAirway Trainers\nProcedural Skills Trainers"
+        },
+        {
+          "page": "pages_simulation",
+          "quote": "Wearable wound systems that bring trauma onto live training participants."
+        },
+        {
+          "page": "pages_simulation",
+          "quote": "Simulated Evacuation Platforms (UH-60 / MH-6)"
+        },
+        {
+          "page": "pages_simulation",
+          "quote": "Operator & Train-The-Trainer Programs\nSimulation as a service"
+        },
+        {
+          "page": "pages_simulation",
+          "quote": "We help you select the right platforms for your training outcomes, team size, and operational context"
+        },
+        {
+          "page": "pages_simulation",
+          "quote": "we can connect you with our supplier network to scope, design, and deliver purpose-built training environments."
+        },
+        {
+          "page": "pages_simulation",
+          "quote": "We provide ongoing technical guidance, consumables replenishment, servicing pathways, and access to replacement components"
+        }
+      ],
+      "note": "The pages do not describe software features such as scenario authoring, debriefing or reporting. The simulation page claims '3×' 'Skill Retention vs Classroom' without a source on the page. TacMed Training's REACT Medic course lists 'Complex tactical scenario-based simulation' as a program highlight."
+    },
+    "target_customer": {
+      "status": "found",
+      "value": "Defence forces, emergency services (ambulance, fire and rescue, first responders), hospital simulation programs, law enforcement, and industrial and mining organisations, mainly in Australia; the store also sells to workplaces and outdoor users.",
+      "evidence": [
+        {
+          "page": "pages_simulation",
+          "quote": "Trusted by\nDefence Forces\nEmergency Services\nHospital Simulation Programs\nLaw Enforcement\nIndustrial & Mining"
+        },
+        {
+          "page": "pages_simulation",
+          "quote": "TacMed Australia works with military, emergency services and hospital training teams to understand their operational requirements"
+        },
+        {
+          "page": "home",
+          "quote": "Trusted First Aid Supplier to Emergency Services Across Australia"
+        }
+      ],
+      "note": "Store menus list industries: Law Enforcement, Military, Ambulance, Fire & Rescue, Mining, Outdoor Recreation, Workplace. The training site lists Law Enforcement, Military, Mining & Remote, and First Responders."
+    },
+    "value_proposition": {
+      "status": "found",
+      "value": "High-fidelity simulation built for operational conditions that exposes training gaps safely and builds skills and confidence before real emergencies, backed by program design and local lifecycle support.",
+      "evidence": [
+        {
+          "page": "pages_simulation",
+          "quote": "High-fidelity simulators that replicate the pressure, chaos, and consequences of real emergencies — exposing gaps and building the skills and confidence to close them before it counts."
+        },
+        {
+          "page": "pages_simulation",
+          "quote": "Most simulation equipment is built for controlled environments, we specialise in products that aren't."
+        }
+      ],
+      "note": "Site-wide banner states the mission 'Zero Preventable Deaths'. Support is described as coming from 'Australia-based specialists'."
+    },
+    "tagline": {
+      "status": "found",
+      "value": "Mission:Zero Preventable Deaths",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Mission:Zero Preventable Deaths"
+        },
+        {
+          "page": "pages_simulation",
+          "quote": "Mission:Zero Preventable Deaths"
+        }
+      ],
+      "note": "Repeated in the top banner of all four tacmedaustralia.com.au pages (no space after the colon in the saved text). Other candidates: banner 'Proudly Australian Veteran Owned & Operated since 2010'; simulation page headline 'Simulation Built For Operational Reality.'; TacMed Training's 'Train hard, fight easy.'"
+    },
+    "pricing": {
+      "status": "found",
+      "value": "Simulation equipment: not published; quote on request. Retail medical supplies and bags have published prices in the online store (for example $66.95 for a SOF Tourniquet).",
+      "evidence": [
+        {
+          "page": "pages_simulation",
+          "quote": "Procurement Support\nAssistance with quotations, specifications and tender documentation."
+        },
+        {
+          "page": "home",
+          "quote": "SOF® Tourniquet\n231 reviews\n$66.95"
+        },
+        {
+          "page": "home",
+          "quote": "Shop Now, Pay Later\nwith Afterpay or Zip Pay"
+        }
+      ],
+      "note": "No prices appear for any simulator, task trainer or Simulation-as-a-Service on the simulation page. Store prices are shown without a currency code on tacmedaustralia.com.au; the training site shows 'AUD'. The training site mentions 'Flexible easy debit payment options available' for the REACT Medic diploma but gives no course price."
+    }
+  },
+  "carried_forward": {
+    "from_record": "data/records/tacmed-com/2026-10-14_094745.json",
+    "at": "2026-10-20T18:12:06-06:00",
+    "reason": "page text changed, every quote still present",
+    "pages_changed": [
+      "collections_ems-radio-harnesses",
+      "collections_medical-backpacks"
+    ],
+    "pages_dropped": [],
+    "pages_not_yet_read": []
+  }
+}

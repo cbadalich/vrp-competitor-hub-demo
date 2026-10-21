@@ -1,0 +1,192 @@
+{
+  "competitor": "FundamentalVR",
+  "slug": "fundamentalvr",
+  "snapshot": "data/snapshots/fundamentalvr/2026-10-20_163838",
+  "extracted_at": "2026-10-13T18:58:00-06:00",
+  "extracted_by": "Claude Code session, model claude-opus-5-5",
+  "note": "All 3 pages downloaded; no two saved pages are identical. Every fundamentalvr.com URL redirected to fundamentalxr.com (see receipts' final_url), and the pages name the company 'Fundamental XR'. The home page repeats its hero block and each feature line twice in the saved text.",
+  "pages_read": [
+    "home",
+    "clinical-areas",
+    "case-studies"
+  ],
+  "pages_failed": [],
+  "fields": {
+    "product_category": {
+      "status": "found",
+      "value": "Immersive (XR) training solutions for knowledge acquisition and skills development in the medical sector, aimed at MedTech clinical, manufacturing and growth teams, with a learning platform; clinical areas include ophthalmology and robotics",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "We create immersive solutions for knowledge acquisition and skills development in the medical sector for any interactive medium."
+        },
+        {
+          "page": "home",
+          "quote": "We are the complete training solution for clinical, manufacturing, and growth teams in MedTech, with an advanced platform to deliver it."
+        },
+        {
+          "page": "clinical-areas",
+          "quote": "Immersive simulation built for the clinical realities of each area of practice."
+        }
+      ],
+      "note": "The home page also describes 'custom XR solutions'. Clinical areas live: Ophthalmology ('Haptic VR for cataract, retina and gene therapy training.') and Robotics. Marked 'Coming soon': Interventional cardiology, Orthopedics, and Pharma and drug delivery. Not a nursing product on the pages read."
+    },
+    "platforms": {
+      "status": "found",
+      "value": [
+        "VR",
+        "MR",
+        "AR",
+        "Web",
+        "Mobile"
+      ],
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Immersive experiences that place you in real world medical environments."
+        },
+        {
+          "page": "home",
+          "quote": "MR uses a headset to mix virtual content with real-world settings."
+        },
+        {
+          "page": "home",
+          "quote": "A digital training layer over the real world."
+        },
+        {
+          "page": "home",
+          "quote": "Experiences for browsers or native mobile or tablet applications."
+        },
+        {
+          "page": "home",
+          "quote": "Our technology enables simple conversion across immersive, app, and web based platforms."
+        },
+        {
+          "page": "clinical-areas",
+          "quote": "Haptic VR for cataract, retina and gene therapy training."
+        }
+      ],
+      "note": "The home page lists the media it builds for under the labels 'Virtual Reality', 'Mixed Reality', 'Augmented Reality' and 'Web & Apps'; these describe what the company can deliver rather than one product. The only medium tied to a named clinical area is 'Haptic VR' for ophthalmology. The 'Advanced Insights Platform' is a monitoring tool for training managers and is not counted."
+    },
+    "key_capabilities": {
+      "status": "found",
+      "value": [
+        "Advanced Insights Platform to track usage and measure learning",
+        "Ready-made or custom imaging simulation of the customer's own device",
+        "Conversion across immersive, app and web platforms",
+        "Realistic anatomy recreations",
+        "Multi-user collaboration for tutoring, teamwork or role-based training",
+        "Enterprise-grade security with single sign-on integration",
+        "Haptics (physical feedback)",
+        "Generative AI",
+        "Digital twins and virtual OR environments"
+      ],
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Track usage and measure learning. Monitor training and assessment on our learning platform."
+        },
+        {
+          "page": "home",
+          "quote": "Our suite of imaging technologies supports any procedure, and accurately simulates your own imaging device."
+        },
+        {
+          "page": "home",
+          "quote": "Our technology enables simple conversion across immersive, app, and web based platforms."
+        },
+        {
+          "page": "home",
+          "quote": "Stunning recreations of any patient or treatment mechanism, large or small, inside and out."
+        },
+        {
+          "page": "home",
+          "quote": "Easy collaboration enables tutoring, teamwork or role-based training anywhere, anytime."
+        },
+        {
+          "page": "home",
+          "quote": "Dependable, secure, and ready to use or integrate with any single-sign on system."
+        },
+        {
+          "page": "home",
+          "quote": "Physical feedback through touch or motion."
+        },
+        {
+          "page": "home",
+          "quote": "Deeper learning with generative AI"
+        },
+        {
+          "page": "home",
+          "quote": "How a digital twin and virtual ORs transformed urology training at scale."
+        }
+      ],
+      "note": "Generative AI appears only as a one-line technology label, with no description of what it does. The home page also claims 'real-time, actionable feedback' in a bullet list."
+    },
+    "target_customer": {
+      "status": "found",
+      "value": "MedTech companies (clinical, manufacturing and growth teams), pharma teams, and healthcare institutions; specialties include ophthalmology, robotics, endovascular, gene therapy, urology and medical education.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "We are the complete training solution for clinical, manufacturing, and growth teams in MedTech"
+        },
+        {
+          "page": "clinical-areas",
+          "quote": "Injection technique and therapy administration for pharma teams."
+        },
+        {
+          "page": "home",
+          "quote": "200+\nHealthcare institutions"
+        },
+        {
+          "page": "case-studies",
+          "quote": "Evidence from immersive training programs in ophthalmology and medical education, and the implementation research behind them."
+        }
+      ],
+      "note": "The pharma area is marked 'Coming soon'. The home page also lists 'boost commercial traction' as a goal, which fits a MedTech commercial audience. Case-study META DESCRIPTION names ophthalmology, interventional cardiology and radiology, robotics and orthopaedics, while the page body lists only ophthalmology and medical education entries."
+    },
+    "value_proposition": {
+      "status": "found",
+      "value": "Immersive technology that builds competency faster and supports commercial traction, gives real-time actionable feedback, and reduces operational friction and cost.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "• Build competency faster and boost commercial traction\n• Unlock deeper insights with real-time, actionable feedback\n• Reduce operational friction and cut costs for greater efficiency"
+        }
+      ],
+      "note": "Stats on home: '95%' skill retention rate, '40%' faster learning, '500K+' training hours delivered, '293% Increase in User Confidence' (ophthalmology), '400% Reduction in Physical Setup Assistance' (endovascular)."
+    },
+    "tagline": {
+      "status": "found",
+      "value": "Immersive technology to accelerate human excellence",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Immersive technology to accelerate\nhuman excellence"
+        },
+        {
+          "page": "home",
+          "quote": "Fundamental XR - Immersive Technology to Accelerate Human Excellence"
+        }
+      ],
+      "note": "Homepage first headline after the menu, also used in the page TITLE. No trademarked slogan or footer slogan on the pages read."
+    },
+    "pricing": {
+      "status": "not_found",
+      "value": null,
+      "evidence": [],
+      "note": "No prices, plans or quote buttons on the 3 pages read. Calls to action are generic: 'Let's Talk', 'Talk to our team', 'Send Message'."
+    }
+  },
+  "carried_forward": {
+    "from_record": "data/records/fundamentalvr/2026-10-14_094745.json",
+    "at": "2026-10-20T18:12:06-06:00",
+    "reason": "page text changed, every quote still present",
+    "pages_changed": [
+      "home",
+      "clinical-areas",
+      "case-studies"
+    ],
+    "pages_dropped": [],
+    "pages_not_yet_read": []
+  }
+}

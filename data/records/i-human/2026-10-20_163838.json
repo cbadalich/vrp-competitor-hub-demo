@@ -1,0 +1,170 @@
+{
+  "competitor": "i-Human Patients",
+  "slug": "i-human",
+  "snapshot": "data/snapshots/i-human/2026-10-20_163838",
+  "extracted_at": "2026-10-15T18:59:30-06:00",
+  "extracted_by": "Claude Code session, model claude-opus-5-5 (revision: two Kaplan posts added)",
+  "note": "All 5 requested URLs (i-human.com home and four i-human.com paths) redirected to the same page, kaplan.com/institutions-educators/higher-education/nursing-schools/i-human (see each receipt's final_url), and the 5 .txt files are byte-for-byte identical. All were read; all evidence cites 'institutions-educators_higher-education_nursing-schools_i-human', the page whose name matches the final URL. The medical-education and allopathic pages therefore add no content of their own. Since 2026-10-15 the tracked pages are the Kaplan product page and two i-Human posts on kaptest.com (Kaplan's nursing educators site); the old i-human.com addresses all redirected to the Kaplan page.",
+  "pages_read": [
+    "blogs_nursing-educators_post_i-human-patients",
+    "blogs_nursing-educators_post_virtual-simulation-nursing-education",
+    "institutions-educators_higher-education_nursing-schools_i-human"
+  ],
+  "pages_failed": [],
+  "fields": {
+    "product_category": {
+      "status": "found",
+      "value": "Virtual patient simulation for nursing and medical education, offered by Kaplan",
+      "evidence": [
+        {
+          "page": "institutions-educators_higher-education_nursing-schools_i-human",
+          "quote": "Virtual Patient Simulation\ni-Human Patients® Bridges the Gap Between Theory and Practice"
+        },
+        {
+          "page": "institutions-educators_higher-education_nursing-schools_i-human",
+          "quote": "Explore iHuman’s cutting edge virtual medical  simulation offerings and level up your student’s skills to prepare them for the NCLEX exam."
+        }
+      ],
+      "note": "The page is on kaplan.com and sits in Kaplan's Nursing Schools menu. The second quote is the META DESCRIPTION line (it contains a double space in the saved text)."
+    },
+    "platforms": {
+      "status": "found",
+      "value": [
+        "Web"
+      ],
+      "evidence": [
+        {
+          "page": "blogs_nursing-educators_post_i-human-patients",
+          "quote": "i-Human Patients is a cloud-based program that simulates a complete client encounter"
+        }
+      ],
+      "note": "Web is based on 'cloud-based program'; no browser or device is named. No headset is mentioned on the 3 pages read. The Kaplan page's menu has 'Sign In to i-Human'."
+    },
+    "key_capabilities": {
+      "status": "found",
+      "value": [
+        "Virtual patient cases with a variety of avatars and realistic scenarios",
+        "Tailored feedback with rationales",
+        "Analytics and reporting on student performance",
+        "Group or individual learning use",
+        "Kaplan's AI Tutor as a real-time clinical coach",
+        "Complete case simulations from history to diagnosis to management plans",
+        "Unlimited practice opportunities",
+        "Integrates into existing curricula without a course redesign"
+      ],
+      "evidence": [
+        {
+          "page": "institutions-educators_higher-education_nursing-schools_i-human",
+          "quote": "Engage students with a wide variety of avatars, realistic patient scenarios, and tailored feedback"
+        },
+        {
+          "page": "institutions-educators_higher-education_nursing-schools_i-human",
+          "quote": "robust feedback with rationales personalized to student performance."
+        },
+        {
+          "page": "institutions-educators_higher-education_nursing-schools_i-human",
+          "quote": "Use comprehensive analytics and reporting tools to gain real-time insights into your students’ performance."
+        },
+        {
+          "page": "institutions-educators_higher-education_nursing-schools_i-human",
+          "quote": "whether you’re leading group or individual learning experiences"
+        },
+        {
+          "page": "institutions-educators_higher-education_nursing-schools_i-human",
+          "quote": "Kaplan’s AI Tutor acts as a real-time clinical coach, without adding a single task to your faculty’s workload."
+        },
+        {
+          "page": "institutions-educators_higher-education_nursing-schools_i-human",
+          "quote": "Provide students with complete case simulations—from history to diagnosis to management plans."
+        },
+        {
+          "page": "blogs_nursing-educators_post_virtual-simulation-nursing-education",
+          "quote": "By offering unlimited practice opportunities and real-time AI Tutor feedback"
+        },
+        {
+          "page": "blogs_nursing-educators_post_virtual-simulation-nursing-education",
+          "quote": "integrates into existing curricula without requiring a total course redesign"
+        }
+      ],
+      "note": "The 'feedback with rationales' quote is a third-party review (OADN and Unbound Medicine) quoted on the page. The same review says the cases 'align with the Clinical Judgment Measurement Model for case progression'. No case count is given."
+    },
+    "target_customer": {
+      "status": "found",
+      "value": "Undergraduate and graduate nursing programs, allopathic and osteopathic medical schools, international medical schools, and physician associate, athletic therapy and hospital system programs.",
+      "evidence": [
+        {
+          "page": "institutions-educators_higher-education_nursing-schools_i-human",
+          "quote": "Boost your cohort’s skills in clinical judgment for success on both the NCLEX exam and in their future nursing careers."
+        },
+        {
+          "page": "institutions-educators_higher-education_nursing-schools_i-human",
+          "quote": "Strengthen your students’ diagnostic competency and clinical judgment skills."
+        },
+        {
+          "page": "institutions-educators_higher-education_nursing-schools_i-human",
+          "quote": "Improve clinical performance by strengthening your commitment to the evidence-based practice of medicine."
+        },
+        {
+          "page": "institutions-educators_higher-education_nursing-schools_i-human",
+          "quote": "Augment your DO curriculum with comprehensive virtual patient encounters."
+        },
+        {
+          "page": "institutions-educators_higher-education_nursing-schools_i-human",
+          "quote": "Physician Associate, Athletic Therapy, Hospital Systems"
+        },
+        {
+          "page": "institutions-educators_higher-education_nursing-schools_i-human",
+          "quote": "Ensure graduates are globally prepared and patient-focused through evidence-based clinical education."
+        },
+        {
+          "page": "blogs_nursing-educators_post_i-human-patients",
+          "quote": "Since 2013, i-Human Patients has been providing virtual clinical encounters to medical, graduate nursing, and physician assistant students."
+        }
+      ],
+      "note": "The segment headings (Undergraduate Nursing, Graduate Nursing, Allopathic Medical Schools, Osteopathic Medical Schools, International Medical Schools) are short labels; each quote is the line under its heading."
+    },
+    "value_proposition": {
+      "status": "found",
+      "value": "Bridges the gap between theory and practice: virtual simulation that helps students develop clinical judgment and critical thinking for licensure exams (such as NCLEX) and clinical practice.",
+      "evidence": [
+        {
+          "page": "institutions-educators_higher-education_nursing-schools_i-human",
+          "quote": "i-Human Patients® Bridges the Gap Between Theory and Practice"
+        },
+        {
+          "page": "institutions-educators_higher-education_nursing-schools_i-human",
+          "quote": "With cutting-edge virtual simulation, your students will develop the critical skills they need to excel—from licensure to clinical practice."
+        },
+        {
+          "page": "institutions-educators_higher-education_nursing-schools_i-human",
+          "quote": "Sharpen Clinical Judgment and Critical Thinking"
+        },
+        {
+          "page": "blogs_nursing-educators_post_i-human-patients",
+          "quote": "It allows nursing schools to supplement current clinical time and simulation lab with safe, inexpensive"
+        }
+      ],
+      "note": "The page also cites a Kaplan study: '86.9% respondents reported that the virtual simulation case contributed to their clinical confidence'. The 2026 Kaplan post also says virtual simulation has lower cost-utility than manikin training ($0.38 vs. $0.62); a Kaplan figure."
+    },
+    "tagline": {
+      "status": "not_found",
+      "value": null,
+      "evidence": [],
+      "note": "No official tagline found: the headline 'i-Human Patients® Bridges the Gap Between Theory and Practice' appears once (the ® belongs to the product name). The earlier profile counted it as repeated on 5 pages, but all 5 addresses redirected to this same page."
+    },
+    "pricing": {
+      "status": "not_found",
+      "value": null,
+      "evidence": [],
+      "note": "No prices, plans, or quote requests on the page. Calls to action are 'Request a Demo' and 'Contact Our Team'. The menu lists a Kaplan 'All Access License' at the institution level, with no price or detail."
+    }
+  },
+  "carried_forward": {
+    "from_record": "data/records/i-human/2026-10-15_181424_r2.json",
+    "at": "2026-10-20T18:12:06-06:00",
+    "reason": "identical page text",
+    "pages_changed": [],
+    "pages_dropped": [],
+    "pages_not_yet_read": []
+  }
+}

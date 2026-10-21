@@ -1,0 +1,11 @@
+{
+  "competitor": "Gaumard",
+  "requested_url": "https://www.gaumard.com/gaumard-software",
+  "fetched_at": "2026-10-20T16:40:11-06:00",
+  "ok": false,
+  "robots": "allowed by robots.txt",
+  "http_status": 403,
+  "final_url": "https://www.gaumard.com/gaumard-software",
+  "content_type": "",
+  "error": "HTTP error 403 Forbidden"
+}

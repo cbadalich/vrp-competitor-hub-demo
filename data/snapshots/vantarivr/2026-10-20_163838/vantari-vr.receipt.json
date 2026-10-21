@@ -1,0 +1,15 @@
+{
+  "competitor": "Vantari VR",
+  "requested_url": "https://www.vantarivr.com/vantari-vr/",
+  "fetched_at": "2026-10-20T16:42:03-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.vantarivr.com/vantari-vr/",
+  "content_type": "text/html;charset=utf-8",
+  "error": null,
+  "title": "Vantari VR",
+  "meta_description": "Virtual Reality for Healthcare",
+  "html_bytes": 279989,
+  "text_characters": 2707
+}

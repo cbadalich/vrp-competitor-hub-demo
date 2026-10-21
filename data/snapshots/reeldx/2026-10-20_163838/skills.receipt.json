@@ -1,0 +1,15 @@
+{
+  "competitor": "ReelDx",
+  "requested_url": "https://www.reeldx.com/skills",
+  "fetched_at": "2026-10-20T16:40:41-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.reeldx.com/skills",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "Build Clinical Skills Without the Clinic | ReelDx",
+  "meta_description": "Assign any of our 700+ cases to train healthcare students on SOAP note-taking, SBAR, EKG interpretation, Vital Signs Interpretation, and more.",
+  "html_bytes": 89745,
+  "text_characters": 4211
+}

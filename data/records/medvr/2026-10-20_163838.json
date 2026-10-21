@@ -1,0 +1,181 @@
+{
+  "competitor": "MedVR Education",
+  "slug": "medvr",
+  "snapshot": "data/snapshots/medvr/2026-10-20_163838",
+  "extracted_at": "2026-09-29T19:25:00-06:00",
+  "extracted_by": "Claude Code session, model claude-opus-5-5",
+  "note": "Only the homepage was saved. Near the bottom, the saved text carries a line '© 2026 NBME. All Rights Reserved.' followed by a list of case titles (for example 'Delivering Bad News', 'PTSD Assessment'); the page does not explain the relationship, so nothing is inferred from it. The earlier snapshot 2026-09-29_182409 has the same page.",
+  "pages_read": [
+    "home"
+  ],
+  "pages_failed": [],
+  "fields": {
+    "product_category": {
+      "status": "found",
+      "value": "Off-the-shelf and customized XR (VR) healthcare simulation training, focused on nursing, with a clinical skills library and AI-driven virtual humans",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "MedVR Education's off-the-shelf and customized XR healthcare training solutions are designed to provide quality Nursing training in the field of healthcare."
+        },
+        {
+          "page": "home",
+          "quote": "Join the Largest XR Healthcare Simulation Library"
+        }
+      ],
+      "note": "The first quote is the META DESCRIPTION line. The menu lists collections beyond nursing (EMS, Air Paramedic, Surgical, Regional Anesthesia, Tactical Combat Casualty Care, Allied Healthcare, Environmental Services), and the page says the aim is a library covering 'the whole gamut of healthcare/medical education'."
+    },
+    "platforms": {
+      "status": "found",
+      "value": [
+        "VR",
+        "MR",
+        "Desktop"
+      ],
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Access the library on any Android-based headset."
+        },
+        {
+          "page": "home",
+          "quote": "Immerse yourself in virtual reality medical simulations"
+        },
+        {
+          "page": "home",
+          "quote": "Mixed Reality!Check out the features"
+        },
+        {
+          "page": "home",
+          "quote": "MedVR Ed Connect\nBe a part of a virtual session via a PC/laptop"
+        },
+        {
+          "page": "home",
+          "quote": "Scale and distribute VR, AR, and MR content globally on multiple devices using the MedVR Ed platform."
+        }
+      ],
+      "note": "VR is the main mode (headsets). MR rests on a banner ('Mixed Reality!Check out the features') and the enterprise line about distributing 'VR, AR, and MR content'. Desktop: MedVR Ed Connect lets someone join a virtual session from a PC/laptop, with no browser mentioned; the page does not say whether this is for learners or observers. AR appears only in the enterprise distribution line, so it is not listed. The 'single web-based dashboard' manages performance data for administrators, so Web is not listed."
+    },
+    "key_capabilities": {
+      "status": "found",
+      "value": [
+        "AI-driven virtual patients/humans for conversation (LLM, ML)",
+        "Independent simulations without a moderator or instructor",
+        "Multiplayer / wireless multi-user VR with voice chat",
+        "In-VR customization",
+        "Deep data insight with tracked learning and personalized feedback",
+        "Physics-based interactions",
+        "Photorealistic environments",
+        "Nursing curriculum-aligned simulation library",
+        "LMS integration, white labeling and customization",
+        "Remote headset app management with web-based dashboard"
+      ],
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "With an AI-driven patient assessment solution, powered by LLM, ML, and deep data analytics, learners engage in realistic conversation scenarios"
+        },
+        {
+          "page": "home",
+          "quote": "Independent XR simulations empower learners to train anytime and anywhere, without the need for a moderator or instructor."
+        },
+        {
+          "page": "home",
+          "quote": "Cross geographical boundaries and meet in one virtual space to share experiences, perform group activities, collaborate, and engage in voice chat in real-time."
+        },
+        {
+          "page": "home",
+          "quote": "In-VR customization for richer learning experiences"
+        },
+        {
+          "page": "home",
+          "quote": "Tracked learning to provide prompt, accurate and personalized feedback."
+        },
+        {
+          "page": "home",
+          "quote": "Realistic interactions with objects to gain real-world experiences."
+        },
+        {
+          "page": "home",
+          "quote": "Realistic, interactive, evidence-based simulations for optimum learning experience."
+        },
+        {
+          "page": "home",
+          "quote": "All modules are developed in alignment with the nursing curriculum followed by universities and training institutes."
+        },
+        {
+          "page": "home",
+          "quote": "MedVR Ed offers white labeling, integration with LMS and customization up to any extent to suit business needs."
+        },
+        {
+          "page": "home",
+          "quote": "With VR training apps remotely uploaded and managed on trainee headsets, manage all performance data from a single web-based dashboard."
+        }
+      ],
+      "note": "The menu also lists an 'AI-Humans Authoring Platform' but the saved homepage does not describe it in body text, so authoring is not listed. Soft-skills training with 'emotionally-responsive virtual humans' is described on the page."
+    },
+    "target_customer": {
+      "status": "found",
+      "value": "Nursing learners and programs (universities and training institutes), healthcare professionals, and enterprises / B2B clients deploying healthcare training.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "All modules are developed in alignment with the nursing curriculum followed by universities and training institutes."
+        },
+        {
+          "page": "home",
+          "quote": "Use off-the-shelf XR in healthcare training solutions to deploy content for the enterprise or to serve your B2B client."
+        },
+        {
+          "page": "home",
+          "quote": "Realistic virtual humans to train healthcare professionals in various soft skills."
+        }
+      ],
+      "note": "Partner named: Heart Rhythm Society (electrophysiology training for health care professionals). Settings mentioned: hospitals, ambulances, accident sites."
+    },
+    "value_proposition": {
+      "status": "found",
+      "value": "Independent, immersive XR simulations let learners train anytime and anywhere without an instructor, building critical thinking, teamwork and decision-making, delivered as a scalable subscription.",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Train anytime and anywhere, experiencing immersive scenarios that promote teamwork, critical thinking, and decision-making skills."
+        },
+        {
+          "page": "home",
+          "quote": "Annual subscription with unlimited sessions and no additional resource requirements."
+        }
+      ],
+      "note": "Stated mission: 'to develop and build a well-trained, strong, and confident healthcare workforce'."
+    },
+    "tagline": {
+      "status": "not_found",
+      "value": null,
+      "evidence": [],
+      "note": "No official tagline found: no line is marked ™, ® or ℠, and no slogan repeats on the pages read. Only the homepage was saved. Candidates: headline 'A new realm for healthcare training.' with 'Acquire skills, practice and excel.'; 'Join the Largest XR Healthcare Simulation Library' (each once)."
+    },
+    "pricing": {
+      "status": "found",
+      "value": "Pricing model: annual subscription with unlimited sessions; no prices published",
+      "evidence": [
+        {
+          "page": "home",
+          "quote": "Cost-effective and Scalable\nAnnual subscription with unlimited sessions and no additional resource requirements."
+        },
+        {
+          "page": "home",
+          "quote": "SAAS Based Solution"
+        }
+      ],
+      "note": "No price amounts or plan tiers. The page calls the product a 'SAAS Based Solution'. 'Book A Demo' is a generic contact button."
+    }
+  },
+  "carried_forward": {
+    "from_record": "data/records/medvr/2026-10-14_094745.json",
+    "at": "2026-10-20T18:12:06-06:00",
+    "reason": "identical page text",
+    "pages_changed": [],
+    "pages_dropped": [],
+    "pages_not_yet_read": []
+  }
+}

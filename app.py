@@ -914,7 +914,8 @@ def decision_text(c):
 
 
 ORIGIN_LABELS = {"topic-search": "Topic search", "news": "News", "award": "Award record",
-                 "seed-list": "Earlier research list", "lookup": "Name lookup"}
+                 "seed-list": "Earlier research list", "lookup": "Name lookup",
+                 "owner-tip": "Owner tip"}
 RUN_NAME = datetime.now().strftime("%Y-%m-%d")
 ORIGIN_OF = {}
 
@@ -924,6 +925,50 @@ def found_by(c):
     if c["name"] not in ORIGIN_OF:  # filled once per page load in page_discovery
         ORIGIN_OF.update({b["name"]: b["origin"] for b in ui_data.discovery_baseline()})
     return ORIGIN_LABELS.get(ORIGIN_OF.get(c["name"], ""), "Unknown")
+
+
+TIP_OUTCOME_TEXT = {"new": "New to the hub", "tracked": "Already tracked", "candidate": "Already a candidate",
+                    "seed-list": "On your earlier research list", "ignored": "Not a company site"}
+
+
+def tip_box():
+    """Submit a lead (local only). An instant check against what the hub already knows,
+    then the tip waits in data/tip_inbox.json for the next discovery run."""
+    with st.form("tip-form", clear_on_submit=True, border=True):
+        st.markdown("**Submit a lead**")
+        st.caption("A website, a company name, or both. The hub checks right away whether it already knows the "
+                   "company; new leads are researched in the next discovery run (Follow DISCOVERY.md).")
+        with st.container(horizontal=True):
+            name = st.text_input("Company name", placeholder="e.g. Example Health VR")
+            website = st.text_input("Website", placeholder="e.g. examplehealthvr.com")
+        note = st.text_input("Where you heard about it (optional)", placeholder="e.g. IMSH exhibitor, LinkedIn post, a customer")
+        anyway = st.checkbox("Add it even if it matches a company the hub already knows")
+        submitted = st.form_submit_button("Check and add", type="primary")
+    if submitted:
+        if not name.strip() and not website.strip():
+            st.warning("Enter a company name or a website.")
+        else:
+            check = ui_data.candidates.tip_check(name, website)
+            label = TIP_OUTCOME_TEXT.get(check["outcome"], check["outcome"])
+            if check["outcome"] == "new" or anyway:
+                tip = ui_data.candidates.add_tip(name, website, note)
+                st.success(f"Added to the inbox ({label}{': ' + check['match'] if check['match'] else ''}). "
+                           "It will be researched in the next discovery run.", icon=":material/inbox:")
+            else:
+                st.info(f"{label}: {check['match'] or check['how']}. Not added. Tick the box above and submit again "
+                        "if you think it is a different company.", icon=":material/info:")
+    tips = ui_data.candidates.load_tips()
+    waiting = [t for t in tips if t["status"] == "waiting"]
+    done = [t for t in tips if t["status"] == "processed"][-5:]
+    if waiting:
+        st.markdown(f"**Waiting for the next discovery run ({len(waiting)})**")
+        rows = [{"Lead": t["name"] or t["website"], "Website": t["website"] or None, "Check": TIP_OUTCOME_TEXT.get(t["check"]["outcome"], ""),
+                 "Note": t["note"], "Submitted": nice_date(t["submitted_at"])} for t in waiting]
+        st.dataframe(rows, hide_index=True, width="stretch", height=table_height(rows),
+                     column_config={"Website": st.column_config.LinkColumn("Website")})
+    if done:
+        st.caption("Recently processed: " + "; ".join(
+            f"{t['name'] or t['website']} ({t.get('outcome', '')}, run {t.get('run', '')})" for t in reversed(done)))
 
 
 def discovery_quality():
@@ -1112,6 +1157,9 @@ def page_discovery():
                     "from that site. A person approves or rejects every one.")
         for cat in settings["categories"]:
             st.markdown(f"**{cat['label']}**: {plain(cat['definition'])}")
+
+    if not DEMO:
+        tip_box()
 
     with st.expander("Discovery quality: is it finding companies that are new to us?"):
         discovery_quality()

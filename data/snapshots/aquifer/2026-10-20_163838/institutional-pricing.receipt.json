@@ -1,0 +1,15 @@
+{
+  "competitor": "Aquifer",
+  "requested_url": "https://aquifer.org/institutional-pricing/",
+  "fetched_at": "2026-10-20T16:39:20-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://aquifer.org/institutional-pricing",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "Aquifer Institutional Pricing",
+  "meta_description": "Aquifer offers clients a variety of flexible subscription options to support to the unique needs of different programs.",
+  "html_bytes": 150369,
+  "text_characters": 4476
+}

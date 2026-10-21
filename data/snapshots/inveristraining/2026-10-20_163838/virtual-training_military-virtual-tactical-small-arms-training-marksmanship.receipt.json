@@ -1,0 +1,15 @@
+{
+  "competitor": "InVeris Training Solutions",
+  "requested_url": "https://www.inveristraining.com/virtual-training/military-virtual-tactical-small-arms-training-marksmanship/",
+  "fetched_at": "2026-10-20T16:40:54-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.inveristraining.com/virtual-training/military-virtual-tactical-small-arms-training-marksmanship/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "Advanced Military Simulation Training for Combat Readiness",
+  "meta_description": "Discover cutting-edge military simulation training solutions for tactical readiness, small arms marksmanship, and mission rehearsal with InVeris.",
+  "html_bytes": 285935,
+  "text_characters": 14301
+}

@@ -1,0 +1,166 @@
+{
+  "record": "data/records/avkin/2026-10-20_163838.json",
+  "checked_at": "2026-10-20T18:14:00-06:00",
+  "results": {
+    "product_category": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://avkin.com/",
+          "quote": "Avkin creates wearable healthcare simulators for realistic clinical training that improves communication, teamwork, and patient safety.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "nursing-simulation-company",
+          "source_url": "https://avkin.com/nursing-simulation-company/",
+          "quote": "expanding product lines beyond wearable simulators and into standardized patient methodology and consulting",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "platforms": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "nursing-simulation-company",
+          "source_url": "https://avkin.com/nursing-simulation-company/",
+          "quote": "Technology that can be worn by a live person that protects them from invasive procedures.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "key_capabilities": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "nursing-simulation-company",
+          "source_url": "https://avkin.com/nursing-simulation-company/",
+          "quote": "Inside each device, haptic technology is embedded that can cue the wearer to react to the care that is being provided.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://avkin.com/",
+          "quote": "Avbirth: The only automated wearable birthing simulator",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://avkin.com/",
+          "quote": "Each of our wearable simulators is supported with two complimentary simulations.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://avkin.com/",
+          "quote": "After purchase, Avkin's customer success team walks alongside you to ensure successful integration.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://avkin.com/",
+          "quote": "Avkin has put much thought and energy into diverse skin tones for their wearable simulators.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "simulation-consulting",
+          "source_url": "https://avkin.com/simulation-consulting/",
+          "quote": "our experts will start with an in-depth needs assessment to ensure your program meets ASPE standards of best practice",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "simulation-training-and-certificate",
+          "source_url": "https://avkin.com/simulation-training-and-certificate/",
+          "quote": "Online module training certificate for standardized patients",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://avkin.com/",
+          "quote": "Free Simulation Download",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "target_customer": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://avkin.com/",
+          "quote": "Most simulationists struggle to incorporate communication objectives, non-verbal cues, and authentic diversity simulations.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "simulation-consulting",
+          "source_url": "https://avkin.com/simulation-consulting/",
+          "quote": "Nursing | Medicine | Allied Health | Criminal Justice | First Responders",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "value_proposition": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://avkin.com/",
+          "quote": "Increase student engagement with live people in simulation",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://avkin.com/",
+          "quote": "STEP TWO: INTRODUCE WEARABLE SIMULATORS FOR MAXIMUM FIDELITY.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "tagline": {
+      "status": "unclear",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://avkin.com/",
+          "quote": "Bring Your Simulations To Life",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "pricing": {
+      "status": "not_found",
+      "result": "not_found",
+      "problems": [],
+      "evidence": []
+    }
+  }
+}

@@ -37,6 +37,7 @@ LEADS_FILE = PROJECT / "data" / "leads.json"
 RUNS_DIR = PROJECT / "data" / "discovery_runs"
 SEEDS_FILE = PROJECT / "config" / "seed_names.json"
 ALIASES_FILE = PROJECT / "config" / "known_aliases.json"
+TIPS_FILE = PROJECT / "data" / "tip_inbox.json"
 
 
 def settings():
@@ -113,7 +114,7 @@ def new_slug(domain):
 # Where a sighting's company name came from. A name lookup ("<Name> official
 # website") must say where the name was seen first (found_in), so a company is
 # never counted as discovered when it was only looked up.
-ORIGINS = ("topic-search", "news", "award", "seed-list", "lookup")
+ORIGINS = ("topic-search", "news", "award", "seed-list", "lookup", "owner-tip")
 NAME_FILLER = {"inc", "llc", "ltd", "limited", "corp", "corporation", "co", "company", "ab", "gmbh",
                "sa", "plc", "pty", "the", "group", "holdings"}
 
@@ -254,6 +255,66 @@ def add_sighting(name, website, sighting):
     }
     save(candidate)
     return ("known-new" if outcome == "seed-list" else "new"), candidate["slug"], hit
+
+
+# ------------------------------------------------------------- owner tips
+
+def normalize_website(website):
+    """'Example.com/x' becomes 'https://example.com/x'; empty stays empty."""
+    website = (website or "").strip()
+    if website and "://" not in website:
+        website = "https://" + website
+    return website
+
+
+def load_tips():
+    return json.loads(TIPS_FILE.read_text(encoding="utf-8")) if TIPS_FILE.exists() else []
+
+
+def save_tips(tips):
+    TIPS_FILE.parent.mkdir(parents=True, exist_ok=True)
+    TIPS_FILE.write_text(json.dumps(tips, indent=2, ensure_ascii=False), encoding="utf-8")
+
+
+def tip_check(name, website):
+    """The instant 'already known?' check for a tip. Reads files only; downloads nothing.
+    Returns {"outcome", "match", "how"}; outcome is new, tracked, candidate, seed-list or ignored."""
+    outcome, hit, how = check_known(name or "", normalize_website(website))
+    match = None
+    if hit:
+        match = hit.get("name", "") + (f" ({hit['status']})" if hit.get("status") else "") + \
+                (f", {hit['via']}" if hit.get("via") else "") + (f", from {hit['list']}" if hit.get("list") else "")
+    elif outcome == "ignored":
+        match = f"{how} is a news site, directory, university or similar"
+    return {"outcome": outcome, "match": match, "how": how}
+
+
+def add_tip(name, website, note=""):
+    """Saves a lead from the owner to the inbox for the next discovery run. Returns the tip."""
+    name, website = (name or "").strip(), normalize_website(website)
+    if not name and not website:
+        raise ValueError("enter a company name or a website")
+    tips = load_tips()
+    tip = {"id": f"tip-{now()[:10]}-{len(tips) + 1}", "name": name, "website": website, "note": (note or "").strip(),
+           "submitted_at": now(), "check": tip_check(name, website), "status": "waiting"}
+    tips.append(tip)
+    save_tips(tips)
+    return tip
+
+
+def waiting_tips():
+    return [t for t in load_tips() if t["status"] == "waiting"]
+
+
+def close_tip(tip_id, run, outcome, detail, slug=None):
+    """Marks a tip as processed by a discovery run (called by discover.py)."""
+    tips = load_tips()
+    for tip in tips:
+        if tip["id"] == tip_id:
+            tip.update(status="processed", processed_at=now(), run=run, outcome=outcome, detail=detail, slug=slug)
+            save_tips(tips)
+            return True
+    return False
 
 
 # ------------------------------------------------------------- run logs

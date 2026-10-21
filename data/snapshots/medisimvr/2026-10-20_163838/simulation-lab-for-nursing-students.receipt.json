@@ -1,0 +1,15 @@
+{
+  "competitor": "MedisimVR",
+  "requested_url": "https://medisimvr.com/simulation-lab-for-nursing-students",
+  "fetched_at": "2026-10-20T16:42:45-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://medisimvr.com/simulation-lab-for-nursing-students",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "Simulation for Nursing Students | MediSim VRWebsite",
+  "meta_description": "Experience cutting-edge VR nursing simulation. Our immersive platform enhances skills, builds confidence, and prepares nurses for real-world scenarios.",
+  "html_bytes": 20807,
+  "text_characters": 3076
+}

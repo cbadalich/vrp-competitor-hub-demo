@@ -1,0 +1,15 @@
+{
+  "competitor": "Osso VR",
+  "requested_url": "https://www.ossovr.com/",
+  "fetched_at": "2026-10-20T16:40:29-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.ossovr.com/",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "Osso VR",
+  "meta_description": "The VR healthcare training and assessment platform that gives new grad nurses and healthcare systems radically better ways to scale onboarding, gather insights and train on procedural skills.",
+  "html_bytes": 50177,
+  "text_characters": 4969
+}

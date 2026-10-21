@@ -1,0 +1,15 @@
+{
+  "competitor": "UbiSim",
+  "requested_url": "https://www.ubisimvr.com/ai-supported-capabilities/",
+  "fetched_at": "2026-10-20T16:39:09-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.ubisimvr.com/ai-supported-capabilities",
+  "content_type": "text/html; charset=utf-8",
+  "error": null,
+  "title": "AI Capabilities",
+  "meta_description": "Deliver standardized nursing practice at scale with AI that's validated by nurses and built with clinical guardrails, without replacing the coaching that matters most.",
+  "html_bytes": 211104,
+  "text_characters": 3718
+}

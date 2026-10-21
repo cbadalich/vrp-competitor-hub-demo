@@ -1,0 +1,215 @@
+{
+  "record": "data/records/sentinelu/2026-10-20_163838.json",
+  "checked_at": "2026-10-20T18:14:00-06:00",
+  "results": {
+    "product_category": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.sentinelu.com/",
+          "quote": "Sentinel U is advancing nursing academic education and healthcare professional training by providing virtual nursing simulations.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "about",
+          "source_url": "https://www.sentinelu.com/about",
+          "quote": "what started as a single virtual community health simulation has evolved into a comprehensive virtual nursing education platform designed to prepare the next generation of nurses.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "about",
+          "source_url": "https://www.sentinelu.com/about",
+          "quote": "Sentinel U\u00ae helps nurse educators teach more efficiently with virtual nursing simulations, competency-based learning tools, performance analytics, and evidence-based debriefing.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "platforms": {
+      "status": "unclear",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.sentinelu.com/",
+          "quote": "Illustrated nurse sitting at a computer desktop with animated screen showing a nursing simulation",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "learn_medical-surgical",
+          "source_url": "https://www.sentinelu.com/learn/medical-surgical",
+          "quote": "Laptop with Sentinel U Medical-Surgical simulations on the screen",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "key_capabilities": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.sentinelu.com/",
+          "quote": "explore virtual nursing simulations by content area \u2013 for undergrad to advanced practice learners.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "learn_medical-surgical",
+          "source_url": "https://www.sentinelu.com/learn/medical-surgical",
+          "quote": "ALIGN\u00ae pre- and post-simulation digital teaching resources",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.sentinelu.com/",
+          "quote": "Craft a dynamic curriculum with active learning resources and course module maps aligned with national healthcare disciplines and clinical competency areas.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "about_history",
+          "source_url": "https://www.sentinelu.com/about/history",
+          "quote": "EMPOWER\u00ae Debrief Plus released as a standalone product",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "learn_medical-surgical",
+          "source_url": "https://www.sentinelu.com/learn/medical-surgical",
+          "quote": "our performance-focused platform METRIX\u2122 for data-driven insights",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "about_history",
+          "source_url": "https://www.sentinelu.com/about/history",
+          "quote": "learner performance will map to competencies (AACN, NCLEX, NCJMM)",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "about_history",
+          "source_url": "https://www.sentinelu.com/about/history",
+          "quote": "complete with autoscoring, gamification, and activity reporting.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "learn_telehealth-nursing",
+          "source_url": "https://www.sentinelu.com/learn/telehealth-nursing",
+          "quote": "The learner is immersed in in-depth dialog and immediate feedback, including rationales for correct and incorrect answers.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "learn_telehealth-nursing",
+          "source_url": "https://www.sentinelu.com/learn/telehealth-nursing",
+          "quote": "Each virtual clinical includes a faculty guide, feedback and rationales, a dashboard with evaluative report, and a learner dashboard.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "learn_telehealth-nursing",
+          "source_url": "https://www.sentinelu.com/learn/telehealth-nursing",
+          "quote": "conducts a virtual office visit with the remote patient, reviewing data and selecting telehealth tools to monitor specific parameters.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "about_history",
+          "source_url": "https://www.sentinelu.com/about/history",
+          "quote": "Professional Nursing Series\u00ae is approved to award CE (continuing education) credits by the Connecticut Board of Nursing.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "target_customer": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "about",
+          "source_url": "https://www.sentinelu.com/about",
+          "quote": "Sentinel U\u00ae exists to support nurse educators facing growing demands, evolving competency requirements, and increasingly complex learning environments.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.sentinelu.com/",
+          "quote": "explore virtual nursing simulations by content area \u2013 for undergrad to advanced practice learners.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "about_history",
+          "source_url": "https://www.sentinelu.com/about/history",
+          "quote": "for schools, hospitals, and healthcare organizations.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "value_proposition": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.sentinelu.com/",
+          "quote": "Empowering nurse education through real-world virtual simulations, digital teaching resources, and outcome-driven insights, our holistic approach enhances learning outcomes and fosters confident, practice-ready nurses.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "about",
+          "source_url": "https://www.sentinelu.com/about",
+          "quote": "We help educators teach more efficiently, assess more effectively, and scale learning with confidence",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.sentinelu.com/",
+          "quote": "Bridges the Gap in Clinical Placements",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "tagline": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.sentinelu.com/",
+          "quote": "Sentinel U\u00ae | Providing Learners With The Best Practice\u2120",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "pricing": {
+      "status": "not_found",
+      "result": "not_found",
+      "problems": [],
+      "evidence": []
+    }
+  }
+}

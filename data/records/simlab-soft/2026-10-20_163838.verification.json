@@ -1,0 +1,244 @@
+{
+  "record": "data/records/simlab-soft/2026-10-20_163838.json",
+  "checked_at": "2026-10-20T18:14:00-06:00",
+  "results": {
+    "product_category": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.simlab-soft.com/",
+          "quote": "Create professional VR experiences & 3D visualizations with SimLab's no-code software.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.simlab-soft.com/",
+          "quote": "Create all types of VR Experiences, From simple product visualization, all the way to advanced educational and vocational training sessions",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "use_cases_simlab-vr-fire-fighting.aspx",
+          "source_url": "https://www.simlab-soft.com/use_cases/simlab-vr-fire-fighting.aspx",
+          "quote": "SimLab Composer is firefighter VR training software that fire departments, training academies and industrial HSE teams use to build their own VR fire training in-house",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "platforms": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "use_cases_simlab-vr-fire-fighting.aspx",
+          "source_url": "https://www.simlab-soft.com/use_cases/simlab-vr-fire-fighting.aspx",
+          "quote": "Meta Quest, Pico, PC VR, desktop and mobile \u2014 via the free SimLab VR Viewer",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "use_cases_simlab-vr-fire-fighting.aspx",
+          "source_url": "https://www.simlab-soft.com/use_cases/simlab-vr-fire-fighting.aspx",
+          "quote": "One build runs on Quest, Pico, PC VR, desktop, and mobile \u2014 the free SimLab VR Viewer.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.simlab-soft.com/",
+          "quote": "Free cross-platform VR viewer that runs your VR scenes for your clients on any device.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "key_capabilities": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "use_cases_simlab-vr-fire-fighting.aspx",
+          "source_url": "https://www.simlab-soft.com/use_cases/simlab-vr-fire-fighting.aspx",
+          "quote": "Instructors build with the no-code editor in SimLab Composer, and CAD models convert to VR directly.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "use_cases_simlab-vr-fire-fighting.aspx",
+          "source_url": "https://www.simlab-soft.com/use_cases/simlab-vr-fire-fighting.aspx",
+          "quote": "SolidWorks, Inventor, CATIA and other 3D formats convert directly to VR.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.simlab-soft.com/",
+          "quote": "CADVRter enables you to convert among more than 25 3D/CAD file formats with minimal steps.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.simlab-soft.com/",
+          "quote": "Power up your 3D modeling software with new capabilities using SimLab importers, exporters , and VR plugins.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.simlab-soft.com/",
+          "quote": "Free cross-platform VR viewer for running VR experiences",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "use_cases_simlab-vr-fire-fighting.aspx",
+          "source_url": "https://www.simlab-soft.com/use_cases/simlab-vr-fire-fighting.aspx",
+          "quote": "Crews train together in the same virtual fireground, coordinating like they would on scene.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "use_cases_simlab-vr-fire-fighting.aspx",
+          "source_url": "https://www.simlab-soft.com/use_cases/simlab-vr-fire-fighting.aspx",
+          "quote": "The Full package deploys on-premises.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "use_cases_simlab-vr-fire-fighting.aspx",
+          "source_url": "https://www.simlab-soft.com/use_cases/simlab-vr-fire-fighting.aspx",
+          "quote": "The Full package includes these four fire training experiences.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.simlab-soft.com/",
+          "quote": "A Vibrant marketplace where clients can buy and sell VR Experiences made by SimLab team and professional creators and enthusiasts.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.simlab-soft.com/",
+          "quote": "VR - 3D PDF - Rendering - Automation",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "target_customer": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "use_cases_simlab-vr-fire-fighting.aspx",
+          "source_url": "https://www.simlab-soft.com/use_cases/simlab-vr-fire-fighting.aspx",
+          "quote": "Fire departments, fire training academies, industrial HSE teams",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://www.simlab-soft.com/",
+          "quote": "Power up your 3D modeling software with new capabilities using SimLab importers, exporters , and VR plugins.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "value_proposition": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "use_cases_simlab-vr-fire-fighting.aspx",
+          "source_url": "https://www.simlab-soft.com/use_cases/simlab-vr-fire-fighting.aspx",
+          "quote": "SimLab Composer lets your instructors build interactive VR fire training from your department's own models and SOPs \u2014 fixed yearly price, unlimited firefighters, running on your own infrastructure.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "use_cases_simlab-vr-fire-fighting.aspx",
+          "source_url": "https://www.simlab-soft.com/use_cases/simlab-vr-fire-fighting.aspx",
+          "quote": "Build it in-house. Own it forever.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "tagline": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://www.simlab-soft.com/",
+          "quote": "#1 Code FREE VR Creation Software",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "pricing": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "use_cases_simlab-vr-fire-fighting.aspx",
+          "source_url": "https://www.simlab-soft.com/use_cases/simlab-vr-fire-fighting.aspx",
+          "quote": "$1,199\u2013$10,000 per year, fixed \u2014 trainees are always unlimited",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "use_cases_simlab-vr-fire-fighting.aspx",
+          "source_url": "https://www.simlab-soft.com/use_cases/simlab-vr-fire-fighting.aspx",
+          "quote": "Full authoring power for one instructor\n$1,199 / year",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "use_cases_simlab-vr-fire-fighting.aspx",
+          "source_url": "https://www.simlab-soft.com/use_cases/simlab-vr-fire-fighting.aspx",
+          "quote": "Everything a training division needs\n$10,000 / year",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "use_cases_simlab-vr-fire-fighting.aspx",
+          "source_url": "https://www.simlab-soft.com/use_cases/simlab-vr-fire-fighting.aspx",
+          "quote": "Fixed annual price for creator seats. Trainees are unlimited \u2014 the SimLab VR Viewer is free.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "use_cases_simlab-vr-fire-fighting.aspx",
+          "source_url": "https://www.simlab-soft.com/use_cases/simlab-vr-fire-fighting.aspx",
+          "quote": "21-day free trial of SimLab Composer Ultimate.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "use_cases_simlab-vr-fire-fighting.aspx",
+          "source_url": "https://www.simlab-soft.com/use_cases/simlab-vr-fire-fighting.aspx",
+          "quote": "Request detailed pricing or start a pilot program.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    }
+  }
+}

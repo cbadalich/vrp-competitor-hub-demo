@@ -1,0 +1,15 @@
+{
+  "competitor": "Nasco Healthcare",
+  "requested_url": "https://nascohealthcare.com/about/our-purpose/",
+  "fetched_at": "2026-10-20T16:40:35-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://nascohealthcare.com/about/our-purpose/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "Nasco Healthcare - Leadership in the Healthcare Realm",
+  "meta_description": "The leadership at Nasco Healthcare brings diverse experiences to the company that allows us to innovate and grow.",
+  "html_bytes": 262707,
+  "text_characters": 14198
+}

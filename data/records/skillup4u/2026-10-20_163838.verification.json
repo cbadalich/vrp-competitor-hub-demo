@@ -1,0 +1,200 @@
+{
+  "record": "data/records/skillup4u/2026-10-20_163838.json",
+  "checked_at": "2026-10-20T18:14:00-06:00",
+  "results": {
+    "product_category": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://skillupvr.com/",
+          "quote": "VR Medical Simulation Centre\nFor critical thinking, clinical diagnosis, and collaborative team training",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "product",
+          "source_url": "https://skillupvr.com/product/",
+          "quote": "Run our web-based scenario customizer and learning management platform using Chrome, Edge, Safari web browser.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "platforms": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "product",
+          "source_url": "https://skillupvr.com/product/",
+          "quote": "Download our application onto your VR headset and login with your credentials to start.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "product",
+          "source_url": "https://skillupvr.com/product/",
+          "quote": "Developed for wireless headset to ensure mobility, and simple setup.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "key_capabilities": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "product",
+          "source_url": "https://skillupvr.com/product/",
+          "quote": "User friendly dashboard allows you to create patient profile, injuries, investigations, lab results and more within minutes.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://skillupvr.com/",
+          "quote": "Create patient\u2019s profile according to gender, age, and ethnicity.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://skillupvr.com/",
+          "quote": "Manage trainer-trainee communication, role assignment and patient condition on the fly for more dynamic learning experience.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "product",
+          "source_url": "https://skillupvr.com/product/",
+          "quote": "Take your role and train with up to 8 (or more!) for true team training.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://skillupvr.com/",
+          "quote": "The platform makes it possible to train more frequently and even train with colleagues at other locations",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://skillupvr.com/",
+          "quote": "Access real-time simulation log for team reflection and discussion.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "product",
+          "source_url": "https://skillupvr.com/product/",
+          "quote": "Virtual reflection room for seamless learning experience and learning management system to track performance and feedback.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "product",
+          "source_url": "https://skillupvr.com/product/",
+          "quote": "Live streaming and recording of simulation at your fingertips.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "product",
+          "source_url": "https://skillupvr.com/product/",
+          "quote": "Schedule training sessions and scale by creating as many rooms as necessary.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "product",
+          "source_url": "https://skillupvr.com/product/",
+          "quote": "use your hands to interact with the equipment, drugs, etc",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "target_customer": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "company",
+          "source_url": "https://skillupvr.com/company/",
+          "quote": "to better prepare and equip medical teams for safer patient care",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://skillupvr.com/",
+          "quote": "addresses space constraints and limited resources faced by medium-sized hospitals",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "moreproducts",
+          "source_url": "https://skillupvr.com/moreproducts/",
+          "quote": "VR Nurse Sim is designed for junior healthcare professionals to practice their basic nursing skills.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "company",
+          "source_url": "https://skillupvr.com/company/",
+          "quote": "Simlogic awarded Vinnova Grant for Dual Purpose VR Team Training for Civilian and Military Medics.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "value_proposition": {
+      "status": "found",
+      "result": "verified",
+      "problems": [],
+      "evidence": [
+        {
+          "page": "home",
+          "source_url": "https://skillupvr.com/",
+          "quote": "Transform Conventional Simulation, Unleash Scalable Learning Efficiency, Improve Patient Safety",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://skillupvr.com/",
+          "quote": "More than 70% cost savings vs high fidelity manikin simulation.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        },
+        {
+          "page": "home",
+          "source_url": "https://skillupvr.com/",
+          "quote": "22% less time than high-fidelity simulation.",
+          "passed": true,
+          "reason": "quote found in the saved page"
+        }
+      ]
+    },
+    "tagline": {
+      "status": "not_found",
+      "result": "not_found",
+      "problems": [],
+      "evidence": []
+    },
+    "pricing": {
+      "status": "not_found",
+      "result": "not_found",
+      "problems": [],
+      "evidence": []
+    }
+  }
+}

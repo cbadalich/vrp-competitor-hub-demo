@@ -1,0 +1,11 @@
+{
+  "competitor": "Body Interact",
+  "requested_url": "https://bodyinteract.com/nursing/",
+  "fetched_at": "2026-10-20T16:39:30-06:00",
+  "ok": false,
+  "robots": "allowed by robots.txt",
+  "http_status": 403,
+  "final_url": "https://bodyinteract.com/nursing/",
+  "content_type": "",
+  "error": "HTTP error 403 Forbidden"
+}

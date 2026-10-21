@@ -1,0 +1,15 @@
+{
+  "competitor": "3B Scientific",
+  "requested_url": "https://www.3bscientific.com/",
+  "fetched_at": "2026-10-20T16:38:38-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://www.3bscientific.com/",
+  "content_type": "text/html;charset=UTF-8",
+  "error": null,
+  "title": "Medical Simulation & Task Trainers for Clinical Education | 3B Scientific",
+  "meta_description": "Advance clinical skills with 3B Scientific\u2019s high-quality medical simulators and task trainers. Explore solutions for nursing education, obstetrics simulation, anatomy learning, physiotherapy, and science education.",
+  "html_bytes": 144828,
+  "text_characters": 6687
+}

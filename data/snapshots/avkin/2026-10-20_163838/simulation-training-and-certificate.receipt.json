@@ -1,0 +1,15 @@
+{
+  "competitor": "AvKin",
+  "requested_url": "https://avkin.com/simulation-training-and-certificate/",
+  "fetched_at": "2026-10-20T16:42:15-06:00",
+  "ok": true,
+  "robots": "allowed by robots.txt",
+  "http_status": 200,
+  "final_url": "https://avkin.com/simulation-training-and-certificate/",
+  "content_type": "text/html; charset=UTF-8",
+  "error": null,
+  "title": "Simulation Training and Certificate - Avkin",
+  "meta_description": "",
+  "html_bytes": 178774,
+  "text_characters": 1702
+}

@@ -1,0 +1,15 @@
+{
+  "competitor": "Immertec",
+  "requested_url": "https://www.immertec.com/",
+  "fetched_at": "2026-10-20T16:40:00-06:00",
+  "ok": true,
+  "robots": "no robots.txt (HTTP 404); allowed by default",
+  "http_status": 200,
+  "final_url": "https://www.immertec.com/",
+  "content_type": "text/html",
+  "error": null,
+  "title": "",
+  "meta_description": "",
+  "html_bytes": 141492,
+  "text_characters": 3402
+}
